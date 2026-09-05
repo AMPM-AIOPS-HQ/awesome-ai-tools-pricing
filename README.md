@@ -6,7 +6,7 @@
 [![Datasets](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/badges/datasets.json)](#datasets)
 [![Changelog](https://img.shields.io/badge/CHANGELOG-daily-informational.svg)](./CHANGELOG.md)
 
-**280 verified rows across 6 datasets**, exported every day at 04:00 (Asia/Taipei) from the fact-checked databases
+**290 verified rows across 6 datasets**, exported every day at 04:00 (Asia/Taipei) from the fact-checked databases
 behind [問問貓 AMPM-AIOPS](https://ampm-aiops.com) and its sub-sites. No guessed numbers: a row is published **only if** it carries
 a `last_verified` date **and** an official source URL. Rows that do not meet that bar stay out (97 at the moment) — the count is shown per dataset below.
 
@@ -16,8 +16,8 @@ a `last_verified` date **and** an official source URL. Rows that do not meet tha
 
 ## Datasets
 
-- [AI Tools Pricing & Free Tiers](#ai-tools-pricing-free-tiers) — 100 rows
-- [Taiwan Credit Cards](#taiwan-credit-cards) — 99 rows
+- [AI Tools Pricing & Free Tiers](#ai-tools-pricing-free-tiers) — 104 rows
+- [Taiwan Credit Cards](#taiwan-credit-cards) — 105 rows
 - [Travel eSIM Plans (Taiwan market)](#travel-esim-plans-taiwan-market) — 35 rows
 - [VPN Pricing & Audits (Taiwan)](#vpn-pricing-audits-taiwan) — 5 rows
 - [US Stock Brokers for Taiwan residents](#us-stock-brokers-for-taiwan-residents) — 16 rows
@@ -33,34 +33,34 @@ Not included, by design: partner / referral tracking links, internal verificatio
 
 | | |
 | :--- | :--- |
-| Rows published | **100** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-09-04** |
+| Rows published | **104** (below public threshold, not exported: 0) |
+| Last verified (newest row) | **2026-09-05** |
 | Files | [`data/ai_tools_2026.json`](./data/ai_tools_2026.json) · [`data/ai_tools_2026.csv`](./data/ai_tools_2026.csv) |
 | Browse online | [ampm-aiops.com](https://ampm-aiops.com/free/) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
 
 | name | category | free_tier_summary | cheapest_paid_usd_per_month | commercial_use | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Adobe Firefly](https://ampm-aiops.com/tools/adobe-firefly/) | image | 免費版：官網FAQ現行文案已改稱「free daily generations」，惟未提供每日具體上限數字；合作夥伴模型扣點規則沿用原方案點數 | 9.99 | — | 2026-08-27 |
-| [aider](https://ampm-aiops.com/tools/aider/) | coding | 完全開源免費,無訂閱模式;使用本地模型零成本;API調用費用取決於選用的LLM提供商 | 0 | ✅ | 2026-08-27 |
-| [AirMusic](https://ampm-aiops.com/tools/airmusic/) | audio | 10 credits | 39.8 | ❌ | 2026-08-27 |
-| [Anijam](https://ampm-aiops.com/tools/anijam/) | video | 有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案 | 25 | ❌ | 2026-08-27 |
-| [Base44](https://ampm-aiops.com/tools/base44/) | coding | 免費方案 US$0/月，每月 25 個 message credits與 100 個 integration credits | 0 | ✅ | 2026-08-27 |
-| [Bolt](https://ampm-aiops.com/tools/bolt/) | coding | 免費版 US$0 | 0 | ❌ | 2026-08-27 |
-| [buzzabout](https://ampm-aiops.com/tools/buzzabout/) | research | 沒有長期免費方案，只有免費試用 | 0 | ❌ | 2026-09-04 |
-| [Canva AI](https://ampm-aiops.com/tools/canva-ai/) | image, productivity | 免費版最多 200 次 Standard AI 功能或 20 次 Premium AI 功能，另含 5GB 儲存空間、1 個品牌套件 | 18 | — | 2026-08-27 |
+| [Adobe Firefly](https://ampm-aiops.com/tools/adobe-firefly/) | image | 免費版：官網FAQ現行文案已改稱「free daily generations」，惟未提供每日具體上限數字；合作夥伴模型扣點規則沿用原方案點數 | 9.99 | — | 2026-09-05 |
+| [aider](https://ampm-aiops.com/tools/aider/) | coding | 完全開源免費,無訂閱模式;使用本地模型零成本;API調用費用取決於選用的LLM提供商 | 0 | ✅ | 2026-09-05 |
+| [AirMusic](https://ampm-aiops.com/tools/airmusic/) | audio | 10 credits | 39.8 | ❌ | 2026-09-05 |
+| [Anijam](https://ampm-aiops.com/tools/anijam/) | video | 有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案 | 25 | ❌ | 2026-09-05 |
+| [Base44](https://ampm-aiops.com/tools/base44/) | coding | 免費方案 US$0/月，每月 25 個 message credits與 100 個 integration credits | 0 | ✅ | 2026-09-05 |
+| [Bolt](https://ampm-aiops.com/tools/bolt/) | coding | 免費版 US$0 | 0 | ❌ | 2026-09-05 |
+| [buzzabout](https://ampm-aiops.com/tools/buzzabout/) | research | 沒有長期免費方案，只有免費試用 | 0 | ❌ | 2026-09-05 |
+| [Canva AI](https://ampm-aiops.com/tools/canva-ai/) | image, productivity | 免費版最多 200 次 Standard AI 功能或 20 次 Premium AI 功能，另含 5GB 儲存空間、1 個品牌套件 | 18 | — | 2026-09-05 |
 | [CapCut AI](https://ampm-aiops.com/tools/capcut-ai/) | video | 基本剪輯免費,AI 功能部分需 Pro | 10 | — | 2026-08-27 |
-| [ChatGPT](https://ampm-aiops.com/tools/chatgpt/) | chatbot | 免費版每月 NT$0，人人可用 | 8 | ✅ | 2026-08-27 |
+| [ChatGPT](https://ampm-aiops.com/tools/chatgpt/) | chatbot | 免費版每月 NT$0，人人可用 | 8 | ✅ | 2026-09-05 |
 
-*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 100 rows.*
+*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 104 rows.*
 
 ### Taiwan Credit Cards
 *台灣信用卡年費／回饋／循環利率實查*
 
 | | |
 | :--- | :--- |
-| Rows published | **99** (below public threshold, not exported: 95) |
-| Last verified (newest row) | **2026-09-04** |
+| Rows published | **105** (below public threshold, not exported: 95) |
+| Last verified (newest row) | **2026-09-05** |
 | Files | [`datasets/cards/cards_2026.json`](./datasets/cards/cards_2026.json) · [`datasets/cards/cards_2026.csv`](./datasets/cards/cards_2026.csv) · [`schema.json`](./datasets/cards/schema.json) |
 | Browse online | [cards.ampm-aiops.com](https://cards.ampm-aiops.com/items/) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
@@ -68,17 +68,17 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | name | issuer | annual_fee | cashback | revolving_rate | source_url | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [中信 LINE Pay卡](https://cards.ampm-aiops.com/items/ctbc-linepay/) | 中國信託商業銀行 | 綁定 LINE Pay 終生免年費 | 國內 1%、國外 2.8% LINE Points | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-08-25 |
-| [中國信託 7-ELEVEN聯名卡](https://cards.ampm-aiops.com/items/ctbc-7eleven/) | 中國信託商業銀行 | 首年免，次年消費6次即免 | 7-ELEVEN消費最高3%icash回饋。國內1%。超商繳費0.5% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-08-27 |
-| [中國信託 ALL ME卡](https://cards.ampm-aiops.com/items/ctbc-allme/) | 中國信託商業銀行 | NT$1,800，首年免。終身免年費：綁電子帳單/Hami Pay/Pi拍/LINE官方帳號/自扣，任一即免 | 國內1%、國外2.2%現金回饋無上限。指定電信/電商最高8%、餐飲/百貨（綁Pi拍/Hami Pay）最高6%。悠遊卡交通5% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-08-27 |
-| [中國信託 Amazon聯名卡](https://cards.ampm-aiops.com/items/ctbc-amazon/) | 中國信託商業銀行 | 首年免，次年消費6次即免 | Amazon.com消費最高3%回饋。指定海外通路2%。國內1%無上限 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-08-27 |
-| [中國信託 Costco 聯名卡](https://cards.ampm-aiops.com/items/ctbc-costco/) | 中國信託商業銀行 | 首年免，次年消費 1 次免 | Costco 消費 1% 回饋金、加油 1.5%、一般 0.5% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-08-27 |
-| [中國信託 Debit金融卡](https://cards.ampm-aiops.com/items/ctbc-debit/) | 中國信託商業銀行 | 免年費 | 國內0.2%。國外0.5%。中信帳戶搭配偶有活動 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-08-27 |
-| [中國信託 JCB晶緻卡](https://cards.ampm-aiops.com/items/ctbc-jcb/) | 中國信託商業銀行 | 首年免，次年消費3次即免 | 日本消費3%。國內1%。JCB會員專屬活動 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-08-27 |
+| [中國信託 7-ELEVEN聯名卡](https://cards.ampm-aiops.com/items/ctbc-7eleven/) | 中國信託商業銀行 | 首年免，次年消費6次即免 | 7-ELEVEN消費最高3%icash回饋。國內1%。超商繳費0.5% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
+| [中國信託 ALL ME卡](https://cards.ampm-aiops.com/items/ctbc-allme/) | 中國信託商業銀行 | NT$1,800，首年免。終身免年費：綁電子帳單/Hami Pay/Pi拍/LINE官方帳號/自扣，任一即免 | 國內1%、國外2.2%現金回饋無上限。指定電信/電商最高8%、餐飲/百貨（綁Pi拍/Hami Pay）最高6%。悠遊卡交通5% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
+| [中國信託 Amazon聯名卡](https://cards.ampm-aiops.com/items/ctbc-amazon/) | 中國信託商業銀行 | 首年免，次年消費6次即免 | Amazon.com消費最高3%回饋。指定海外通路2%。國內1%無上限 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
+| [中國信託 Costco 聯名卡](https://cards.ampm-aiops.com/items/ctbc-costco/) | 中國信託商業銀行 | 首年免，次年消費 1 次免 | Costco 消費 1% 回饋金、加油 1.5%、一般 0.5% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
+| [中國信託 Debit金融卡](https://cards.ampm-aiops.com/items/ctbc-debit/) | 中國信託商業銀行 | 免年費 | 國內0.2%。國外0.5%。中信帳戶搭配偶有活動 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
+| [中國信託 JCB晶緻卡](https://cards.ampm-aiops.com/items/ctbc-jcb/) | 中國信託商業銀行 | 首年免，次年消費3次即免 | 日本消費3%。國內1%。JCB會員專屬活動 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
 | [中國信託 LINE Pay卡 一般版](https://cards.ampm-aiops.com/items/ctbc-linepay-basic/) | 中國信託商業銀行 | 免年費 | LINE POINTS基本1%。LINE Pay消費加碼最高3%。新戶首2月5% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-08-27 |
-| [中國信託 foodpanda聯名卡](https://cards.ampm-aiops.com/items/ctbc-foodpanda/) | 中國信託商業銀行 | NT$1,800，首年免。電子帳單/年消費6萬/12次即免 | foodpanda訂餐最高10%現金回饋。國內一般消費1%無上限。國外2%。綁行動支付/網購最高3% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-08-27 |
-| [中國信託 中油聯名卡](https://cards.ampm-aiops.com/items/ctbc-cpc/) | 中國信託商業銀行 | NT$1,800，首年免。年消費6萬或12次即免 | 中油加油最高3%回饋（基本1%+加碼2%）。國內一般消費0.5~1%。綁自動扣繳中油加油享額外折扣。高速公路ETC通行費1% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-08-27 |
+| [中國信託 foodpanda聯名卡](https://cards.ampm-aiops.com/items/ctbc-foodpanda/) | 中國信託商業銀行 | NT$1,800，首年免。電子帳單/年消費6萬/12次即免 | foodpanda訂餐最高10%現金回饋。國內一般消費1%無上限。國外2%。綁行動支付/網購最高3% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
+| [中國信託 uniopen聯名卡](https://cards.ampm-aiops.com/items/ctbc-uniopen/) | 中國信託商業銀行 | 世界卡：首年免年費（正卡 NT$5,000、附卡 NT$5,000），次年年費計算期間累計年新增消費達 NT$36 萬享次年免年費 | OPENPOINT 回饋：國內一般消費 1% 無上限、統一企業集團最高 3%（1%＋加碼 2%）、國外一般消費 2% 無上限、國外實體商店最高 11%（2%＋加碼 8%＋再加碼）；綁定 icash Pay 單筆滿 NT$199 最高再加碼 4% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_uniopen.html) | 2026-09-05 |
 
-*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 99 rows.*
+*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 105 rows.*
 
 ### Travel eSIM Plans (Taiwan market)
 *旅遊 eSIM 方案與價格實查*
@@ -86,21 +86,21 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | | |
 | :--- | :--- |
 | Rows published | **35** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-09-05** |
+| Last verified (newest row) | **2026-09-06** |
 | Files | [`datasets/esim/esim_2026.json`](./datasets/esim/esim_2026.json) · [`datasets/esim/esim_2026.csv`](./datasets/esim/esim_2026.csv) · [`schema.json`](./datasets/esim/schema.json) |
 | Browse online | [esim.ampm-aiops.com](https://esim.ampm-aiops.com/items/) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
 
 | name | region | price_twd | plan_type | hotspot | source_url | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Airalo](https://esim.ampm-aiops.com/items/airalo/) | 全球通用 / 日韓歐美 | NT$ 150 ～ 980 元 | 固定流量型（1GB/3GB/5GB/10GB） | 支援（不限設備） | [official](https://www.airalo.com/) | 2026-09-05 |
-| [Airhub](https://esim.ampm-aiops.com/items/airhub/) | 全球 190+ 國 | NT$ 60 ～ 1,150 元（全球 1GB/7 天 US$4.99、25GB 月租 US$36） | 固定流量型為主（1GB~25GB）＋長期月租型；無真正吃到飽 | 支援；另有獨家「數據池共享」可多裝置多人共用同一份流量 | [official](https://www.airhubapp.com/) | 2026-09-05 |
+| [Airalo](https://esim.ampm-aiops.com/items/airalo/) | 全球通用 / 日韓歐美 | NT$ 150 ～ 980 元 | 固定流量型（1GB/3GB/5GB/10GB） | 支援（不限設備） | [official](https://www.airalo.com/) | 2026-09-06 |
+| [Airhub](https://esim.ampm-aiops.com/items/airhub/) | 全球 190+ 國 | NT$ 60 ～ 1,150 元（全球 1GB/7 天 US$4.99、25GB 月租 US$36） | 固定流量型為主（1GB~25GB）＋長期月租型；無真正吃到飽 | 支援；另有獨家「數據池共享」可多裝置多人共用同一份流量 | [official](https://www.airhubapp.com/) | 2026-09-06 |
 | [BNESIM](https://esim.ampm-aiops.com/items/bnesim/) | 全球 175+ 國 | NT$ 21 ～ 16,000+ 元（方案 US$0.65~502，整體屬高價位） | 固定流量型（含永久不過期長效方案）＋無限流量型＋門號語音組合 | 無限方案不支援；固定流量方案依評測可支援，官方未逐方案公告 | [official](https://www.bnesim.com/) | 2026-08-27 |
 | [DJB 暢日卡](https://esim.ampm-aiops.com/items/djb-unlimited/) | 日本 / 韓國 | NT$ 290 ～ 850 元 | 真吃到飽（不降速） | 支援（建議自用） | [official](https://djbcard.com/) | 2026-08-25 |
 | [Firsty](https://esim.ampm-aiops.com/items/firsty/) | 免費層：北美/歐洲/亞太；付費層 170 國同一價 | 免費層 NT$0（看廣告換連線）；Classic 每 GB 約 36 元起；Unlimited 每日約 74 元起 | 免費層＝每日重置 300MB 低速；Classic＝固定流量；Unlimited＝每日重置吃到飽 | 免費層不可（官方明示需升級付費）；付費方案可以 | [official](https://www.firsty.app/) | 2026-08-27 |
 | [Flexiroam](https://esim.ampm-aiops.com/items/flexiroam/) | 全球 150+ 國（全球包/分區包/單國包） | NT$ 192 元起（100MB/10 天 US$5.99；1GB/90 天約 US$29.99＝近千元，偏貴） | 固定流量制為主（效期 3~365 天）＋部分地區吃到飽 | 多數方案支援（吃到飽允許但不可跨帳號共享流量） | [official](https://flexiroam.com/) | 2026-08-27 |
 | [GigSky](https://esim.ampm-aiops.com/items/gigsky/) | 全球約 190 國 / 獨家郵輪海上方案 | NT$ 128 ～ 2,300+ 元（日本 1GB/7 天 US$4.99；冷門國家與郵輪包更貴） | 固定流量型＋吃到飽型（每日高速額度制）＋郵輪海上專用方案 | 支援，無硬性上限 | [official](https://www.gigsky.com/) | 2026-08-27 |
-| [Holafly](https://esim.ampm-aiops.com/items/holafly/) | 歐美 / 日本 / 全球 | NT$ 590 ～ 1,890 元 | 全天數無限吃到飽 | ❌ 不支援（鎖熱點） | [official](https://holafly.com/) | 2026-09-05 |
+| [Holafly](https://esim.ampm-aiops.com/items/holafly/) | 歐美 / 日本 / 全球 | NT$ 590 ～ 1,890 元 | 全天數無限吃到飽 | ❌ 不支援（鎖熱點） | [official](https://holafly.com/) | 2026-09-06 |
 | [Instabridge](https://esim.ampm-aiops.com/items/instabridge/) | 全球多國（App 內購買各國方案） | NT$ 64 元起（1GB 約 US$2；10GB/30 天約 US$12） | 固定流量制（部分方案流量不過期）；無吃到飽 | 支援（官方稱最多可分享 10 台裝置） | [official](https://instabridge.com/) | 2026-08-27 |
 | [Jetpac](https://esim.ampm-aiops.com/items/jetpac/) | 全球 100+ 國 | NT$ 220 ～ 890 元 | 跨國天數包 / 流量包 | 支援 | [official](https://www.jetpacglobal.com/) | 2026-08-25 |
 
