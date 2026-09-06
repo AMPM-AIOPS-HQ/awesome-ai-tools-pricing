@@ -34,7 +34,7 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | | |
 | :--- | :--- |
 | Rows published | **104** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-09-05** |
+| Last verified (newest row) | **2026-09-07** |
 | Files | [`data/ai_tools_2026.json`](./data/ai_tools_2026.json) · [`data/ai_tools_2026.csv`](./data/ai_tools_2026.csv) |
 | Browse online | [ampm-aiops.com](https://ampm-aiops.com/free/) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
@@ -47,7 +47,7 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | [Anijam](https://ampm-aiops.com/tools/anijam/) | video | 有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案 | 25 | ❌ | 2026-09-05 |
 | [Base44](https://ampm-aiops.com/tools/base44/) | coding | 免費方案 US$0/月，每月 25 個 message credits與 100 個 integration credits | 0 | ✅ | 2026-09-05 |
 | [Bolt](https://ampm-aiops.com/tools/bolt/) | coding | 免費版 US$0 | 0 | ❌ | 2026-09-05 |
-| [buzzabout](https://ampm-aiops.com/tools/buzzabout/) | research | 沒有長期免費方案，只有免費試用 | 0 | ❌ | 2026-09-05 |
+| [buzzabout](https://ampm-aiops.com/tools/buzzabout/) | research | 沒有長期免費方案，只有免費試用 | 0 | ❌ | 2026-09-06 |
 | [Canva AI](https://ampm-aiops.com/tools/canva-ai/) | image, productivity | 免費版最多 200 次 Standard AI 功能或 20 次 Premium AI 功能，另含 5GB 儲存空間、1 個品牌套件 | 18 | — | 2026-09-05 |
 | [CapCut AI](https://ampm-aiops.com/tools/capcut-ai/) | video | 基本剪輯免費,AI 功能部分需 Pro | 10 | — | 2026-08-27 |
 | [ChatGPT](https://ampm-aiops.com/tools/chatgpt/) | chatbot | 免費版每月 NT$0，人人可用 | 8 | ✅ | 2026-09-05 |
@@ -86,21 +86,21 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | | |
 | :--- | :--- |
 | Rows published | **35** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-09-06** |
+| Last verified (newest row) | **2026-09-07** |
 | Files | [`datasets/esim/esim_2026.json`](./datasets/esim/esim_2026.json) · [`datasets/esim/esim_2026.csv`](./datasets/esim/esim_2026.csv) · [`schema.json`](./datasets/esim/schema.json) |
 | Browse online | [esim.ampm-aiops.com](https://esim.ampm-aiops.com/items/) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
 
 | name | region | price_twd | plan_type | hotspot | source_url | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Airalo](https://esim.ampm-aiops.com/items/airalo/) | 全球通用 / 日韓歐美 | NT$ 150 ～ 980 元 | 固定流量型（1GB/3GB/5GB/10GB） | 支援（不限設備） | [official](https://www.airalo.com/) | 2026-09-06 |
-| [Airhub](https://esim.ampm-aiops.com/items/airhub/) | 全球 190+ 國 | NT$ 60 ～ 1,150 元（全球 1GB/7 天 US$4.99、25GB 月租 US$36） | 固定流量型為主（1GB~25GB）＋長期月租型；無真正吃到飽 | 支援；另有獨家「數據池共享」可多裝置多人共用同一份流量 | [official](https://www.airhubapp.com/) | 2026-09-06 |
+| [Airalo](https://esim.ampm-aiops.com/items/airalo/) | 全球通用 / 日韓歐美 | NT$ 150 ～ 980 元 | 固定流量型（1GB/3GB/5GB/10GB） | 支援（不限設備） | [official](https://www.airalo.com/) | 2026-09-07 |
+| [Airhub](https://esim.ampm-aiops.com/items/airhub/) | 全球 190+ 國 | NT$ 60 ～ 1,150 元（全球 1GB/7 天 US$4.99、25GB 月租 US$36） | 固定流量型為主（1GB~25GB）＋長期月租型；無真正吃到飽 | 支援；另有獨家「數據池共享」可多裝置多人共用同一份流量 | [official](https://www.airhubapp.com/) | 2026-09-07 |
 | [BNESIM](https://esim.ampm-aiops.com/items/bnesim/) | 全球 175+ 國 | NT$ 21 ～ 16,000+ 元（方案 US$0.65~502，整體屬高價位） | 固定流量型（含永久不過期長效方案）＋無限流量型＋門號語音組合 | 無限方案不支援；固定流量方案依評測可支援，官方未逐方案公告 | [official](https://www.bnesim.com/) | 2026-08-27 |
 | [DJB 暢日卡](https://esim.ampm-aiops.com/items/djb-unlimited/) | 日本 / 韓國 | NT$ 290 ～ 850 元 | 真吃到飽（不降速） | 支援（建議自用） | [official](https://djbcard.com/) | 2026-08-25 |
 | [Firsty](https://esim.ampm-aiops.com/items/firsty/) | 免費層：北美/歐洲/亞太；付費層 170 國同一價 | 免費層 NT$0（看廣告換連線）；Classic 每 GB 約 36 元起；Unlimited 每日約 74 元起 | 免費層＝每日重置 300MB 低速；Classic＝固定流量；Unlimited＝每日重置吃到飽 | 免費層不可（官方明示需升級付費）；付費方案可以 | [official](https://www.firsty.app/) | 2026-08-27 |
 | [Flexiroam](https://esim.ampm-aiops.com/items/flexiroam/) | 全球 150+ 國（全球包/分區包/單國包） | NT$ 192 元起（100MB/10 天 US$5.99；1GB/90 天約 US$29.99＝近千元，偏貴） | 固定流量制為主（效期 3~365 天）＋部分地區吃到飽 | 多數方案支援（吃到飽允許但不可跨帳號共享流量） | [official](https://flexiroam.com/) | 2026-08-27 |
 | [GigSky](https://esim.ampm-aiops.com/items/gigsky/) | 全球約 190 國 / 獨家郵輪海上方案 | NT$ 128 ～ 2,300+ 元（日本 1GB/7 天 US$4.99；冷門國家與郵輪包更貴） | 固定流量型＋吃到飽型（每日高速額度制）＋郵輪海上專用方案 | 支援，無硬性上限 | [official](https://www.gigsky.com/) | 2026-08-27 |
-| [Holafly](https://esim.ampm-aiops.com/items/holafly/) | 歐美 / 日本 / 全球 | NT$ 590 ～ 1,890 元 | 全天數無限吃到飽 | ❌ 不支援（鎖熱點） | [official](https://holafly.com/) | 2026-09-06 |
+| [Holafly](https://esim.ampm-aiops.com/items/holafly/) | 歐美 / 日本 / 全球 | NT$ 590 ～ 1,890 元 | 全天數無限吃到飽 | ❌ 不支援（鎖熱點） | [official](https://holafly.com/) | 2026-09-07 |
 | [Instabridge](https://esim.ampm-aiops.com/items/instabridge/) | 全球多國（App 內購買各國方案） | NT$ 64 元起（1GB 約 US$2；10GB/30 天約 US$12） | 固定流量制（部分方案流量不過期）；無吃到飽 | 支援（官方稱最多可分享 10 台裝置） | [official](https://instabridge.com/) | 2026-08-27 |
 | [Jetpac](https://esim.ampm-aiops.com/items/jetpac/) | 全球 100+ 國 | NT$ 220 ～ 890 元 | 跨國天數包 / 流量包 | 支援 | [official](https://www.jetpacglobal.com/) | 2026-08-25 |
 

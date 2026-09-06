@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-06T04:00:01+08:00",
+ "generated_at": "2026-09-07T04:00:01+08:00",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "methodology": "https://ampm-aiops.com/methodology/",
  "open_data_page": "https://ampm-aiops.com/open-data/",
  "repository": "https://github.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing",
  "total_rows": 290,
  "total_excluded_below_threshold": 97,
- "last_verified_max": "2026-09-06",
+ "last_verified_max": "2026-09-07",
  "datasets": [
   {
    "dataset": "ai-tools",
@@ -14,7 +14,7 @@
    "title_zh": "AI 工具定價與免費額度（主站）",
    "rows": 104,
    "excluded_below_threshold": 0,
-   "last_verified_max": "2026-09-05",
+   "last_verified_max": "2026-09-07",
    "json": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/data/ai_tools_2026.json",
    "csv": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/data/ai_tools_2026.csv",
    "schema": null,
@@ -40,7 +40,7 @@
    "title_zh": "旅遊 eSIM 方案與價格實查",
    "rows": 35,
    "excluded_below_threshold": 0,
-   "last_verified_max": "2026-09-06",
+   "last_verified_max": "2026-09-07",
    "json": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/datasets/esim/esim_2026.json",
    "csv": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/datasets/esim/esim_2026.csv",
    "schema": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/datasets/esim/schema.json",

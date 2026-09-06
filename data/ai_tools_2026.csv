@@ -5,12 +5,12 @@ airmusic,AirMusic,AirMusic,audio,True,10 credits,39.8,False,2026-09-05,https://a
 anijam,Anijam,Anijam,video,True,有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案,25,False,2026-09-05,https://ampm-aiops.com/tools/anijam/
 base44,Base44,Base44 (Wix),coding,True,免費方案 US$0/月，每月 25 個 message credits與 100 個 integration credits,0,True,2026-09-05,https://ampm-aiops.com/tools/base44/
 bolt,Bolt,StackBlitz,coding,True,免費版 US$0,0,False,2026-09-05,https://ampm-aiops.com/tools/bolt/
-buzzabout,buzzabout,buzzabout,research,False,沒有長期免費方案，只有免費試用,0,False,2026-09-05,https://ampm-aiops.com/tools/buzzabout/
+buzzabout,buzzabout,buzzabout,research,False,沒有長期免費方案，只有免費試用,0,False,2026-09-06,https://ampm-aiops.com/tools/buzzabout/
 canva-ai,Canva AI,Canva,image|productivity,True,免費版最多 200 次 Standard AI 功能或 20 次 Premium AI 功能，另含 5GB 儲存空間、1 個品牌套件,18,,2026-09-05,https://ampm-aiops.com/tools/canva-ai/
 capcut-ai,CapCut AI,ByteDance,video,True,"基本剪輯免費,AI 功能部分需 Pro",10,,2026-08-27,https://ampm-aiops.com/tools/capcut-ai/
 chatgpt,ChatGPT,OpenAI,chatbot,True,免費版每月 NT$0，人人可用,8,True,2026-09-05,https://ampm-aiops.com/tools/chatgpt/
 claude,Claude,Anthropic,chatbot|coding,True,"額度採滾動式5小時使用窗計算，一般對話約可用10-20則,不含 Claude Code",20,False,2026-09-05,https://ampm-aiops.com/tools/claude/
-coderabbit,CodeRabbit,CodeRabbit,coding,True,免費方案 US$0/人/月，可掛無限個公開與私有 repo，但 PR 上只提供「摘要」不做逐行審查,0,True,2026-09-05,https://ampm-aiops.com/tools/coderabbit/
+coderabbit,CodeRabbit,CodeRabbit,coding,True,免費方案 US$0/人/月，可掛無限個公開與私有 repo，但 PR 上只提供「摘要」不做逐行審查,0,True,2026-09-07,https://ampm-aiops.com/tools/coderabbit/
 codex,Codex,OpenAI,coding|agent,True,免費 ChatGPT 帳號即可使用 Codex，但為 Limited存取；CLI 版本可用自己的 API key 使用，費用按 API 用量計,8,True,2026-09-05,https://ampm-aiops.com/tools/codex/
 comet,Comet,Perplexity,chatbot,True,完整Chromium瀏覽器與基本AI功能全面免費且無使用次數上限；但需消耗額度的代理任務在免費方案中額度有限,5,,2026-08-27,https://ampm-aiops.com/tools/comet/
 context-dev,Context.dev,Context.dev,coding,True,工作郵箱用戶：500 API額度+ 10K Logo Link請求；免費郵箱用戶：250額度,0,,2026-09-05,https://ampm-aiops.com/tools/context-dev/
@@ -26,24 +26,24 @@ fathom,Fathom,Fathom Video Inc.,productivity,True,免費層無限錄影、無限
 felo,Felo,Felo,chatbot|research,True,"免費版基本搜尋不限，另每日可用約5次Pro搜尋，另有每日3次檔案分析額度；付費Pro方案用罄15,000點/期後仍可享每日最多300次Pro搜尋",12.5,,2026-09-05,https://ampm-aiops.com/tools/felo/
 fireflies-ai,Fireflies.ai,Fireflies.ai Corp,audio|productivity,True,免費版官方定價頁 Free 欄原文：「Unlimited transcription*」「Limited AI summaries」「400 mins of storage/tea…,18,,2026-09-03,https://ampm-aiops.com/tools/fireflies-ai/
 fliki,Fliki,Fliki (Fliki Inc.),video|audio,True,免費層每月 3 credits，輸出 720p 且帶 Fliki 浮水印，無商用授權,28,False,2026-09-03,https://ampm-aiops.com/tools/fliki/
-floot,Floot,Floot,coding,True,免費方案 US$0/月,0,True,2026-09-05,https://ampm-aiops.com/tools/floot/
-framer,Framer,Framer B.V.,productivity|coding,True,免費版：可無限設計草稿、發布到 framer.website 子網域、1 GB 頻寬、每月 500 點 AI credits、5 MB 檔案上傳、1 個語系、最多 3 位編輯者；要…,0,True,2026-09-05,https://ampm-aiops.com/tools/framer/
+floot,Floot,Floot,coding,True,免費方案 US$0/月,0,True,2026-09-06,https://ampm-aiops.com/tools/floot/
+framer,Framer,Framer B.V.,productivity|coding,True,免費版：可無限設計草稿、發布到 framer.website 子網域、1 GB 頻寬、每月 500 點 AI credits、5 MB 檔案上傳、1 個語系、最多 3 位編輯者；要…,0,True,2026-09-06,https://ampm-aiops.com/tools/framer/
 gamma,Gamma,Gamma,productivity,True,註冊送一次性點數,12,,2026-09-05,https://ampm-aiops.com/tools/gamma/
 gemini,Gemini,Google,chatbot,True,免費版每月 NT$0，只要有 Google 帳戶就能用,4.99,True,2026-09-05,https://ampm-aiops.com/tools/gemini/
 notebooklm,Gemini Notebook,Google,productivity|research,True,免費版即很夠用且永久免費，無須訂閱或信用卡,4.99,True,2026-09-05,https://ampm-aiops.com/tools/notebooklm/
 github-copilot,GitHub Copilot,GitHub/Microsoft,coding,True,"一般用戶免費層每月2,000次補全+50次chat；開源維護者/教師可免費升級Pro；學生免費方案新申請已於2026-06-17起逐步重新開放；2026-07-27補充：自2026…",10,,2026-09-05,https://ampm-aiops.com/tools/github-copilot/
 glaze,Glaze by Raycast,Raycast,coding,True,免費版是「一次性」不是每月配額：註冊送 120 點的 launch welcome pack,10,True,2026-09-05,https://ampm-aiops.com/tools/glaze/
 google-ai-studio,Google AI Studio,Google,coding|research,True,"開發用途幾乎免費；Gemini 2.5系列：Search grounding免費1,500次/日，Maps grounding亦免費1,500次/日但超過後費率不同為US$25/1…",0,True,2026-09-05,https://ampm-aiops.com/tools/google-ai-studio/
-grammarly,Grammarly,Grammarly,writing|productivity,True,拼字與文法檢查、語氣偵測，每月 100 次 AI 生成,0,True,2026-09-04,https://ampm-aiops.com/tools/grammarly/
+grammarly,Grammarly,Grammarly,writing|productivity,True,拼字與文法檢查、語氣偵測，每月 100 次 AI 生成,0,True,2026-09-06,https://ampm-aiops.com/tools/grammarly/
 grok,Grok,xAI,chatbot,True,官網未公布免費版的任何具體用量數字，本站不填推估值,10,True,2026-08-27,https://ampm-aiops.com/tools/grok/
 groq,Groq,Groq,chatbot|coding,True,"免費層不需綁卡，各模型有各自的每分鐘／每日上限：Llama 3.1 8B Instant＝每分鐘 30 次請求、每日 14,400 次，每分鐘 6,000 token、每日 50 …",0,True,2026-09-05,https://ampm-aiops.com/tools/groq/
 heygen,HeyGen,HeyGen,video,True,免費方案 US$0/月，額度按「支數」不是點數：每月 3 支影片，每支長度上限 1 分鐘,0,,2026-09-05,https://ampm-aiops.com/tools/heygen/
-hostinger,Hostinger AI Website Builder,Hostinger,productivity|coding,False,無永久免費層；官方 /website-builder 頁提供 14 天免費試用，另全方案 30 天退款保證,2.99,True,2026-09-05,https://ampm-aiops.com/tools/hostinger/
+hostinger,Hostinger AI Website Builder,Hostinger,productivity|coding,False,無永久免費層；官方 /website-builder 頁提供 14 天免費試用，另全方案 30 天退款保證,2.99,True,2026-09-06,https://ampm-aiops.com/tools/hostinger/
 ideogram,Ideogram,Ideogram,image,True,官網ideogram.ai/pricing經代理直讀確認為「10 slow credits/week」，即每週10點慢速額度，約可得40張圖/週,0,,2026-09-05,https://ampm-aiops.com/tools/ideogram/
 invideo,InVideo AI,InVideo (InVideo Inc.),video,True,免費層約每週 10 分鐘 AI 生成、匯出帶浮水印且每月匯出次數有限，週一重置；官方定價頁現已不公開列出免費層細節，僅列付費方案,17,False,2026-09-03,https://ampm-aiops.com/tools/invideo/
-jasper-ai,Jasper AI,Jasper,writing,False,7 天免費試用,0,False,2026-09-05,https://ampm-aiops.com/tools/jasper-ai/
+jasper-ai,Jasper AI,Jasper,writing,False,7 天免費試用,0,False,2026-09-06,https://ampm-aiops.com/tools/jasper-ai/
 kling,Kling,快手,video,True,"每日登入送點數,可生少量",10,False,2026-09-05,https://ampm-aiops.com/tools/kling/
-krisp,Krisp,"Krisp Technologies, Inc.",audio|productivity,True,免費桌面版每日 60 分鐘降噪＋每日 2 則 AI 會議筆記、轉錄不限量,0,True,2026-09-05,https://ampm-aiops.com/tools/krisp/
+krisp,Krisp,"Krisp Technologies, Inc.",audio|productivity,True,免費桌面版每日 60 分鐘降噪＋每日 2 則 AI 會議筆記、轉錄不限量,0,True,2026-09-06,https://ampm-aiops.com/tools/krisp/
 leonardo,Leonardo AI,Leonardo,image,True,每日 150 點快速代幣，24小時到期不累積、不可跨日滾存，同時僅可執行1個生成任務,12,True,2026-08-27,https://ampm-aiops.com/tools/leonardo/
 livedocs,Livedocs,Livedocs (Y Combinator),research|productivity,True,免費版每月 US$0，最多3個notebook，單人使用，4GB RAM，0.5 vCPU，US$5 AI額度上限,0,,2026-09-05,https://ampm-aiops.com/tools/livedocs/
 lovable,Lovable,Lovable,coding,True,免費版每日發放 5 點「build credits」，每月上限 30 點；另每月給 20 點 Cloud credits 與 4 點可用於 app 內建 AI 功能的 credit…,0,True,2026-09-05,https://ampm-aiops.com/tools/lovable/
@@ -53,18 +53,18 @@ make,Make,"Make (Celonis 旗下, make.com)",agent|productivity,True,"免費層�
 manus,Manus,Butterfly Effect,productivity,True,"每日 300 積分，支援 Chat 模式與 Agent 模式，1 個同時任務；新用戶另有 1,000 點一次性起始積分",20,,2026-09-05,https://ampm-aiops.com/tools/manus/
 copilot-microsoft,Microsoft Copilot,Microsoft,chatbot,True,網頁版基本文字對話免費；Office內建 Copilot Chat、Researcher/Analyst 代理與影像生成等進階功能需 Microsoft 365 Premium或 …,0,True,2026-09-04,https://ampm-aiops.com/tools/copilot-microsoft/
 midjourney,Midjourney,Midjourney,image,False,無免費方案,10,False,2026-09-05,https://ampm-aiops.com/tools/midjourney/
-mistral,Mistral AI,Mistral AI,chatbot|coding,True,Mistral Vibe 免費版：每日訊息額度受限，含網頁搜尋與程式碼功能,0.15,False,2026-09-05,https://ampm-aiops.com/tools/mistral/
+mistral,Mistral AI,Mistral AI,chatbot|coding,True,Mistral Vibe 免費版：每日訊息額度受限，含網頁搜尋與程式碼功能,0.15,False,2026-09-07,https://ampm-aiops.com/tools/mistral/
 moltbook,Moltbook,Moltbook,agent,True,完全免費,,True,2026-09-05,https://ampm-aiops.com/tools/moltbook/
 monica,Monica,Monica,chatbot,True,免費版 US$0：每日 40 次普通模型、圖像與影片生成為有限試用、ChatPDF 有限試用、AI Agent 限時體驗、最多 3 台登錄裝置,8.3,True,2026-09-05,https://ampm-aiops.com/tools/monica/
 murf-ai,Murf AI,Murf AI,audio,True,10 個專案、10 分鐘生成額度、無下載權限,29,False,2026-09-05,https://ampm-aiops.com/tools/murf-ai/
-n8n,n8n,n8n GmbH,agent|productivity,True,免費分兩條路：①自架 Community Edition＝永久免費；②官方 Cloud 無永久免費層，只有 14 天免費試用，到期不升級即刪工作區,0,True,2026-09-05,https://ampm-aiops.com/tools/n8n/
+n8n,n8n,n8n GmbH,agent|productivity,True,免費分兩條路：①自架 Community Edition＝永久免費；②官方 Cloud 無永久免費層，只有 14 天免費試用，到期不升級即刪工作區,0,True,2026-09-06,https://ampm-aiops.com/tools/n8n/
 nano-banana,Nano Banana,Google,image,True,Gemini 免費版內含少量 Nano Banana 生成額度；付費方案依級別提升額度上限,4.99,,2026-09-05,https://ampm-aiops.com/tools/nano-banana/
-napkin-ai,Napkin AI,Napkin AI,image,True,Free：每週 500 點 AI credits；含無限視覺編輯、無限檔案匯入與無限 PNG、PDF 匯出，但帶 Napkin 浮水印品牌標記,9,,2026-09-05,https://ampm-aiops.com/tools/napkin-ai/
+napkin-ai,Napkin AI,Napkin AI,image,True,Free：每週 500 點 AI credits；含無限視覺編輯、無限檔案匯入與無限 PNG、PDF 匯出，但帶 Napkin 浮水印品牌標記,9,,2026-09-06,https://ampm-aiops.com/tools/napkin-ai/
 notion-ai,Notion AI,Notion Labs,writing|productivity,True,免費版可用有限AI功能，完整AI功能已併入付費方案；免費版另含最多10位外部訪客、7天頁面歷史記錄,0,,2026-09-05,https://ampm-aiops.com/tools/notion-ai/
 openrouter,OpenRouter,OpenRouter,chatbot|coding,True,25 個以上的免費模型、4 個免費供應商，每日上限 50 次請求，社群支援,0,True,2026-09-05,https://ampm-aiops.com/tools/openrouter/
-openseo,OpenSEO,OpenSEO,productivity|research,True,自託管版完全免費；託管版試用額度US$0.50,10,True,2026-09-04,https://ampm-aiops.com/tools/openseo/
-opus-clip,Opus Clip,Opus Clip,video,True,免費版每月 60 點，官網比較表把 1 點對應 1 分鐘的來源影片處理量,0,True,2026-09-05,https://ampm-aiops.com/tools/opus-clip/
-opusclip,OpusClip,"Opus Pro, Inc.",video,True,免費版每月 60 credits、免信用卡：輸出最高 1080p、自動重構圖、AI 字幕，但成品帶浮水印、不能進編輯器、剪出的片段 3 天後就不能再匯出,0,False,2026-09-05,https://ampm-aiops.com/tools/opusclip/
+openseo,OpenSEO,OpenSEO,productivity|research,True,自託管版完全免費；託管版試用額度US$0.50,10,True,2026-09-06,https://ampm-aiops.com/tools/openseo/
+opus-clip,Opus Clip,Opus Clip,video,True,免費版每月 60 點，官網比較表把 1 點對應 1 分鐘的來源影片處理量,0,True,2026-09-06,https://ampm-aiops.com/tools/opus-clip/
+opusclip,OpusClip,"Opus Pro, Inc.",video,True,免費版每月 60 credits、免信用卡：輸出最高 1080p、自動重構圖、AI 字幕，但成品帶浮水印、不能進編輯器、剪出的片段 3 天後就不能再匯出,0,False,2026-09-06,https://ampm-aiops.com/tools/opusclip/
 otter-ai,Otter.ai,Otter.ai,productivity|audio,True,每月 300 分鐘轉錄額度，單場會議最長 30 分鐘，音訊/影片檔匯入終身只有 3 次,0,True,2026-09-05,https://ampm-aiops.com/tools/otter-ai/
 pazi,Pazi,Pazi,agent,False,"⚠️2026-08-22兩輪真瀏覽器查核：全站找不到任何free/trial字樣，此前記錄的一次性5,000點免費方案已消失，判定免費方案已下架",25,True,2026-09-05,https://ampm-aiops.com/tools/pazi/
 perplexity,Perplexity,Perplexity,chatbot|research,True,"每日基本搜尋不限,Pro 搜尋每日少量",10,True,2026-08-27,https://ampm-aiops.com/tools/perplexity/
@@ -80,9 +80,9 @@ replit,Replit,Replit,coding,True,免費方案叫 Starter,0,,2026-09-02,https://a
 runway,Runway,Runway,video,True,免費版名稱就叫 Free、US$0/月，官網標示 Free forever,0,,2026-09-05,https://ampm-aiops.com/tools/runway/
 rytr,Rytr,Rytr,writing,True,"免費版是 Free forever、不需信用卡，核心額度＝每月 10,000 字元的 AI 內容生成",9,True,2026-09-05,https://ampm-aiops.com/tools/rytr/
 sandbase-cli,SandBase CLI,SandBase,coding|agent,True,CLI 本身開源免費；SandBase 平台提供起步免費點數，之後依所呼叫的模型／API／Agent 實際用量計費,0,True,2026-09-05,https://ampm-aiops.com/tools/sandbase-cli/
-sim,Sim,Sim,productivity|agent,True,免費版 US$0「Free forever」,0,,2026-09-05,https://ampm-aiops.com/tools/sim/
+sim,Sim,Sim,productivity|agent,True,免費版 US$0「Free forever」,0,,2026-09-06,https://ampm-aiops.com/tools/sim/
 speechify,Speechify,Speechify Inc.,audio|productivity,True,免費版可長期使用但限制明確：只有 10 個基本聲音、朗讀語速上限 1.5 倍、文件儲存上限 5 個檔案；1000+ 自然人聲、5 倍速、OCR 掃描朗讀、離線下載都鎖在 Premi…,19,False,2026-09-05,https://ampm-aiops.com/tools/speechify/
-stable-diffusion,Stable Diffusion,Stability AI,image,True,"開源模型權重免費自架；官網另提供 Brand Studio 服務 1,000 點免費試用額度",0,,2026-09-05,https://ampm-aiops.com/tools/stable-diffusion/
+stable-diffusion,Stable Diffusion,Stability AI,image,True,"開源模型權重免費自架；官網另提供 Brand Studio 服務 1,000 點免費試用額度",0,,2026-09-06,https://ampm-aiops.com/tools/stable-diffusion/
 strix,Strix,Strix (Open-source),agent|coding,False,雲端平台沒有免費方案,0,,2026-09-02,https://ampm-aiops.com/tools/strix/
 suno,Suno,Suno,audio,True,免費方案官網頁面上叫 Free Plan，US$0/月,10,False,2026-09-05,https://ampm-aiops.com/tools/suno/
 surfer-seo,Surfer SEO,Surfer (surferseo.com),writing|research,False,無免費層：主平台需付費訂閱，官方僅提供 7 天退款保證；舊 7 天 US$1 試用已於先前取消,49,True,2026-09-03,https://ampm-aiops.com/tools/surfer-seo/
@@ -91,7 +91,7 @@ taskade,Taskade,Taskade Inc.,productivity|agent,True,"免費層 1 位使用者�
 teable,Teable,Teable,productivity,True,免費版 US$0 per seat/month「For individuals」,12,,2026-09-05,https://ampm-aiops.com/tools/teable/
 termi-protocol,Termi Protocol,ERCAAP,coding|agent,False,無免費方案,7.99,,2026-09-05,https://ampm-aiops.com/tools/termi-protocol/
 trae,TRAE,ByteDance（BytePlus 體系）,coding,True,"免費版：每月 5,000 次自動補全、有限基本用量、標準佇列、TraeWork 2 個併發雲任務；下載即用",3,True,2026-09-05,https://ampm-aiops.com/tools/trae/
-udio,Udio,Udio,audio,True,免費版每日 10 點＋每月 100 點，約可生 1-3 首 2 分鐘內歌曲/天,10,,2026-09-05,https://ampm-aiops.com/tools/udio/
+udio,Udio,Udio,audio,True,免費版每日 10 點＋每月 100 點，約可生 1-3 首 2 分鐘內歌曲/天,10,,2026-09-06,https://ampm-aiops.com/tools/udio/
 v0,v0,Vercel,coding,True,免費方案 US$0/月，額度是「點數＋每日訊息數」雙重上限，任一撞到就停：①每月內含 US$5 的點數餘額；②每日 7 則訊息上限,0,,2026-09-05,https://ampm-aiops.com/tools/v0/
 vapi,Vapi,Vapi,audio|agent,True,Build方案官網現直接列出「60+ minutes included」免費通話分鐘數，取代先前的美元抵用金描述,0,,2026-09-05,https://ampm-aiops.com/tools/vapi/
 veed,VEED,VEED.IO,video,True,免費版 US$0,0,,2026-09-05,https://ampm-aiops.com/tools/veed/
@@ -102,4 +102,4 @@ warp,Warp,Warp,coding,True,官網未公布具體免費額度數字,20,,2026-09-0
 windsurf,Windsurf,Windsurf,coding,True,2026-08-11 複查發現：windsurf.com/pricing 現已永久重導向至 devin.ai/pricing，頁面完全是 Devin 品牌，Windsurf 獨立定…,20,False,2026-09-05,https://ampm-aiops.com/tools/windsurf/
 wispr-flow,Wispr Flow,Wispr AI,audio|productivity,True,"免費版聽寫字數上限：桌面 2,000 字/週、iPhone 1,000 字/週、Android 無限，每週重置；官網原文「Word limit: 2,000/week on des…",15,,2026-09-03,https://ampm-aiops.com/tools/wispr-flow/
 writesonic,Writesonic,Writesonic,writing,False,7 天退款保證,0,False,2026-09-05,https://ampm-aiops.com/tools/writesonic/
-zed,Zed,Zed Industries,coding,True,"Personal：2,000 次「已採納的編輯預測」；官網定價頁未載明此額度的重置週期",10,,2026-09-05,https://ampm-aiops.com/tools/zed/
+zed,Zed,Zed Industries,coding,True,"Personal：2,000 次「已採納的編輯預測」；官網定價頁未載明此額度的重置週期",10,,2026-09-06,https://ampm-aiops.com/tools/zed/
