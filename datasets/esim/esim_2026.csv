@@ -1,12 +1,12 @@
 slug,name,region,price_twd,plan_type,hotspot,source_url,last_verified,page_url
-airalo,Airalo,全球通用 / 日韓歐美,NT$ 150 ～ 980 元,固定流量型（1GB/3GB/5GB/10GB）,支援（不限設備）,https://www.airalo.com/,2026-09-07,https://esim.ampm-aiops.com/items/airalo/
-airhub,Airhub,全球 190+ 國,"NT$ 60 ～ 1,150 元（全球 1GB/7 天 US$4.99、25GB 月租 US$36）",固定流量型為主（1GB~25GB）＋長期月租型；無真正吃到飽,支援；另有獨家「數據池共享」可多裝置多人共用同一份流量,https://www.airhubapp.com/,2026-09-07,https://esim.ampm-aiops.com/items/airhub/
+airalo,Airalo,全球通用 / 日韓歐美,NT$ 150 ～ 980 元,固定流量型（1GB/3GB/5GB/10GB）,支援（不限設備）,https://www.airalo.com/,2026-09-08,https://esim.ampm-aiops.com/items/airalo/
+airhub,Airhub,全球 190+ 國,"NT$ 60 ～ 1,150 元（全球 1GB/7 天 US$4.99、25GB 月租 US$36）",固定流量型為主（1GB~25GB）＋長期月租型；無真正吃到飽,支援；另有獨家「數據池共享」可多裝置多人共用同一份流量,https://www.airhubapp.com/,2026-09-08,https://esim.ampm-aiops.com/items/airhub/
 bnesim,BNESIM,全球 175+ 國,"NT$ 21 ～ 16,000+ 元（方案 US$0.65~502，整體屬高價位）",固定流量型（含永久不過期長效方案）＋無限流量型＋門號語音組合,無限方案不支援；固定流量方案依評測可支援，官方未逐方案公告,https://www.bnesim.com/,2026-08-27,https://esim.ampm-aiops.com/items/bnesim/
 djb-unlimited,DJB 暢日卡,日本 / 韓國,NT$ 290 ～ 850 元,真吃到飽（不降速）,支援（建議自用）,https://djbcard.com/,2026-08-25,https://esim.ampm-aiops.com/items/djb-unlimited/
 firsty,Firsty,免費層：北美/歐洲/亞太；付費層 170 國同一價,免費層 NT$0（看廣告換連線）；Classic 每 GB 約 36 元起；Unlimited 每日約 74 元起,免費層＝每日重置 300MB 低速；Classic＝固定流量；Unlimited＝每日重置吃到飽,免費層不可（官方明示需升級付費）；付費方案可以,https://www.firsty.app/,2026-08-27,https://esim.ampm-aiops.com/items/firsty/
 flexiroam,Flexiroam,全球 150+ 國（全球包/分區包/單國包）,NT$ 192 元起（100MB/10 天 US$5.99；1GB/90 天約 US$29.99＝近千元，偏貴）,固定流量制為主（效期 3~365 天）＋部分地區吃到飽,多數方案支援（吃到飽允許但不可跨帳號共享流量）,https://flexiroam.com/,2026-08-27,https://esim.ampm-aiops.com/items/flexiroam/
 gigsky,GigSky,全球約 190 國 / 獨家郵輪海上方案,"NT$ 128 ～ 2,300+ 元（日本 1GB/7 天 US$4.99；冷門國家與郵輪包更貴）",固定流量型＋吃到飽型（每日高速額度制）＋郵輪海上專用方案,支援，無硬性上限,https://www.gigsky.com/,2026-08-27,https://esim.ampm-aiops.com/items/gigsky/
-holafly,Holafly,歐美 / 日本 / 全球,"NT$ 590 ～ 1,890 元",全天數無限吃到飽,❌ 不支援（鎖熱點）,https://holafly.com/,2026-09-07,https://esim.ampm-aiops.com/items/holafly/
+holafly,Holafly,歐美 / 日本 / 全球,"NT$ 590 ～ 1,890 元",全天數無限吃到飽,❌ 不支援（鎖熱點）,https://holafly.com/,2026-09-08,https://esim.ampm-aiops.com/items/holafly/
 instabridge,Instabridge,全球多國（App 內購買各國方案）,NT$ 64 元起（1GB 約 US$2；10GB/30 天約 US$12）,固定流量制（部分方案流量不過期）；無吃到飽,支援（官方稱最多可分享 10 台裝置）,https://instabridge.com/,2026-08-27,https://esim.ampm-aiops.com/items/instabridge/
 jetpac,Jetpac,全球 100+ 國,NT$ 220 ～ 890 元,跨國天數包 / 流量包,支援,https://www.jetpacglobal.com/,2026-08-25,https://esim.ampm-aiops.com/items/jetpac/
 joytel,Joytel 卓一電訊,日本 / 韓國 / 中港澳,NT$ 220 ～ 750 元,雙電信自動切換型,支援,https://www.joytel-tw.com/,2026-08-25,https://esim.ampm-aiops.com/items/joytel/
@@ -14,22 +14,22 @@ kkday-esim,KKday 吃到飽eSIM,日本 / 韓國 / 東南亞,NT$ 120 ～ 650 元,�
 klook-esim,Klook 暢遊eSIM,日本 / 泰國 / 港澳,NT$ 130 ～ 680 元,每日定量 ＋ 吃到飽可選,支援,https://www.klook.com/,2026-08-25,https://esim.ampm-aiops.com/items/klook-esim/
 maya-mobile,Maya Mobile,全球 165+ 國（含郵輪航線）,"NT$ 320 ～ 1,600 元（全球無限 3 天 US$9.99、30 天 US$49.99）",每日重置準吃到飽（每日 4GB 高速）＋固定流量型（1GB~20GB+）,全方案支援（含無限方案），同類準吃到飽中少見,https://mayamobile.com/,2026-08-27,https://esim.ampm-aiops.com/items/maya-mobile/
 mobimatter,MobiMatter,全球 200+ 目的地（匯集 30+ 家供應商的比價商城）,"依方案差異極大；參考：歐洲 30GB 約 608 元、86 國全球 13GB 約 1,344 元，熱門路線常比大牌便宜",固定流量為主（日/週/月/年都有），實際型態依所選供應商方案而定,依各供應商方案而定、無統一保證，須看商品頁標示,https://www.mobimatter.com/,2026-08-27,https://esim.ampm-aiops.com/items/mobimatter/
-nomad,Nomad,日韓 / 歐美 / 東南亞,NT$ 160 ～ 850 元,彈性 GB 流量計費,支援,https://www.nomadesim.com/,2026-09-07,https://esim.ampm-aiops.com/items/nomad/
-redteago,RedteaGO,全球 200+ 國 / 日本東亞齊全,NT$ 22 ～ 960 元（日本無限 BASIC 約 US$0.7/日起；50GB/180 天 US$29.9）,固定流量型（1GB~50GB）＋每日重置無限型（PREMIUM 每日 10GB 高速）,官方列為服務特色，但未逐方案標明，購買前需在方案頁確認,https://www.redteago.com/,2026-09-07,https://esim.ampm-aiops.com/items/redteago/
+nomad,Nomad,日韓 / 歐美 / 東南亞,NT$ 160 ～ 850 元,彈性 GB 流量計費,支援,https://www.nomadesim.com/,2026-09-08,https://esim.ampm-aiops.com/items/nomad/
+redteago,RedteaGO,全球 200+ 國 / 日本東亞齊全,NT$ 22 ～ 960 元（日本無限 BASIC 約 US$0.7/日起；50GB/180 天 US$29.9）,固定流量型（1GB~50GB）＋每日重置無限型（PREMIUM 每日 10GB 高速）,官方列為服務特色，但未逐方案標明，購買前需在方案頁確認,https://www.redteago.com/,2026-09-08,https://esim.ampm-aiops.com/items/redteago/
 roamless,Roamless,全球 200+ 國（單一 eSIM 走到哪用到哪）,按量計費約每 GB 62 元起（各國費率差很大，部分市場每 GB 可達 160~480 元）；FIX 30 天固定方案每 GB 約 19 元起,按量計費（錢包扣款、餘額永不過期）＋固定流量（30 天效期），可混用,支援（官方文件明載，提醒注意流量消耗）,https://roamless.com/,2026-08-27,https://esim.ampm-aiops.com/items/roamless/
 saily,Saily,全球 200+ 國 / 日韓歐美,"NT$ 60 ～ 2,300 元（1GB 約 US$1.79 起；日本吃到飽 5 天約 US$18.99）",固定流量型（1GB~100GB）＋部分地區吃到飽型,支援，無限制、不另計費,https://saily.com/,2026-08-27,https://esim.ampm-aiops.com/items/saily/
 simoptions,SimOptions,全球 200+ 目的地（依所選電信商方案而定）,"NT$ 125 ～ 1,600 元（US$3.9 起；日本 AIS SIM2FLY 6GB/10 天 US$19.9）",代售平台（2018 年起的預付 eSIM Marketplace）：轉售 AIS SIM2FLY、TrueMove H 等電信商方案，固定流量為主、部分標榜無限,多數方案支援（依所代售方案而定，官方未逐一標示）,https://simoptions.com/,2026-08-27,https://esim.ampm-aiops.com/items/simoptions/
-tripcom-esim,Trip.com eSIM,熱門旅遊地為主（日韓中東南亞歐美）,NT$ 18 ～ 500 元（台幣標價：日本固定流量 NT$18/天起、吃到飽 7 天 NT$410）,代售平台三型都有：每日流量包＋吃到飽型＋總量型（依商品而異）,多數商品可開，但依個別供應商而定、無統一公告,https://www.trip.com/,2026-09-07,https://esim.ampm-aiops.com/items/tripcom-esim/
+tripcom-esim,Trip.com eSIM,熱門旅遊地為主（日韓中東南亞歐美）,NT$ 18 ～ 500 元（台幣標價：日本固定流量 NT$18/天起、吃到飽 7 天 NT$410）,代售平台三型都有：每日流量包＋吃到飽型＋總量型（依商品而異）,多數商品可開，但依個別供應商而定、無統一公告,https://www.trip.com/,2026-09-08,https://esim.ampm-aiops.com/items/tripcom-esim/
 truely,Truely eSIM,全球多國與區域方案（歐洲、東南亞等）,"吃到飽以天計價：1 天約 221 元起、歐洲 30 天約 2,398 元；另有 300MB~20GB 流量包",吃到飽（按日計價、最長 30 天）為主力＋固定流量包,所有無限流量方案皆可開熱點（官方明載允許）,https://truely.com/,2026-08-27,https://esim.ampm-aiops.com/items/truely/
 ubigi,Ubigi,全球約 190 國 / 日本為招牌,"NT$ 64 ～ 2,080 元（歐洲 500MB 約 US$2 起；日本吃到飽 7 天 US$25）",固定流量型＋吃到飽型（7/15/30 天，另有月租續約型）,支援，官方明示可多裝置分享、不另收費,https://www.ubigi.com/,2026-08-27,https://esim.ampm-aiops.com/items/ubigi/
 waysim,WaySim 威訊,日本 / 韓國 / 中港澳 / 東南亞 / 歐美,eSIM 約 59 ～ 299 元/天（日本吃到飽最低 59 元/天起）；常態有九折折扣碼,高速吃到飽＋每日限量高速（每日 1GB/2GB/3GB 超量降速隔日重置）＋固定流量,高速吃到飽方案可開（官方與實測均載明）,https://waysim.net/,2026-08-27,https://esim.ampm-aiops.com/items/waysim/
 wiho-esim,Wi-Ho! 特優上網,日本 / 韓國 / 美加,NT$ 280 ～ 890 元,原生線路 / 吃到飽,支援,https://www.telecomsquare.tw/,2026-08-25,https://esim.ampm-aiops.com/items/wiho-esim/
-yesim,Yesim,全球 200+ 國 / 歐洲最強,"NT$ 20 ～ 2,000 元（按量計費 US$0.54 起；歐洲吃到飽 30 天約 US$18~22）",固定流量＋吃到飽＋按量計費＋逐日型，型態最多元,支援（分享流量同樣計入額度）,https://yesim.app/,2026-09-07,https://esim.ampm-aiops.com/items/yesim/
+yesim,Yesim,全球 200+ 國 / 歐洲最強,"NT$ 20 ～ 2,000 元（按量計費 US$0.54 起；歐洲吃到飽 30 天約 US$18~22）",固定流量＋吃到飽＋按量計費＋逐日型，型態最多元,支援（分享流量同樣計入額度）,https://yesim.app/,2026-09-08,https://esim.ampm-aiops.com/items/yesim/
 alosim,aloSIM,全球 200+ 國 / 亞洲區域包,"NT$ 144 ～ 2,368 元（1GB 約 US$4.5 起；吃到飽 3 天 US$11.5 起）",固定流量型（1GB~20GB）＋吃到飽型（3~30 天）,多數方案支援、不另收費,https://alosim.com/,2026-08-27,https://esim.ampm-aiops.com/items/alosim/
-esimx,eSimX,全球 150+ 國,NT$ 180 ～ 790 元,跨國混合型,支援,https://esimx.com/,2026-09-07,https://esim.ampm-aiops.com/items/esimx/
-cht-roaming,中華電信 漫遊日租,日韓 / 中港澳 / 美加 / 東南亞等；全球通日租 120+ 國,每日 298 元（高資費客戶優惠 168~178 元/日；未申辦直接漫遊約 20 元/MB 帳單風險高）,每日重置型（原生門號漫遊，非 eSIM 商品）：每日 2GB 後降速,官方稱支援，但註明可否使用視註冊之漫遊網而定，非保證所有地區,https://www.cht.com.tw/,2026-09-07,https://esim.ampm-aiops.com/items/cht-roaming/
+esimx,eSimX,全球 150+ 國,NT$ 180 ～ 790 元,跨國混合型,支援,https://esimx.com/,2026-09-08,https://esim.ampm-aiops.com/items/esimx/
+cht-roaming,中華電信 漫遊日租,日韓 / 中港澳 / 美加 / 東南亞等；全球通日租 120+ 國,每日 298 元（高資費客戶優惠 168~178 元/日；未申辦直接漫遊約 20 元/MB 帳單風險高）,每日重置型（原生門號漫遊，非 eSIM 商品）：每日 2GB 後降速,官方稱支援，但註明可否使用視註冊之漫遊網而定，非保證所有地區,https://www.cht.com.tw/,2026-09-08,https://esim.ampm-aiops.com/items/cht-roaming/
 esimpass,六仔電訊,日本/韓國/中港澳蒙古/東南亞(泰越星馬印)/歐洲/土耳其/紐澳/美加墨/中東北非，另有郵輪與轉機專用方案,"NT$ 79 ～ 1,729 元（依國家/天數/流量不同，促銷後常見 NT$239~830；另有 365 天年卡方案）",三型並存：固定總流量型（5GB/10GB/20GB）、每日重置型（每天1GB/2GB）、吃到飽型（依國家可選）,視方案而定非全面支援（如日本KDDI吃到飽支援但熱點以「天數-1」計算，同國其他方案不支援），官方無統一跨國熱點政策,https://www.esimpass.net/,2026-08-28,https://esim.ampm-aiops.com/items/esimpass/
-twm-roaming,台灣大哥大 漫遊日租,全球多國型＋分區計價（日韓 / 東南亞 / 中港澳 / 歐美）,每日 299 元（促銷約 99~219 元/日；日本單日 399 元、4 天以上降為每日 199 元）,每日重置型（原生門號漫遊，非 eSIM 商品）：每日 2GB 後降速,官方未逐方案明確公告，以客服確認為準,https://www.taiwanmobile.com/,2026-09-07,https://esim.ampm-aiops.com/items/twm-roaming/
+twm-roaming,台灣大哥大 漫遊日租,全球多國型＋分區計價（日韓 / 東南亞 / 中港澳 / 歐美）,每日 299 元（促銷約 99~219 元/日；日本單日 399 元、4 天以上降為每日 199 元）,每日重置型（原生門號漫遊，非 eSIM 商品）：每日 2GB 後降速,官方未逐方案明確公告，以客服確認為準,https://www.taiwanmobile.com/,2026-09-08,https://esim.ampm-aiops.com/items/twm-roaming/
 aerobile,翔翼通訊 Aerobile,全球 100+ 國 / 日本線路選擇最多,NT$ 59 ～ 599 元起（日本小資卡 59 元起、飆日卡 KDDI 5G 吃到飽約每日 199 元、歐洲 100GB/30 天 599 元起）,固定總量型＋每日重置型＋吃到飽型（飆日卡標榜不降速、日行卡為限速 10Mbps 吃到飽）,多數方案可開，但常見「天數-1GB」熱點上限；部分方案不支援,https://www.aerobile.com/,2026-08-27,https://esim.ampm-aiops.com/items/aerobile/
 fet-roaming,遠傳原號漫遊,全球主要旅遊國（日韓泰為主打促銷區）,韓泰計日型每日 99 元起（限 4 天以上月租用戶）、日本每日 199 元起、單日型 199~299 元；計量型 149 元/1GB 起,每日重置吃到飽（計日型）或固定流量計量型（原生門號漫遊，非 eSIM 商品）,支援（原號漫遊可開熱點）,https://www.fetnet.net/,2026-08-27,https://esim.ampm-aiops.com/items/fet-roaming/
 fet-travel-card,遠傳遠遊卡,日韓 / 亞洲多國 / 東南亞 / 歐洲（分區販售）,NT$ 299 ～ 999 元（日韓 8 天 8GB 699 元、亞洲十國 8 天 599 元、歐洲 30 天 12GB 999 元；促銷價浮動）,固定總量高速＋用完降速續用（如 8GB 高速用完降 128Kbps，非每日重置）,支援（官方商品頁載明）,https://www.fetnet.net/,2026-08-27,https://esim.ampm-aiops.com/items/fet-travel-card/
