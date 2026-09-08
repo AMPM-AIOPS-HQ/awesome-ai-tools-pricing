@@ -1,15 +1,15 @@
 {
  "dataset": "vpn",
  "title": "VPN Pricing & Audits (Taiwan)",
- "generated_at": "2026-09-08T04:00:01+08:00",
+ "generated_at": "2026-09-09T04:00:01+08:00",
  "source": "https://vpn.ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 5,
- "excluded_below_threshold": 2,
+ "row_count": 7,
+ "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-09-04",
+ "last_verified_max": "2026-09-09",
  "rows": [
   {
    "slug": "cyberghost",
@@ -22,7 +22,7 @@
    "jurisdiction": "羅馬尼亞 Romania",
    "latest_audit_year": 2024,
    "source_url": "https://www.cyberghostvpn.com/buy",
-   "last_verified": "2026-09-04",
+   "last_verified": "2026-09-09",
    "page_url": "https://vpn.ampm-aiops.com/items/cyberghost/"
   },
   {
@@ -36,7 +36,7 @@
    "jurisdiction": "英屬維京群島 BVI",
    "latest_audit_year": 2025,
    "source_url": "https://www.expressvpn.com/pricing",
-   "last_verified": "2026-09-04",
+   "last_verified": "2026-09-09",
    "page_url": "https://vpn.ampm-aiops.com/items/expressvpn/"
   },
   {
@@ -50,8 +50,36 @@
    "jurisdiction": "瑞典 Sweden",
    "latest_audit_year": 2025,
    "source_url": "https://mullvad.net/en/pricing",
-   "last_verified": "2026-09-04",
+   "last_verified": "2026-09-09",
    "page_url": "https://vpn.ampm-aiops.com/items/mullvad/"
+  },
+  {
+   "slug": "nordvpn",
+   "name": "NordVPN",
+   "min_price_usd_per_month": 3.09,
+   "monthly_plan_usd": 12.99,
+   "money_back_days": 30,
+   "max_devices": 10,
+   "taiwan_servers": true,
+   "jurisdiction": "巴拿馬 Panama",
+   "latest_audit_year": 2025,
+   "source_url": "https://nordvpn.com/pricing/",
+   "last_verified": "2026-09-09",
+   "page_url": "https://vpn.ampm-aiops.com/items/nordvpn/"
+  },
+  {
+   "slug": "protonvpn",
+   "name": "Proton VPN",
+   "min_price_usd_per_month": 2.99,
+   "monthly_plan_usd": 0,
+   "money_back_days": 30,
+   "max_devices": "1（Free）/ 10（Plus/Unlimited）",
+   "taiwan_servers": true,
+   "jurisdiction": "瑞士 Switzerland",
+   "latest_audit_year": 2026,
+   "source_url": "https://protonvpn.com/pricing",
+   "last_verified": "2026-09-09",
+   "page_url": "https://vpn.ampm-aiops.com/items/protonvpn/"
   },
   {
    "slug": "surfshark",
@@ -64,7 +92,7 @@
    "jurisdiction": "荷蘭 Netherlands",
    "latest_audit_year": 2025,
    "source_url": "https://surfshark.com/pricing",
-   "last_verified": "2026-09-04",
+   "last_verified": "2026-09-09",
    "page_url": "https://vpn.ampm-aiops.com/items/surfshark/"
   },
   {
@@ -78,7 +106,7 @@
    "jurisdiction": "加拿大 Canada",
    "latest_audit_year": 2024,
    "source_url": "https://windscribe.com/upgrade",
-   "last_verified": "2026-09-04",
+   "last_verified": "2026-09-09",
    "page_url": "https://vpn.ampm-aiops.com/items/windscribe/"
   }
  ]

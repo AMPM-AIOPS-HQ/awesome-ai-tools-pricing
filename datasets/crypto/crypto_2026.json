@@ -1,7 +1,7 @@
 {
  "dataset": "crypto",
  "title": "Crypto Exchanges & Wallets (Taiwan)",
- "generated_at": "2026-09-08T04:00:01+08:00",
+ "generated_at": "2026-09-09T04:00:01+08:00",
  "source": "https://crypto.ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 25,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-09-04",
+ "last_verified_max": "2026-09-09",
  "rows": [
   {
    "slug": "bitget",
@@ -27,10 +27,10 @@
    "name": "BitoPro（幣託科技）",
    "kind": "exchange",
    "type": "本土",
-   "fee_or_price": "VIP0 現貨約 Maker 0.1% / Taker 0.2%（BITO 支付享 8 折）",
+   "fee_or_price": "VIP0 現貨 Maker 0.1% / Taker 0.2%；以 BITO 支付享 8 折＝Maker 0.08% / Taker 0.16%；網格機器人 Maker/Taker 均 0.05%。最後查核 2026-09-08，官方 API 直讀。",
    "twd_channel": "台幣入金免費、遠東商銀信託保管；出金銀行電匯，非 C2C",
    "source_url": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News",
-   "last_verified": "2026-09-03",
+   "last_verified": "2026-09-09",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/bitopro/"
   },
   {
@@ -41,7 +41,7 @@
    "fee_or_price": "VIP0 現貨 Maker/Taker 皆 0.1%（VIP 最低 0.005%/0.015%）",
    "twd_channel": "不支援台幣銀行入金；靠加密轉帳、P2P 或信用卡購幣",
    "source_url": "https://www.bybit.com/zh-TW/help-center/article/Trading-Fee-Structure",
-   "last_verified": "2026-09-04",
+   "last_verified": "2026-09-09",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/bybit/"
   },
   {
@@ -71,10 +71,10 @@
    "name": "HOYA BIT（禾亞數位科技）",
    "kind": "exchange",
    "type": "本土",
-   "fee_or_price": "現貨買賣以價差方式收費，內含約 0.2%–0.5% 支付處理費（賣出加密貨幣收台幣、買入收加密貨幣）；官方獨立費率頁未能直讀，具體級距引自 support.hoyabit.com 說明 ⚠ 上架前需官網二次核對",
+   "fee_or_price": "現貨以價差（spread）方式收費，內含約 0.2%–0.5% 支付處理費（買入收加密貨幣、賣出收台幣）。官網未設公開的獨立費率頁，級距引自 support.hoyabit.com 說明，最後查核 2026-09-08。",
    "twd_channel": "台幣出入金走銀行電匯；入金 HOYA BIT 本身不收費，銀行端另計轉帳費約 NT$15 起（綁定合作銀行可省）",
    "source_url": "https://support.hoyabit.com/transaction/%E4%BA%A4%E6%98%93%E6%89%8B%E7%BA%8C%E8%B2%BB%E5%A4%9A%E5%B0%91%EF%BC%9F-2/",
-   "last_verified": "2026-09-02",
+   "last_verified": "2026-09-08",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/hoya-bit/"
   },
   {
@@ -85,7 +85,7 @@
    "fee_or_price": "標準介面 Taker 約 0.26%；Kraken Pro 依 30 天量分級大幅較低",
    "twd_channel": "不支援台幣、無 C2C、不可台灣信用卡購台幣幣；美元靠 SWIFT/Wise（實測約 US$20 總成本）",
    "source_url": "https://www.kraken.com/features/fee-schedule",
-   "last_verified": "2026-09-04",
+   "last_verified": "2026-09-09",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/kraken/"
   },
   {
@@ -104,10 +104,10 @@
    "name": "MAX（現代財富科技／MaiCoin）",
    "kind": "exchange",
    "type": "本土",
-   "fee_or_price": "一般會員現貨 Maker/Taker 約 0.05%–0.08% / 0.15%–0.16%（依方案，MAX Token 折抵最高 5 折）",
+   "fee_or_price": "VIP0（一般會員）現貨 Maker 0.08% / Taker 0.16%；依 30 天交易量或 MAX 鎖倉量分級，最高 VIP9 可低至 Maker -0.008% / Taker 0.045%。最後查核 2026-09-08，官網費率頁直讀。",
    "twd_channel": "台幣出入金走銀行電匯/約定帳戶（本土持照管道），非 C2C",
    "source_url": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News",
-   "last_verified": "2026-09-03",
+   "last_verified": "2026-09-08",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/max-maicoin/"
   },
   {
@@ -115,10 +115,10 @@
    "name": "OKX 歐易",
    "kind": "exchange",
    "type": "國際",
-   "fee_or_price": "VIP0 約 0.08%/0.1% 區間",
+   "fee_or_price": "普通用戶現貨 Maker 0.08% / Taker 0.10%；依 30 天交易量／資產量分 VIP1–9，最高可低至 Maker -0.005% / Taker 0.015%。最後查核 2026-09-08，官網費率頁直讀。",
    "twd_channel": "無台幣 P2P、無台幣銀行出入金；多鏈上提到本土所換回台幣",
    "source_url": "https://www.okx.com/zh-hant/fees",
-   "last_verified": "2026-09-03",
+   "last_verified": "2026-09-09",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/okx/"
   },
   {
@@ -137,10 +137,10 @@
    "name": "TWEX（台灣大虛擬資產交易所／富昇數位）",
    "kind": "exchange",
    "type": "本土",
-   "fee_or_price": "交易手續費約 1.5%、預先儲值手續費約 1.2%（定期定額單筆滿 NT$100 可享免手續費優惠）⚠ 費率未見官方獨立頁面公告，引自第三方教學文，上架前需二次核對",
+   "fee_or_price": "交易手續費約 1.5%、預先儲值手續費約 1.2%（定期定額單筆滿 NT$100 可享免手續費）。官方未設公開的獨立費率頁，數據引自公開報導，最後查核 2026-09-08。",
    "twd_channel": "台幣資金信託台北富邦銀行管理；⚠ 無獨立官方網站，僅能透過「台灣大哥大 App」或「富邦證券 App」內建入口註冊與交易",
    "source_url": "https://corp.taiwanmobile.com/press-release/news/press_20260105_596379.html",
-   "last_verified": "2026-09-02",
+   "last_verified": "2026-09-08",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/twex/"
   },
   {
@@ -148,10 +148,10 @@
    "name": "XREX（鏈科）",
    "kind": "exchange",
    "type": "本土",
-   "fee_or_price": "交易手續費依 VIP 交易量分級，介於 0.05%–0.2% 之間；可加入「俱樂部」與他人共同累積交易量換取折扣 ⚠ 官網費率頁未能直讀，上架前需二次核對",
+   "fee_or_price": "交易手續費依 VIP 交易量分級，約 0.05%–0.2%；可加入「俱樂部」共同累積交易量換折扣。官網未設公開的獨立費率頁，最後查核 2026-09-08。",
    "twd_channel": "同時支援台幣與美元／美元穩定幣出入金，台幣資金與遠東銀行合作信託",
    "source_url": "https://xrex.io",
-   "last_verified": "2026-09-02",
+   "last_verified": "2026-09-08",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/xrex/"
   },
   {
@@ -159,10 +159,10 @@
    "name": "ZONE Wallet（拓荒數碼科技）",
    "kind": "exchange",
    "type": "本土",
-   "fee_or_price": "官方宣稱交易手續費約 0.01%，但買賣報價另含約 1% 價差（spread）⚠ 兩者需一併看才是實際成本，未見官方獨立費率頁，上架前需二次核對",
+   "fee_or_price": "官方宣稱交易手續費約 0.01%，但買賣報價另含約 1% 價差（spread），兩者需一併看才是實際成本。官網未設公開的獨立費率頁，最後查核 2026-09-08。",
    "twd_channel": "支援台幣出入金；入金 ZONE Wallet 本身不收費（銀行轉帳費另計），出金銀行手續費固定 NT$30",
    "source_url": "https://zonewallet.io",
-   "last_verified": "2026-09-02",
+   "last_verified": "2026-09-08",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/zone-wallet/"
   },
   {
@@ -184,7 +184,7 @@
    "fee_or_price": "Pro US$149（官網台幣約 NT$4,679）／S US$99（約 NT$3,100）／Go US$69.99",
    "twd_channel": "**台灣本土品牌**：官網台幣直購＋台灣保固（本地優勢）",
    "source_url": "https://www.coolwallet.io/",
-   "last_verified": "2026-09-04",
+   "last_verified": "2026-09-09",
    "page_url": "https://crypto.ampm-aiops.com/wallets/coolwallet-pro-s/"
   },
   {
@@ -195,7 +195,7 @@
    "fee_or_price": "官方 US$59（ledger.com 直營 Matte Black 款，schema.org 商品資料實測；台灣無官方直營，留意運費關稅）",
    "twd_channel": "官網或官方認證經銷（ledger.com/reseller 查詢）",
    "source_url": "https://shop.ledger.com/products/ledger-nano-s-plus",
-   "last_verified": "2026-08-29",
+   "last_verified": "2026-09-09",
    "page_url": "https://crypto.ampm-aiops.com/wallets/ledger-nano-s-plus/"
   },
   {
@@ -206,7 +206,7 @@
    "fee_or_price": "官方 US$79（ledger.com 直營 Onyx Black 款，schema.org 商品資料實測）",
    "twd_channel": "同官方 reseller",
    "source_url": "https://shop.ledger.com/products/ledger-nano-x",
-   "last_verified": "2026-08-29",
+   "last_verified": "2026-09-09",
    "page_url": "https://crypto.ampm-aiops.com/wallets/ledger-nano-x/"
   },
   {
@@ -217,7 +217,7 @@
    "fee_or_price": "官方 US$399（ledger.com 直營「Stax + Recovery Key」組合款，schema.org 商品資料實測）",
    "twd_channel": "同官方通路",
    "source_url": "https://shop.ledger.com/products/ledger-stax",
-   "last_verified": "2026-08-29",
+   "last_verified": "2026-09-09",
    "page_url": "https://crypto.ampm-aiops.com/wallets/ledger-stax/"
   },
   {
@@ -239,7 +239,7 @@
    "fee_or_price": "約 US$70–79（另有 Pure 無電池版、1S Duo 雙晶片版",
    "twd_channel": "台灣授權經銷 TRUE NODE（truenode.xyz）或官網直購",
    "source_url": "https://onekey.so/products/onekey-classic-1s-hardware-wallet/",
-   "last_verified": "2026-09-04",
+   "last_verified": "2026-09-09",
    "page_url": "https://crypto.ampm-aiops.com/wallets/onekey-classic-1s/"
   },
   {
