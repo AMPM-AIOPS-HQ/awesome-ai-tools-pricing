@@ -1,8 +1,8 @@
 slug,name,min_price_usd_per_month,monthly_plan_usd,money_back_days,max_devices,taiwan_servers,jurisdiction,latest_audit_year,source_url,last_verified,page_url
-cyberghost,CyberGhost VPN,2.19,12.99,45（6 個月及以上方案）/ 14（月繳）,7,True,羅馬尼亞 Romania,2024,https://www.cyberghostvpn.com/buy,2026-09-09,https://vpn.ampm-aiops.com/items/cyberghost/
-expressvpn,ExpressVPN,2.99,14.99,30,10（Basic）/ 12（Advanced）/ 14（Pro）,True,英屬維京群島 BVI,2025,https://www.expressvpn.com/pricing,2026-09-09,https://vpn.ampm-aiops.com/items/expressvpn/
-mullvad,Mullvad VPN,5.45,,14（不含現金/加密貨幣付款）,5,False,瑞典 Sweden,2025,https://mullvad.net/en/pricing,2026-09-09,https://vpn.ampm-aiops.com/items/mullvad/
+cyberghost,CyberGhost VPN,2.19,12.99,45（6 個月及以上方案）/ 14（月繳）,7,True,羅馬尼亞 Romania,2024,https://www.cyberghostvpn.com/buy,2026-09-10,https://vpn.ampm-aiops.com/items/cyberghost/
+expressvpn,ExpressVPN,2.99,14.99,30,10（Basic）/ 12（Advanced）/ 14（Pro）,True,英屬維京群島 BVI,2025,https://www.expressvpn.com/pricing,2026-09-10,https://vpn.ampm-aiops.com/items/expressvpn/
+mullvad,Mullvad VPN,5.45,,14（不含現金/加密貨幣付款）,5,False,瑞典 Sweden,2025,https://mullvad.net/en/pricing,2026-09-10,https://vpn.ampm-aiops.com/items/mullvad/
 nordvpn,NordVPN,3.09,12.99,30,10,True,巴拿馬 Panama,2025,https://nordvpn.com/pricing/,2026-09-09,https://vpn.ampm-aiops.com/items/nordvpn/
-protonvpn,Proton VPN,2.99,0,30,1（Free）/ 10（Plus/Unlimited）,True,瑞士 Switzerland,2026,https://protonvpn.com/pricing,2026-09-09,https://vpn.ampm-aiops.com/items/protonvpn/
-surfshark,Surfshark,2.08,16.45,30,unlimited,True,荷蘭 Netherlands,2025,https://surfshark.com/pricing,2026-09-09,https://vpn.ampm-aiops.com/items/surfshark/
-windscribe,Windscribe VPN,5.75,0,7（需用量低於 10GB）,unlimited,True,加拿大 Canada,2024,https://windscribe.com/upgrade,2026-09-09,https://vpn.ampm-aiops.com/items/windscribe/
+protonvpn,Proton VPN,2.99,0,30,1（Free）/ 10（Plus/Unlimited）,True,瑞士 Switzerland,2026,https://protonvpn.com/pricing,2026-09-10,https://vpn.ampm-aiops.com/items/protonvpn/
+surfshark,Surfshark,2.08,16.45,30,unlimited,True,荷蘭 Netherlands,2025,https://surfshark.com/pricing,2026-09-10,https://vpn.ampm-aiops.com/items/surfshark/
+windscribe,Windscribe VPN,5.75,0,7（需用量低於 10GB）,unlimited,True,加拿大 Canada,2024,https://windscribe.com/upgrade,2026-09-10,https://vpn.ampm-aiops.com/items/windscribe/

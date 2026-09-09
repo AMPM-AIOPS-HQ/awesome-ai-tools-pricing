@@ -1,7 +1,7 @@
 {
  "dataset": "broker",
  "title": "US Stock Brokers for Taiwan residents",
- "generated_at": "2026-09-09T04:00:01+08:00",
+ "generated_at": "2026-09-10T04:00:01+08:00",
  "source": "https://broker.ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 16,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-09-09",
+ "last_verified_max": "2026-09-10",
  "rows": [
   {
    "slug": "charles-schwab",
@@ -30,7 +30,7 @@
    "min_deposit": "無最低存款",
    "idle_fee": "無閒置費",
    "source_url": "https://www.firstrade.com/content/zh-tw/pricing",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://broker.ampm-aiops.com/items/firstrade/"
   },
   {
@@ -41,7 +41,7 @@
    "min_deposit": "無最低入金",
    "idle_fee": "無（2021 已取消月低消）",
    "source_url": "https://www.interactivebrokers.com/cn/pricing/commissions-stocks.php",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://broker.ampm-aiops.com/items/interactive-brokers/"
   },
   {
@@ -63,7 +63,7 @@
    "min_deposit": "無實質門檻（SG 行銷頁標最低入金 S$1 起）",
    "idle_fee": "官方聲明不收閒置費（集團FAQ，SG站牌告頁未列此項，一致）",
    "source_url": "https://www.itiger.com/sg/commissions",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://broker.ampm-aiops.com/items/tiger-brokers/"
   },
   {
@@ -74,7 +74,7 @@
    "min_deposit": "N/A",
    "idle_fee": "N/A",
    "source_url": "https://www.webull.com/help/faq/343-I-am-a-US-resident-What-requirements-do-I-need-to-meet-in-order-to-open-a-brokerage-account-on-Webull",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://broker.ampm-aiops.com/items/webull/"
   },
   {
@@ -85,7 +85,7 @@
    "min_deposit": "首次入金依國家（官方區間 US$10~10,000；台灣多方來源載 US$50",
    "idle_fee": "官方費用頁標示 Inactivity fee: Free",
    "source_url": "https://www.etoro.com/trading/fees/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://broker.ampm-aiops.com/items/etoro/"
   },
   {
@@ -96,7 +96,7 @@
    "min_deposit": "無最低入金",
    "idle_fee": "官方美股費用頁未列此項（SG股有季度託管費SGD2/季但已豁免，非美股項目）",
    "source_url": "https://www.moomoo.com/sg/support/topic5_395",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://broker.ampm-aiops.com/items/moomoo/"
   },
   {
@@ -107,7 +107,7 @@
    "min_deposit": "",
    "idle_fee": "",
    "source_url": "https://www.ctbcsec.com/2020/n3-subbrokerage/pdf/%E4%B8%AD%E5%9C%8B%E4%BF%A1%E8%A8%97%E7%B6%9C%E5%90%88%E8%AD%89%E5%88%B8%E5%8F%97%E8%A8%97%E8%B2%B7%E8%B3%A3%E5%A4%96%E5%9C%8B%E8%82%A1%E7%A5%A8%E6%94%B6%E8%B2%BB%E6%A8%99%E6%BA%96.pdf",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://broker.ampm-aiops.com/items/ctbc-sub-brokerage/"
   },
   {
@@ -118,7 +118,7 @@
    "min_deposit": "",
    "idle_fee": "",
    "source_url": "https://www.yuanta.com.tw/eyuanta/webfile/resourcesFile/b1348f0b-7243-4ae8-9f9d-fd8e87167a0c.pdf",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://broker.ampm-aiops.com/items/yuanta-sub-brokerage/"
   },
   {
@@ -140,7 +140,7 @@
    "min_deposit": "",
    "idle_fee": "",
    "source_url": "https://www.pocket.tw/callcenter/questions/124/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://broker.ampm-aiops.com/items/pocket-sub-brokerage/"
   },
   {
@@ -151,7 +151,7 @@
    "min_deposit": "無門檻；定期定額 US$10 可扣",
    "idle_fee": "無",
    "source_url": "https://www.cathaysec.com.tw/CathaysecUS/us_transaction_info.aspx",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://broker.ampm-aiops.com/items/cathay-sub-brokerage/"
   },
   {
@@ -173,7 +173,7 @@
    "min_deposit": "US$100或HK$1,000",
    "idle_fee": "",
    "source_url": "https://www.sinotrade.com.tw/ec/20241001/index.html",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://broker.ampm-aiops.com/items/sinopac-sub-brokerage/"
   },
   {
@@ -184,7 +184,7 @@
    "min_deposit": "",
    "idle_fee": "",
    "source_url": "https://www.esunsec.com.tw/faq/detail.aspx?id=Foreign",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://broker.ampm-aiops.com/items/esun-sub-brokerage/"
   }
  ]

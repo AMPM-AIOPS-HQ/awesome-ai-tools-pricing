@@ -1,7 +1,7 @@
 {
  "dataset": "esim",
  "title": "Travel eSIM Plans (Taiwan market)",
- "generated_at": "2026-09-09T04:00:01+08:00",
+ "generated_at": "2026-09-10T04:00:01+08:00",
  "source": "https://esim.ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 35,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-09-09",
+ "last_verified_max": "2026-09-10",
  "rows": [
   {
    "slug": "airalo",
@@ -19,7 +19,7 @@
    "plan_type": "固定流量型（1GB/3GB/5GB/10GB）",
    "hotspot": "支援（不限設備）",
    "source_url": "https://www.airalo.com/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://esim.ampm-aiops.com/items/airalo/"
   },
   {
@@ -30,7 +30,7 @@
    "plan_type": "固定流量型為主（1GB~25GB）＋長期月租型；無真正吃到飽",
    "hotspot": "支援；另有獨家「數據池共享」可多裝置多人共用同一份流量",
    "source_url": "https://www.airhubapp.com/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://esim.ampm-aiops.com/items/airhub/"
   },
   {
@@ -85,7 +85,7 @@
    "plan_type": "固定流量型＋吃到飽型（每日高速額度制）＋郵輪海上專用方案",
    "hotspot": "支援，無硬性上限",
    "source_url": "https://www.gigsky.com/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://esim.ampm-aiops.com/items/gigsky/"
   },
   {
@@ -96,7 +96,7 @@
    "plan_type": "全天數無限吃到飽",
    "hotspot": "❌ 不支援（鎖熱點）",
    "source_url": "https://holafly.com/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://esim.ampm-aiops.com/items/holafly/"
   },
   {
@@ -184,7 +184,7 @@
    "plan_type": "彈性 GB 流量計費",
    "hotspot": "支援",
    "source_url": "https://www.nomadesim.com/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://esim.ampm-aiops.com/items/nomad/"
   },
   {
@@ -195,7 +195,7 @@
    "plan_type": "固定流量型（1GB~50GB）＋每日重置無限型（PREMIUM 每日 10GB 高速）",
    "hotspot": "官方列為服務特色，但未逐方案標明，購買前需在方案頁確認",
    "source_url": "https://www.redteago.com/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://esim.ampm-aiops.com/items/redteago/"
   },
   {
@@ -239,7 +239,7 @@
    "plan_type": "代售平台三型都有：每日流量包＋吃到飽型＋總量型（依商品而異）",
    "hotspot": "多數商品可開，但依個別供應商而定、無統一公告",
    "source_url": "https://www.trip.com/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://esim.ampm-aiops.com/items/tripcom-esim/"
   },
   {
@@ -294,7 +294,7 @@
    "plan_type": "固定流量＋吃到飽＋按量計費＋逐日型，型態最多元",
    "hotspot": "支援（分享流量同樣計入額度）",
    "source_url": "https://yesim.app/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://esim.ampm-aiops.com/items/yesim/"
   },
   {
@@ -316,7 +316,7 @@
    "plan_type": "跨國混合型",
    "hotspot": "支援",
    "source_url": "https://esimx.com/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://esim.ampm-aiops.com/items/esimx/"
   },
   {
@@ -327,7 +327,7 @@
    "plan_type": "每日重置型（原生門號漫遊，非 eSIM 商品）：每日 2GB 後降速",
    "hotspot": "官方稱支援，但註明可否使用視註冊之漫遊網而定，非保證所有地區",
    "source_url": "https://www.cht.com.tw/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://esim.ampm-aiops.com/items/cht-roaming/"
   },
   {
@@ -349,7 +349,7 @@
    "plan_type": "每日重置型（原生門號漫遊，非 eSIM 商品）：每日 2GB 後降速",
    "hotspot": "官方未逐方案明確公告，以客服確認為準",
    "source_url": "https://www.taiwanmobile.com/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://esim.ampm-aiops.com/items/twm-roaming/"
   },
   {
@@ -393,7 +393,7 @@
    "plan_type": "吃到飽型（旋風卡系列）＋每日流量型（小旋風卡系列）",
    "hotspot": "支援，但 eSIM 需手動修改 APN 設定才能開熱點，對新手不友善",
    "source_url": "https://www.traveltobuys.com/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-10",
    "page_url": "https://esim.ampm-aiops.com/items/traveltobuy/"
   }
  ]
