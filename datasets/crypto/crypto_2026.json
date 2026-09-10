@@ -1,7 +1,7 @@
 {
  "dataset": "crypto",
  "title": "Crypto Exchanges & Wallets (Taiwan)",
- "generated_at": "2026-09-10T04:00:01+08:00",
+ "generated_at": "2026-09-11T04:00:01+08:00",
  "source": "https://crypto.ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 25,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-09-09",
+ "last_verified_max": "2026-09-11",
  "rows": [
   {
    "slug": "bitget",
@@ -30,7 +30,7 @@
    "fee_or_price": "VIP0 現貨 Maker 0.1% / Taker 0.2%；以 BITO 支付享 8 折＝Maker 0.08% / Taker 0.16%；網格機器人 Maker/Taker 均 0.05%。最後查核 2026-09-08，官方 API 直讀。",
    "twd_channel": "台幣入金免費、遠東商銀信託保管；出金銀行電匯，非 C2C",
    "source_url": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-11",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/bitopro/"
   },
   {
@@ -41,7 +41,7 @@
    "fee_or_price": "VIP0 現貨 Maker/Taker 皆 0.1%（VIP 最低 0.005%/0.015%）",
    "twd_channel": "不支援台幣銀行入金；靠加密轉帳、P2P 或信用卡購幣",
    "source_url": "https://www.bybit.com/zh-TW/help-center/article/Trading-Fee-Structure",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-11",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/bybit/"
   },
   {
@@ -85,7 +85,7 @@
    "fee_or_price": "標準介面 Taker 約 0.26%；Kraken Pro 依 30 天量分級大幅較低",
    "twd_channel": "不支援台幣、無 C2C、不可台灣信用卡購台幣幣；美元靠 SWIFT/Wise（實測約 US$20 總成本）",
    "source_url": "https://www.kraken.com/features/fee-schedule",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-11",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/kraken/"
   },
   {
@@ -118,7 +118,7 @@
    "fee_or_price": "普通用戶現貨 Maker 0.08% / Taker 0.10%；依 30 天交易量／資產量分 VIP1–9，最高可低至 Maker -0.005% / Taker 0.015%。最後查核 2026-09-08，官網費率頁直讀。",
    "twd_channel": "無台幣 P2P、無台幣銀行出入金；多鏈上提到本土所換回台幣",
    "source_url": "https://www.okx.com/zh-hant/fees",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-11",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/okx/"
   },
   {
@@ -162,7 +162,7 @@
    "fee_or_price": "官方宣稱交易手續費約 0.01%，但買賣報價另含約 1% 價差（spread），兩者需一併看才是實際成本。官網未設公開的獨立費率頁，最後查核 2026-09-08。",
    "twd_channel": "支援台幣出入金；入金 ZONE Wallet 本身不收費（銀行轉帳費另計），出金銀行手續費固定 NT$30",
    "source_url": "https://zonewallet.io",
-   "last_verified": "2026-09-08",
+   "last_verified": "2026-09-10",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/zone-wallet/"
   },
   {
@@ -173,7 +173,7 @@
    "fee_or_price": "VIP0 現貨 Maker/Taker 皆 0.100%（BNB 折扣、30 天量分級）",
    "twd_channel": "無台幣銀行直接出入金；多透過第三方支付/P2P 換 USDT 轉入，場外風險自負",
    "source_url": "https://www.binance.com/zh-TC/fee/schedule",
-   "last_verified": "2026-09-03",
+   "last_verified": "2026-09-10",
    "page_url": "https://crypto.ampm-aiops.com/exchanges/binance/"
   },
   {
@@ -184,7 +184,7 @@
    "fee_or_price": "Pro US$149（官網台幣約 NT$4,679）／S US$99（約 NT$3,100）／Go US$69.99",
    "twd_channel": "**台灣本土品牌**：官網台幣直購＋台灣保固（本地優勢）",
    "source_url": "https://www.coolwallet.io/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-11",
    "page_url": "https://crypto.ampm-aiops.com/wallets/coolwallet-pro-s/"
   },
   {
@@ -195,7 +195,7 @@
    "fee_or_price": "官方 US$59（ledger.com 直營 Matte Black 款，schema.org 商品資料實測；台灣無官方直營，留意運費關稅）",
    "twd_channel": "官網或官方認證經銷（ledger.com/reseller 查詢）",
    "source_url": "https://shop.ledger.com/products/ledger-nano-s-plus",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-11",
    "page_url": "https://crypto.ampm-aiops.com/wallets/ledger-nano-s-plus/"
   },
   {
@@ -206,7 +206,7 @@
    "fee_or_price": "官方 US$79（ledger.com 直營 Onyx Black 款，schema.org 商品資料實測）",
    "twd_channel": "同官方 reseller",
    "source_url": "https://shop.ledger.com/products/ledger-nano-x",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-11",
    "page_url": "https://crypto.ampm-aiops.com/wallets/ledger-nano-x/"
   },
   {
@@ -217,7 +217,7 @@
    "fee_or_price": "官方 US$399（ledger.com 直營「Stax + Recovery Key」組合款，schema.org 商品資料實測）",
    "twd_channel": "同官方通路",
    "source_url": "https://shop.ledger.com/products/ledger-stax",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-11",
    "page_url": "https://crypto.ampm-aiops.com/wallets/ledger-stax/"
   },
   {
@@ -239,7 +239,7 @@
    "fee_or_price": "約 US$70–79（另有 Pure 無電池版、1S Duo 雙晶片版",
    "twd_channel": "台灣授權經銷 TRUE NODE（truenode.xyz）或官網直購",
    "source_url": "https://onekey.so/products/onekey-classic-1s-hardware-wallet/",
-   "last_verified": "2026-09-09",
+   "last_verified": "2026-09-11",
    "page_url": "https://crypto.ampm-aiops.com/wallets/onekey-classic-1s/"
   },
   {
