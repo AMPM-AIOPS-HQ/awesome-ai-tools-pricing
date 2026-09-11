@@ -1,7 +1,7 @@
 {
  "dataset": "cards",
  "title": "Taiwan Credit Cards",
- "generated_at": "2026-09-11T04:00:01+08:00",
+ "generated_at": "2026-09-12T04:00:01+08:00",
  "source": "https://cards.ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 163,
  "excluded_below_threshold": 31,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-09-10",
+ "last_verified_max": "2026-09-11",
  "rows": [
   {
    "slug": "ctbc-linepay",
@@ -416,7 +416,7 @@
    "revolving_rate": "年息1%~15%（以新臺幣一年期定儲固定利率為基礎加碼、電腦評等差別定價，上限15%，基準日 114 年 1 月 1 日）",
    "cash_advance_fee": "預借金額×3% ＋ 新臺幣150元（網路申辦×3%，最低新臺幣100元）",
    "source_url": "https://www.megabank.com.tw/personal/credit-card/legal-announcemet/revolving-credit-fee",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/megabank-e-second/"
   },
   {
@@ -500,7 +500,7 @@
    "revolving_rate": "6.25%~15%（依本行電腦評等定期評定之差別循環信用年利率）",
    "cash_advance_fee": "每筆 預借金額×3.5% ＋ 新臺幣100元／3.5美元／350日圓／3歐元",
    "source_url": "https://www.kgibank.com.tw/zh-tw/personal/credit-card",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/kgi-mobuy/"
   },
   {
@@ -512,7 +512,7 @@
    "revolving_rate": "6.25%~15%（依本行電腦評等定期評定之差別循環信用年利率）",
    "cash_advance_fee": "每筆 預借金額×3.5% ＋ 新臺幣100元／3.5美元／350日圓／3歐元",
    "source_url": "https://www.kgibank.com.tw/zh-tw/personal/credit-card",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/kgi-morebuy/"
   },
   {
@@ -524,7 +524,7 @@
    "revolving_rate": "6.25%~15%（依本行電腦評等定期評定之差別循環信用年利率）",
    "cash_advance_fee": "每筆 預借金額×3.5% ＋ 新臺幣100元／3.5美元／350日圓／3歐元",
    "source_url": "https://www.kgibank.com.tw/zh-tw/personal/credit-card",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/kgi-magicbuy-easycard/"
   },
   {
@@ -800,7 +800,7 @@
    "revolving_rate": "2.88%~15%（差別循環信用利率，一般消費及預借現金適用，依電腦評等而定，循環利率基準日 115/1/2）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/taishin-gogoro/"
   },
   {
@@ -824,7 +824,7 @@
    "revolving_rate": "2.88%~15%（差別循環信用利率，一般消費及預借現金適用，依電腦評等而定，循環利率基準日 115/1/2）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/taishin-pxmart/"
   },
   {
@@ -896,7 +896,7 @@
    "revolving_rate": "2.88%~15%（差別循環信用利率，一般消費及預借現金適用，依電腦評等而定，循環利率基準日 115/1/2）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/taishin-jkopay/"
   },
   {
@@ -992,7 +992,7 @@
    "revolving_rate": "6.75%~15%（依本行信用評分制度定期評估，循環利率基準日 104 年 9 月 1 日）",
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathaybk.com.tw/cathaybk/personal/about/news/charge-standard/",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/cathay-7eleven/"
   },
   {
@@ -1004,7 +1004,7 @@
    "revolving_rate": "6.75%~15%（依本行信用評分制度定期評估，循環利率基準日 104 年 9 月 1 日）",
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/cube",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/cathay-cube/"
   },
   {
@@ -1016,7 +1016,7 @@
    "revolving_rate": "6.75%~15%（依本行信用評分制度定期評估，循環利率基準日 104 年 9 月 1 日）",
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/koko-icash",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/cathay-koko-legacy/"
   },
   {
@@ -1112,7 +1112,7 @@
    "revolving_rate": "5.99%~14.99%（依個人信用狀況分級，循環利率基準日 民國113年6月28日）",
    "cash_advance_fee": null,
    "source_url": "https://www.dbs.com.tw/iwov-resources/pdf/LegalDisclaimersandAnnouncements/01_personal_finance/04_creditcards/Cardbook.pdf",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/dbs-eco/"
   },
   {
@@ -1160,7 +1160,7 @@
    "revolving_rate": "5%~15%（循環利率基準日 2023/3/3）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/sinopac-dawho/"
   },
   {
@@ -1172,7 +1172,7 @@
    "revolving_rate": "5%~15%（循環利率基準日 2023/3/3）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/sinopac-dawho-cashback/"
   },
   {
@@ -1184,7 +1184,7 @@
    "revolving_rate": "5%~15%（循環利率基準日 2023/3/3）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/sinopac-sport/"
   },
   {
@@ -1196,7 +1196,7 @@
    "revolving_rate": "5%~15%（循環利率基準日 2023/3/3）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/sinopac-sport-signature/"
   },
   {
@@ -1208,7 +1208,7 @@
    "revolving_rate": "5%~15%（循環利率基準日 2023/3/3）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/sinopac-insurance/"
   },
   {
@@ -1220,7 +1220,7 @@
    "revolving_rate": "5%~15%（循環利率基準日 2023/3/3）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/sinopac-beibi/"
   },
   {
@@ -1232,7 +1232,7 @@
    "revolving_rate": "5%~15%（循環利率基準日 2023/3/3）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/sinopac-jcb-cashback/"
   },
   {
@@ -1244,7 +1244,7 @@
    "revolving_rate": "5%~15%（循環利率基準日 2023/3/3）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/sinopac-dawho-debit/"
   },
   {
@@ -1268,7 +1268,7 @@
    "revolving_rate": "7.9%~15%（一般消費及預借現金適用之差別循環信用年利率，上限15%）",
    "cash_advance_fee": "預借金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://www.sc.com/tw/frequently-asked-questions/credit-cards/",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/scb-simply/"
   },
   {
@@ -1280,7 +1280,7 @@
    "revolving_rate": "7.9%~15%（一般消費及預借現金適用之差別循環信用年利率，上限15%）",
    "cash_advance_fee": "預借金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://www.sc.com/tw/frequently-asked-questions/credit-cards/",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/scb-cashback-signature/"
   },
   {
@@ -1292,7 +1292,7 @@
    "revolving_rate": "7.9%~15%（一般消費及預借現金適用之差別循環信用年利率，上限15%）",
    "cash_advance_fee": "預借金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://www.sc.com/tw/frequently-asked-questions/credit-cards/",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/scb-cashback-platinum/"
   },
   {
@@ -1328,7 +1328,7 @@
    "revolving_rate": "5.68%~15.00%（依個人信用狀況分級，循環利率基準日 104 年 9 月 1 日）",
    "cash_advance_fee": "每筆 新臺幣100元 ＋ 預借現金金額×3.5%",
    "source_url": "https://shop.hsbc.com.tw/installments/creditcard/Official/cards-finance/6-4-2/cards-raised_notice_credit-card-faq.html",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/hsbc-visa-signature/"
   },
   {
@@ -1340,7 +1340,7 @@
    "revolving_rate": "5.68%~15.00%（依個人信用狀況分級，循環利率基準日 104 年 9 月 1 日）",
    "cash_advance_fee": "每筆 新臺幣100元 ＋ 預借現金金額×3.5%",
    "source_url": "https://shop.hsbc.com.tw/installments/creditcard/Official/cards-finance/6-4-2/cards-raised_notice_credit-card-faq.html",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/hsbc-cashback-signature/"
   },
   {
@@ -1352,7 +1352,7 @@
    "revolving_rate": "5.68%~15.00%（依個人信用狀況分級，循環利率基準日 104 年 9 月 1 日）",
    "cash_advance_fee": "每筆 新臺幣100元 ＋ 預借現金金額×3.5%",
    "source_url": "https://shop.hsbc.com.tw/installments/creditcard/Official/cards-finance/6-4-2/cards-raised_notice_credit-card-faq.html",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/hsbc-live-plus/"
   },
   {
@@ -1376,7 +1376,7 @@
    "revolving_rate": "5.68%~15.00%（依個人信用狀況分級，循環利率基準日 104 年 9 月 1 日）",
    "cash_advance_fee": "每筆 新臺幣100元 ＋ 預借現金金額×3.5%",
    "source_url": "https://shop.hsbc.com.tw/installments/creditcard/Official/cards-finance/6-4-2/cards-raised_notice_credit-card-faq.html",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/hsbc-everydayplus/"
   },
   {
@@ -1388,7 +1388,7 @@
    "revolving_rate": "5.68%~15.00%（依個人信用狀況分級，循環利率基準日 104 年 9 月 1 日）",
    "cash_advance_fee": "每筆 新臺幣100元 ＋ 預借現金金額×3.5%",
    "source_url": "https://shop.hsbc.com.tw/installments/creditcard/Official/cards-finance/6-4-2/cards-raised_notice_credit-card-faq.html",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/hsbc-travel-signature/"
   },
   {
@@ -1400,7 +1400,7 @@
    "revolving_rate": "5.88%~15%（依本行電腦評等而訂，循環利率基準日 2015/9/1）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://event.esunbank.com.tw/credit/unicard/index.html",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/esun-unicard/"
   },
   {
@@ -1736,7 +1736,7 @@
    "revolving_rate": "5%~15%（依個人信用狀況分級，循環利率基準日 104 年 9 月 1 日）",
    "cash_advance_fee": "每筆 預借現金金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://card.ubot.com.tw/Payment/Faq_q-4",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/ubot-jiho/"
   },
   {
@@ -1760,7 +1760,7 @@
    "revolving_rate": "5%~15%（依個人信用狀況分級，循環利率基準日 104 年 9 月 1 日）",
    "cash_advance_fee": "每筆 預借現金金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://card.ubot.com.tw/Payment/Faq_q-4",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "page_url": "https://cards.ampm-aiops.com/items/ubot-laipoint/"
   },
   {

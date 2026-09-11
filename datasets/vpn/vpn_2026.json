@@ -1,7 +1,7 @@
 {
  "dataset": "vpn",
  "title": "VPN Pricing & Audits (Taiwan)",
- "generated_at": "2026-09-11T04:00:01+08:00",
+ "generated_at": "2026-09-12T04:00:01+08:00",
  "source": "https://vpn.ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 7,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-09-11",
+ "last_verified_max": "2026-09-12",
  "rows": [
   {
    "slug": "cyberghost",
@@ -22,7 +22,7 @@
    "jurisdiction": "羅馬尼亞 Romania",
    "latest_audit_year": 2024,
    "source_url": "https://www.cyberghostvpn.com/buy",
-   "last_verified": "2026-09-11",
+   "last_verified": "2026-09-12",
    "page_url": "https://vpn.ampm-aiops.com/items/cyberghost/"
   },
   {
@@ -36,7 +36,7 @@
    "jurisdiction": "英屬維京群島 BVI",
    "latest_audit_year": 2025,
    "source_url": "https://www.expressvpn.com/pricing",
-   "last_verified": "2026-09-11",
+   "last_verified": "2026-09-12",
    "page_url": "https://vpn.ampm-aiops.com/items/expressvpn/"
   },
   {
@@ -50,7 +50,7 @@
    "jurisdiction": "瑞典 Sweden",
    "latest_audit_year": 2025,
    "source_url": "https://mullvad.net/en/pricing",
-   "last_verified": "2026-09-11",
+   "last_verified": "2026-09-12",
    "page_url": "https://vpn.ampm-aiops.com/items/mullvad/"
   },
   {
@@ -78,7 +78,7 @@
    "jurisdiction": "瑞士 Switzerland",
    "latest_audit_year": 2026,
    "source_url": "https://protonvpn.com/pricing",
-   "last_verified": "2026-09-11",
+   "last_verified": "2026-09-12",
    "page_url": "https://vpn.ampm-aiops.com/items/protonvpn/"
   },
   {
@@ -92,7 +92,7 @@
    "jurisdiction": "荷蘭 Netherlands",
    "latest_audit_year": 2025,
    "source_url": "https://surfshark.com/pricing",
-   "last_verified": "2026-09-11",
+   "last_verified": "2026-09-12",
    "page_url": "https://vpn.ampm-aiops.com/items/surfshark/"
   },
   {
@@ -106,7 +106,7 @@
    "jurisdiction": "加拿大 Canada",
    "latest_audit_year": 2024,
    "source_url": "https://windscribe.com/upgrade",
-   "last_verified": "2026-09-11",
+   "last_verified": "2026-09-12",
    "page_url": "https://vpn.ampm-aiops.com/items/windscribe/"
   }
  ]

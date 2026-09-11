@@ -1,7 +1,7 @@
 {
  "dataset": "crypto",
  "title": "Crypto Exchanges & Wallets (Taiwan)",
- "generated_at": "2026-09-11T04:00:01+08:00",
+ "generated_at": "2026-09-12T04:00:01+08:00",
  "source": "https://crypto.ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -126,7 +126,7 @@
    "name": "Pionex 派網",
    "kind": "exchange",
    "type": "國際",
-   "fee_or_price": "現貨 Maker/Taker 皆 0.05%（一般會員與VIP同價，VIP門檻為帳戶資產逾US,000）；網格交易機器人手續費另計",
+   "fee_or_price": "現貨 Maker/Taker 皆 0.05%（一般會員與VIP同價，VIP門檻為帳戶資產逾US$10,000）；網格交易機器人手續費另計",
    "twd_channel": "",
    "source_url": "https://www.sfb.gov.tw/ch/home.jsp?id=1053&parentpath=0%2C8%2C1053",
    "last_verified": "2026-09-03",
