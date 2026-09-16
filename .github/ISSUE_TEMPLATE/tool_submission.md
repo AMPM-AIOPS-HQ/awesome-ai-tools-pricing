@@ -7,7 +7,9 @@ assignees: ""
 ---
 
 <!-- Issues are public. Do not post private contact details, credentials or customer data. -->
-<!-- 本 Issue 公開。私人聯絡信箱、優先查核報價請另寄 info@ampm-aiops.com。 -->
+<!-- 本 Issue 公開。請勿張貼私人聯絡資料、帳號密碼或客戶資料；需要私下聯繫請寄 info@ampm-aiops.com。 -->
+<!-- 本站不提供付費收錄、付費優先查核或贊助排名。收錄與評分一律依官方證據判定。 -->
+<!-- We do not offer paid listings, paid priority review or sponsored rankings. Inclusion and scoring are based solely on official evidence. -->
 
 ## 工具基本資料 / Tool details
 - 工具名稱 / Name:
@@ -40,10 +42,10 @@ assignees: ""
 
 ## 聯絡 / Contact
 - 可在此公開 Issue 回覆 / Reply in this public issue: 是 / Yes
-- 私人聯絡方式請另寄 info@ampm-aiops.com，並附 Issue 網址。
+- 需要私下聯繫請寄 info@ampm-aiops.com，並附 Issue 網址。（本站不接受付費收錄或優先查核委託）
 
 ## 申請確認 / Acknowledgements
 - [ ] 我已搜尋既有 Issue 與工具清單，避免重複提交。 / I checked existing issues and listings.
 - [ ] 我未把年繳月均價當成月繳牌價；官方未公布的項目已標示未知。 / Unknowns and billing periods are explicit.
-- [ ] 我理解提交不保證收錄；付費優先查核不影響評分或收錄標準。 / Submission or priority review does not guarantee listing or affect scores.
+- [ ] 我理解提交不保證收錄，收錄與評分一律依官方證據判定。 / Submission does not guarantee listing; inclusion and scoring are based solely on official evidence.
 - [ ] 我未提交密碼、API 金鑰或非公開個資。 / No credentials or private personal data are included.
