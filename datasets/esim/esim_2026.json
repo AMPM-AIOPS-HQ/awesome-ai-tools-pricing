@@ -1,7 +1,7 @@
 {
  "dataset": "esim",
  "title": "Travel eSIM Plans (Taiwan market)",
- "generated_at": "2026-09-25T04:00:01+08:00",
+ "generated_at": "2026-09-26T04:00:01+08:00",
  "source": "https://esim.ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,17 +9,17 @@
  "row_count": 35,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-09-25",
+ "last_verified_max": "2026-09-26",
  "rows": [
   {
    "slug": "airalo",
    "name": "Airalo",
    "region": "全球通用 / 日韓歐美",
    "price_twd": "NT$ 150 ～ 980 元",
-   "plan_type": "固定流量型（1GB/3GB/5GB/10GB）",
+   "plan_type": "固定流量型（1GB/3GB/5GB/10GB）＋吃到飽型（日本 3／5／7／10／15／30 天，US$11.50～69.00，官網 2026-09-25）",
    "hotspot": "支援（不限設備）",
    "source_url": "https://www.airalo.com/",
-   "last_verified": "2026-09-25",
+   "last_verified": "2026-09-26",
    "page_url": "https://esim.ampm-aiops.com/items/airalo/"
   },
   {
@@ -27,16 +27,16 @@
    "name": "Airhub",
    "region": "全球 190+ 國",
    "price_twd": "NT$ 60 ～ 1,150 元（全球 1GB/7 天 US$4.99、25GB 月租 US$36）",
-   "plan_type": "固定流量型為主（1GB~25GB）＋長期月租型；無真正吃到飽",
+   "plan_type": "固定流量型為主（1GB~25GB）＋長期月租型；部分地區有吃到飽（如越南 Unltd.／10 天，官網首頁 2026-09-25）",
    "hotspot": "支援；另有獨家「數據池共享」可多裝置多人共用同一份流量",
    "source_url": "https://www.airhubapp.com/",
-   "last_verified": "2026-09-25",
+   "last_verified": "2026-09-26",
    "page_url": "https://esim.ampm-aiops.com/items/airhub/"
   },
   {
    "slug": "bnesim",
    "name": "BNESIM",
-   "region": "全球 175+ 國",
+   "region": "全球 200+ 國（官網 2026-09-25）",
    "price_twd": "NT$ 21 ～ 16,000+ 元（方案 US$0.65~502，整體屬高價位）",
    "plan_type": "固定流量型（含永久不過期長效方案）＋無限流量型＋門號語音組合",
    "hotspot": "無限方案不支援；固定流量方案依評測可支援，官方未逐方案公告",
@@ -49,7 +49,7 @@
    "name": "DJB 暢日卡",
    "region": "日本 / 韓國",
    "price_twd": "NT$ 290 ～ 850 元",
-   "plan_type": "真吃到飽（不降速）",
+   "plan_type": "暢日卡 PLUS／ULTRA：吃到飽不降速；暢日卡（基本款）：無限流量吃到飽但須遵守公平使用原則；另有遊日卡每日 500MB／1GB 型（日本方案表，官網 2026-09-25）",
    "hotspot": "支援（建議自用）",
    "source_url": "https://djbcard.com/",
    "last_verified": "2026-08-25",
@@ -58,8 +58,8 @@
   {
    "slug": "firsty",
    "name": "Firsty",
-   "region": "免費層：北美/歐洲/亞太；付費層 170 國同一價",
-   "price_twd": "免費層 NT$0（看廣告換連線）；Classic 每 GB 約 36 元起；Unlimited 每日約 74 元起",
+   "region": "免費層：北美/歐洲/亞太；付費層 176 國同一價（官網 2026-09-25）",
+   "price_twd": "免費層 NT$0（看廣告換連線）；Classic 每 GB €0.98 起；Unlimited 每日 €2 起（官網 2026-09-25，歐元計價）",
    "plan_type": "免費層＝每日重置 300MB 低速；Classic＝固定流量；Unlimited＝每日重置吃到飽",
    "hotspot": "免費層不可（官方明示需升級付費）；付費方案可以",
    "source_url": "https://www.firsty.app/",
@@ -85,7 +85,7 @@
    "plan_type": "固定流量型＋吃到飽型（每日高速額度制）＋郵輪海上專用方案",
    "hotspot": "支援，無硬性上限",
    "source_url": "https://www.gigsky.com/",
-   "last_verified": "2026-09-25",
+   "last_verified": "2026-09-26",
    "page_url": "https://esim.ampm-aiops.com/items/gigsky/"
   },
   {
@@ -94,9 +94,9 @@
    "region": "歐美 / 日本 / 全球",
    "price_twd": "NT$ 590 ～ 1,890 元",
    "plan_type": "全天數無限吃到飽",
-   "hotspot": "❌ 不支援（鎖熱點）",
+   "hotspot": "",
    "source_url": "https://holafly.com/",
-   "last_verified": "2026-09-25",
+   "last_verified": "2026-09-26",
    "page_url": "https://esim.ampm-aiops.com/items/holafly/"
   },
   {
@@ -113,7 +113,7 @@
   {
    "slug": "jetpac",
    "name": "Jetpac",
-   "region": "全球 100+ 國",
+   "region": "全球 200+ 國（官網 2026-09-25）",
    "price_twd": "NT$ 220 ～ 890 元",
    "plan_type": "跨國天數包 / 流量包",
    "hotspot": "支援",
@@ -137,7 +137,7 @@
    "name": "KKday 吃到飽eSIM",
    "region": "日本 / 韓國 / 東南亞",
    "price_twd": "NT$ 120 ～ 650 元",
-   "plan_type": "每日 1GB/2GB 後降速型",
+   "plan_type": "每日高速型（500MB／1GB／2GB）＋總量型（5GB／10GB／20GB）＋不限流量吃到飽（日本 eSIM 商品頁，官網 2026-09-25）",
    "hotspot": "支援",
    "source_url": "https://www.kkday.com/",
    "last_verified": "2026-08-25",
@@ -161,7 +161,7 @@
    "price_twd": "NT$ 320 ～ 1,600 元（全球無限 3 天 US$9.99、30 天 US$49.99）",
    "plan_type": "每日重置準吃到飽（每日 4GB 高速）＋固定流量型（1GB~20GB+）",
    "hotspot": "全方案支援（含無限方案），同類準吃到飽中少見",
-   "source_url": "https://mayamobile.com/",
+   "source_url": "https://maya.net/",
    "last_verified": "2026-08-27",
    "page_url": "https://esim.ampm-aiops.com/items/maya-mobile/"
   },
@@ -184,7 +184,7 @@
    "plan_type": "彈性 GB 流量計費",
    "hotspot": "支援",
    "source_url": "https://www.nomadesim.com/",
-   "last_verified": "2026-09-25",
+   "last_verified": "2026-09-26",
    "page_url": "https://esim.ampm-aiops.com/items/nomad/"
   },
   {
@@ -195,7 +195,7 @@
    "plan_type": "固定流量型（1GB~50GB）＋每日重置無限型（PREMIUM 每日 10GB 高速）",
    "hotspot": "官方列為服務特色，但未逐方案標明，購買前需在方案頁確認",
    "source_url": "https://www.redteago.com/",
-   "last_verified": "2026-09-25",
+   "last_verified": "2026-09-26",
    "page_url": "https://esim.ampm-aiops.com/items/redteago/"
   },
   {
@@ -257,8 +257,8 @@
    "slug": "ubigi",
    "name": "Ubigi",
    "region": "全球約 190 國 / 日本為招牌",
-   "price_twd": "NT$ 64 ～ 2,080 元（歐洲 500MB 約 US$2 起；日本吃到飽 7 天 US$25）",
-   "plan_type": "固定流量型＋吃到飽型（7/15/30 天，另有月租續約型）",
+   "price_twd": "NT$ 64 ～ 2,080 元（歐洲 500MB 約 US$2 起；日本吃到飽 8 天 US$25（官網 2026-09-25））",
+   "plan_type": "固定流量型＋吃到飽型（日本 8/15/30 天，另有月租續約型）",
    "hotspot": "支援，官方明示可多裝置分享、不另收費",
    "source_url": "https://www.ubigi.com/",
    "last_verified": "2026-08-27",
@@ -270,7 +270,7 @@
    "region": "日本 / 韓國 / 中港澳 / 東南亞 / 歐美",
    "price_twd": "eSIM 約 59 ～ 299 元/天（日本吃到飽最低 59 元/天起）；常態有九折折扣碼",
    "plan_type": "高速吃到飽＋每日限量高速（每日 1GB/2GB/3GB 超量降速隔日重置）＋固定流量",
-   "hotspot": "高速吃到飽方案可開（官方與實測均載明）",
+   "hotspot": "高速吃到飽方案可開（官方載明）",
    "source_url": "https://waysim.net/",
    "last_verified": "2026-08-27",
    "page_url": "https://esim.ampm-aiops.com/items/waysim/"
@@ -290,11 +290,11 @@
    "slug": "yesim",
    "name": "Yesim",
    "region": "全球 200+ 國 / 歐洲最強",
-   "price_twd": "NT$ 20 ～ 2,000 元（按量計費 US$0.54 起；歐洲吃到飽 30 天約 US$18~22）",
+   "price_twd": "NT$ 20 ～ 2,000 元（按量計費每 GB US$1.10 起（官網 2026-09-25）；歐洲吃到飽 30 天約 US$18~22）",
    "plan_type": "固定流量＋吃到飽＋按量計費＋逐日型，型態最多元",
    "hotspot": "支援（分享流量同樣計入額度）",
    "source_url": "https://yesim.app/",
-   "last_verified": "2026-09-25",
+   "last_verified": "2026-09-26",
    "page_url": "https://esim.ampm-aiops.com/items/yesim/"
   },
   {
@@ -311,12 +311,12 @@
   {
    "slug": "esimx",
    "name": "eSimX",
-   "region": "全球 150+ 國",
+   "region": "全球 190+ 國（官網 2026-09-25）",
    "price_twd": "NT$ 180 ～ 790 元",
    "plan_type": "跨國混合型",
    "hotspot": "支援",
    "source_url": "https://esimx.com/",
-   "last_verified": "2026-09-25",
+   "last_verified": "2026-09-26",
    "page_url": "https://esim.ampm-aiops.com/items/esimx/"
   },
   {
@@ -327,7 +327,7 @@
    "plan_type": "每日重置型（原生門號漫遊，非 eSIM 商品）：每日 2GB 後降速",
    "hotspot": "官方稱支援，但註明可否使用視註冊之漫遊網而定，非保證所有地區",
    "source_url": "https://www.cht.com.tw/",
-   "last_verified": "2026-09-25",
+   "last_verified": "2026-09-26",
    "page_url": "https://esim.ampm-aiops.com/items/cht-roaming/"
   },
   {
@@ -336,7 +336,7 @@
    "region": "日本/韓國/中港澳蒙古/東南亞(泰越星馬印)/歐洲/土耳其/紐澳/美加墨/中東北非，另有郵輪與轉機專用方案",
    "price_twd": "NT$ 79 ～ 1,729 元（依國家/天數/流量不同，促銷後常見 NT$239~830；另有 365 天年卡方案）",
    "plan_type": "三型並存：固定總流量型（5GB/10GB/20GB）、每日重置型（每天1GB/2GB）、吃到飽型（依國家可選）",
-   "hotspot": "視方案而定非全面支援（如日本KDDI吃到飽支援但熱點以「天數-1」計算，同國其他方案不支援），官方無統一跨國熱點政策",
+   "hotspot": "視方案而定非全面支援（如日本KDDI吃到飽支援但熱點以「天數-1」計算，同國其他方案不支援），官方無統一跨國熱點政策（KDDI 吃到飽「天數-1」：官網 2026-09-25）",
    "source_url": "https://www.esimpass.net/",
    "last_verified": "2026-08-28",
    "page_url": "https://esim.ampm-aiops.com/items/esimpass/"
@@ -345,11 +345,11 @@
    "slug": "twm-roaming",
    "name": "台灣大哥大 漫遊日租",
    "region": "全球多國型＋分區計價（日韓 / 東南亞 / 中港澳 / 歐美）",
-   "price_twd": "每日 299 元（促銷約 99~219 元/日；日本單日 399 元、4 天以上降為每日 199 元）",
+   "price_twd": "計日型：全球多國日租 $399／日、$299／日（每日 2GB 後降速）、亞洲多國 4~60 日型 $199／日、4~30 日型 $149／日（促銷至 2026/12/31）；總量型 15 日 $149／1GB 起（官網 2026-09-25）",
    "plan_type": "每日重置型（原生門號漫遊，非 eSIM 商品）：每日 2GB 後降速",
    "hotspot": "官方未逐方案明確公告，以客服確認為準",
    "source_url": "https://www.taiwanmobile.com/",
-   "last_verified": "2026-09-25",
+   "last_verified": "2026-09-26",
    "page_url": "https://esim.ampm-aiops.com/items/twm-roaming/"
   },
   {
@@ -367,9 +367,9 @@
    "slug": "fet-roaming",
    "name": "遠傳原號漫遊",
    "region": "全球主要旅遊國（日韓泰為主打促銷區）",
-   "price_twd": "韓泰計日型每日 99 元起（限 4 天以上月租用戶）、日本每日 199 元起、單日型 199~299 元；計量型 149 元/1GB 起",
+   "price_twd": "韓泰計日型每日 99 元起（限 4 天以上月租用戶）、日本 4~30 天計日型每日 129 元、日本單日型每日 299 元、跨洲多國（130 國）每日 288 元（官網 2026-09-25）；計量型 149 元/1GB 起",
    "plan_type": "每日重置吃到飽（計日型）或固定流量計量型（原生門號漫遊，非 eSIM 商品）",
-   "hotspot": "支援（原號漫遊可開熱點）",
+   "hotspot": "",
    "source_url": "https://www.fetnet.net/",
    "last_verified": "2026-08-27",
    "page_url": "https://esim.ampm-aiops.com/items/fet-roaming/"
@@ -393,7 +393,7 @@
    "plan_type": "吃到飽型（旋風卡系列）＋每日流量型（小旋風卡系列）",
    "hotspot": "支援，但 eSIM 需手動修改 APN 設定才能開熱點，對新手不友善",
    "source_url": "https://www.traveltobuys.com/",
-   "last_verified": "2026-09-25",
+   "last_verified": "2026-09-26",
    "page_url": "https://esim.ampm-aiops.com/items/traveltobuy/"
   }
  ]
