@@ -1,0 +1,16 @@
+# Repository ownership
+
+# Default owner for all files
+* @AMPM-AIOPS-HQ
+
+# Generated datasets and machine-readable indexes
+/data/ @AMPM-AIOPS-HQ
+/datasets/ @AMPM-AIOPS-HQ
+/badges/ @AMPM-AIOPS-HQ
+
+# Documentation and governance
+/README.md @AMPM-AIOPS-HQ
+/CONTRIBUTING.md @AMPM-AIOPS-HQ
+/DISCLAIMER.md @AMPM-AIOPS-HQ
+/SECURITY.md @AMPM-AIOPS-HQ
+/docs/ @AMPM-AIOPS-HQ
