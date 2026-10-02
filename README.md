@@ -12,7 +12,7 @@ a `last_verified` date **and** an official source URL. Rows that do not meet tha
 
 > 🔍 **How rows are verified**: [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) · 🌐 **Open-data hub**: [ampm-aiops.com/open-data/](https://ampm-aiops.com/open-data/)
 > 📝 **What changed**: [`CHANGELOG.md`](./CHANGELOG.md) (added / changed / removed, per day) · 📦 **Machine index**: [`datasets/index.json`](./datasets/index.json)
-> ⚠️ **Disclaimer**: Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on them for decisions.
+> ⚠️ **Disclaimer**: Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.
 
 ## Datasets
 
@@ -43,12 +43,12 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Adobe Firefly](https://ampm-aiops.com/tools/adobe-firefly/) | image | 免費版：官網FAQ現行文案已改稱「free daily generations」，惟未提供每日具體上限數字；合作夥伴模型扣點規則沿用原方案點數 | 9.99 | — | 2026-10-02 |
 | [aider](https://ampm-aiops.com/tools/aider/) | coding | 完全開源免費,無訂閱模式;使用本地模型零成本;API調用費用取決於選用的LLM提供商 | 0 | ✅ | 2026-09-27 |
-| [AirMusic](https://ampm-aiops.com/tools/airmusic/) | audio | 10 credits | 39.8 | ❌ | 2026-10-01 |
-| [Anijam](https://ampm-aiops.com/tools/anijam/) | video | 有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案 | 25 | ❌ | 2026-10-01 |
-| [Base44](https://ampm-aiops.com/tools/base44/) | coding | 免費方案 US$0/月，每月 25 個 message credits與 100 個 integration credits | 0 | ✅ | 2026-10-01 |
-| [Bolt](https://ampm-aiops.com/tools/bolt/) | coding | 免費版 US$0 | 0 | ❌ | 2026-10-01 |
+| [AirMusic](https://ampm-aiops.com/tools/airmusic/) | audio | 10 credits | 39.8 | ❌ | 2026-10-02 |
+| [Anijam](https://ampm-aiops.com/tools/anijam/) | video | 有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案 | 25 | ❌ | 2026-10-02 |
+| [Base44](https://ampm-aiops.com/tools/base44/) | coding | 免費方案 US$0/月，每月 25 個 message credits與 100 個 integration credits | 0 | ✅ | 2026-10-02 |
+| [Bolt](https://ampm-aiops.com/tools/bolt/) | coding | 免費版 US$0 | 0 | ❌ | 2026-10-02 |
 | [buzzabout](https://ampm-aiops.com/tools/buzzabout/) | research | 沒有長期免費方案，只有免費試用 | 0 | ❌ | 2026-09-18 |
-| [Canva AI](https://ampm-aiops.com/tools/canva-ai/) | image, productivity | 免費版最多 200 次 Standard AI 功能或 20 次 Premium AI 功能，另含 5GB 儲存空間、1 個品牌套件 | [...]
+| [Canva AI](https://ampm-aiops.com/tools/canva-ai/) | image, productivity | 免費版最多 200 次 Standard AI 功能或 20 次 Premium AI 功能，另含 5GB 儲存空間、1 個品牌套件 | 18 | — | 2026-09-24 |
 | [CapCut AI](https://ampm-aiops.com/tools/capcut-ai/) | video | 基本剪輯免費,AI 功能部分需 Pro | 10 | — | 2026-09-08 |
 | [ChatGPT](https://ampm-aiops.com/tools/chatgpt/) | chatbot | 免費版每月 NT$0，人人可用 | 8 | ✅ | 2026-09-08 |
 
@@ -60,23 +60,23 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | | |
 | :--- | :--- |
 | Rows published | **179** (below public threshold, not exported: 13) |
-| Last verified (newest row) | **2026-10-01** |
+| Last verified (newest row) | **2026-10-02** |
 | Files | [`datasets/cards/cards_2026.json`](./datasets/cards/cards_2026.json) · [`datasets/cards/cards_2026.csv`](./datasets/cards/cards_2026.csv) · [`schema.json`](./datasets/cards/schema.json) |
 | Browse online | [cards.ampm-aiops.com](https://cards.ampm-aiops.com/items/) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
 
 | name | issuer | annual_fee | cashback | revolving_rate | source_url | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [上海商業儲蓄銀行 VISA簡單卡](https://cards.ampm-aiops.com/items/scsb-simple-plus/) | 上海商業儲蓄銀行 | 首年免年費；次年年刷 12 次或 NT$3 萬即免，或上海商[...]
-| [上海商銀 VISA簡單卡](https://cards.ampm-aiops.com/items/scsb-simple/) | 上海商業儲蓄銀行 | 首年免年費；次年年刷 12 次或 NT$3 萬即免，或上海商銀帳戶自動[...]
-| [中信 LINE Pay卡](https://cards.ampm-aiops.com/items/ctbc-linepay/) | 中國信託商業銀行 | 綁定 LINE Pay 終生免年費 | 國外網路消費 1%；國外實體商店面對面刷卡 2.[...]
-| [中國信託 7-ELEVEN聯名卡](https://cards.ampm-aiops.com/items/ctbc-7eleven/) | 中國信託商業銀行 | 首年免，次年消費6次即免 | 7-ELEVEN消費最高3%icash回饋。國內1%[...]
-| [中國信託 ALL ME卡](https://cards.ampm-aiops.com/items/ctbc-allme/) | 中國信託商業銀行 | NT$1,800，首年免；綁 Hami Pay 或 Pi 拍錢包可免年費（2026 全年） | 國內[...]
-| [中國信託 Amazon聯名卡](https://cards.ampm-aiops.com/items/ctbc-amazon/) | 中國信託商業銀行 | 首年免，次年消費6次即免 | Amazon.com消費最高3%回饋。指定海外通[...]
-| [中國信託 Costco 聯名卡](https://cards.ampm-aiops.com/items/ctbc-costco/) | 中國信託商業銀行 | 官網查不到；站上舊寫「首年免，次年消費 1 次免」未能官網確[...]
-| [中國信託 Debit金融卡](https://cards.ampm-aiops.com/items/ctbc-debit/) | 中國信託商業銀行 | 免年費 | 國內0.2%。國外0.5%。中信帳戶搭配偶有活動 | 本行 ARMs 指[...]
-| [中國信託 JCB晶緻卡](https://cards.ampm-aiops.com/items/ctbc-jcb/) | 中國信託商業銀行 | 官網查不到；站上舊寫「次年消費 3 次免」未能官網確認 | 2026-09-25 [..]
-| [中國信託 LINE Pay卡 一般版](https://cards.ampm-aiops.com/items/ctbc-linepay-basic/) | 中國信託商業銀行 | 同中信 LINE Pay 信用卡，以 /items/ctbc-linepay/ 為準 | 同中[...]
+| [上海商業儲蓄銀行 VISA簡單卡](https://cards.ampm-aiops.com/items/scsb-simple-plus/) | 上海商業儲蓄銀行 | 首年免年費；次年年刷 12 次或 NT$3 萬即免，或上海商銀帳戶自動扣繳即免 | 國內 1%、國外 2%、日韓 3%（限面對面交易）現金回饋 | — | [official](https://www.scsb.com.tw/content/card/card03_h1.html) | 2026-09-25 |
+| [上海商銀 VISA簡單卡](https://cards.ampm-aiops.com/items/scsb-simple/) | 上海商業儲蓄銀行 | 首年免年費；次年年刷 12 次或 NT$3 萬即免，或上海商銀帳戶自動扣繳即免（年費金額產品頁未列，站上舊寫 NT$1,200 官網產品頁查不到） | 國內1%、國外2%、日韓實體消費3%現金回饋，無上限無到期 | — | [official](https://www.scsb.com.tw/content/card/card03_h1.html) | 2026-09-25 |
+| [中信 LINE Pay卡](https://cards.ampm-aiops.com/items/ctbc-linepay/) | 中國信託商業銀行 | 綁定 LINE Pay 終生免年費 | 國外網路消費 1%；國外實體商店面對面刷卡 2.8%（1%＋加碼 1.8%，至 2026/12/31）；需綁定台灣 LINE Pay 帳號；網路、條碼、第三方支付不算 2.8% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/dam/minisite/long/creditcard/LINEPay/index.html) | 2026-09-25 |
+| [中國信託 7-ELEVEN聯名卡](https://cards.ampm-aiops.com/items/ctbc-7eleven/) | 中國信託商業銀行 | 首年免，次年消費6次即免 | 7-ELEVEN消費最高3%icash回饋。國內1%。超商繳費0.5% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
+| [中國信託 ALL ME卡](https://cards.ampm-aiops.com/items/ctbc-allme/) | 中國信託商業銀行 | NT$1,800，首年免；綁 Hami Pay 或 Pi 拍錢包可免年費（2026 全年） | 國內外一般消費 1% 無上限；國外實體商店最高 2.2%（官網未寫組成） | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_AllMe.html) | 2026-09-25 |
+| [中國信託 Amazon聯名卡](https://cards.ampm-aiops.com/items/ctbc-amazon/) | 中國信託商業銀行 | 首年免，次年消費6次即免 | Amazon.com消費最高3%回饋。指定海外通路2%。國內1%無上限 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
+| [中國信託 Costco 聯名卡](https://cards.ampm-aiops.com/items/ctbc-costco/) | 中國信託商業銀行 | 官網查不到；站上舊寫「首年免，次年消費 1 次免」未能官網確認 | 2026-09-26 官網卡片清單查不到這張卡；站上舊寫「Costco 消費 1% 回饋金、加油 1.5%、一般 0.5%」未能官網確認 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html) | 2026-09-26 |
+| [中國信託 Debit金融卡](https://cards.ampm-aiops.com/items/ctbc-debit/) | 中國信託商業銀行 | 免年費 | 國內0.2%。國外0.5%。中信帳戶搭配偶有活動 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
+| [中國信託 JCB晶緻卡](https://cards.ampm-aiops.com/items/ctbc-jcb/) | 中國信託商業銀行 | 官網查不到；站上舊寫「次年消費 3 次免」未能官網確認 | 2026-09-25 官網卡片清單查不到這張卡；站上舊寫「日本 3%、國內 1%」未能官網確認 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html) | 2026-09-25 |
+| [中國信託 LINE Pay卡 一般版](https://cards.ampm-aiops.com/items/ctbc-linepay-basic/) | 中國信託商業銀行 | 同中信 LINE Pay 信用卡，以 /items/ctbc-linepay/ 為準 | 同中信 LINE Pay 信用卡（中信官網只有一張 LINE Pay 信用卡），回饋以 /items/ctbc-linepay/ 為準；站上舊寫的「LINE POINTS 基本 1%、加碼最高 3%、新戶首 2 月 5%」本次未能官網確認 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-26 |
 
 *Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 179 rows.*
 
@@ -161,7 +161,7 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | | |
 | :--- | :--- |
 | Rows published | **25** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-10-01** |
+| Last verified (newest row) | **2026-10-02** |
 | Files | [`datasets/crypto/crypto_2026.json`](./datasets/crypto/crypto_2026.json) · [`datasets/crypto/crypto_2026.csv`](./datasets/crypto/crypto_2026.csv) · [`schema.json`](./datasets/crypto/schema.json) |
 | Browse online | [crypto.ampm-aiops.com](https://crypto.ampm-aiops.com/exchanges/) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
@@ -169,15 +169,15 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | name | kind | type | fee_or_price | source_url | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Bitget](https://crypto.ampm-aiops.com/exchanges/bitget/) | exchange | 國際 | 現貨 Maker/Taker 皆 0.10%（用 BGB 付手續費折 20%）；合約 Maker 0.02%／Taker 0.06%（一般用戶） | [official](https://www.bitget.com/academy/245) | 2026-09-03 |
-| [BitoPro（幣託科技）](https://crypto.ampm-aiops.com/exchanges/bitopro/) | exchange | 本土 | VIP0 現貨 Maker 0.1% / Taker 0.2%；以 BITO 支付享 8 折＝Maker 0.08% / Taker 0.16%；網格機器人 Maker/Taker 均 0.05%。官方 API 直讀。 | [official](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News) | 2026-10-01 |
-| [Bybit](https://crypto.ampm-aiops.com/exchanges/bybit/) | exchange | 國際 | VIP0 現貨 Maker/Taker 皆 0.1%（VIP 最低 0.005%/0.015%） | [official](https://www.bybit.com/zh-TW/help-center/article/Trading-Fee-Structure) | 2026-10-01 |
+| [BitoPro（幣託科技）](https://crypto.ampm-aiops.com/exchanges/bitopro/) | exchange | 本土 | VIP0 現貨 Maker 0.1% / Taker 0.2%；以 BITO 支付享 8 折＝Maker 0.08% / Taker 0.16%；網格機器人 Maker/Taker 均 0.05%。官方 API 直讀。 | [official](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News) | 2026-10-02 |
+| [Bybit](https://crypto.ampm-aiops.com/exchanges/bybit/) | exchange | 國際 | VIP0 現貨 Maker/Taker 皆 0.1%（VIP 最低 0.005%/0.015%） | [official](https://www.bybit.com/zh-TW/help-center/article/Trading-Fee-Structure) | 2026-10-02 |
 | [Coinbase](https://crypto.ampm-aiops.com/exchanges/coinbase/) | exchange | 國際 | 一般介面約 2% 上下（依方式與金額分級；Advanced 介面較低）；信用卡購幣約 3.99% | [official](https://help.coinbase.com/en/coinbase/trading-and-funding/pricing-and-fees/fees) | 2026-09-03 |
 | [Gate.io](https://crypto.ampm-aiops.com/exchanges/gate-io/) | exchange | 國際 | 現貨基礎費率 Maker/Taker 約 0.20%（不同來源亦見報 0.10%，以官網當下頁面為準）；依 17 階 VIP／GT 持倉遞減，最高可到 Maker 0%／Taker 0.02% | [official](https://www.gate.com/global-market-maker-program) | 2026-09-03 |
 | [HOYA BIT（禾亞數位科技）](https://crypto.ampm-aiops.com/exchanges/hoya-bit/) | exchange | 本土 | 現貨以價差（spread）方式收費，內含約 0.2%–0.5% 支付處理費（買入收加密貨幣、賣出收台幣）。官網未設公開的獨立費率頁，級距引自 support.hoyabit.com 說明。 | [official](https://support.hoyabit.com/transaction/%E4%BA%A4%E6%98%93%E6%89%8B%E7%BA%8C%E8%B2%BB%E5%A4%9A%E5%B0%91%EF%BC%9F-2/) | 2026-09-08 |
 | [Kraken](https://crypto.ampm-aiops.com/exchanges/kraken/) | exchange | 國際 | 標準介面 Taker 約 0.26%；Kraken Pro 依 30 天量分級大幅較低 | [official](https://www.kraken.com/features/fee-schedule) | 2026-09-30 |
 | [KuCoin](https://crypto.ampm-aiops.com/exchanges/kucoin/) | exchange | 國際 | 現貨 Maker/Taker 皆 0.10%（用 KCS 付手續費折至 0.08%），依 30 天量／VIP 分級遞減 | [official](https://www.kucoin.com/blog/Full-KuCoin-Review) | 2026-09-03 |
 | [MAX（現代財富科技／MaiCoin）](https://crypto.ampm-aiops.com/exchanges/max-maicoin/) | exchange | 本土 | VIP0（一般會員）現貨 Maker 0.08% / Taker 0.16%；依 30 天交易量或 MAX 鎖倉量分級，最高 VIP9 可低至 Maker -0.008% / Taker 0.045%。官網費率頁直讀。 | [official](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News) | 2026-09-08 |
-| [OKX 歐易](https://crypto.ampm-aiops.com/exchanges/okx/) | exchange | 國際 | 普通用戶現貨 Maker 0.08% / Taker 0.10%；依 30 天交易量／資產量分 VIP1–9，最高可低至 Maker -0.005% / Taker 0.015%。官網費率頁直讀。 | [official](https://www.okx.com/zh-hant/fees) | 2026-10-01 |
+| [OKX 歐易](https://crypto.ampm-aiops.com/exchanges/okx/) | exchange | 國際 | 普通用戶現貨 Maker 0.08% / Taker 0.10%；依 30 天交易量／資產量分 VIP1–9，最高可低至 Maker -0.005% / Taker 0.015%。官網費率頁直讀。 | [official](https://www.okx.com/zh-hant/fees) | 2026-10-02 |
 
 *Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 25 rows.*
 
@@ -214,21 +214,9 @@ We re-verify and update the source databases daily; the fix flows into this repo
 
 ---
 
-## Scope, attribution, and disclaimers
-
-This repository contains data curated, structured, normalized, and verified by AMPM-AIOPS 問問貓. The CC BY-SA 4.0 license applies to the original selection, arrangement, aggregation, annotations, and database structure contributed to this repository.
-
-Names, logos, trademarks, screenshots, product names, and official website content remain the property of their respective owners. This project is not affiliated with, sponsored by, or endorsed by any listed provider unless explicitly stated.
-
-Pricing, fees, availability, eligibility, limits, and regulatory information may change without notice. Always verify important information on the provider's current official website before making decisions.
-
-This dataset is provided for informational and comparison purposes only. It does not constitute financial, investment, legal, tax, or professional advice.
-
 ## 📄 License & attribution
 
 Distributed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** — see [`LICENSE`](./LICENSE).
 
 - Free to share and adapt, including commercially.
 - **Attribution required**: cite **[AMPM-AIOPS 問問貓](https://ampm-aiops.com)** as the source with a link back (dataset page: [ampm-aiops.com/open-data/](https://ampm-aiops.com/open-data/)).
-- If you adapt or remix the dataset, you must publish your contributions under the same or a compatible license.
-
