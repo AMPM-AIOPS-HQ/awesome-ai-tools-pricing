@@ -1,7 +1,7 @@
 {
  "dataset": "broker",
  "title": "US Stock Brokers for Taiwan residents",
- "generated_at": "2026-10-02T23:13:59+08:00",
+ "generated_at": "2026-10-03T04:00:05+08:00",
  "source": "https://broker.ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 16,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-02",
+ "last_verified_max": "2026-10-03",
  "rows": [
   {
    "slug": "charles-schwab",
@@ -19,7 +19,7 @@
    "min_deposit": "個人/聯名國際帳戶無最低開戶入金（US$25,000 門檻為嘉信香港實體規定，非台灣適用）",
    "idle_fee": "無帳戶管理費/閒置費",
    "source_url": "https://international.schwab.com/pricing",
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "page_url": "https://broker.ampm-aiops.com/items/charles-schwab/"
   },
   {
@@ -30,7 +30,7 @@
    "min_deposit": "無最低存款",
    "idle_fee": "無閒置費",
    "source_url": "https://www.firstrade.com/content/zh-tw/pricing",
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "page_url": "https://broker.ampm-aiops.com/items/firstrade/"
   },
   {
@@ -63,7 +63,7 @@
    "min_deposit": "無實質門檻（SG 行銷頁標最低入金 S$1 起）",
    "idle_fee": "官方聲明不收閒置費（集團FAQ，SG站牌告頁未列此項，一致）",
    "source_url": "https://www.itiger.com/sg/commissions",
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "page_url": "https://broker.ampm-aiops.com/items/tiger-brokers/"
   },
   {
@@ -74,7 +74,7 @@
    "min_deposit": "N/A",
    "idle_fee": "N/A",
    "source_url": "https://www.webull.com/help/faq/343-I-am-a-US-resident-What-requirements-do-I-need-to-meet-in-order-to-open-a-brokerage-account-on-Webull",
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "page_url": "https://broker.ampm-aiops.com/items/webull/"
   },
   {
@@ -85,7 +85,7 @@
    "min_deposit": "首次入金依國家（官方區間 US$10~10,000；台灣多方來源載 US$50",
    "idle_fee": "官方費用頁標示 Inactivity fee: Free",
    "source_url": "https://www.etoro.com/trading/fees/",
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "page_url": "https://broker.ampm-aiops.com/items/etoro/"
   },
   {
@@ -118,7 +118,7 @@
    "min_deposit": "",
    "idle_fee": "",
    "source_url": "https://www.yuanta.com.tw/eyuanta/webfile/resourcesFile/b1348f0b-7243-4ae8-9f9d-fd8e87167a0c.pdf",
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "page_url": "https://broker.ampm-aiops.com/items/yuanta-sub-brokerage/"
   },
   {
@@ -129,7 +129,7 @@
    "min_deposit": "定期定額最低 US$10（活動頁）",
    "idle_fee": "",
    "source_url": "https://event.kgi.com.tw/news/event/trade-US-now/index.html",
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "page_url": "https://broker.ampm-aiops.com/items/kgi-sub-brokerage/"
   },
   {
@@ -140,7 +140,7 @@
    "min_deposit": "",
    "idle_fee": "",
    "source_url": "https://www.pocket.tw/callcenter/questions/124/",
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "page_url": "https://broker.ampm-aiops.com/items/pocket-sub-brokerage/"
   },
   {
@@ -151,7 +151,7 @@
    "min_deposit": "無門檻；定期定額 US$10 可扣",
    "idle_fee": "無",
    "source_url": "https://www.cathaysec.com.tw/CathaysecUS/us_transaction_info.aspx",
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "page_url": "https://broker.ampm-aiops.com/items/cathay-sub-brokerage/"
   },
   {
@@ -173,7 +173,7 @@
    "min_deposit": "豐存美股（定期定額）US$10 即可開始；單筆最低入金以牌告為準（既載 US$100 或 HK$1,000）",
    "idle_fee": "",
    "source_url": "https://www.sinotrade.com.tw/ec/20241001/index.html",
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "page_url": "https://broker.ampm-aiops.com/items/sinopac-sub-brokerage/"
   },
   {

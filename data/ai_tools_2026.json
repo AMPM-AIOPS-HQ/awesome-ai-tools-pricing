@@ -1,7 +1,7 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-10-02T23:13:59+08:00",
+ "generated_at": "2026-10-03T04:00:05+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 109,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-02",
+ "last_verified_max": "2026-10-03",
  "tool_count": 109,
  "tools": [
   {
@@ -237,7 +237,7 @@
    "free_tier_summary": "無免費方案",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "tool_page": "https://ampm-aiops.com/tools/copy-ai/"
   },
   {
@@ -527,7 +527,7 @@
    "free_tier_summary": "拼字與文法檢查、語氣偵測，每月 100 次 AI 生成",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "tool_page": "https://ampm-aiops.com/tools/grammarly/"
   },
   {
@@ -556,7 +556,7 @@
    "free_tier_summary": "免費層不需綁卡，各模型有各自的每分鐘／每日上限：Llama 3.1 8B Instant＝每分鐘 30 次請求、每日 14,400 次，每分鐘 6,000 token、每日 50 …",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-09-30",
+   "last_verified": "2026-10-03",
    "tool_page": "https://ampm-aiops.com/tools/groq/"
   },
   {
@@ -942,7 +942,7 @@
    "free_tier_summary": "25 個以上的免費模型、4 個免費供應商，每日上限 50 次請求，社群支援",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-09-30",
+   "last_verified": "2026-10-03",
    "tool_page": "https://ampm-aiops.com/tools/openrouter/"
   },
   {
@@ -957,7 +957,7 @@
    "free_tier_summary": "自託管版完全免費；託管版試用額度US$0.50",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": true,
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "tool_page": "https://ampm-aiops.com/tools/openseo/"
   },
   {
@@ -1014,7 +1014,7 @@
    "free_tier_summary": "⚠️2026-08-22兩輪真瀏覽器查核：全站找不到任何free/trial字樣，此前記錄的一次性5,000點免費方案已消失，判定免費方案已下架",
    "cheapest_paid_usd_per_month": 25,
    "commercial_use": true,
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "tool_page": "https://ampm-aiops.com/tools/pazi/"
   },
   {
@@ -1330,7 +1330,7 @@
    "free_tier_summary": "每月 10 分鐘影片、9 種 AI 虛擬人像、1,200 credits/月、25 個 AI 生成影片素材、1 位編輯者，成品有浮水印；個人化虛擬人像免費版不提供",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "tool_page": "https://ampm-aiops.com/tools/synthesia/"
   },
   {
@@ -1359,7 +1359,7 @@
    "free_tier_summary": "免費版 US$0 per seat/month「For individuals」",
    "cheapest_paid_usd_per_month": 12,
    "commercial_use": null,
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "tool_page": "https://ampm-aiops.com/tools/teable/"
   },
   {
@@ -1459,7 +1459,7 @@
    "free_tier_summary": "免費版每月 15 個「Velo 分鐘」，含 1 個席次、1 組聲音克隆、每月 1 支虛擬人影片",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
-   "last_verified": "2026-10-02",
+   "last_verified": "2026-10-03",
    "tool_page": "https://ampm-aiops.com/tools/velo/"
   },
   {
