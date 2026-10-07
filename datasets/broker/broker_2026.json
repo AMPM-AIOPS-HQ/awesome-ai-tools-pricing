@@ -1,7 +1,7 @@
 {
  "dataset": "broker",
  "title": "US Stock Brokers for Taiwan residents",
- "generated_at": "2026-10-07T23:24:49+08:00",
+ "generated_at": "2026-10-07T23:26:11+08:00",
  "source": "https://broker.ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -20,7 +20,8 @@
    "idle_fee": "無帳戶管理費/閒置費",
    "source_url": "https://international.schwab.com/pricing",
    "last_verified": "2026-10-07",
-   "page_url": "https://broker.ampm-aiops.com/items/charles-schwab/"
+   "page_url": "https://broker.ampm-aiops.com/items/charles-schwab/",
+   "ampm_ref": "AMPM-25c1c7e0d0"
   },
   {
    "slug": "firstrade",
@@ -31,7 +32,8 @@
    "idle_fee": "無閒置費",
    "source_url": "https://www.firstrade.com/content/zh-tw/pricing",
    "last_verified": "2026-10-07",
-   "page_url": "https://broker.ampm-aiops.com/items/firstrade/"
+   "page_url": "https://broker.ampm-aiops.com/items/firstrade/",
+   "ampm_ref": "AMPM-2ec8e7196c"
   },
   {
    "slug": "interactive-brokers",
@@ -42,7 +44,8 @@
    "idle_fee": "無（2021 已取消月低消）",
    "source_url": "https://www.interactivebrokers.com/cn/pricing/commissions-stocks.php",
    "last_verified": "2026-10-02",
-   "page_url": "https://broker.ampm-aiops.com/items/interactive-brokers/"
+   "page_url": "https://broker.ampm-aiops.com/items/interactive-brokers/",
+   "ampm_ref": "AMPM-adce2a726b"
   },
   {
    "slug": "td-ameritrade-schwab",
@@ -53,7 +56,8 @@
    "idle_fee": "N/A",
    "source_url": "https://international.schwab.com/",
    "last_verified": "2026-09-10",
-   "page_url": "https://broker.ampm-aiops.com/items/td-ameritrade-schwab/"
+   "page_url": "https://broker.ampm-aiops.com/items/td-ameritrade-schwab/",
+   "ampm_ref": "AMPM-7ff1ff76a2"
   },
   {
    "slug": "tiger-brokers",
@@ -64,7 +68,8 @@
    "idle_fee": "官方聲明不收閒置費（集團FAQ，SG站牌告頁未列此項，一致）",
    "source_url": "https://www.itiger.com/sg/commissions",
    "last_verified": "2026-10-07",
-   "page_url": "https://broker.ampm-aiops.com/items/tiger-brokers/"
+   "page_url": "https://broker.ampm-aiops.com/items/tiger-brokers/",
+   "ampm_ref": "AMPM-ee673e8952"
   },
   {
    "slug": "webull",
@@ -75,7 +80,8 @@
    "idle_fee": "N/A",
    "source_url": "https://www.webull.com/help/faq/343-I-am-a-US-resident-What-requirements-do-I-need-to-meet-in-order-to-open-a-brokerage-account-on-Webull",
    "last_verified": "2026-10-07",
-   "page_url": "https://broker.ampm-aiops.com/items/webull/"
+   "page_url": "https://broker.ampm-aiops.com/items/webull/",
+   "ampm_ref": "AMPM-940d079e48"
   },
   {
    "slug": "etoro",
@@ -86,7 +92,8 @@
    "idle_fee": "官方費用頁標示 Inactivity fee: Free",
    "source_url": "https://www.etoro.com/trading/fees/",
    "last_verified": "2026-10-07",
-   "page_url": "https://broker.ampm-aiops.com/items/etoro/"
+   "page_url": "https://broker.ampm-aiops.com/items/etoro/",
+   "ampm_ref": "AMPM-134745b3c8"
   },
   {
    "slug": "moomoo",
@@ -97,7 +104,8 @@
    "idle_fee": "官方美股費用頁未列此項（SG股有季度託管費SGD2/季但已豁免，非美股項目）",
    "source_url": "https://www.moomoo.com/sg/support/topic5_395",
    "last_verified": "2026-09-24",
-   "page_url": "https://broker.ampm-aiops.com/items/moomoo/"
+   "page_url": "https://broker.ampm-aiops.com/items/moomoo/",
+   "ampm_ref": "AMPM-cb0816e694"
   },
   {
    "slug": "ctbc-sub-brokerage",
@@ -108,7 +116,8 @@
    "idle_fee": "",
    "source_url": "https://www.ctbcsec.com/2020/n3-subbrokerage/pdf/%E4%B8%AD%E5%9C%8B%E4%BF%A1%E8%A8%97%E7%B6%9C%E5%90%88%E8%AD%89%E5%88%B8%E5%8F%97%E8%A8%97%E8%B2%B7%E8%B3%A3%E5%A4%96%E5%9C%8B%E8%82%A1%E7%A5%A8%E6%94%B6%E8%B2%BB%E6%A8%99%E6%BA%96.pdf",
    "last_verified": "2026-09-29",
-   "page_url": "https://broker.ampm-aiops.com/items/ctbc-sub-brokerage/"
+   "page_url": "https://broker.ampm-aiops.com/items/ctbc-sub-brokerage/",
+   "ampm_ref": "AMPM-1b93b8d10a"
   },
   {
    "slug": "yuanta-sub-brokerage",
@@ -119,7 +128,8 @@
    "idle_fee": "",
    "source_url": "https://www.yuanta.com.tw/eyuanta/webfile/resourcesFile/b1348f0b-7243-4ae8-9f9d-fd8e87167a0c.pdf",
    "last_verified": "2026-10-07",
-   "page_url": "https://broker.ampm-aiops.com/items/yuanta-sub-brokerage/"
+   "page_url": "https://broker.ampm-aiops.com/items/yuanta-sub-brokerage/",
+   "ampm_ref": "AMPM-00a0a390ba"
   },
   {
    "slug": "kgi-sub-brokerage",
@@ -130,7 +140,8 @@
    "idle_fee": "",
    "source_url": "https://event.kgi.com.tw/news/event/trade-US-now/index.html",
    "last_verified": "2026-10-07",
-   "page_url": "https://broker.ampm-aiops.com/items/kgi-sub-brokerage/"
+   "page_url": "https://broker.ampm-aiops.com/items/kgi-sub-brokerage/",
+   "ampm_ref": "AMPM-5f7f346dc9"
   },
   {
    "slug": "pocket-sub-brokerage",
@@ -141,7 +152,8 @@
    "idle_fee": "",
    "source_url": "https://www.pocket.tw/callcenter/questions/124/",
    "last_verified": "2026-10-07",
-   "page_url": "https://broker.ampm-aiops.com/items/pocket-sub-brokerage/"
+   "page_url": "https://broker.ampm-aiops.com/items/pocket-sub-brokerage/",
+   "ampm_ref": "AMPM-562ce3e5bb"
   },
   {
    "slug": "cathay-sub-brokerage",
@@ -152,7 +164,8 @@
    "idle_fee": "無",
    "source_url": "https://www.cathaysec.com.tw/CathaysecUS/us_transaction_info.aspx",
    "last_verified": "2026-10-07",
-   "page_url": "https://broker.ampm-aiops.com/items/cathay-sub-brokerage/"
+   "page_url": "https://broker.ampm-aiops.com/items/cathay-sub-brokerage/",
+   "ampm_ref": "AMPM-788af3738e"
   },
   {
    "slug": "fubon-sub-brokerage",
@@ -163,7 +176,8 @@
    "idle_fee": "無",
    "source_url": "https://www.fbs.com.tw/",
    "last_verified": "2026-09-10",
-   "page_url": "https://broker.ampm-aiops.com/items/fubon-sub-brokerage/"
+   "page_url": "https://broker.ampm-aiops.com/items/fubon-sub-brokerage/",
+   "ampm_ref": "AMPM-67c36b552a"
   },
   {
    "slug": "sinopac-sub-brokerage",
@@ -174,7 +188,8 @@
    "idle_fee": "",
    "source_url": "https://www.sinotrade.com.tw/ec/20241001/index.html",
    "last_verified": "2026-10-07",
-   "page_url": "https://broker.ampm-aiops.com/items/sinopac-sub-brokerage/"
+   "page_url": "https://broker.ampm-aiops.com/items/sinopac-sub-brokerage/",
+   "ampm_ref": "AMPM-6252b20202"
   },
   {
    "slug": "esun-sub-brokerage",
@@ -185,7 +200,8 @@
    "idle_fee": "",
    "source_url": "https://www.esunsec.com.tw/faq/detail.aspx?id=Foreign",
    "last_verified": "2026-09-29",
-   "page_url": "https://broker.ampm-aiops.com/items/esun-sub-brokerage/"
+   "page_url": "https://broker.ampm-aiops.com/items/esun-sub-brokerage/",
+   "ampm_ref": "AMPM-c0a964e623"
   }
  ]
 }

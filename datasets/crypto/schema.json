@@ -100,6 +100,16 @@
     "null"
    ],
    "description": "Back-link to the detail page on the ampm-aiops.com sub-site (full evidence and warnings)."
+  },
+  "ampm_ref": {
+   "type": [
+    "string",
+    "number",
+    "boolean",
+    "array",
+    "null"
+   ],
+   "description": ""
   }
  }
 }
