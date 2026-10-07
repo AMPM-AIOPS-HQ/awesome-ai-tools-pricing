@@ -41,9 +41,9 @@ Not included, by design: partner / referral tracking links, internal verificatio
 
 | name | category | free_tier_summary | cheapest_paid_usd_per_month | commercial_use | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Adobe Firefly](https://ampm-aiops.com/tools/adobe-firefly/) | image | 免費版：官網FAQ現行文案已改稱「free daily generations」，惟未提供每日具體上限數字；合作夥伴模型扣點規則沿用原方案點數 | 9.99 | — | 2026-10-06 |
+| [Adobe Firefly](https://ampm-aiops.com/tools/adobe-firefly/) | image | 免費版：官網FAQ現行文案已改稱「free daily generations」，惟未提供每日具體上限數字；合作夥伴模型扣點規則沿用原方案點數 | 9.99 | — | 2026-10-07 |
 | [aider](https://ampm-aiops.com/tools/aider/) | coding | 完全開源免費,無訂閱模式;使用本地模型零成本;API調用費用取決於選用的LLM提供商 | 0 | ✅ | 2026-09-27 |
-| [AirMusic](https://ampm-aiops.com/tools/airmusic/) | audio | 10 credits | 39.8 | ❌ | 2026-10-06 |
+| [AirMusic](https://ampm-aiops.com/tools/airmusic/) | audio | 10 credits | 39.8 | ❌ | 2026-10-07 |
 | [Anijam](https://ampm-aiops.com/tools/anijam/) | video | 有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案 | 25 | ❌ | 2026-10-05 |
 | [Base44](https://ampm-aiops.com/tools/base44/) | coding | 免費方案 US$0/月，每月 25 個 message credits與 100 個 integration credits | 0 | ✅ | 2026-10-06 |
 | [Bolt](https://ampm-aiops.com/tools/bolt/) | coding | 免費版 US$0 | 0 | ❌ | 2026-10-05 |
@@ -161,7 +161,7 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | | |
 | :--- | :--- |
 | Rows published | **25** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-10-06** |
+| Last verified (newest row) | **2026-10-07** |
 | Files | [`datasets/crypto/crypto_2026.json`](./datasets/crypto/crypto_2026.json) · [`datasets/crypto/crypto_2026.csv`](./datasets/crypto/crypto_2026.csv) · [`schema.json`](./datasets/crypto/schema.json) |
 | Browse online | [crypto.ampm-aiops.com](https://crypto.ampm-aiops.com/exchanges/) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
@@ -169,15 +169,15 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | name | kind | type | fee_or_price | source_url | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Bitget](https://crypto.ampm-aiops.com/exchanges/bitget/) | exchange | 國際 | 現貨 Maker/Taker 皆 0.10%（用 BGB 付手續費折 20%）；合約 Maker 0.02%／Taker 0.06%（一般用戶） | [official](https://www.bitget.com/academy/245) | 2026-09-03 |
-| [BitoPro（幣託科技）](https://crypto.ampm-aiops.com/exchanges/bitopro/) | exchange | 本土 | VIP0 現貨 Maker 0.1% / Taker 0.2%；以 BITO 支付享 8 折＝Maker 0.08% / Taker 0.16%；網格機器人 Maker/Taker 均 0.05%。官方 API 直讀。 | [official](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News) | 2026-10-06 |
-| [Bybit](https://crypto.ampm-aiops.com/exchanges/bybit/) | exchange | 國際 | VIP0 現貨 Maker/Taker 皆 0.1%（VIP 最低 0.005%/0.015%） | [official](https://www.bybit.com/zh-TW/help-center/article/Trading-Fee-Structure) | 2026-10-06 |
+| [BitoPro（幣託科技）](https://crypto.ampm-aiops.com/exchanges/bitopro/) | exchange | 本土 | VIP0 現貨 Maker 0.1% / Taker 0.2%；以 BITO 支付享 8 折＝Maker 0.08% / Taker 0.16%；網格機器人 Maker/Taker 均 0.05%。官方 API 直讀。 | [official](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News) | 2026-10-07 |
+| [Bybit](https://crypto.ampm-aiops.com/exchanges/bybit/) | exchange | 國際 | VIP0 現貨 Maker/Taker 皆 0.1%（VIP 最低 0.005%/0.015%） | [official](https://www.bybit.com/zh-TW/help-center/article/Trading-Fee-Structure) | 2026-10-07 |
 | [Coinbase](https://crypto.ampm-aiops.com/exchanges/coinbase/) | exchange | 國際 | 一般介面約 2% 上下（依方式與金額分級；Advanced 介面較低）；信用卡購幣約 3.99% | [official](https://help.coinbase.com/en/coinbase/trading-and-funding/pricing-and-fees/fees) | 2026-09-03 |
 | [Gate.io](https://crypto.ampm-aiops.com/exchanges/gate-io/) | exchange | 國際 | 現貨基礎費率 Maker/Taker 約 0.20%（不同來源亦見報 0.10%，以官網當下頁面為準）；依 17 階 VIP／GT 持倉遞減，最高可到 Maker 0%／Taker 0.02% | [official](https://www.gate.com/global-market-maker-program) | 2026-09-03 |
 | [HOYA BIT（禾亞數位科技）](https://crypto.ampm-aiops.com/exchanges/hoya-bit/) | exchange | 本土 | 現貨以價差（spread）方式收費，內含約 0.2%–0.5% 支付處理費（買入收加密貨幣、賣出收台幣）。官網未設公開的獨立費率頁，級距引自 support.hoyabit.com 說明。 | [official](https://support.hoyabit.com/transaction/%E4%BA%A4%E6%98%93%E6%89%8B%E7%BA%8C%E8%B2%BB%E5%A4%9A%E5%B0%91%EF%BC%9F-2/) | 2026-09-08 |
 | [Kraken](https://crypto.ampm-aiops.com/exchanges/kraken/) | exchange | 國際 | 標準介面 Taker 約 0.26%；Kraken Pro 依 30 天量分級大幅較低 | [official](https://www.kraken.com/features/fee-schedule) | 2026-09-30 |
 | [KuCoin](https://crypto.ampm-aiops.com/exchanges/kucoin/) | exchange | 國際 | 現貨 Maker/Taker 皆 0.10%（用 KCS 付手續費折至 0.08%），依 30 天量／VIP 分級遞減 | [official](https://www.kucoin.com/blog/Full-KuCoin-Review) | 2026-09-03 |
 | [MAX（現代財富科技／MaiCoin）](https://crypto.ampm-aiops.com/exchanges/max-maicoin/) | exchange | 本土 | VIP0（一般會員）現貨 Maker 0.08% / Taker 0.16%；依 30 天交易量或 MAX 鎖倉量分級，最高 VIP9 可低至 Maker -0.008% / Taker 0.045%。官網費率頁直讀。 | [official](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News) | 2026-09-08 |
-| [OKX 歐易](https://crypto.ampm-aiops.com/exchanges/okx/) | exchange | 國際 | 普通用戶現貨 Maker 0.08% / Taker 0.10%；依 30 天交易量／資產量分 VIP1–9，最高可低至 Maker -0.005% / Taker 0.015%。官網費率頁直讀。 | [official](https://www.okx.com/zh-hant/fees) | 2026-10-06 |
+| [OKX 歐易](https://crypto.ampm-aiops.com/exchanges/okx/) | exchange | 國際 | 普通用戶現貨 Maker 0.08% / Taker 0.10%；依 30 天交易量／資產量分 VIP1–9，最高可低至 Maker -0.005% / Taker 0.015%。官網費率頁直讀。 | [official](https://www.okx.com/zh-hant/fees) | 2026-10-07 |
 
 *Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 25 rows.*
 

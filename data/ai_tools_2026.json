@@ -1,7 +1,7 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-10-07T04:00:02+08:00",
+ "generated_at": "2026-10-07T23:24:49+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -23,8 +23,9 @@
    "free_tier_summary": "免費版：官網FAQ現行文案已改稱「free daily generations」，惟未提供每日具體上限數字；合作夥伴模型扣點規則沿用原方案點數",
    "cheapest_paid_usd_per_month": 9.99,
    "commercial_use": null,
-   "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/adobe-firefly/"
+   "last_verified": "2026-10-07",
+   "tool_page": "https://ampm-aiops.com/tools/adobe-firefly/",
+   "ampm_ref": "AMPM-a6726c916b"
   },
   {
    "slug": "aider",
@@ -38,7 +39,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-09-27",
-   "tool_page": "https://ampm-aiops.com/tools/aider/"
+   "tool_page": "https://ampm-aiops.com/tools/aider/",
+   "ampm_ref": "AMPM-bcf7953adb"
   },
   {
    "slug": "airmusic",
@@ -51,8 +53,9 @@
    "free_tier_summary": "10 credits",
    "cheapest_paid_usd_per_month": 39.8,
    "commercial_use": false,
-   "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/airmusic/"
+   "last_verified": "2026-10-07",
+   "tool_page": "https://ampm-aiops.com/tools/airmusic/",
+   "ampm_ref": "AMPM-bec4fefcc9"
   },
   {
    "slug": "anijam",
@@ -66,7 +69,8 @@
    "cheapest_paid_usd_per_month": 25,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/anijam/"
+   "tool_page": "https://ampm-aiops.com/tools/anijam/",
+   "ampm_ref": "AMPM-e0be92e38d"
   },
   {
    "slug": "base44",
@@ -80,7 +84,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/base44/"
+   "tool_page": "https://ampm-aiops.com/tools/base44/",
+   "ampm_ref": "AMPM-e6900f2ce4"
   },
   {
    "slug": "bolt",
@@ -94,7 +99,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/bolt/"
+   "tool_page": "https://ampm-aiops.com/tools/bolt/",
+   "ampm_ref": "AMPM-8b2894c9fe"
   },
   {
    "slug": "buzzabout",
@@ -108,7 +114,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/buzzabout/"
+   "tool_page": "https://ampm-aiops.com/tools/buzzabout/",
+   "ampm_ref": "AMPM-73a8586b01"
   },
   {
    "slug": "canva-ai",
@@ -123,7 +130,8 @@
    "cheapest_paid_usd_per_month": 18,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/canva-ai/"
+   "tool_page": "https://ampm-aiops.com/tools/canva-ai/",
+   "ampm_ref": "AMPM-8546ad94a5"
   },
   {
    "slug": "capcut-ai",
@@ -137,7 +145,8 @@
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": null,
    "last_verified": "2026-09-08",
-   "tool_page": "https://ampm-aiops.com/tools/capcut-ai/"
+   "tool_page": "https://ampm-aiops.com/tools/capcut-ai/",
+   "ampm_ref": "AMPM-6f2fd67e5d"
   },
   {
    "slug": "chatgpt",
@@ -151,7 +160,8 @@
    "cheapest_paid_usd_per_month": 8,
    "commercial_use": true,
    "last_verified": "2026-09-08",
-   "tool_page": "https://ampm-aiops.com/tools/chatgpt/"
+   "tool_page": "https://ampm-aiops.com/tools/chatgpt/",
+   "ampm_ref": "AMPM-cdc7a8c2a2"
   },
   {
    "slug": "claude",
@@ -166,7 +176,8 @@
    "cheapest_paid_usd_per_month": 20,
    "commercial_use": false,
    "last_verified": "2026-10-07",
-   "tool_page": "https://ampm-aiops.com/tools/claude/"
+   "tool_page": "https://ampm-aiops.com/tools/claude/",
+   "ampm_ref": "AMPM-a252bb9e64"
   },
   {
    "slug": "coderabbit",
@@ -180,7 +191,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/coderabbit/"
+   "tool_page": "https://ampm-aiops.com/tools/coderabbit/",
+   "ampm_ref": "AMPM-bba3187b81"
   },
   {
    "slug": "codex",
@@ -195,7 +207,8 @@
    "cheapest_paid_usd_per_month": 8,
    "commercial_use": true,
    "last_verified": "2026-10-03",
-   "tool_page": "https://ampm-aiops.com/tools/codex/"
+   "tool_page": "https://ampm-aiops.com/tools/codex/",
+   "ampm_ref": "AMPM-bce9ca2e91"
   },
   {
    "slug": "comet",
@@ -209,7 +222,8 @@
    "cheapest_paid_usd_per_month": 5,
    "commercial_use": null,
    "last_verified": "2026-09-08",
-   "tool_page": "https://ampm-aiops.com/tools/comet/"
+   "tool_page": "https://ampm-aiops.com/tools/comet/",
+   "ampm_ref": "AMPM-cb1d706851"
   },
   {
    "slug": "context-dev",
@@ -223,7 +237,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
    "last_verified": "2026-09-23",
-   "tool_page": "https://ampm-aiops.com/tools/context-dev/"
+   "tool_page": "https://ampm-aiops.com/tools/context-dev/",
+   "ampm_ref": "AMPM-17bcc16b2f"
   },
   {
    "slug": "copy-ai",
@@ -238,7 +253,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/copy-ai/"
+   "tool_page": "https://ampm-aiops.com/tools/copy-ai/",
+   "ampm_ref": "AMPM-9da2cb6c10"
   },
   {
    "slug": "coze",
@@ -253,7 +269,8 @@
    "cheapest_paid_usd_per_month": 9,
    "commercial_use": null,
    "last_verified": "2026-09-26",
-   "tool_page": "https://ampm-aiops.com/tools/coze/"
+   "tool_page": "https://ampm-aiops.com/tools/coze/",
+   "ampm_ref": "AMPM-d81d3600ef"
   },
   {
    "slug": "createos-sandbox",
@@ -268,7 +285,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-09-08",
-   "tool_page": "https://ampm-aiops.com/tools/createos-sandbox/"
+   "tool_page": "https://ampm-aiops.com/tools/createos-sandbox/",
+   "ampm_ref": "AMPM-ecc4c29a60"
   },
   {
    "slug": "cursor",
@@ -282,7 +300,8 @@
    "cheapest_paid_usd_per_month": 20,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/cursor/"
+   "tool_page": "https://ampm-aiops.com/tools/cursor/",
+   "ampm_ref": "AMPM-1ca62eeede"
   },
   {
    "slug": "deepl",
@@ -297,7 +316,8 @@
    "cheapest_paid_usd_per_month": 10.49,
    "commercial_use": true,
    "last_verified": "2026-10-03",
-   "tool_page": "https://ampm-aiops.com/tools/deepl/"
+   "tool_page": "https://ampm-aiops.com/tools/deepl/",
+   "ampm_ref": "AMPM-1557663c7c"
   },
   {
    "slug": "deepseek",
@@ -311,7 +331,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-09-25",
-   "tool_page": "https://ampm-aiops.com/tools/deepseek/"
+   "tool_page": "https://ampm-aiops.com/tools/deepseek/",
+   "ampm_ref": "AMPM-65a1a3f9f0"
   },
   {
    "slug": "descript",
@@ -325,7 +346,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/descript/"
+   "tool_page": "https://ampm-aiops.com/tools/descript/",
+   "ampm_ref": "AMPM-427644bfe9"
   },
   {
    "slug": "echo-loop",
@@ -339,7 +361,8 @@
    "cheapest_paid_usd_per_month": 8.99,
    "commercial_use": null,
    "last_verified": "2026-10-07",
-   "tool_page": "https://ampm-aiops.com/tools/echo-loop/"
+   "tool_page": "https://ampm-aiops.com/tools/echo-loop/",
+   "ampm_ref": "AMPM-1bfca8bb5b"
   },
   {
    "slug": "elevenlabs",
@@ -353,7 +376,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/elevenlabs/"
+   "tool_page": "https://ampm-aiops.com/tools/elevenlabs/",
+   "ampm_ref": "AMPM-5822b94de8"
   },
   {
    "slug": "fathom",
@@ -367,7 +391,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/fathom/"
+   "tool_page": "https://ampm-aiops.com/tools/fathom/",
+   "ampm_ref": "AMPM-af7e036bf2"
   },
   {
    "slug": "felo",
@@ -382,7 +407,8 @@
    "cheapest_paid_usd_per_month": 12.5,
    "commercial_use": null,
    "last_verified": "2026-10-02",
-   "tool_page": "https://ampm-aiops.com/tools/felo/"
+   "tool_page": "https://ampm-aiops.com/tools/felo/",
+   "ampm_ref": "AMPM-1340cdb3ea"
   },
   {
    "slug": "fireflies-ai",
@@ -397,7 +423,8 @@
    "cheapest_paid_usd_per_month": 18,
    "commercial_use": null,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/fireflies-ai/"
+   "tool_page": "https://ampm-aiops.com/tools/fireflies-ai/",
+   "ampm_ref": "AMPM-8fd8f5dee3"
   },
   {
    "slug": "fliki",
@@ -412,7 +439,8 @@
    "cheapest_paid_usd_per_month": 28,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/fliki/"
+   "tool_page": "https://ampm-aiops.com/tools/fliki/",
+   "ampm_ref": "AMPM-c574e882ce"
   },
   {
    "slug": "floot",
@@ -426,7 +454,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/floot/"
+   "tool_page": "https://ampm-aiops.com/tools/floot/",
+   "ampm_ref": "AMPM-67933dea6a"
   },
   {
    "slug": "framer",
@@ -441,7 +470,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-07",
-   "tool_page": "https://ampm-aiops.com/tools/framer/"
+   "tool_page": "https://ampm-aiops.com/tools/framer/",
+   "ampm_ref": "AMPM-c5345496c7"
   },
   {
    "slug": "gamma",
@@ -455,7 +485,8 @@
    "cheapest_paid_usd_per_month": 12,
    "commercial_use": null,
    "last_verified": "2026-09-27",
-   "tool_page": "https://ampm-aiops.com/tools/gamma/"
+   "tool_page": "https://ampm-aiops.com/tools/gamma/",
+   "ampm_ref": "AMPM-257e87d01f"
   },
   {
    "slug": "gemini",
@@ -468,8 +499,9 @@
    "free_tier_summary": "免費版每月 NT$0，只要有 Google 帳戶就能用",
    "cheapest_paid_usd_per_month": 4.99,
    "commercial_use": true,
-   "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/gemini/"
+   "last_verified": "2026-10-07",
+   "tool_page": "https://ampm-aiops.com/tools/gemini/",
+   "ampm_ref": "AMPM-604c96319c"
   },
   {
    "slug": "notebooklm",
@@ -484,7 +516,8 @@
    "cheapest_paid_usd_per_month": 4.99,
    "commercial_use": true,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/notebooklm/"
+   "tool_page": "https://ampm-aiops.com/tools/notebooklm/",
+   "ampm_ref": "AMPM-80a83f3c06"
   },
   {
    "slug": "github-copilot",
@@ -498,7 +531,8 @@
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/github-copilot/"
+   "tool_page": "https://ampm-aiops.com/tools/github-copilot/",
+   "ampm_ref": "AMPM-1ebc1b35ef"
   },
   {
    "slug": "glaze",
@@ -512,7 +546,8 @@
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": true,
    "last_verified": "2026-09-08",
-   "tool_page": "https://ampm-aiops.com/tools/glaze/"
+   "tool_page": "https://ampm-aiops.com/tools/glaze/",
+   "ampm_ref": "AMPM-7efe549508"
   },
   {
    "slug": "google-ai-studio",
@@ -527,7 +562,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-02",
-   "tool_page": "https://ampm-aiops.com/tools/google-ai-studio/"
+   "tool_page": "https://ampm-aiops.com/tools/google-ai-studio/",
+   "ampm_ref": "AMPM-0c7e17269f"
   },
   {
    "slug": "grammarly",
@@ -542,7 +578,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/grammarly/"
+   "tool_page": "https://ampm-aiops.com/tools/grammarly/",
+   "ampm_ref": "AMPM-8bd9b95586"
   },
   {
    "slug": "grok",
@@ -556,7 +593,8 @@
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": true,
    "last_verified": "2026-09-08",
-   "tool_page": "https://ampm-aiops.com/tools/grok/"
+   "tool_page": "https://ampm-aiops.com/tools/grok/",
+   "ampm_ref": "AMPM-f6532d0bb4"
   },
   {
    "slug": "groq",
@@ -571,7 +609,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/groq/"
+   "tool_page": "https://ampm-aiops.com/tools/groq/",
+   "ampm_ref": "AMPM-bf9c04998e"
   },
   {
    "slug": "hedra",
@@ -585,7 +624,8 @@
    "cheapest_paid_usd_per_month": 15,
    "commercial_use": null,
    "last_verified": "2026-09-22",
-   "tool_page": "https://ampm-aiops.com/tools/hedra/"
+   "tool_page": "https://ampm-aiops.com/tools/hedra/",
+   "ampm_ref": "AMPM-d84661f727"
   },
   {
    "slug": "heygen",
@@ -599,7 +639,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/heygen/"
+   "tool_page": "https://ampm-aiops.com/tools/heygen/",
+   "ampm_ref": "AMPM-889f58bbdb"
   },
   {
    "slug": "holaos",
@@ -613,7 +654,8 @@
    "cheapest_paid_usd_per_month": 99,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/holaos/"
+   "tool_page": "https://ampm-aiops.com/tools/holaos/",
+   "ampm_ref": "AMPM-208e0bf469"
   },
   {
    "slug": "hostinger",
@@ -628,7 +670,8 @@
    "cheapest_paid_usd_per_month": 2.99,
    "commercial_use": true,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/hostinger/"
+   "tool_page": "https://ampm-aiops.com/tools/hostinger/",
+   "ampm_ref": "AMPM-1981568ac8"
   },
   {
    "slug": "ideogram",
@@ -641,8 +684,9 @@
    "free_tier_summary": "官網ideogram.ai/pricing經代理直讀確認為「10 slow credits/week」，即每週10點慢速額度，約可得40張圖/週",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/ideogram/"
+   "last_verified": "2026-10-07",
+   "tool_page": "https://ampm-aiops.com/tools/ideogram/",
+   "ampm_ref": "AMPM-9f425c05a9"
   },
   {
    "slug": "invideo",
@@ -656,7 +700,8 @@
    "cheapest_paid_usd_per_month": 20,
    "commercial_use": false,
    "last_verified": "2026-10-07",
-   "tool_page": "https://ampm-aiops.com/tools/invideo/"
+   "tool_page": "https://ampm-aiops.com/tools/invideo/",
+   "ampm_ref": "AMPM-f8bf417069"
   },
   {
    "slug": "jasper-ai",
@@ -670,7 +715,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/jasper-ai/"
+   "tool_page": "https://ampm-aiops.com/tools/jasper-ai/",
+   "ampm_ref": "AMPM-6e62ab172c"
   },
   {
    "slug": "kling",
@@ -684,7 +730,8 @@
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/kling/"
+   "tool_page": "https://ampm-aiops.com/tools/kling/",
+   "ampm_ref": "AMPM-8274bab27d"
   },
   {
    "slug": "krisp",
@@ -699,7 +746,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-07",
-   "tool_page": "https://ampm-aiops.com/tools/krisp/"
+   "tool_page": "https://ampm-aiops.com/tools/krisp/",
+   "ampm_ref": "AMPM-f02cbe0c49"
   },
   {
    "slug": "leonardo",
@@ -712,8 +760,9 @@
    "free_tier_summary": "每日 150 點快速代幣，24小時到期不累積、不可跨日滾存，同時僅可執行1個生成任務",
    "cheapest_paid_usd_per_month": 12,
    "commercial_use": true,
-   "last_verified": "2026-10-04",
-   "tool_page": "https://ampm-aiops.com/tools/leonardo/"
+   "last_verified": "2026-10-07",
+   "tool_page": "https://ampm-aiops.com/tools/leonardo/",
+   "ampm_ref": "AMPM-f89f1c39ef"
   },
   {
    "slug": "livedocs",
@@ -727,8 +776,9 @@
    "free_tier_summary": "免費版每月 US$0，最多3個notebook，單人使用，4GB RAM，0.5 vCPU，US$5 AI額度上限",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/livedocs/"
+   "last_verified": "2026-10-07",
+   "tool_page": "https://ampm-aiops.com/tools/livedocs/",
+   "ampm_ref": "AMPM-d5c227aa7d"
   },
   {
    "slug": "lovable",
@@ -742,7 +792,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-03",
-   "tool_page": "https://ampm-aiops.com/tools/lovable/"
+   "tool_page": "https://ampm-aiops.com/tools/lovable/",
+   "ampm_ref": "AMPM-15d6be025d"
   },
   {
    "slug": "luma",
@@ -756,7 +807,8 @@
    "cheapest_paid_usd_per_month": 30,
    "commercial_use": true,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/luma/"
+   "tool_page": "https://ampm-aiops.com/tools/luma/",
+   "ampm_ref": "AMPM-89ff45c314"
   },
   {
    "slug": "magic-hour",
@@ -770,7 +822,8 @@
    "cheapest_paid_usd_per_month": 19,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/magic-hour/"
+   "tool_page": "https://ampm-aiops.com/tools/magic-hour/",
+   "ampm_ref": "AMPM-8cd333bc35"
   },
   {
    "slug": "make",
@@ -785,7 +838,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-09-24",
-   "tool_page": "https://ampm-aiops.com/tools/make/"
+   "tool_page": "https://ampm-aiops.com/tools/make/",
+   "ampm_ref": "AMPM-bd04856380"
   },
   {
    "slug": "manus",
@@ -799,7 +853,8 @@
    "cheapest_paid_usd_per_month": 20,
    "commercial_use": null,
    "last_verified": "2026-10-03",
-   "tool_page": "https://ampm-aiops.com/tools/manus/"
+   "tool_page": "https://ampm-aiops.com/tools/manus/",
+   "ampm_ref": "AMPM-d7ce805558"
   },
   {
    "slug": "copilot-microsoft",
@@ -812,8 +867,9 @@
    "free_tier_summary": "網頁版基本文字對話免費；Office內建 Copilot Chat、Researcher/Analyst 代理與影像生成等進階功能需 Microsoft 365 Premium或 …",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/copilot-microsoft/"
+   "last_verified": "2026-10-07",
+   "tool_page": "https://ampm-aiops.com/tools/copilot-microsoft/",
+   "ampm_ref": "AMPM-078a352dad"
   },
   {
    "slug": "midjourney",
@@ -826,8 +882,9 @@
    "free_tier_summary": "無免費方案",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": false,
-   "last_verified": "2026-10-04",
-   "tool_page": "https://ampm-aiops.com/tools/midjourney/"
+   "last_verified": "2026-10-07",
+   "tool_page": "https://ampm-aiops.com/tools/midjourney/",
+   "ampm_ref": "AMPM-82adaa6efc"
   },
   {
    "slug": "mistral",
@@ -842,7 +899,8 @@
    "cheapest_paid_usd_per_month": 0.15,
    "commercial_use": false,
    "last_verified": "2026-09-27",
-   "tool_page": "https://ampm-aiops.com/tools/mistral/"
+   "tool_page": "https://ampm-aiops.com/tools/mistral/",
+   "ampm_ref": "AMPM-80cae69d90"
   },
   {
    "slug": "moltbook",
@@ -856,7 +914,8 @@
    "cheapest_paid_usd_per_month": null,
    "commercial_use": true,
    "last_verified": "2026-09-05",
-   "tool_page": "https://ampm-aiops.com/tools/moltbook/"
+   "tool_page": "https://ampm-aiops.com/tools/moltbook/",
+   "ampm_ref": "AMPM-2aec3b92ae"
   },
   {
    "slug": "monica",
@@ -869,8 +928,9 @@
    "free_tier_summary": "免費版 US$0：每日 40 次普通模型、圖像與影片生成為有限試用、ChatPDF 有限試用、AI Agent 限時體驗、最多 3 台登錄裝置",
    "cheapest_paid_usd_per_month": 8.3,
    "commercial_use": true,
-   "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/monica/"
+   "last_verified": "2026-10-07",
+   "tool_page": "https://ampm-aiops.com/tools/monica/",
+   "ampm_ref": "AMPM-919988fe9c"
   },
   {
    "slug": "murf-ai",
@@ -884,7 +944,8 @@
    "cheapest_paid_usd_per_month": 29,
    "commercial_use": false,
    "last_verified": "2026-09-24",
-   "tool_page": "https://ampm-aiops.com/tools/murf-ai/"
+   "tool_page": "https://ampm-aiops.com/tools/murf-ai/",
+   "ampm_ref": "AMPM-0cf0d7eeaf"
   },
   {
    "slug": "n8n",
@@ -899,7 +960,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/n8n/"
+   "tool_page": "https://ampm-aiops.com/tools/n8n/",
+   "ampm_ref": "AMPM-2eabe01e8e"
   },
   {
    "slug": "nano-banana",
@@ -912,8 +974,9 @@
    "free_tier_summary": "Gemini 免費版內含少量 Nano Banana 生成額度；付費方案依級別提升額度上限",
    "cheapest_paid_usd_per_month": 4.99,
    "commercial_use": null,
-   "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/nano-banana/"
+   "last_verified": "2026-10-07",
+   "tool_page": "https://ampm-aiops.com/tools/nano-banana/",
+   "ampm_ref": "AMPM-4dd40ca155"
   },
   {
    "slug": "napkin-ai",
@@ -927,7 +990,8 @@
    "cheapest_paid_usd_per_month": 9,
    "commercial_use": null,
    "last_verified": "2026-10-07",
-   "tool_page": "https://ampm-aiops.com/tools/napkin-ai/"
+   "tool_page": "https://ampm-aiops.com/tools/napkin-ai/",
+   "ampm_ref": "AMPM-2317bfeb4b"
   },
   {
    "slug": "notion-ai",
@@ -941,8 +1005,9 @@
    "free_tier_summary": "免費版可用有限AI功能，完整AI功能已併入付費方案；免費版另含最多10位外部訪客、7天頁面歷史記錄",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/notion-ai/"
+   "last_verified": "2026-10-07",
+   "tool_page": "https://ampm-aiops.com/tools/notion-ai/",
+   "ampm_ref": "AMPM-9a5e2dea7c"
   },
   {
    "slug": "openrouter",
@@ -957,7 +1022,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/openrouter/"
+   "tool_page": "https://ampm-aiops.com/tools/openrouter/",
+   "ampm_ref": "AMPM-d6d09d9673"
   },
   {
    "slug": "openseo",
@@ -972,7 +1038,8 @@
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": true,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/openseo/"
+   "tool_page": "https://ampm-aiops.com/tools/openseo/",
+   "ampm_ref": "AMPM-f835aa681a"
   },
   {
    "slug": "opus-clip",
@@ -986,7 +1053,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/opus-clip/"
+   "tool_page": "https://ampm-aiops.com/tools/opus-clip/",
+   "ampm_ref": "AMPM-f28861f1dc"
   },
   {
    "slug": "opusclip",
@@ -1000,7 +1068,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
    "last_verified": "2026-10-07",
-   "tool_page": "https://ampm-aiops.com/tools/opusclip/"
+   "tool_page": "https://ampm-aiops.com/tools/opusclip/",
+   "ampm_ref": "AMPM-06a37e20c3"
   },
   {
    "slug": "otter-ai",
@@ -1015,7 +1084,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/otter-ai/"
+   "tool_page": "https://ampm-aiops.com/tools/otter-ai/",
+   "ampm_ref": "AMPM-d14fe072c5"
   },
   {
    "slug": "pazi",
@@ -1029,7 +1099,8 @@
    "cheapest_paid_usd_per_month": 25,
    "commercial_use": true,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/pazi/"
+   "tool_page": "https://ampm-aiops.com/tools/pazi/",
+   "ampm_ref": "AMPM-98f2cfd0d3"
   },
   {
    "slug": "perplexity",
@@ -1044,7 +1115,8 @@
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": true,
    "last_verified": "2026-09-08",
-   "tool_page": "https://ampm-aiops.com/tools/perplexity/"
+   "tool_page": "https://ampm-aiops.com/tools/perplexity/",
+   "ampm_ref": "AMPM-12acf888a6"
   },
   {
    "slug": "pictory",
@@ -1058,7 +1130,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/pictory/"
+   "tool_page": "https://ampm-aiops.com/tools/pictory/",
+   "ampm_ref": "AMPM-4c7f06bd92"
   },
   {
    "slug": "pika",
@@ -1072,7 +1145,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/pika/"
+   "tool_page": "https://ampm-aiops.com/tools/pika/",
+   "ampm_ref": "AMPM-b41c7c48a4"
   },
   {
    "slug": "pixverse",
@@ -1086,7 +1160,8 @@
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": false,
    "last_verified": "2026-10-03",
-   "tool_page": "https://ampm-aiops.com/tools/pixverse/"
+   "tool_page": "https://ampm-aiops.com/tools/pixverse/",
+   "ampm_ref": "AMPM-70c0e9530d"
   },
   {
    "slug": "poe",
@@ -1100,7 +1175,8 @@
    "cheapest_paid_usd_per_month": 4.99,
    "commercial_use": true,
    "last_verified": "2026-09-08",
-   "tool_page": "https://ampm-aiops.com/tools/poe/"
+   "tool_page": "https://ampm-aiops.com/tools/poe/",
+   "ampm_ref": "AMPM-28cd128f11"
   },
   {
    "slug": "postsyncer",
@@ -1114,7 +1190,8 @@
    "cheapest_paid_usd_per_month": 19,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/postsyncer/"
+   "tool_page": "https://ampm-aiops.com/tools/postsyncer/",
+   "ampm_ref": "AMPM-a0e7935a4d"
   },
   {
    "slug": "quillbot",
@@ -1128,7 +1205,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-09-08",
-   "tool_page": "https://ampm-aiops.com/tools/quillbot/"
+   "tool_page": "https://ampm-aiops.com/tools/quillbot/",
+   "ampm_ref": "AMPM-089734842b"
   },
   {
    "slug": "recraft",
@@ -1142,7 +1220,8 @@
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/recraft/"
+   "tool_page": "https://ampm-aiops.com/tools/recraft/",
+   "ampm_ref": "AMPM-327ac46e24"
   },
   {
    "slug": "replicate",
@@ -1158,7 +1237,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-09-27",
-   "tool_page": "https://ampm-aiops.com/tools/replicate/"
+   "tool_page": "https://ampm-aiops.com/tools/replicate/",
+   "ampm_ref": "AMPM-f44abac41a"
   },
   {
    "slug": "replit",
@@ -1172,7 +1252,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/replit/"
+   "tool_page": "https://ampm-aiops.com/tools/replit/",
+   "ampm_ref": "AMPM-bdfd459f82"
   },
   {
    "slug": "repowise",
@@ -1186,7 +1267,8 @@
    "cheapest_paid_usd_per_month": 15,
    "commercial_use": null,
    "last_verified": "2026-10-07",
-   "tool_page": "https://ampm-aiops.com/tools/repowise/"
+   "tool_page": "https://ampm-aiops.com/tools/repowise/",
+   "ampm_ref": "AMPM-6e5f1fd5ed"
   },
   {
    "slug": "runway",
@@ -1200,7 +1282,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/runway/"
+   "tool_page": "https://ampm-aiops.com/tools/runway/",
+   "ampm_ref": "AMPM-1660843877"
   },
   {
    "slug": "rytr",
@@ -1214,7 +1297,8 @@
    "cheapest_paid_usd_per_month": 9,
    "commercial_use": true,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/rytr/"
+   "tool_page": "https://ampm-aiops.com/tools/rytr/",
+   "ampm_ref": "AMPM-57335fd612"
   },
   {
    "slug": "sandbase-cli",
@@ -1229,7 +1313,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-09-26",
-   "tool_page": "https://ampm-aiops.com/tools/sandbase-cli/"
+   "tool_page": "https://ampm-aiops.com/tools/sandbase-cli/",
+   "ampm_ref": "AMPM-049449d6d1"
   },
   {
    "slug": "sim",
@@ -1244,7 +1329,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/sim/"
+   "tool_page": "https://ampm-aiops.com/tools/sim/",
+   "ampm_ref": "AMPM-c29442d172"
   },
   {
    "slug": "socialecho",
@@ -1258,7 +1344,8 @@
    "cheapest_paid_usd_per_month": 18.75,
    "commercial_use": true,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/socialecho/"
+   "tool_page": "https://ampm-aiops.com/tools/socialecho/",
+   "ampm_ref": "AMPM-720b562dce"
   },
   {
    "slug": "speechify",
@@ -1273,7 +1360,8 @@
    "cheapest_paid_usd_per_month": 19,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/speechify/"
+   "tool_page": "https://ampm-aiops.com/tools/speechify/",
+   "ampm_ref": "AMPM-019c8bd87a"
   },
   {
    "slug": "stable-diffusion",
@@ -1287,7 +1375,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
    "last_verified": "2026-09-17",
-   "tool_page": "https://ampm-aiops.com/tools/stable-diffusion/"
+   "tool_page": "https://ampm-aiops.com/tools/stable-diffusion/",
+   "ampm_ref": "AMPM-24db6b7f2d"
   },
   {
    "slug": "strix",
@@ -1302,7 +1391,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/strix/"
+   "tool_page": "https://ampm-aiops.com/tools/strix/",
+   "ampm_ref": "AMPM-1f483ab751"
   },
   {
    "slug": "suno",
@@ -1316,7 +1406,8 @@
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/suno/"
+   "tool_page": "https://ampm-aiops.com/tools/suno/",
+   "ampm_ref": "AMPM-216b2740e5"
   },
   {
    "slug": "surfer-seo",
@@ -1331,7 +1422,8 @@
    "cheapest_paid_usd_per_month": 49,
    "commercial_use": true,
    "last_verified": "2026-09-08",
-   "tool_page": "https://ampm-aiops.com/tools/surfer-seo/"
+   "tool_page": "https://ampm-aiops.com/tools/surfer-seo/",
+   "ampm_ref": "AMPM-5ee43bd33b"
   },
   {
    "slug": "synthesia",
@@ -1345,7 +1437,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/synthesia/"
+   "tool_page": "https://ampm-aiops.com/tools/synthesia/",
+   "ampm_ref": "AMPM-c3e00bdadd"
   },
   {
    "slug": "taskade",
@@ -1360,7 +1453,8 @@
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": true,
    "last_verified": "2026-10-07",
-   "tool_page": "https://ampm-aiops.com/tools/taskade/"
+   "tool_page": "https://ampm-aiops.com/tools/taskade/",
+   "ampm_ref": "AMPM-42acc8c96b"
   },
   {
    "slug": "teable",
@@ -1374,7 +1468,8 @@
    "cheapest_paid_usd_per_month": 12,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/teable/"
+   "tool_page": "https://ampm-aiops.com/tools/teable/",
+   "ampm_ref": "AMPM-e6fca87a38"
   },
   {
    "slug": "termi-protocol",
@@ -1389,7 +1484,8 @@
    "cheapest_paid_usd_per_month": 7.99,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/termi-protocol/"
+   "tool_page": "https://ampm-aiops.com/tools/termi-protocol/",
+   "ampm_ref": "AMPM-39e4579ee4"
   },
   {
    "slug": "trae",
@@ -1403,7 +1499,8 @@
    "cheapest_paid_usd_per_month": 3,
    "commercial_use": true,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/trae/"
+   "tool_page": "https://ampm-aiops.com/tools/trae/",
+   "ampm_ref": "AMPM-19ff9487ea"
   },
   {
    "slug": "udio",
@@ -1417,7 +1514,8 @@
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/udio/"
+   "tool_page": "https://ampm-aiops.com/tools/udio/",
+   "ampm_ref": "AMPM-a07d9baa83"
   },
   {
    "slug": "v0",
@@ -1431,7 +1529,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/v0/"
+   "tool_page": "https://ampm-aiops.com/tools/v0/",
+   "ampm_ref": "AMPM-f5fa6370e2"
   },
   {
    "slug": "vapi",
@@ -1445,8 +1544,9 @@
    "free_tier_summary": "官網 2026-09-16 定價頁已改版為「Usage only＋可選 Success Package」結構",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/vapi/"
+   "last_verified": "2026-10-07",
+   "tool_page": "https://ampm-aiops.com/tools/vapi/",
+   "ampm_ref": "AMPM-50b6448ce6"
   },
   {
    "slug": "veed",
@@ -1460,7 +1560,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
    "last_verified": "2026-09-17",
-   "tool_page": "https://ampm-aiops.com/tools/veed/"
+   "tool_page": "https://ampm-aiops.com/tools/veed/",
+   "ampm_ref": "AMPM-a038a23e65"
   },
   {
    "slug": "velo",
@@ -1474,7 +1575,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/velo/"
+   "tool_page": "https://ampm-aiops.com/tools/velo/",
+   "ampm_ref": "AMPM-ecd75dd59b"
   },
   {
    "slug": "veo",
@@ -1488,7 +1590,8 @@
    "cheapest_paid_usd_per_month": 4.99,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/veo/"
+   "tool_page": "https://ampm-aiops.com/tools/veo/",
+   "ampm_ref": "AMPM-6042e298ba"
   },
   {
    "slug": "vibe-trading",
@@ -1502,7 +1605,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-09-27",
-   "tool_page": "https://ampm-aiops.com/tools/vibe-trading/"
+   "tool_page": "https://ampm-aiops.com/tools/vibe-trading/",
+   "ampm_ref": "AMPM-ddba672a77"
   },
   {
    "slug": "warp",
@@ -1516,7 +1620,8 @@
    "cheapest_paid_usd_per_month": 20,
    "commercial_use": null,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/warp/"
+   "tool_page": "https://ampm-aiops.com/tools/warp/",
+   "ampm_ref": "AMPM-03d607c894"
   },
   {
    "slug": "windsurf",
@@ -1530,7 +1635,8 @@
    "cheapest_paid_usd_per_month": 20,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/windsurf/"
+   "tool_page": "https://ampm-aiops.com/tools/windsurf/",
+   "ampm_ref": "AMPM-06a6aeac8d"
   },
   {
    "slug": "wispr-flow",
@@ -1545,7 +1651,8 @@
    "cheapest_paid_usd_per_month": 15,
    "commercial_use": null,
    "last_verified": "2026-10-06",
-   "tool_page": "https://ampm-aiops.com/tools/wispr-flow/"
+   "tool_page": "https://ampm-aiops.com/tools/wispr-flow/",
+   "ampm_ref": "AMPM-ecc8855369"
   },
   {
    "slug": "writesonic",
@@ -1559,7 +1666,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
    "last_verified": "2026-10-05",
-   "tool_page": "https://ampm-aiops.com/tools/writesonic/"
+   "tool_page": "https://ampm-aiops.com/tools/writesonic/",
+   "ampm_ref": "AMPM-8878d6eddc"
   },
   {
    "slug": "yylo",
@@ -1573,7 +1681,8 @@
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
    "last_verified": "2026-09-27",
-   "tool_page": "https://ampm-aiops.com/tools/yylo/"
+   "tool_page": "https://ampm-aiops.com/tools/yylo/",
+   "ampm_ref": "AMPM-4c6f7d0670"
   },
   {
    "slug": "zed",
@@ -1587,7 +1696,8 @@
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": null,
    "last_verified": "2026-10-07",
-   "tool_page": "https://ampm-aiops.com/tools/zed/"
+   "tool_page": "https://ampm-aiops.com/tools/zed/",
+   "ampm_ref": "AMPM-6afedbbbf6"
   }
  ]
 }
