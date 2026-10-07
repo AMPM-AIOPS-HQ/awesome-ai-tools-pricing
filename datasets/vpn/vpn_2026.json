@@ -1,7 +1,7 @@
 {
  "dataset": "vpn",
  "title": "VPN Pricing & Audits (Taiwan)",
- "generated_at": "2026-10-07T23:26:11+08:00",
+ "generated_at": "2026-10-08T04:00:03+08:00",
  "source": "https://vpn.ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 7,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-07",
+ "last_verified_max": "2026-10-08",
  "rows": [
   {
    "slug": "cyberghost",
@@ -22,9 +22,9 @@
    "jurisdiction": "羅馬尼亞 Romania",
    "latest_audit_year": 2024,
    "source_url": "https://www.cyberghostvpn.com/buy",
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "page_url": "https://vpn.ampm-aiops.com/items/cyberghost/",
-   "ampm_ref": "AMPM-d78455fc2f"
+   "ampm_ref": "AMPM-d809a22d46"
   },
   {
    "slug": "expressvpn",
@@ -37,9 +37,9 @@
    "jurisdiction": "英屬維京群島 BVI",
    "latest_audit_year": 2025,
    "source_url": "https://www.expressvpn.com/pricing",
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "page_url": "https://vpn.ampm-aiops.com/items/expressvpn/",
-   "ampm_ref": "AMPM-0a0bec25cb"
+   "ampm_ref": "AMPM-9e4259cc11"
   },
   {
    "slug": "mullvad",
@@ -52,9 +52,9 @@
    "jurisdiction": "瑞典 Sweden",
    "latest_audit_year": 2025,
    "source_url": "https://mullvad.net/en/pricing",
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "page_url": "https://vpn.ampm-aiops.com/items/mullvad/",
-   "ampm_ref": "AMPM-d74a96fd8a"
+   "ampm_ref": "AMPM-c32534033e"
   },
   {
    "slug": "nordvpn",
@@ -82,9 +82,9 @@
    "jurisdiction": "瑞士 Switzerland",
    "latest_audit_year": 2026,
    "source_url": "https://protonvpn.com/pricing",
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "page_url": "https://vpn.ampm-aiops.com/items/protonvpn/",
-   "ampm_ref": "AMPM-f9fc7792db"
+   "ampm_ref": "AMPM-d0c003a5c9"
   },
   {
    "slug": "surfshark",
@@ -97,9 +97,9 @@
    "jurisdiction": "荷蘭 Netherlands",
    "latest_audit_year": 2025,
    "source_url": "https://surfshark.com/pricing",
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "page_url": "https://vpn.ampm-aiops.com/items/surfshark/",
-   "ampm_ref": "AMPM-91937b7258"
+   "ampm_ref": "AMPM-eeb99fe1e4"
   },
   {
    "slug": "windscribe",
@@ -112,9 +112,9 @@
    "jurisdiction": "加拿大 Canada",
    "latest_audit_year": 2024,
    "source_url": "https://windscribe.com/upgrade",
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "page_url": "https://vpn.ampm-aiops.com/items/windscribe/",
-   "ampm_ref": "AMPM-72b261eca2"
+   "ampm_ref": "AMPM-f1adb64134"
   }
  ]
 }

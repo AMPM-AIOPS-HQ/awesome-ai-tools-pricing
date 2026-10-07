@@ -1,7 +1,7 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-10-07T23:26:11+08:00",
+ "generated_at": "2026-10-08T04:00:03+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 110,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-07",
+ "last_verified_max": "2026-10-08",
  "tool_count": 110,
  "tools": [
   {
@@ -23,9 +23,9 @@
    "free_tier_summary": "免費版：官網FAQ現行文案已改稱「free daily generations」，惟未提供每日具體上限數字；合作夥伴模型扣點規則沿用原方案點數",
    "cheapest_paid_usd_per_month": 9.99,
    "commercial_use": null,
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/adobe-firefly/",
-   "ampm_ref": "AMPM-a6726c916b"
+   "ampm_ref": "AMPM-1042dbf6d3"
   },
   {
    "slug": "aider",
@@ -375,9 +375,9 @@
    "free_tier_summary": "每月 1 萬點數",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/elevenlabs/",
-   "ampm_ref": "AMPM-5822b94de8"
+   "ampm_ref": "AMPM-3dcbb02ceb"
   },
   {
    "slug": "fathom",
@@ -638,9 +638,9 @@
    "free_tier_summary": "免費方案 US$0/月，額度按「支數」不是點數：每月 3 支影片，每支長度上限 1 分鐘",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/heygen/",
-   "ampm_ref": "AMPM-889f58bbdb"
+   "ampm_ref": "AMPM-47322f723d"
   },
   {
    "slug": "holaos",
@@ -1144,9 +1144,9 @@
    "free_tier_summary": "免費方案 Free、US$0：每月 0 點，要另買點數包才能生成；可用全部模型，可同時 2 支影片、2 張圖片或音訊；不含商用授權、優先佇列與新模型搶先用",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/pika/",
-   "ampm_ref": "AMPM-b41c7c48a4"
+   "ampm_ref": "AMPM-0121817c27"
   },
   {
    "slug": "pixverse",
@@ -1281,9 +1281,9 @@
    "free_tier_summary": "免費版名稱就叫 Free、US$0/月，官網標示 Free forever",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/runway/",
-   "ampm_ref": "AMPM-1660843877"
+   "ampm_ref": "AMPM-744d45f51d"
   },
   {
    "slug": "rytr",
@@ -1405,9 +1405,9 @@
    "free_tier_summary": "免費方案官網頁面上叫 Free Plan，US$0/月",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": false,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/suno/",
-   "ampm_ref": "AMPM-216b2740e5"
+   "ampm_ref": "AMPM-ed11eca04c"
   },
   {
    "slug": "surfer-seo",
@@ -1513,9 +1513,9 @@
    "free_tier_summary": "免費版每日 10 點＋每月 100 點，約可生 1-3 首 2 分鐘內歌曲/天",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": null,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/udio/",
-   "ampm_ref": "AMPM-a07d9baa83"
+   "ampm_ref": "AMPM-7cc3cc5374"
   },
   {
    "slug": "v0",
@@ -1634,9 +1634,9 @@
    "free_tier_summary": "2026-08-11 複查發現：windsurf.com/pricing 現已永久重導向至 devin.ai/pricing，頁面完全是 Devin 品牌，Windsurf 獨立定…",
    "cheapest_paid_usd_per_month": 20,
    "commercial_use": false,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/windsurf/",
-   "ampm_ref": "AMPM-06a6aeac8d"
+   "ampm_ref": "AMPM-437b54bbfc"
   },
   {
    "slug": "wispr-flow",
