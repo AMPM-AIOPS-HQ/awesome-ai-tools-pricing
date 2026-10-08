@@ -1,7 +1,7 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-10-08T04:00:03+08:00",
+ "generated_at": "2026-10-09T04:00:02+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 110,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-08",
+ "last_verified_max": "2026-10-09",
  "tool_count": 110,
  "tools": [
   {
@@ -53,9 +53,9 @@
    "free_tier_summary": "10 credits",
    "cheapest_paid_usd_per_month": 39.8,
    "commercial_use": false,
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/airmusic/",
-   "ampm_ref": "AMPM-bec4fefcc9"
+   "ampm_ref": "AMPM-1bea956369"
   },
   {
    "slug": "anijam",
@@ -98,9 +98,9 @@
    "free_tier_summary": "免費版 US$0",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/bolt/",
-   "ampm_ref": "AMPM-8b2894c9fe"
+   "ampm_ref": "AMPM-607b66b0d8"
   },
   {
    "slug": "buzzabout",
@@ -252,9 +252,9 @@
    "free_tier_summary": "無免費方案",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-09",
    "tool_page": "https://ampm-aiops.com/tools/copy-ai/",
-   "ampm_ref": "AMPM-9da2cb6c10"
+   "ampm_ref": "AMPM-d7fb2ff2db"
   },
   {
    "slug": "coze",
@@ -499,9 +499,9 @@
    "free_tier_summary": "免費版每月 NT$0，只要有 Google 帳戶就能用",
    "cheapest_paid_usd_per_month": 4.99,
    "commercial_use": true,
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/gemini/",
-   "ampm_ref": "AMPM-604c96319c"
+   "ampm_ref": "AMPM-d20f10939b"
   },
   {
    "slug": "notebooklm",
@@ -684,9 +684,9 @@
    "free_tier_summary": "官網ideogram.ai/pricing經代理直讀確認為「10 slow credits/week」，即每週10點慢速額度，約可得40張圖/週",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/ideogram/",
-   "ampm_ref": "AMPM-9f425c05a9"
+   "ampm_ref": "AMPM-c3c67e082b"
   },
   {
    "slug": "invideo",
@@ -699,9 +699,9 @@
    "free_tier_summary": "2026-09-25 官網定價頁沒有列出免費方案",
    "cheapest_paid_usd_per_month": 20,
    "commercial_use": false,
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/invideo/",
-   "ampm_ref": "AMPM-f8bf417069"
+   "ampm_ref": "AMPM-00dfefb9f7"
   },
   {
    "slug": "jasper-ai",
@@ -776,9 +776,9 @@
    "free_tier_summary": "免費版每月 US$0，最多3個notebook，單人使用，4GB RAM，0.5 vCPU，US$5 AI額度上限",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/livedocs/",
-   "ampm_ref": "AMPM-d5c227aa7d"
+   "ampm_ref": "AMPM-b18011a949"
   },
   {
    "slug": "lovable",
@@ -867,9 +867,9 @@
    "free_tier_summary": "網頁版基本文字對話免費；Office內建 Copilot Chat、Researcher/Analyst 代理與影像生成等進階功能需 Microsoft 365 Premium或 …",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": true,
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/copilot-microsoft/",
-   "ampm_ref": "AMPM-078a352dad"
+   "ampm_ref": "AMPM-3101d6f9b2"
   },
   {
    "slug": "midjourney",
@@ -928,9 +928,9 @@
    "free_tier_summary": "免費版 US$0：每日 40 次普通模型、圖像與影片生成為有限試用、ChatPDF 有限試用、AI Agent 限時體驗、最多 3 台登錄裝置",
    "cheapest_paid_usd_per_month": 8.3,
    "commercial_use": true,
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/monica/",
-   "ampm_ref": "AMPM-919988fe9c"
+   "ampm_ref": "AMPM-17a8b4e5a1"
   },
   {
    "slug": "murf-ai",
@@ -974,9 +974,9 @@
    "free_tier_summary": "Gemini 免費版內含少量 Nano Banana 生成額度；付費方案依級別提升額度上限",
    "cheapest_paid_usd_per_month": 4.99,
    "commercial_use": null,
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/nano-banana/",
-   "ampm_ref": "AMPM-4dd40ca155"
+   "ampm_ref": "AMPM-2aae5b0ecc"
   },
   {
    "slug": "napkin-ai",
@@ -1005,9 +1005,9 @@
    "free_tier_summary": "免費版可用有限AI功能，完整AI功能已併入付費方案；免費版另含最多10位外部訪客、7天頁面歷史記錄",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/notion-ai/",
-   "ampm_ref": "AMPM-9a5e2dea7c"
+   "ampm_ref": "AMPM-4df1771a07"
   },
   {
    "slug": "openrouter",
@@ -1251,9 +1251,9 @@
    "free_tier_summary": "免費方案叫 Starter",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/replit/",
-   "ampm_ref": "AMPM-bdfd459f82"
+   "ampm_ref": "AMPM-7e904c0ada"
   },
   {
    "slug": "repowise",
@@ -1328,9 +1328,9 @@
    "free_tier_summary": "免費版 US$0「Free forever」",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-09",
    "tool_page": "https://ampm-aiops.com/tools/sim/",
-   "ampm_ref": "AMPM-c29442d172"
+   "ampm_ref": "AMPM-5ed0cccf3e"
   },
   {
    "slug": "socialecho",
@@ -1436,9 +1436,9 @@
    "free_tier_summary": "每月 10 分鐘影片、9 種 AI 虛擬人像、1,200 credits/月、25 個 AI 生成影片素材、1 位編輯者，成品有浮水印；個人化虛擬人像免費版不提供",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-09",
    "tool_page": "https://ampm-aiops.com/tools/synthesia/",
-   "ampm_ref": "AMPM-c3e00bdadd"
+   "ampm_ref": "AMPM-e8f473c283"
   },
   {
    "slug": "taskade",
@@ -1467,9 +1467,9 @@
    "free_tier_summary": "免費版 US$0 per seat/month「For individuals」",
    "cheapest_paid_usd_per_month": 12,
    "commercial_use": null,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-09",
    "tool_page": "https://ampm-aiops.com/tools/teable/",
-   "ampm_ref": "AMPM-e6fca87a38"
+   "ampm_ref": "AMPM-6a59aff6e3"
   },
   {
    "slug": "termi-protocol",
@@ -1528,9 +1528,9 @@
    "free_tier_summary": "免費方案 US$0/月，額度是「點數＋每日訊息數」雙重上限，任一撞到就停：①每月內含 US$5 的點數餘額；②每日 7 則訊息上限",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/v0/",
-   "ampm_ref": "AMPM-f5fa6370e2"
+   "ampm_ref": "AMPM-8d58cf8b44"
   },
   {
    "slug": "vapi",
@@ -1544,9 +1544,9 @@
    "free_tier_summary": "官網 2026-09-16 定價頁已改版為「Usage only＋可選 Success Package」結構",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": null,
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-10-08",
    "tool_page": "https://ampm-aiops.com/tools/vapi/",
-   "ampm_ref": "AMPM-50b6448ce6"
+   "ampm_ref": "AMPM-5c094becd0"
   },
   {
    "slug": "veed",
@@ -1574,9 +1574,9 @@
    "free_tier_summary": "免費版每月 15 個「Velo 分鐘」，含 1 個席次、1 組聲音克隆、每月 1 支虛擬人影片",
    "cheapest_paid_usd_per_month": 0,
    "commercial_use": false,
-   "last_verified": "2026-10-05",
+   "last_verified": "2026-10-09",
    "tool_page": "https://ampm-aiops.com/tools/velo/",
-   "ampm_ref": "AMPM-ecd75dd59b"
+   "ampm_ref": "AMPM-4bba9da566"
   },
   {
    "slug": "veo",
