@@ -1,15 +1,15 @@
 {
  "dataset": "cards",
  "title": "Taiwan Credit Cards",
- "generated_at": "2026-10-14T04:00:02+08:00",
- "source": "https://cards.ampm-aiops.com",
+ "generated_at": "2026-10-15T04:00:02+08:00",
+ "source": "https://finance.ampm-aiops.com/",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
  "row_count": 179,
  "excluded_below_threshold": 13,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-13",
+ "last_verified_max": "2026-10-14",
  "rows": [
   {
    "slug": "scsb-simple-plus",
@@ -21,7 +21,7 @@
    "cash_advance_fee": null,
    "source_url": "https://www.scsb.com.tw/content/card/card03_h1.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/scsb-simple-plus/",
+   "page_url": "https://finance.ampm-aiops.com/items/scsb-simple-plus/",
    "ampm_ref": "AMPM-a5ef221b75"
   },
   {
@@ -34,7 +34,7 @@
    "cash_advance_fee": null,
    "source_url": "https://www.scsb.com.tw/content/card/card03_h1.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/scsb-simple/",
+   "page_url": "https://finance.ampm-aiops.com/items/scsb-simple/",
    "ampm_ref": "AMPM-54060ff6f9"
   },
   {
@@ -47,7 +47,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/dam/minisite/long/creditcard/LINEPay/index.html",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-linepay/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-linepay/",
    "ampm_ref": "AMPM-6239f90266"
   },
   {
@@ -60,7 +60,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-7eleven/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-7eleven/",
    "ampm_ref": "AMPM-d10570a1e9"
   },
   {
@@ -73,7 +73,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_AllMe.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-allme/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-allme/",
    "ampm_ref": "AMPM-78cf047fd5"
   },
   {
@@ -86,7 +86,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-amazon/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-amazon/",
    "ampm_ref": "AMPM-1f3d35f066"
   },
   {
@@ -99,7 +99,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-costco/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-costco/",
    "ampm_ref": "AMPM-2cdea4db23"
   },
   {
@@ -112,7 +112,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-debit/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-debit/",
    "ampm_ref": "AMPM-0a59fe6e22"
   },
   {
@@ -125,7 +125,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-jcb/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-jcb/",
    "ampm_ref": "AMPM-5680a6ddc6"
   },
   {
@@ -138,7 +138,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-linepay-basic/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-linepay-basic/",
    "ampm_ref": "AMPM-fc89fea867"
   },
   {
@@ -151,7 +151,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_FP.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-foodpanda/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-foodpanda/",
    "ampm_ref": "AMPM-069a377379"
   },
   {
@@ -164,7 +164,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_uniopen.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-uniopen/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-uniopen/",
    "ampm_ref": "AMPM-eb0bc0c1fb"
   },
   {
@@ -177,7 +177,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_CPC.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-cpc/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-cpc/",
    "ampm_ref": "AMPM-ba9d1976ba"
   },
   {
@@ -190,7 +190,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_CHT.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-cht/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-cht/",
    "ampm_ref": "AMPM-ae04428c98"
   },
   {
@@ -203,7 +203,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-asiamiles/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-asiamiles/",
    "ampm_ref": "AMPM-4c3e025d34"
   },
   {
@@ -216,7 +216,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_EP_Titanium.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-biz-travel/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-biz-travel/",
    "ampm_ref": "AMPM-25a42bd8f0"
   },
   {
@@ -229,7 +229,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-shinkong/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-shinkong/",
    "ampm_ref": "AMPM-8d3ab9c5a5"
   },
   {
@@ -242,7 +242,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_HanShin.html",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-hanshin/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-hanshin/",
    "ampm_ref": "AMPM-f8bca496a1"
   },
   {
@@ -255,7 +255,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-cashback-signature/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-cashback-signature/",
    "ampm_ref": "AMPM-7f10902cc5"
   },
   {
@@ -268,7 +268,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_Cashback_Titanium.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-cashback-titanium/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-cashback-titanium/",
    "ampm_ref": "AMPM-c2bce36bf3"
   },
   {
@@ -281,7 +281,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_LOL.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-lol/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-lol/",
    "ampm_ref": "AMPM-2dfb6d07a7"
   },
   {
@@ -294,7 +294,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-chinaair/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-chinaair/",
    "ampm_ref": "AMPM-fb01f0ca58"
   },
   {
@@ -307,7 +307,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-shopee/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-shopee/",
    "ampm_ref": "AMPM-6c139135ad"
   },
   {
@@ -320,7 +320,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-disney/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-disney/",
    "ampm_ref": "AMPM-40b304849c"
   },
   {
@@ -333,7 +333,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_CS.html",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-sogo/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-sogo/",
    "ampm_ref": "AMPM-efc281117a"
   },
   {
@@ -346,7 +346,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-infinite/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-infinite/",
    "ampm_ref": "AMPM-dbf95651c1"
   },
   {
@@ -359,7 +359,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-familymart/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-familymart/",
    "ampm_ref": "AMPM-cde7e21753"
   },
   {
@@ -372,7 +372,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-student/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-student/",
    "ampm_ref": "AMPM-38242737c3"
   },
   {
@@ -385,7 +385,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-shinkong-mitsukoshi/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-shinkong-mitsukoshi/",
    "ampm_ref": "AMPM-3d2341a13f"
   },
   {
@@ -398,7 +398,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-starbucks/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-starbucks/",
    "ampm_ref": "AMPM-ce2403460f"
   },
   {
@@ -411,7 +411,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-staralliance/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-staralliance/",
    "ampm_ref": "AMPM-b6bbdbfdd2"
   },
   {
@@ -424,7 +424,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-platinum/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-platinum/",
    "ampm_ref": "AMPM-f6547983b0"
   },
   {
@@ -437,7 +437,7 @@
    "cash_advance_fee": "每筆預借金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/ctbc-twm/",
+   "page_url": "https://finance.ampm-aiops.com/items/ctbc-twm/",
    "ampm_ref": "AMPM-97874ee401"
   },
   {
@@ -450,7 +450,7 @@
    "cash_advance_fee": null,
    "source_url": "https://customer.ktb.com.tw/new/personal",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/ktb-card/",
+   "page_url": "https://finance.ampm-aiops.com/items/ktb-card/",
    "ampm_ref": "AMPM-613f70eacd"
   },
   {
@@ -463,7 +463,7 @@
    "cash_advance_fee": "每筆 預借現金金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://www.yuantabank.com.tw/bank/creditCard/creditCard/in.do?id=2752af9d700000004912",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/yuanta-icash/",
+   "page_url": "https://finance.ampm-aiops.com/items/yuanta-icash/",
    "ampm_ref": "AMPM-8e032ad24c"
   },
   {
@@ -476,7 +476,7 @@
    "cash_advance_fee": "每筆 預借現金金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://www.yuantabank.com.tw/bank/creditCard/creditCard/in.do?id=2752af9d700000004912",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/yuanta-icash-diamond/",
+   "page_url": "https://finance.ampm-aiops.com/items/yuanta-icash-diamond/",
    "ampm_ref": "AMPM-a6277a2493"
   },
   {
@@ -488,9 +488,9 @@
    "revolving_rate": "年息1%~15%（以新臺幣一年期定儲固定利率為基礎加碼、電腦評等差別定價，上限15%，基準日 114 年 1 月 1 日）",
    "cash_advance_fee": "預借金額×3% ＋ 新臺幣150元（網路申辦×3%，最低新臺幣100元）",
    "source_url": "https://www.megabank.com.tw/personal/credit-card/card/overview",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/megabank-e-second/",
-   "ampm_ref": "AMPM-80ba4eeb8b"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/megabank-e-second/",
+   "ampm_ref": "AMPM-198f6014eb"
   },
   {
    "slug": "megabank-ehappy",
@@ -502,7 +502,7 @@
    "cash_advance_fee": "預借金額×3% ＋ 新臺幣150元（網路申辦×3%，最低新臺幣100元）",
    "source_url": "https://www.megabank.com.tw/personal/credit-card/card/overview/happy2",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/megabank-ehappy/",
+   "page_url": "https://finance.ampm-aiops.com/items/megabank-ehappy/",
    "ampm_ref": "AMPM-2b4bc8045d"
   },
   {
@@ -515,7 +515,7 @@
    "cash_advance_fee": "預借金額×3% ＋ 新臺幣150元（網路申辦×3%，最低新臺幣100元）",
    "source_url": "https://www.megabank.com.tw/personal/credit-card/card/overview/cash-rebate-biz",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/megabank-reward/",
+   "page_url": "https://finance.ampm-aiops.com/items/megabank-reward/",
    "ampm_ref": "AMPM-56f5fa98ba"
   },
   {
@@ -528,7 +528,7 @@
    "cash_advance_fee": "預借金額×3% ＋ 新臺幣150元（網路申辦×3%，最低新臺幣100元）",
    "source_url": "https://www.megabank.com.tw/personal/credit-card/card/overview/vsb-card",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/megabank-biz-signature/",
+   "page_url": "https://finance.ampm-aiops.com/items/megabank-biz-signature/",
    "ampm_ref": "AMPM-0af7f2fc6c"
   },
   {
@@ -541,7 +541,7 @@
    "cash_advance_fee": "預借金額×3% ＋ 新臺幣150元（網路申辦×3%，最低新臺幣100元）",
    "source_url": "https://www.megabank.com.tw/personal/credit-card/legal-announcemet/revolving-credit-fee",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/megabank-benefit/",
+   "page_url": "https://finance.ampm-aiops.com/items/megabank-benefit/",
    "ampm_ref": "AMPM-07128802e8"
   },
   {
@@ -554,7 +554,7 @@
    "cash_advance_fee": "每筆 預借金額×3.5% ＋ 新臺幣100元／3.5美元／350日圓／3歐元",
    "source_url": "https://www.kgibank.com.tw/zh-tw/personal/credit-card/list/cash-back-card",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/kgi-cashback-signature/",
+   "page_url": "https://finance.ampm-aiops.com/items/kgi-cashback-signature/",
    "ampm_ref": "AMPM-b158221503"
   },
   {
@@ -566,9 +566,9 @@
    "revolving_rate": "6.25%~15%（依本行電腦評等定期評定之差別循環信用年利率）",
    "cash_advance_fee": "每筆 預借金額×3.5% ＋ 新臺幣100元／3.5美元／350日圓／3歐元",
    "source_url": "https://www.kgibank.com.tw/zh-tw/personal/credit-card",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/kgi-gov/",
-   "ampm_ref": "AMPM-ab1e9b0053"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/kgi-gov/",
+   "ampm_ref": "AMPM-f7ed2b1d1f"
   },
   {
    "slug": "kgi-mobuy",
@@ -580,7 +580,7 @@
    "cash_advance_fee": "每筆 預借金額×3.5% ＋ 新臺幣100元／3.5美元／350日圓／3歐元",
    "source_url": "https://www.kgibank.com.tw/zh-tw/personal/credit-card/list/more-buy-credit-card",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/kgi-mobuy/",
+   "page_url": "https://finance.ampm-aiops.com/items/kgi-mobuy/",
    "ampm_ref": "AMPM-115c4af6f8"
   },
   {
@@ -592,9 +592,9 @@
    "revolving_rate": "6.25%~15%（依本行電腦評等定期評定之差別循環信用年利率）",
    "cash_advance_fee": "每筆 預借金額×3.5% ＋ 新臺幣100元／3.5美元／350日圓／3歐元",
    "source_url": "https://www.kgibank.com.tw/zh-tw/personal/credit-card/list/more-buy-credit-card",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/kgi-morebuy/",
-   "ampm_ref": "AMPM-033358a0e8"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/kgi-morebuy/",
+   "ampm_ref": "AMPM-3683b3b44b"
   },
   {
    "slug": "kgi-magicbuy-easycard",
@@ -606,7 +606,7 @@
    "cash_advance_fee": "每筆 預借金額×3.5% ＋ 新臺幣100元／3.5美元／350日圓／3歐元",
    "source_url": "https://www.kgibank.com.tw/zh-tw/personal/credit-card/list/more-buy-credit-card",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/kgi-magicbuy-easycard/",
+   "page_url": "https://finance.ampm-aiops.com/items/kgi-magicbuy-easycard/",
    "ampm_ref": "AMPM-a702d41692"
   },
   {
@@ -619,7 +619,7 @@
    "cash_advance_fee": null,
    "source_url": "https://www.tcbbank.com.tw/CreditCard/J_02.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/tcbbank-card/",
+   "page_url": "https://finance.ampm-aiops.com/items/tcbbank-card/",
    "ampm_ref": "AMPM-567a89767b"
   },
   {
@@ -631,9 +631,9 @@
    "revolving_rate": "指數型房貸基準利率 (I) ＋ 加碼利率 4.75%~13.91%，年利率上限 15%（循環利率基準日 115.7.1）",
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/costco/costco.htm",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-costco/",
-   "ampm_ref": "AMPM-717a3de9f7"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-costco/",
+   "ampm_ref": "AMPM-957be78fad"
   },
   {
    "slug": "fubon-j-card",
@@ -645,7 +645,7 @@
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/omiyage/omiyage.htm",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-j-card/",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-j-card/",
    "ampm_ref": "AMPM-e058880e23"
   },
   {
@@ -658,7 +658,7 @@
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/all_card.htm",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-sogo/",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-sogo/",
    "ampm_ref": "AMPM-434071d7ca"
   },
   {
@@ -670,9 +670,9 @@
    "revolving_rate": "指數型房貸基準利率 (I) ＋ 加碼利率 4.75%~13.91%，年利率上限 15%（循環利率基準日 115.7.1）",
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/momo/momo.htm",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-momo/",
-   "ampm_ref": "AMPM-062e15be46"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-momo/",
+   "ampm_ref": "AMPM-28939ed8c6"
   },
   {
    "slug": "fubon-cht",
@@ -683,9 +683,9 @@
    "revolving_rate": "指數型房貸基準利率 (I) ＋ 加碼利率 4.75%~13.91%，年利率上限 15%（循環利率基準日 115.7.1）",
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/all_card.htm",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-cht/",
-   "ampm_ref": "AMPM-c6e47a03aa"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-cht/",
+   "ampm_ref": "AMPM-c03fb89608"
   },
   {
    "slug": "fubon-twm",
@@ -697,7 +697,7 @@
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/twmobile_s/twmobile_s.htm",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-twm/",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-twm/",
    "ampm_ref": "AMPM-7008ad4580"
   },
   {
@@ -710,7 +710,7 @@
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/all_card.htm",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-breeze/",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-breeze/",
    "ampm_ref": "AMPM-4dc2230dd5"
   },
   {
@@ -723,7 +723,7 @@
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/digitallife/digitallife.htm",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-digital/",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-digital/",
    "ampm_ref": "AMPM-a290fb7710"
   },
   {
@@ -735,9 +735,9 @@
    "revolving_rate": "指數型房貸基準利率 (I) ＋ 加碼利率 4.75%~13.91%，年利率上限 15%（循環利率基準日 115.7.1）",
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/infinite/infinite.htm",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-infinite/",
-   "ampm_ref": "AMPM-b0b20d374b"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-infinite/",
+   "ampm_ref": "AMPM-e3240b1e88"
   },
   {
    "slug": "fubon-youth",
@@ -748,9 +748,9 @@
    "revolving_rate": "指數型房貸基準利率 (I) ＋ 加碼利率 4.75%~13.91%，年利率上限 15%（循環利率基準日 115.7.1）",
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/fortune/fortune.htm",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-youth/",
-   "ampm_ref": "AMPM-cb317c1bd3"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-youth/",
+   "ampm_ref": "AMPM-a72af984ed"
   },
   {
    "slug": "fubon-platinum",
@@ -761,9 +761,9 @@
    "revolving_rate": "指數型房貸基準利率 (I) ＋ 加碼利率 4.75%~13.91%，年利率上限 15%（循環利率基準日 115.7.1）",
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/Bankcard/Bankcard.htm",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-platinum/",
-   "ampm_ref": "AMPM-0b8d3a50d7"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-platinum/",
+   "ampm_ref": "AMPM-6f459ee81a"
   },
   {
    "slug": "fubon-oneworld",
@@ -775,7 +775,7 @@
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/all_card.htm",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-oneworld/",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-oneworld/",
    "ampm_ref": "AMPM-f480de1c75"
   },
   {
@@ -787,9 +787,9 @@
    "revolving_rate": "指數型房貸基準利率 (I) ＋ 加碼利率 4.75%~13.91%，年利率上限 15%（循環利率基準日 115.7.1）",
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/all_card.htm",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-apple/",
-   "ampm_ref": "AMPM-c007828657"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-apple/",
+   "ampm_ref": "AMPM-d61244e50f"
   },
   {
    "slug": "fubon-open",
@@ -800,9 +800,9 @@
    "revolving_rate": "指數型房貸基準利率 (I) ＋ 加碼利率 4.75%~13.91%，年利率上限 15%（循環利率基準日 115.7.1）",
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/openpossible/openpossible.htm",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-open/",
-   "ampm_ref": "AMPM-645d54b8bd"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-open/",
+   "ampm_ref": "AMPM-cc9abe9961"
   },
   {
    "slug": "fubon-signature",
@@ -813,9 +813,9 @@
    "revolving_rate": "指數型房貸基準利率 (I) ＋ 加碼利率 4.75%~13.91%，年利率上限 15%（循環利率基準日 115.7.1）",
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/all_card.htm",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-signature/",
-   "ampm_ref": "AMPM-2b169ac480"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-signature/",
+   "ampm_ref": "AMPM-cdaadd55eb"
   },
   {
    "slug": "fubon-evaair",
@@ -827,7 +827,7 @@
    "cash_advance_fee": "每筆預借現金總額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/all_card.htm",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/fubon-evaair/",
+   "page_url": "https://finance.ampm-aiops.com/items/fubon-evaair/",
    "ampm_ref": "AMPM-9a0ea4cd44"
   },
   {
@@ -839,9 +839,9 @@
    "revolving_rate": "2.88%~15%（差別循環信用利率，一般消費及預借現金適用，依電腦評等而定，循環利率基準日 115/1/2）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/common/important-notice/TSBankImportantNotice-001508/",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-woojii-world-legacy/",
-   "ampm_ref": "AMPM-7fe9f8e177"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-woojii-world-legacy/",
+   "ampm_ref": "AMPM-d288928d56"
   },
   {
    "slug": "taishin-woojii-titanium-legacy",
@@ -852,9 +852,9 @@
    "revolving_rate": "2.88%~15%（差別循環信用利率，一般消費及預借現金適用，依電腦評等而定，循環利率基準日 115/1/2）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/common/important-notice/TSBankImportantNotice-001508/",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-woojii-titanium-legacy/",
-   "ampm_ref": "AMPM-981a213542"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-woojii-titanium-legacy/",
+   "ampm_ref": "AMPM-f2355515c9"
   },
   {
    "slug": "taishin-mercuries-legacy",
@@ -866,7 +866,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/common/important-notice/TSBankImportantNotice-001508/",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-mercuries-legacy/",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-mercuries-legacy/",
    "ampm_ref": "AMPM-c88a2d4ca0"
   },
   {
@@ -879,7 +879,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/common/important-notice/TSBankImportantNotice-001508/",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-familymart-fish-legacy/",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-familymart-fish-legacy/",
    "ampm_ref": "AMPM-355366b0cb"
   },
   {
@@ -892,7 +892,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg010/card001/",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-pxmart/",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-pxmart/",
    "ampm_ref": "AMPM-3d94ea0961"
   },
   {
@@ -905,7 +905,7 @@
    "cash_advance_fee": "預借現金金額×3% ＋ 新臺幣150元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg019/card001/",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/feib-friday/",
+   "page_url": "https://finance.ampm-aiops.com/items/feib-friday/",
    "ampm_ref": "AMPM-0d2df109bd"
   },
   {
@@ -917,9 +917,9 @@
    "revolving_rate": "2.88%~15%（差別循環信用利率，一般消費及預借現金適用，依電腦評等而定，循環利率基準日 115/1/2）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-gogo-legacy/",
-   "ampm_ref": "AMPM-89080a8850"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-gogo-legacy/",
+   "ampm_ref": "AMPM-0fffc21f10"
   },
   {
    "slug": "taishin-flygo-legacy",
@@ -930,9 +930,9 @@
    "revolving_rate": "2.88%~15%（差別循環信用利率，一般消費及預借現金適用，依電腦評等而定，循環利率基準日 115/1/2）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-flygo-legacy/",
-   "ampm_ref": "AMPM-6912268dfb"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-flygo-legacy/",
+   "ampm_ref": "AMPM-30ffc1d36c"
   },
   {
    "slug": "taishin-gogoro",
@@ -943,9 +943,9 @@
    "revolving_rate": "2.88%~15%（差別循環信用利率，一般消費及預借現金適用，依電腦評等而定，循環利率基準日 115/1/2）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg042/card001/",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-gogoro/",
-   "ampm_ref": "AMPM-2a0e5cc478"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-gogoro/",
+   "ampm_ref": "AMPM-b55d1ddec3"
   },
   {
    "slug": "taishin-richart",
@@ -956,9 +956,9 @@
    "revolving_rate": "2.88%~15%（差別循環信用利率，一般消費及預借現金適用，依電腦評等而定，循環利率基準日 115/1/2）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-richart/",
-   "ampm_ref": "AMPM-003d958391"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-richart/",
+   "ampm_ref": "AMPM-0efef80355"
   },
   {
    "slug": "taishin-sun-legacy",
@@ -970,7 +970,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-sun-legacy/",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-sun-legacy/",
    "ampm_ref": "AMPM-456aa20a7d"
   },
   {
@@ -983,7 +983,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-pet/",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-pet/",
    "ampm_ref": "AMPM-c2d058b2b3"
   },
   {
@@ -996,7 +996,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-infinite/",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-infinite/",
    "ampm_ref": "AMPM-bd10464dc6"
   },
   {
@@ -1009,7 +1009,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-rose-legacy/",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-rose-legacy/",
    "ampm_ref": "AMPM-762a66f173"
   },
   {
@@ -1022,7 +1022,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-platinum/",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-platinum/",
    "ampm_ref": "AMPM-25db234750"
   },
   {
@@ -1035,7 +1035,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg038/card001/",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-jkopay/",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-jkopay/",
    "ampm_ref": "AMPM-dfd3cd468d"
   },
   {
@@ -1047,9 +1047,9 @@
    "revolving_rate": "2.88%~15%（差別循環信用利率，一般消費及預借現金適用，依電腦評等而定，循環利率基準日 115/1/2）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-jkopay-titanium/",
-   "ampm_ref": "AMPM-d0a7fb47ca"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-jkopay-titanium/",
+   "ampm_ref": "AMPM-84440261ef"
   },
   {
    "slug": "taishin-young",
@@ -1061,7 +1061,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-young/",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-young/",
    "ampm_ref": "AMPM-7bb244f17f"
   },
   {
@@ -1074,7 +1074,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-skyteam/",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-skyteam/",
    "ampm_ref": "AMPM-1908372ff8"
   },
   {
@@ -1087,7 +1087,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-pet-platinum/",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-pet-platinum/",
    "ampm_ref": "AMPM-62c198ee0a"
   },
   {
@@ -1100,7 +1100,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 新臺幣 150 元",
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/taishin-breeze/",
+   "page_url": "https://finance.ampm-aiops.com/items/taishin-breeze/",
    "ampm_ref": "AMPM-43ac9f7579"
   },
   {
@@ -1112,9 +1112,9 @@
    "revolving_rate": null,
    "cash_advance_fee": null,
    "source_url": "https://www.card.rakuten.com.tw/corp/ads/04.xhtml",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/rakuten-pandaj/",
-   "ampm_ref": "AMPM-8bfc1298f9"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/rakuten-pandaj/",
+   "ampm_ref": "AMPM-6ab14bde89"
   },
   {
    "slug": "tcb-icard",
@@ -1126,7 +1126,7 @@
    "cash_advance_fee": "每筆 預借現金金額×3% ＋ 新臺幣150元",
    "source_url": "https://www.tcb-bank.com.tw/",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/tcb-icard/",
+   "page_url": "https://finance.ampm-aiops.com/items/tcb-icard/",
    "ampm_ref": "AMPM-2da39d65a7"
   },
   {
@@ -1139,7 +1139,7 @@
    "cash_advance_fee": "每筆 預借現金金額×3% ＋ 新臺幣150元",
    "source_url": "https://portal.tcb-bank.com.tw:8443/Campaign/I_Joy_2023/index.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/tcb-ijoy/",
+   "page_url": "https://finance.ampm-aiops.com/items/tcb-ijoy/",
    "ampm_ref": "AMPM-64588b6d6c"
   },
   {
@@ -1152,7 +1152,7 @@
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathaybk.com.tw/cathaybk/personal/about/news/charge-standard/",
    "last_verified": "2026-09-24",
-   "page_url": "https://cards.ampm-aiops.com/items/cathay-7eleven/",
+   "page_url": "https://finance.ampm-aiops.com/items/cathay-7eleven/",
    "ampm_ref": "AMPM-677c8a3ffb"
   },
   {
@@ -1165,7 +1165,7 @@
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/cube",
    "last_verified": "2026-09-24",
-   "page_url": "https://cards.ampm-aiops.com/items/cathay-cube/",
+   "page_url": "https://finance.ampm-aiops.com/items/cathay-cube/",
    "ampm_ref": "AMPM-57ce93806e"
   },
   {
@@ -1178,7 +1178,7 @@
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/koko-icash",
    "last_verified": "2026-09-24",
-   "page_url": "https://cards.ampm-aiops.com/items/cathay-koko-legacy/",
+   "page_url": "https://finance.ampm-aiops.com/items/cathay-koko-legacy/",
    "ampm_ref": "AMPM-d27c8d64eb"
   },
   {
@@ -1191,7 +1191,7 @@
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/world",
    "last_verified": "2026-08-30",
-   "page_url": "https://cards.ampm-aiops.com/items/cathay-world/",
+   "page_url": "https://finance.ampm-aiops.com/items/cathay-world/",
    "ampm_ref": "AMPM-632b1a7c2e"
   },
   {
@@ -1204,7 +1204,7 @@
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/signature",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/cathay-signature/",
+   "page_url": "https://finance.ampm-aiops.com/items/cathay-signature/",
    "ampm_ref": "AMPM-db31549c3b"
   },
   {
@@ -1217,7 +1217,7 @@
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/cathay-infinite/",
+   "page_url": "https://finance.ampm-aiops.com/items/cathay-infinite/",
    "ampm_ref": "AMPM-e46e4b4a0c"
   },
   {
@@ -1230,7 +1230,7 @@
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/cash-rebate-signature",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/cathay-cashback-signature/",
+   "page_url": "https://finance.ampm-aiops.com/items/cathay-cashback-signature/",
    "ampm_ref": "AMPM-cab62f26f8"
   },
   {
@@ -1243,7 +1243,7 @@
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/shopee",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/cathay-shopee/",
+   "page_url": "https://finance.ampm-aiops.com/items/cathay-shopee/",
    "ampm_ref": "AMPM-8aedd82c5b"
   },
   {
@@ -1256,7 +1256,7 @@
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/eva",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/cathay-evaair/",
+   "page_url": "https://finance.ampm-aiops.com/items/cathay-evaair/",
    "ampm_ref": "AMPM-79d07e28a2"
   },
   {
@@ -1269,7 +1269,7 @@
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/dual-currency",
    "last_verified": "2026-08-30",
-   "page_url": "https://cards.ampm-aiops.com/items/cathay-dual-currency/",
+   "page_url": "https://finance.ampm-aiops.com/items/cathay-dual-currency/",
    "ampm_ref": "AMPM-84b80399de"
   },
   {
@@ -1282,7 +1282,7 @@
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/cube",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/cathay-asiamiles/",
+   "page_url": "https://finance.ampm-aiops.com/items/cathay-asiamiles/",
    "ampm_ref": "AMPM-7f9892ff07"
   },
   {
@@ -1295,7 +1295,7 @@
    "cash_advance_fee": "預借現金金額 ×3% ＋ 新臺幣 150 元或美元 5 元",
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/eva",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/cathay-evaair-infinite/",
+   "page_url": "https://finance.ampm-aiops.com/items/cathay-evaair-infinite/",
    "ampm_ref": "AMPM-fc50eca1ea"
   },
   {
@@ -1308,7 +1308,7 @@
    "cash_advance_fee": null,
    "source_url": "https://www.entiebank.com.tw/entie/1_3_3_100",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/entie-card/",
+   "page_url": "https://finance.ampm-aiops.com/items/entie-card/",
    "ampm_ref": "AMPM-2fe49cec5f"
   },
   {
@@ -1321,7 +1321,7 @@
    "cash_advance_fee": null,
    "source_url": "https://www.entiebank.com.tw/entie/1_3_3_100",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/entie-cashback/",
+   "page_url": "https://finance.ampm-aiops.com/items/entie-cashback/",
    "ampm_ref": "AMPM-1145d27f5a"
   },
   {
@@ -1334,7 +1334,7 @@
    "cash_advance_fee": "預借金額×3% ＋ 新臺幣150元",
    "source_url": "https://www.bankchb.com/frontend/mashup.jsp?funcId=cdf27f7215",
    "last_verified": "2026-09-24",
-   "page_url": "https://cards.ampm-aiops.com/items/chb-myle/",
+   "page_url": "https://finance.ampm-aiops.com/items/chb-myle/",
    "ampm_ref": "AMPM-3e481bda80"
   },
   {
@@ -1347,7 +1347,7 @@
    "cash_advance_fee": "預借金額×3% ＋ 新臺幣150元",
    "source_url": "https://www.bankchb.com/frontend/mashup.jsp?funcId=4292862915",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/chb-eshopping/",
+   "page_url": "https://finance.ampm-aiops.com/items/chb-eshopping/",
    "ampm_ref": "AMPM-0de44cec4d"
   },
   {
@@ -1360,7 +1360,7 @@
    "cash_advance_fee": null,
    "source_url": "https://www.skbank.com.tw/credit_card/credit_card/105",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/skbank-ou/",
+   "page_url": "https://finance.ampm-aiops.com/items/skbank-ou/",
    "ampm_ref": "AMPM-0d5d1558d0"
   },
   {
@@ -1373,7 +1373,7 @@
    "cash_advance_fee": null,
    "source_url": "https://www.skbank.com.tw/credit_card/credit_card/103",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/skbank-global-cashback/",
+   "page_url": "https://finance.ampm-aiops.com/items/skbank-global-cashback/",
    "ampm_ref": "AMPM-6da636b8e8"
   },
   {
@@ -1386,7 +1386,7 @@
    "cash_advance_fee": null,
    "source_url": "https://www.dbs.com.tw/personal-zh/cards/dbs_eco/index.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/dbs-eco/",
+   "page_url": "https://finance.ampm-aiops.com/items/dbs-eco/",
    "ampm_ref": "AMPM-715dcbcff0"
   },
   {
@@ -1398,9 +1398,9 @@
    "revolving_rate": "5.99%~14.99%（依個人信用狀況分級，循環利率基準日 民國113年6月28日）",
    "cash_advance_fee": null,
    "source_url": "https://www.dbs.com.tw/personal-zh/cards/dbs-credit-cards/default.page",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/dbs-cashback-signature/",
-   "ampm_ref": "AMPM-af36728d15"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/dbs-cashback-signature/",
+   "ampm_ref": "AMPM-2b86dd15a2"
   },
   {
    "slug": "dbs-treasures",
@@ -1412,7 +1412,7 @@
    "cash_advance_fee": null,
    "source_url": "https://www.dbs.com.tw/personal-zh/cards/dbs-credit-cards/visa-treasures-biz-signature",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/dbs-treasures/",
+   "page_url": "https://finance.ampm-aiops.com/items/dbs-treasures/",
    "ampm_ref": "AMPM-30b3680d30"
   },
   {
@@ -1425,7 +1425,7 @@
    "cash_advance_fee": null,
    "source_url": "https://www.dbs.com.tw/personal-zh/cards/travel_titanium/index.html",
    "last_verified": "2026-09-24",
-   "page_url": "https://cards.ampm-aiops.com/items/dbs-flying/",
+   "page_url": "https://finance.ampm-aiops.com/items/dbs-flying/",
    "ampm_ref": "AMPM-a6869eefda"
   },
   {
@@ -1438,7 +1438,7 @@
    "cash_advance_fee": null,
    "source_url": "https://www.citigroup.com/rcs/citigpa/storage/public/tcl-c.pdf",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/citi-cashback-legacy/",
+   "page_url": "https://finance.ampm-aiops.com/items/citi-cashback-legacy/",
    "ampm_ref": "AMPM-59c70fecf7"
   },
   {
@@ -1451,7 +1451,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/sinopac-dawho/",
+   "page_url": "https://finance.ampm-aiops.com/items/sinopac-dawho/",
    "ampm_ref": "AMPM-e90e00aa4c"
   },
   {
@@ -1464,7 +1464,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/sinopac-dawho-cashback/",
+   "page_url": "https://finance.ampm-aiops.com/items/sinopac-dawho-cashback/",
    "ampm_ref": "AMPM-1b3275e0dd"
   },
   {
@@ -1477,7 +1477,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/sportcard.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/sinopac-sport/",
+   "page_url": "https://finance.ampm-aiops.com/items/sinopac-sport/",
    "ampm_ref": "AMPM-6ff5c27734"
   },
   {
@@ -1490,7 +1490,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/sportcard.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/sinopac-sport-signature/",
+   "page_url": "https://finance.ampm-aiops.com/items/sinopac-sport-signature/",
    "ampm_ref": "AMPM-d011815be6"
   },
   {
@@ -1503,7 +1503,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/insurance-card.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/sinopac-insurance/",
+   "page_url": "https://finance.ampm-aiops.com/items/sinopac-insurance/",
    "ampm_ref": "AMPM-a0a12c7532"
   },
   {
@@ -1515,9 +1515,9 @@
    "revolving_rate": "5%~15%（循環利率基準日 2023/3/3）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/dual-currency-card.html",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/sinopac-beibi/",
-   "ampm_ref": "AMPM-a60275c076"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/sinopac-beibi/",
+   "ampm_ref": "AMPM-8e1756f532"
   },
   {
    "slug": "sinopac-jcb-cashback",
@@ -1528,9 +1528,9 @@
    "revolving_rate": "5%~15%（循環利率基準日 2023/3/3）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacbt/personal/credit-card/introduction/bankcard/cashcardJCB.html",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/sinopac-jcb-cashback/",
-   "ampm_ref": "AMPM-5b5d44a77f"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/sinopac-jcb-cashback/",
+   "ampm_ref": "AMPM-66108bfc58"
   },
   {
    "slug": "sinopac-dawho-debit",
@@ -1542,7 +1542,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html",
    "last_verified": "2026-09-24",
-   "page_url": "https://cards.ampm-aiops.com/items/sinopac-dawho-debit/",
+   "page_url": "https://finance.ampm-aiops.com/items/sinopac-dawho-debit/",
    "ampm_ref": "AMPM-d2abfc67a0"
   },
   {
@@ -1555,7 +1555,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋ 指定金額（新臺幣 100 元／美元 3.5 元／日圓 350 元／歐元 3 元）",
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/list.html",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/sinopac-sport-world/",
+   "page_url": "https://finance.ampm-aiops.com/items/sinopac-sport-world/",
    "ampm_ref": "AMPM-da0644336e"
   },
   {
@@ -1568,7 +1568,7 @@
    "cash_advance_fee": "預借金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://www.sc.com/tw/credit-cards/",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/scb-simply/",
+   "page_url": "https://finance.ampm-aiops.com/items/scb-simply/",
    "ampm_ref": "AMPM-5284066532"
   },
   {
@@ -1580,9 +1580,9 @@
    "revolving_rate": "7.9%~15%（一般消費及預借現金適用之差別循環信用年利率，上限15%）",
    "cash_advance_fee": "預借金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://www.sc.com/tw/credit-cards/signature-card/",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/scb-cashback-signature/",
-   "ampm_ref": "AMPM-3374611d4f"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/scb-cashback-signature/",
+   "ampm_ref": "AMPM-76dc5ac575"
   },
   {
    "slug": "scb-cashback-platinum",
@@ -1593,9 +1593,9 @@
    "revolving_rate": "7.9%~15%（一般消費及預借現金適用之差別循環信用年利率，上限15%）",
    "cash_advance_fee": "預借金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://www.sc.com/tw/credit-cards/signature-card/",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/scb-cashback-platinum/",
-   "ampm_ref": "AMPM-edf8c685a6"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/scb-cashback-platinum/",
+   "ampm_ref": "AMPM-6a90f429a1"
   },
   {
    "slug": "scb-pulse",
@@ -1607,7 +1607,7 @@
    "cash_advance_fee": "預借金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://www.sc.com/tw/credit-cards/",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/scb-pulse/",
+   "page_url": "https://finance.ampm-aiops.com/items/scb-pulse/",
    "ampm_ref": "AMPM-af64468df2"
   },
   {
@@ -1620,7 +1620,7 @@
    "cash_advance_fee": "每筆 新臺幣100元 ＋ 預借現金金額×3.5%",
    "source_url": "https://www.hsbc.com.tw/credit-cards/products/cashback-signature/",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/hsbc-cashback-signature/",
+   "page_url": "https://finance.ampm-aiops.com/items/hsbc-cashback-signature/",
    "ampm_ref": "AMPM-6b3d9f6a3a"
   },
   {
@@ -1632,9 +1632,9 @@
    "revolving_rate": "5.68%~15.00%（依個人信用狀況分級，循環利率基準日 104 年 9 月 1 日）",
    "cash_advance_fee": "每筆 新臺幣100元 ＋ 預借現金金額×3.5%",
    "source_url": "https://www.hsbc.com.tw/credit-cards/products/liveplus/",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/hsbc-live-plus/",
-   "ampm_ref": "AMPM-bd651f528c"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/hsbc-live-plus/",
+   "ampm_ref": "AMPM-985b3c420d"
   },
   {
    "slug": "hsbc-visa-signature",
@@ -1646,7 +1646,7 @@
    "cash_advance_fee": "每筆 新臺幣100元 ＋ 預借現金金額×3.5%",
    "source_url": "https://www.hsbc.com.tw/credit-cards/products/cashback-titanium/",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/hsbc-visa-signature/",
+   "page_url": "https://finance.ampm-aiops.com/items/hsbc-visa-signature/",
    "ampm_ref": "AMPM-8cdbc46454"
   },
   {
@@ -1659,7 +1659,7 @@
    "cash_advance_fee": "每筆 新臺幣100元 ＋ 預借現金金額×3.5%",
    "source_url": "https://www.hsbc.com.tw/credit-cards/products/premier/",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/hsbc-premier/",
+   "page_url": "https://finance.ampm-aiops.com/items/hsbc-premier/",
    "ampm_ref": "AMPM-40fe953dcd"
   },
   {
@@ -1672,7 +1672,7 @@
    "cash_advance_fee": "每筆 新臺幣100元 ＋ 預借現金金額×3.5%",
    "source_url": "https://www.hsbc.com.tw/credit-cards/",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/hsbc-red/",
+   "page_url": "https://finance.ampm-aiops.com/items/hsbc-red/",
    "ampm_ref": "AMPM-01de9e00ee"
   },
   {
@@ -1685,7 +1685,7 @@
    "cash_advance_fee": "每筆 新臺幣100元 ＋ 預借現金金額×3.5%",
    "source_url": "https://www.hsbc.com.tw/credit-cards/products/cashback-signature/",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/hsbc-everydayplus/",
+   "page_url": "https://finance.ampm-aiops.com/items/hsbc-everydayplus/",
    "ampm_ref": "AMPM-f906c493a7"
   },
   {
@@ -1698,7 +1698,7 @@
    "cash_advance_fee": "每筆 新臺幣100元 ＋ 預借現金金額×3.5%",
    "source_url": "https://www.hsbc.com.tw/credit-cards/products/travelone-signature/",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/hsbc-travel-signature/",
+   "page_url": "https://finance.ampm-aiops.com/items/hsbc-travel-signature/",
    "ampm_ref": "AMPM-c43f0398b3"
   },
   {
@@ -1711,7 +1711,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/unicard",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-unicard/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-unicard/",
    "ampm_ref": "AMPM-5ad805d3fa"
   },
   {
@@ -1724,7 +1724,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://www.esunbank.com/zh-tw/about/announcement/announcement?i=6-5vH1OL4kK_nUvcF0ZjJg",
    "last_verified": "2026-09-05",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-bear-card-legacy/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-bear-card-legacy/",
    "ampm_ref": "AMPM-c49234502c"
   },
   {
@@ -1737,7 +1737,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://event.esunbank.com.tw/credit/ubear/card.html",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-debit/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-debit/",
    "ampm_ref": "AMPM-0c2810a41a"
   },
   {
@@ -1750,7 +1750,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-ikea/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-ikea/",
    "ampm_ref": "AMPM-d26d574686"
   },
   {
@@ -1763,7 +1763,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://event.esunbank.com.tw/credit/ubear/card.html",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-only/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-only/",
    "ampm_ref": "AMPM-8841a9c7e3"
   },
   {
@@ -1776,7 +1776,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://event.esunbank.com.tw/credit/ubear/card.html",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-only-signature/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-only-signature/",
    "ampm_ref": "AMPM-7c36bc66c9"
   },
   {
@@ -1788,9 +1788,9 @@
    "revolving_rate": "5.88%~15%（依本行電腦評等而訂，循環利率基準日 2015/9/1）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/co-branded-card/pi-card",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-pi/",
-   "ampm_ref": "AMPM-d16a492c24"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-pi/",
+   "ampm_ref": "AMPM-45b6aa44e3"
   },
   {
    "slug": "esun-pi-signature",
@@ -1802,7 +1802,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/co-branded-card/pi-card",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-pi-signature/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-pi-signature/",
    "ampm_ref": "AMPM-95465b91ba"
   },
   {
@@ -1815,7 +1815,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-share/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-share/",
    "ampm_ref": "AMPM-60b63d9255"
   },
   {
@@ -1827,9 +1827,9 @@
    "revolving_rate": "5.88%~15%（依本行電腦評等而訂，循環利率基準日 2015/9/1）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://event.esunbank.com.tw/credit/ubear/card.html",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-ubear-student/",
-   "ampm_ref": "AMPM-46336b2564"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-ubear-student/",
+   "ampm_ref": "AMPM-df9733062b"
   },
   {
    "slug": "esun-ubear",
@@ -1841,7 +1841,7 @@
    "cash_advance_fee": "預借現金金額×3.5%＋(新臺幣150元／5美元／550日圓／4歐元)",
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/u-bear",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-ubear/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-ubear/",
    "ampm_ref": "AMPM-a1abc479c1"
   },
   {
@@ -1854,7 +1854,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/world-card/WORLD",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-world/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-world/",
    "ampm_ref": "AMPM-777c90e455"
   },
   {
@@ -1867,7 +1867,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-carrefour/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-carrefour/",
    "ampm_ref": "AMPM-4c5a2a1b00"
   },
   {
@@ -1880,7 +1880,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://event.esunbank.com.tw/credit/ubear/card.html",
    "last_verified": "2026-09-09",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-signature/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-signature/",
    "ampm_ref": "AMPM-be2089f2dd"
   },
   {
@@ -1893,7 +1893,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-starbucks/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-starbucks/",
    "ampm_ref": "AMPM-b97558f3e2"
   },
   {
@@ -1905,9 +1905,9 @@
    "revolving_rate": "5.88%~15%（依本行電腦評等而訂，循環利率基準日 2015/9/1）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://event.esunbank.com.tw/credit/ubear/card.html",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-infinite/",
-   "ampm_ref": "AMPM-f57ded9145"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-infinite/",
+   "ampm_ref": "AMPM-0a8dccc55e"
   },
   {
    "slug": "esun-kumamon",
@@ -1918,9 +1918,9 @@
    "revolving_rate": "5.88%~15%（依本行電腦評等而訂，循環利率基準日 2015/9/1）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/kumamon_card",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-kumamon/",
-   "ampm_ref": "AMPM-bafd2bd4cf"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-kumamon/",
+   "ampm_ref": "AMPM-55ca59fb0d"
   },
   {
    "slug": "esun-evaair",
@@ -1932,7 +1932,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-evaair/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-evaair/",
    "ampm_ref": "AMPM-9196840c6e"
   },
   {
@@ -1945,7 +1945,7 @@
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-cpc/",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-cpc/",
    "ampm_ref": "AMPM-521c1364a9"
   },
   {
@@ -1957,9 +1957,9 @@
    "revolving_rate": "5.88%~15%（依本行電腦評等而訂，循環利率基準日 2015/9/1）",
    "cash_advance_fee": "預借現金金額 ×3.5% ＋（新臺幣 150 元／美元 5 元／日圓 550 元／歐元 4 元），依預借現金約定結付幣別區分",
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/esun-platinum/",
-   "ampm_ref": "AMPM-2e2b441df2"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/esun-platinum/",
+   "ampm_ref": "AMPM-8cef799d9c"
   },
   {
    "slug": "obank-orange",
@@ -1971,7 +1971,7 @@
    "cash_advance_fee": null,
    "source_url": "https://www.o-bank.com/retail/debit/cardmain_new",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/obank-orange/",
+   "page_url": "https://finance.ampm-aiops.com/items/obank-orange/",
    "ampm_ref": "AMPM-38a285403d"
   },
   {
@@ -1984,7 +1984,7 @@
    "cash_advance_fee": "預借金額×3.5%（最低 新臺幣100元／3.5美元／400日圓／3歐元）",
    "source_url": "https://card.firstbank.com.tw/sites/card/zh_TW/1565697445348",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/firstbank-ileo/",
+   "page_url": "https://finance.ampm-aiops.com/items/firstbank-ileo/",
    "ampm_ref": "AMPM-ae4f8deedf"
   },
   {
@@ -1997,7 +1997,7 @@
    "cash_advance_fee": "預借金額×3.5%（最低 新臺幣100元／3.5美元／400日圓／3歐元）",
    "source_url": "https://card.firstbank.com.tw/sites/card/CardRateFee",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/firstbank-icash/",
+   "page_url": "https://finance.ampm-aiops.com/items/firstbank-icash/",
    "ampm_ref": "AMPM-8f33be86f3"
   },
   {
@@ -2010,7 +2010,7 @@
    "cash_advance_fee": "預借金額×3.5%（最低 新臺幣100元／3.5美元／400日圓／3歐元）",
    "source_url": "https://card.firstbank.com.tw/",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/firstbank-signature/",
+   "page_url": "https://finance.ampm-aiops.com/items/firstbank-signature/",
    "ampm_ref": "AMPM-55b659d6cd"
   },
   {
@@ -2023,7 +2023,7 @@
    "cash_advance_fee": "預借金額×3.5%（最低 新臺幣100元／3.5美元／400日圓／3歐元）",
    "source_url": "https://card.firstbank.com.tw/sites/card/zh_TW/1565690685690",
    "last_verified": "2026-09-26",
-   "page_url": "https://cards.ampm-aiops.com/items/firstbank-green/",
+   "page_url": "https://finance.ampm-aiops.com/items/firstbank-green/",
    "ampm_ref": "AMPM-4b3f87b1a4"
   },
   {
@@ -2036,7 +2036,7 @@
    "cash_advance_fee": "預借金額×3.5%（最低 新臺幣100元／3.5美元／400日圓／3歐元）",
    "source_url": "https://card.firstbank.com.tw/sites/card/CardRateFee",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/firstbank-greenlife/",
+   "page_url": "https://finance.ampm-aiops.com/items/firstbank-greenlife/",
    "ampm_ref": "AMPM-651ad181d3"
   },
   {
@@ -2049,7 +2049,7 @@
    "cash_advance_fee": "預借現金款額×3.5% 或 新臺幣100元（取高者）",
    "source_url": "https://www.americanexpress.com/tw/benefits/rcp-platinum.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/amex-platinum/",
+   "page_url": "https://finance.ampm-aiops.com/items/amex-platinum/",
    "ampm_ref": "AMPM-cce930a392"
   },
   {
@@ -2062,7 +2062,7 @@
    "cash_advance_fee": "預借現金款額×3.5% 或 新臺幣100元（取高者）",
    "source_url": "https://www.americanexpress.com/zh-tw/benefits/gold-card/",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/amex-gold/",
+   "page_url": "https://finance.ampm-aiops.com/items/amex-gold/",
    "ampm_ref": "AMPM-a01be575fc"
   },
   {
@@ -2074,9 +2074,9 @@
    "revolving_rate": "5%~15%（依個人信用狀況分級，循環利率基準日 104 年 9 月 1 日）",
    "cash_advance_fee": "每筆 預借現金金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://card.ubot.com.tw/CardDetail/cardDetail202",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/ubot-jiho/",
-   "ampm_ref": "AMPM-6b5ddbacc2"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/ubot-jiho/",
+   "ampm_ref": "AMPM-121438aae0"
   },
   {
    "slug": "ubot-happy-m",
@@ -2088,7 +2088,7 @@
    "cash_advance_fee": "每筆 預借現金金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://card.ubot.com.tw/Card?category=%E9%8A%80%E8%A1%8C%E5%8D%A1",
    "last_verified": "2026-10-09",
-   "page_url": "https://cards.ampm-aiops.com/items/ubot-happy-m/",
+   "page_url": "https://finance.ampm-aiops.com/items/ubot-happy-m/",
    "ampm_ref": "AMPM-1174631213"
   },
   {
@@ -2100,9 +2100,9 @@
    "revolving_rate": "5%~15%（依個人信用狀況分級，循環利率基準日 104 年 9 月 1 日）",
    "cash_advance_fee": "每筆 預借現金金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://card.ubot.com.tw/CardDetail/cardDetail201",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/ubot-laipoint/",
-   "ampm_ref": "AMPM-abdffa678a"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/ubot-laipoint/",
+   "ampm_ref": "AMPM-ef40525783"
   },
   {
    "slug": "tbb-sustainable",
@@ -2113,9 +2113,9 @@
    "revolving_rate": "本行基準利率(月調)＋加碼3%~15%，上限15%（循環利率基準日 110 年 9 月 29 日）",
    "cash_advance_fee": "每筆 新臺幣150元 ＋ 預借現金金額×2.5%",
    "source_url": "https://www.tbb.com.tw/zh-tw/personal/cards",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/tbb-sustainable/",
-   "ampm_ref": "AMPM-5af477b2e7"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/tbb-sustainable/",
+   "ampm_ref": "AMPM-becc72caec"
   },
   {
    "slug": "tbb-card",
@@ -2127,7 +2127,7 @@
    "cash_advance_fee": "每筆 新臺幣150元 ＋ 預借現金金額×2.5%",
    "source_url": "https://www.tbb.com.tw/zh-tw/personal/cards",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/tbb-card/",
+   "page_url": "https://finance.ampm-aiops.com/items/tbb-card/",
    "ampm_ref": "AMPM-6ba51c824d"
   },
   {
@@ -2140,7 +2140,7 @@
    "cash_advance_fee": "每筆 新臺幣150元 ＋ 預借現金金額×2.5%",
    "source_url": "https://www.tbb.com.tw/zh-tw/personal/cards",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/tbb-digital/",
+   "page_url": "https://finance.ampm-aiops.com/items/tbb-digital/",
    "ampm_ref": "AMPM-ba3cc06698"
   },
   {
@@ -2152,9 +2152,9 @@
    "revolving_rate": "5.60%~15%（差別循環信用年利率，循環利率基準日 115 年 2 月 10 日）",
    "cash_advance_fee": "每筆 預借現金金額×3% ＋ 新臺幣150元",
    "source_url": "https://www.landbank.com.tw/Category/Items/%E4%BF%A1%E7%94%A8%E5%8D%A1%E3%80%81%E7%8F%BE%E9%87%91%E5%8D%A1%E7%9B%B8%E9%97%9C%E8%B3%87%E8%A8%8A%E5%85%AC%E5%91%8A",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/landbank-civil/",
-   "ampm_ref": "AMPM-56aaea4eb0"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/landbank-civil/",
+   "ampm_ref": "AMPM-3bf9f2be1e"
   },
   {
    "slug": "landbank-travel",
@@ -2166,7 +2166,7 @@
    "cash_advance_fee": "每筆 預借現金金額×3% ＋ 新臺幣150元",
    "source_url": "https://www.landbank.com.tw/Category/Items/%E4%BF%A1%E7%94%A8%E5%8D%A1%E3%80%81%E7%8F%BE%E9%87%91%E5%8D%A1%E7%9B%B8%E9%97%9C%E8%B3%87%E8%A8%8A%E5%85%AC%E5%91%8A",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/landbank-travel/",
+   "page_url": "https://finance.ampm-aiops.com/items/landbank-travel/",
    "ampm_ref": "AMPM-3d1e75a3db"
   },
   {
@@ -2178,9 +2178,9 @@
    "revolving_rate": "5.60%~15%（差別循環信用年利率，循環利率基準日 115 年 2 月 10 日）",
    "cash_advance_fee": "每筆 預借現金金額×3% ＋ 新臺幣150元",
    "source_url": "https://www.landbank.com.tw/Category/Items/%E9%8A%80%E8%A1%8C%E5%8D%A1_",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/landbank-lohas/",
-   "ampm_ref": "AMPM-70a3b39ec1"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/landbank-lohas/",
+   "ampm_ref": "AMPM-d4719aaff2"
   },
   {
    "slug": "hncb-easycard",
@@ -2192,7 +2192,7 @@
    "cash_advance_fee": "每筆 預借現金金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://card.hncb.com.tw/wps/portal/card/area1/cardall",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/hncb-easycard/",
+   "page_url": "https://finance.ampm-aiops.com/items/hncb-easycard/",
    "ampm_ref": "AMPM-a3bd391d6f"
   },
   {
@@ -2205,7 +2205,7 @@
    "cash_advance_fee": "每筆 預借現金金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://www.hncb.com.tw/wps/portal/HNCB/card/introduce/cash_feedback_card/card_i_shopping",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/hncb-ishopping/",
+   "page_url": "https://finance.ampm-aiops.com/items/hncb-ishopping/",
    "ampm_ref": "AMPM-7933b081db"
   },
   {
@@ -2218,7 +2218,7 @@
    "cash_advance_fee": "每筆 預借現金金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://www.hncb.com.tw/wps/portal/HNCB/card/introduce/othercard/cards_overview/",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/hncb-super-cashback/",
+   "page_url": "https://finance.ampm-aiops.com/items/hncb-super-cashback/",
    "ampm_ref": "AMPM-d4674baeaf"
   },
   {
@@ -2230,9 +2230,9 @@
    "revolving_rate": "5.36%~15%（一般消費暨預借現金適用，循環利率基準日 107 年 5 月 1 日）",
    "cash_advance_fee": "每筆 預借現金金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://www.hncb.com.tw/wps/portal/HNCB/card/introduce/cash_feedback_card/card_diamond_cash_back",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/hncb-diamond-cashback/",
-   "ampm_ref": "AMPM-b43c8372af"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/hncb-diamond-cashback/",
+   "ampm_ref": "AMPM-498b8a01d0"
   },
   {
    "slug": "hncb-debit",
@@ -2244,7 +2244,7 @@
    "cash_advance_fee": "每筆 預借現金金額×3.5% ＋ 新臺幣100元",
    "source_url": "https://card.hncb.com.tw/wps/portal/card/area1/cardall",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/hncb-debit/",
+   "page_url": "https://finance.ampm-aiops.com/items/hncb-debit/",
    "ampm_ref": "AMPM-a94e4b8c38"
   },
   {
@@ -2257,7 +2257,7 @@
    "cash_advance_fee": "預借現金金額×3% ＋ 新臺幣150元",
    "source_url": "https://www.bankee.com.tw/card.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/far-eastern-bankee/",
+   "page_url": "https://finance.ampm-aiops.com/items/far-eastern-bankee/",
    "ampm_ref": "AMPM-a1fd13038c"
   },
   {
@@ -2270,7 +2270,7 @@
    "cash_advance_fee": "預借現金金額×3% ＋ 新臺幣150元",
    "source_url": "https://www.bankee.com.tw/card.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/feib-bankee/",
+   "page_url": "https://finance.ampm-aiops.com/items/feib-bankee/",
    "ampm_ref": "AMPM-ae10272d0f"
   },
   {
@@ -2283,7 +2283,7 @@
    "cash_advance_fee": "預借現金金額×3% ＋ 新臺幣150元",
    "source_url": "https://www.feib.com.tw/upload/creditcard/YACard/page2.html",
    "last_verified": "2026-09-25",
-   "page_url": "https://cards.ampm-aiops.com/items/feib-lejia/",
+   "page_url": "https://finance.ampm-aiops.com/items/feib-lejia/",
    "ampm_ref": "AMPM-bd31f9e66f"
   },
   {
@@ -2296,7 +2296,7 @@
    "cash_advance_fee": "預借現金金額×3% ＋ 新臺幣150元",
    "source_url": "https://www.feib.com.tw/introduce?id=12",
    "last_verified": "2026-08-27",
-   "page_url": "https://cards.ampm-aiops.com/items/feib-feds/",
+   "page_url": "https://finance.ampm-aiops.com/items/feib-feds/",
    "ampm_ref": "AMPM-7ea31d8aeb"
   },
   {
@@ -2308,9 +2308,9 @@
    "revolving_rate": null,
    "cash_advance_fee": null,
    "source_url": "https://www.sunnybank.com.tw/net/Page/Tmenu/498",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/sunny-pengda/",
-   "ampm_ref": "AMPM-bb87d4a8f8"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/sunny-pengda/",
+   "ampm_ref": "AMPM-3740033e77"
   },
   {
    "slug": "sunny-yaoching",
@@ -2321,9 +2321,9 @@
    "revolving_rate": null,
    "cash_advance_fee": null,
    "source_url": "https://www.sunnybank.com.tw/net/Page/Tmenu/503",
-   "last_verified": "2026-10-13",
-   "page_url": "https://cards.ampm-aiops.com/items/sunny-yaoching/",
-   "ampm_ref": "AMPM-5063083b94"
+   "last_verified": "2026-10-14",
+   "page_url": "https://finance.ampm-aiops.com/items/sunny-yaoching/",
+   "ampm_ref": "AMPM-72d497a380"
   },
   {
    "slug": "bok-going",
@@ -2335,7 +2335,7 @@
    "cash_advance_fee": null,
    "source_url": "https://www.bok.com.tw/card-rights-and-benefits-1",
    "last_verified": "2026-09-26",
-   "page_url": "https://cards.ampm-aiops.com/items/bok-going/",
+   "page_url": "https://finance.ampm-aiops.com/items/bok-going/",
    "ampm_ref": "AMPM-3be7c25bca"
   }
  ]

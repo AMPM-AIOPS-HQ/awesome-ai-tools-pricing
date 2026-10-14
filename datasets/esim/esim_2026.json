@@ -1,15 +1,15 @@
 {
  "dataset": "esim",
  "title": "Travel eSIM Plans (Taiwan market)",
- "generated_at": "2026-10-14T04:00:02+08:00",
- "source": "https://esim.ampm-aiops.com",
+ "generated_at": "2026-10-15T04:00:02+08:00",
+ "source": "https://trip.ampm-aiops.com/esim/",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
  "row_count": 35,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-14",
+ "last_verified_max": "2026-10-15",
  "rows": [
   {
    "slug": "airalo",
@@ -19,9 +19,9 @@
    "plan_type": "固定流量型（1GB/3GB/5GB/10GB）＋吃到飽型（日本 3／5／7／10／15／30 天，US$11.50～69.00，官網 2026-09-25）",
    "hotspot": "支援（不限設備）",
    "source_url": "https://www.airalo.com/",
-   "last_verified": "2026-10-14",
-   "page_url": "https://esim.ampm-aiops.com/items/airalo/",
-   "ampm_ref": "AMPM-5848bc8c8c"
+   "last_verified": "2026-10-15",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/airalo/",
+   "ampm_ref": "AMPM-259a047725"
   },
   {
    "slug": "airhub",
@@ -31,9 +31,9 @@
    "plan_type": "固定流量型為主（1GB~25GB）＋長期月租型；部分地區有吃到飽（如越南 Unltd.／10 天，官網首頁 2026-09-25）",
    "hotspot": "支援；另有獨家「數據池共享」可多裝置多人共用同一份流量",
    "source_url": "https://www.airhubapp.com/",
-   "last_verified": "2026-10-14",
-   "page_url": "https://esim.ampm-aiops.com/items/airhub/",
-   "ampm_ref": "AMPM-d95b491d87"
+   "last_verified": "2026-10-15",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/airhub/",
+   "ampm_ref": "AMPM-d0f9451970"
   },
   {
    "slug": "bnesim",
@@ -44,7 +44,7 @@
    "hotspot": "無限方案不支援；固定流量方案依評測可支援，官方未逐方案公告",
    "source_url": "https://www.bnesim.com/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/bnesim/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/bnesim/",
    "ampm_ref": "AMPM-19084d3916"
   },
   {
@@ -56,7 +56,7 @@
    "hotspot": "支援（建議自用）",
    "source_url": "https://djbcard.com/",
    "last_verified": "2026-08-25",
-   "page_url": "https://esim.ampm-aiops.com/items/djb-unlimited/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/djb-unlimited/",
    "ampm_ref": "AMPM-0f18cfdfb2"
   },
   {
@@ -68,7 +68,7 @@
    "hotspot": "免費層不可（官方明示需升級付費）；付費方案可以",
    "source_url": "https://www.firsty.app/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/firsty/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/firsty/",
    "ampm_ref": "AMPM-883b19618e"
   },
   {
@@ -80,7 +80,7 @@
    "hotspot": "多數方案支援（吃到飽允許但不可跨帳號共享流量）",
    "source_url": "https://flexiroam.com/",
    "last_verified": "2026-09-26",
-   "page_url": "https://esim.ampm-aiops.com/items/flexiroam/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/flexiroam/",
    "ampm_ref": "AMPM-d275c3d8c5"
   },
   {
@@ -92,7 +92,7 @@
    "hotspot": "支援，無硬性上限",
    "source_url": "https://www.gigsky.com/",
    "last_verified": "2026-10-07",
-   "page_url": "https://esim.ampm-aiops.com/items/gigsky/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/gigsky/",
    "ampm_ref": "AMPM-66ac95f358"
   },
   {
@@ -103,9 +103,9 @@
    "plan_type": "天數制吃到飽；吃到飽結束後自動啟用 Always On，每月 1GB 備用流量（官網 2026-09-26）",
    "hotspot": "",
    "source_url": "https://holafly.com/",
-   "last_verified": "2026-10-14",
-   "page_url": "https://esim.ampm-aiops.com/items/holafly/",
-   "ampm_ref": "AMPM-c289657ac9"
+   "last_verified": "2026-10-15",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/holafly/",
+   "ampm_ref": "AMPM-69841b83bc"
   },
   {
    "slug": "instabridge",
@@ -116,7 +116,7 @@
    "hotspot": "支援（官方稱最多可分享 10 台裝置）",
    "source_url": "https://instabridge.com/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/instabridge/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/instabridge/",
    "ampm_ref": "AMPM-ee562840e3"
   },
   {
@@ -128,7 +128,7 @@
    "hotspot": "支援",
    "source_url": "https://www.jetpacglobal.com/",
    "last_verified": "2026-08-25",
-   "page_url": "https://esim.ampm-aiops.com/items/jetpac/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/jetpac/",
    "ampm_ref": "AMPM-0f41ff6137"
   },
   {
@@ -140,7 +140,7 @@
    "hotspot": "支援",
    "source_url": "https://www.joytel-tw.com/",
    "last_verified": "2026-08-25",
-   "page_url": "https://esim.ampm-aiops.com/items/joytel/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/joytel/",
    "ampm_ref": "AMPM-db9b29b149"
   },
   {
@@ -152,7 +152,7 @@
    "hotspot": "支援",
    "source_url": "https://www.kkday.com/",
    "last_verified": "2026-08-25",
-   "page_url": "https://esim.ampm-aiops.com/items/kkday-esim/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/kkday-esim/",
    "ampm_ref": "AMPM-2abb5b7964"
   },
   {
@@ -164,7 +164,7 @@
    "hotspot": "支援",
    "source_url": "https://www.klook.com/",
    "last_verified": "2026-08-25",
-   "page_url": "https://esim.ampm-aiops.com/items/klook-esim/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/klook-esim/",
    "ampm_ref": "AMPM-7ae2371587"
   },
   {
@@ -176,7 +176,7 @@
    "hotspot": "全方案支援（含無限方案），同類準吃到飽中少見",
    "source_url": "https://maya.net/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/maya-mobile/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/maya-mobile/",
    "ampm_ref": "AMPM-3b6b756f83"
   },
   {
@@ -188,7 +188,7 @@
    "hotspot": "依各供應商方案而定、無統一保證，須看商品頁標示",
    "source_url": "https://www.mobimatter.com/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/mobimatter/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/mobimatter/",
    "ampm_ref": "AMPM-85411d4985"
   },
   {
@@ -199,9 +199,9 @@
    "plan_type": "彈性 GB 流量計費",
    "hotspot": "支援",
    "source_url": "https://www.nomadesim.com/",
-   "last_verified": "2026-10-14",
-   "page_url": "https://esim.ampm-aiops.com/items/nomad/",
-   "ampm_ref": "AMPM-084d487b63"
+   "last_verified": "2026-10-15",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/nomad/",
+   "ampm_ref": "AMPM-d1694a320b"
   },
   {
    "slug": "redteago",
@@ -211,9 +211,9 @@
    "plan_type": "固定流量型（1GB~50GB）＋每日重置無限型（PREMIUM 每日 10GB 高速）",
    "hotspot": "官方列為服務特色，但未逐方案標明，購買前需在方案頁確認",
    "source_url": "https://www.redteago.com/",
-   "last_verified": "2026-10-14",
-   "page_url": "https://esim.ampm-aiops.com/items/redteago/",
-   "ampm_ref": "AMPM-8364319ba2"
+   "last_verified": "2026-10-15",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/redteago/",
+   "ampm_ref": "AMPM-62c5a48039"
   },
   {
    "slug": "roamless",
@@ -224,7 +224,7 @@
    "hotspot": "支援（官方文件明載，提醒注意流量消耗）",
    "source_url": "https://roamless.com/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/roamless/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/roamless/",
    "ampm_ref": "AMPM-784b359fb9"
   },
   {
@@ -236,7 +236,7 @@
    "hotspot": "支援，無限制、不另計費",
    "source_url": "https://saily.com/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/saily/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/saily/",
    "ampm_ref": "AMPM-7f876ebbe3"
   },
   {
@@ -248,7 +248,7 @@
    "hotspot": "多數方案支援（依所代售方案而定，官方未逐一標示）",
    "source_url": "https://simoptions.com/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/simoptions/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/simoptions/",
    "ampm_ref": "AMPM-6008c3d2d0"
   },
   {
@@ -259,9 +259,9 @@
    "plan_type": "代售平台三型都有：每日流量包＋吃到飽型＋總量型（依商品而異）",
    "hotspot": "多數商品可開，但依個別供應商而定、無統一公告",
    "source_url": "https://www.trip.com/",
-   "last_verified": "2026-10-14",
-   "page_url": "https://esim.ampm-aiops.com/items/tripcom-esim/",
-   "ampm_ref": "AMPM-dfd3388c69"
+   "last_verified": "2026-10-15",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/tripcom-esim/",
+   "ampm_ref": "AMPM-e879bf417d"
   },
   {
    "slug": "truely",
@@ -272,7 +272,7 @@
    "hotspot": "所有無限流量方案皆可開熱點（官方明載允許）",
    "source_url": "https://truely.com/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/truely/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/truely/",
    "ampm_ref": "AMPM-911b909b5c"
   },
   {
@@ -284,7 +284,7 @@
    "hotspot": "支援，官方明示可多裝置分享、不另收費",
    "source_url": "https://www.ubigi.com/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/ubigi/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/ubigi/",
    "ampm_ref": "AMPM-79f48ff5b1"
   },
   {
@@ -296,7 +296,7 @@
    "hotspot": "高速吃到飽方案可開（官方載明）",
    "source_url": "https://waysim.net/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/waysim/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/waysim/",
    "ampm_ref": "AMPM-15856a07c4"
   },
   {
@@ -308,7 +308,7 @@
    "hotspot": "支援",
    "source_url": "https://www.telecomsquare.tw/",
    "last_verified": "2026-08-25",
-   "page_url": "https://esim.ampm-aiops.com/items/wiho-esim/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/wiho-esim/",
    "ampm_ref": "AMPM-cec05ba9a3"
   },
   {
@@ -319,9 +319,9 @@
    "plan_type": "固定流量＋吃到飽＋按量計費＋逐日型，型態最多元",
    "hotspot": "支援（分享流量同樣計入額度）",
    "source_url": "https://yesim.app/",
-   "last_verified": "2026-10-14",
-   "page_url": "https://esim.ampm-aiops.com/items/yesim/",
-   "ampm_ref": "AMPM-0d6831bcf0"
+   "last_verified": "2026-10-15",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/yesim/",
+   "ampm_ref": "AMPM-93edd904d2"
   },
   {
    "slug": "alosim",
@@ -332,7 +332,7 @@
    "hotspot": "多數方案支援、不另收費",
    "source_url": "https://alosim.com/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/alosim/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/alosim/",
    "ampm_ref": "AMPM-3abdb3af23"
   },
   {
@@ -343,9 +343,9 @@
    "plan_type": "跨國混合型",
    "hotspot": "支援",
    "source_url": "https://esimx.com/",
-   "last_verified": "2026-10-14",
-   "page_url": "https://esim.ampm-aiops.com/items/esimx/",
-   "ampm_ref": "AMPM-c43390e25e"
+   "last_verified": "2026-10-15",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/esimx/",
+   "ampm_ref": "AMPM-cfc9172173"
   },
   {
    "slug": "cht-roaming",
@@ -355,9 +355,9 @@
    "plan_type": "每日重置型（原生門號漫遊，非 eSIM 商品）：每日 2GB 後降速",
    "hotspot": "官方稱支援，但註明可否使用視註冊之漫遊網而定，非保證所有地區",
    "source_url": "https://www.cht.com.tw/",
-   "last_verified": "2026-10-14",
-   "page_url": "https://esim.ampm-aiops.com/items/cht-roaming/",
-   "ampm_ref": "AMPM-ad4b74e166"
+   "last_verified": "2026-10-15",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/cht-roaming/",
+   "ampm_ref": "AMPM-48a59146fe"
   },
   {
    "slug": "esimpass",
@@ -368,7 +368,7 @@
    "hotspot": "視方案而定非全面支援（如日本KDDI吃到飽支援但熱點以「天數-1」計算，同國其他方案不支援），官方無統一跨國熱點政策（KDDI 吃到飽「天數-1」：官網 2026-09-25）",
    "source_url": "https://www.esimpass.net/",
    "last_verified": "2026-08-28",
-   "page_url": "https://esim.ampm-aiops.com/items/esimpass/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/esimpass/",
    "ampm_ref": "AMPM-c6eb113c56"
   },
   {
@@ -379,9 +379,9 @@
    "plan_type": "每日重置型（原生門號漫遊，非 eSIM 商品）：每日 2GB 後降速",
    "hotspot": "官方未逐方案明確公告，以客服確認為準",
    "source_url": "https://www.taiwanmobile.com/",
-   "last_verified": "2026-10-14",
-   "page_url": "https://esim.ampm-aiops.com/items/twm-roaming/",
-   "ampm_ref": "AMPM-d58614fb8e"
+   "last_verified": "2026-10-15",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/twm-roaming/",
+   "ampm_ref": "AMPM-adcd87eb19"
   },
   {
    "slug": "aerobile",
@@ -392,7 +392,7 @@
    "hotspot": "多數方案可開，但常見「天數-1GB」熱點上限；部分方案不支援",
    "source_url": "https://www.aerobile.com/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/aerobile/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/aerobile/",
    "ampm_ref": "AMPM-e46fca03a3"
   },
   {
@@ -404,7 +404,7 @@
    "hotspot": "",
    "source_url": "https://www.fetnet.net/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/fet-roaming/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/fet-roaming/",
    "ampm_ref": "AMPM-e2413e7771"
   },
   {
@@ -416,7 +416,7 @@
    "hotspot": "支援（官方商品頁載明）",
    "source_url": "https://www.fetnet.net/",
    "last_verified": "2026-08-27",
-   "page_url": "https://esim.ampm-aiops.com/items/fet-travel-card/",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/fet-travel-card/",
    "ampm_ref": "AMPM-4806c72fd3"
   },
   {
@@ -427,9 +427,9 @@
    "plan_type": "吃到飽型（旋風卡系列）＋每日流量型（小旋風卡系列）",
    "hotspot": "支援，但 eSIM 需手動修改 APN 設定才能開熱點，對新手不友善",
    "source_url": "https://www.traveltobuys.com/",
-   "last_verified": "2026-10-14",
-   "page_url": "https://esim.ampm-aiops.com/items/traveltobuy/",
-   "ampm_ref": "AMPM-66e44f7188"
+   "last_verified": "2026-10-15",
+   "page_url": "https://trip.ampm-aiops.com/esim/items/traveltobuy/",
+   "ampm_ref": "AMPM-1d1b0ad6d1"
   }
  ]
 }

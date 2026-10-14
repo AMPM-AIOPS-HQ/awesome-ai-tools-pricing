@@ -1,15 +1,15 @@
 {
  "dataset": "broker",
  "title": "US Stock Brokers for Taiwan residents",
- "generated_at": "2026-10-14T04:00:02+08:00",
- "source": "https://broker.ampm-aiops.com",
+ "generated_at": "2026-10-15T04:00:02+08:00",
+ "source": "https://finance.ampm-aiops.com/broker/",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
  "row_count": 16,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-14",
+ "last_verified_max": "2026-10-15",
  "rows": [
   {
    "slug": "charles-schwab",
@@ -19,9 +19,9 @@
    "min_deposit": "個人/聯名國際帳戶無最低開戶入金（US$25,000 門檻為嘉信香港實體規定，非台灣適用）",
    "idle_fee": "無帳戶管理費/閒置費",
    "source_url": "https://international.schwab.com/pricing",
-   "last_verified": "2026-10-14",
-   "page_url": "https://broker.ampm-aiops.com/items/charles-schwab/",
-   "ampm_ref": "AMPM-f9b52e7062"
+   "last_verified": "2026-10-15",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/charles-schwab/",
+   "ampm_ref": "AMPM-894b9a11fc"
   },
   {
    "slug": "firstrade",
@@ -31,9 +31,9 @@
    "min_deposit": "無最低存款",
    "idle_fee": "無閒置費",
    "source_url": "https://www.firstrade.com/content/zh-tw/pricing",
-   "last_verified": "2026-10-14",
-   "page_url": "https://broker.ampm-aiops.com/items/firstrade/",
-   "ampm_ref": "AMPM-a66d5c4d9f"
+   "last_verified": "2026-10-15",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/firstrade/",
+   "ampm_ref": "AMPM-6338d5b45f"
   },
   {
    "slug": "interactive-brokers",
@@ -44,7 +44,7 @@
    "idle_fee": "無（2021 已取消月低消）",
    "source_url": "https://www.interactivebrokers.com/cn/pricing/commissions-stocks.php",
    "last_verified": "2026-10-02",
-   "page_url": "https://broker.ampm-aiops.com/items/interactive-brokers/",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/interactive-brokers/",
    "ampm_ref": "AMPM-adce2a726b"
   },
   {
@@ -56,7 +56,7 @@
    "idle_fee": "N/A",
    "source_url": "https://international.schwab.com/",
    "last_verified": "2026-09-10",
-   "page_url": "https://broker.ampm-aiops.com/items/td-ameritrade-schwab/",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/td-ameritrade-schwab/",
    "ampm_ref": "AMPM-7ff1ff76a2"
   },
   {
@@ -67,9 +67,9 @@
    "min_deposit": "無實質門檻（SG 行銷頁標最低入金 S$1 起）",
    "idle_fee": "官方聲明不收閒置費（集團FAQ，SG站牌告頁未列此項，一致）",
    "source_url": "https://www.itiger.com/sg/commissions",
-   "last_verified": "2026-10-14",
-   "page_url": "https://broker.ampm-aiops.com/items/tiger-brokers/",
-   "ampm_ref": "AMPM-f828297698"
+   "last_verified": "2026-10-15",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/tiger-brokers/",
+   "ampm_ref": "AMPM-ef3c6f2d08"
   },
   {
    "slug": "webull",
@@ -79,9 +79,9 @@
    "min_deposit": "N/A",
    "idle_fee": "N/A",
    "source_url": "https://www.webull.com/help/faq/343-I-am-a-US-resident-What-requirements-do-I-need-to-meet-in-order-to-open-a-brokerage-account-on-Webull",
-   "last_verified": "2026-10-14",
-   "page_url": "https://broker.ampm-aiops.com/items/webull/",
-   "ampm_ref": "AMPM-3b4a8c7675"
+   "last_verified": "2026-10-15",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/webull/",
+   "ampm_ref": "AMPM-36bf43adf6"
   },
   {
    "slug": "etoro",
@@ -91,9 +91,9 @@
    "min_deposit": "首次入金依國家（官方區間 US$10~10,000；台灣多方來源載 US$50",
    "idle_fee": "官方費用頁標示 Inactivity fee: Free",
    "source_url": "https://www.etoro.com/trading/fees/",
-   "last_verified": "2026-10-14",
-   "page_url": "https://broker.ampm-aiops.com/items/etoro/",
-   "ampm_ref": "AMPM-72aa6bf26b"
+   "last_verified": "2026-10-15",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/etoro/",
+   "ampm_ref": "AMPM-189762dfa0"
   },
   {
    "slug": "moomoo",
@@ -104,7 +104,7 @@
    "idle_fee": "官方美股費用頁未列此項（SG股有季度託管費SGD2/季但已豁免，非美股項目）",
    "source_url": "https://www.moomoo.com/sg/support/topic5_395",
    "last_verified": "2026-09-24",
-   "page_url": "https://broker.ampm-aiops.com/items/moomoo/",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/moomoo/",
    "ampm_ref": "AMPM-cb0816e694"
   },
   {
@@ -116,7 +116,7 @@
    "idle_fee": "",
    "source_url": "https://www.ctbcsec.com/2020/n3-subbrokerage/pdf/%E4%B8%AD%E5%9C%8B%E4%BF%A1%E8%A8%97%E7%B6%9C%E5%90%88%E8%AD%89%E5%88%B8%E5%8F%97%E8%A8%97%E8%B2%B7%E8%B3%A3%E5%A4%96%E5%9C%8B%E8%82%A1%E7%A5%A8%E6%94%B6%E8%B2%BB%E6%A8%99%E6%BA%96.pdf",
    "last_verified": "2026-09-29",
-   "page_url": "https://broker.ampm-aiops.com/items/ctbc-sub-brokerage/",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/ctbc-sub-brokerage/",
    "ampm_ref": "AMPM-1b93b8d10a"
   },
   {
@@ -127,9 +127,9 @@
    "min_deposit": "",
    "idle_fee": "",
    "source_url": "https://www.yuanta.com.tw/eyuanta/webfile/resourcesFile/b1348f0b-7243-4ae8-9f9d-fd8e87167a0c.pdf",
-   "last_verified": "2026-10-14",
-   "page_url": "https://broker.ampm-aiops.com/items/yuanta-sub-brokerage/",
-   "ampm_ref": "AMPM-1c0f83dd69"
+   "last_verified": "2026-10-15",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/yuanta-sub-brokerage/",
+   "ampm_ref": "AMPM-2a5e240c36"
   },
   {
    "slug": "kgi-sub-brokerage",
@@ -139,9 +139,9 @@
    "min_deposit": "定期定額最低 US$10（活動頁）",
    "idle_fee": "",
    "source_url": "https://event.kgi.com.tw/news/event/trade-US-now/index.html",
-   "last_verified": "2026-10-14",
-   "page_url": "https://broker.ampm-aiops.com/items/kgi-sub-brokerage/",
-   "ampm_ref": "AMPM-d3b3b25869"
+   "last_verified": "2026-10-15",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/kgi-sub-brokerage/",
+   "ampm_ref": "AMPM-4918640790"
   },
   {
    "slug": "pocket-sub-brokerage",
@@ -151,9 +151,9 @@
    "min_deposit": "",
    "idle_fee": "",
    "source_url": "https://www.pocket.tw/callcenter/questions/124/",
-   "last_verified": "2026-10-14",
-   "page_url": "https://broker.ampm-aiops.com/items/pocket-sub-brokerage/",
-   "ampm_ref": "AMPM-6820c4817e"
+   "last_verified": "2026-10-15",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/pocket-sub-brokerage/",
+   "ampm_ref": "AMPM-ee478ea0b9"
   },
   {
    "slug": "cathay-sub-brokerage",
@@ -163,9 +163,9 @@
    "min_deposit": "無門檻；定期定額 US$10 可扣",
    "idle_fee": "無",
    "source_url": "https://www.cathaysec.com.tw/CathaysecUS/us_transaction_info.aspx",
-   "last_verified": "2026-10-14",
-   "page_url": "https://broker.ampm-aiops.com/items/cathay-sub-brokerage/",
-   "ampm_ref": "AMPM-f82d4ca157"
+   "last_verified": "2026-10-15",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/cathay-sub-brokerage/",
+   "ampm_ref": "AMPM-ed6c48cdbf"
   },
   {
    "slug": "fubon-sub-brokerage",
@@ -176,7 +176,7 @@
    "idle_fee": "無",
    "source_url": "https://www.fbs.com.tw/",
    "last_verified": "2026-09-10",
-   "page_url": "https://broker.ampm-aiops.com/items/fubon-sub-brokerage/",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/fubon-sub-brokerage/",
    "ampm_ref": "AMPM-67c36b552a"
   },
   {
@@ -187,9 +187,9 @@
    "min_deposit": "豐存美股（定期定額）US$10 即可開始；單筆最低入金以牌告為準（既載 US$100 或 HK$1,000）",
    "idle_fee": "",
    "source_url": "https://www.sinotrade.com.tw/ec/20241001/index.html",
-   "last_verified": "2026-10-14",
-   "page_url": "https://broker.ampm-aiops.com/items/sinopac-sub-brokerage/",
-   "ampm_ref": "AMPM-835a3fcae5"
+   "last_verified": "2026-10-15",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/sinopac-sub-brokerage/",
+   "ampm_ref": "AMPM-4a99cead03"
   },
   {
    "slug": "esun-sub-brokerage",
@@ -200,7 +200,7 @@
    "idle_fee": "",
    "source_url": "https://www.esunsec.com.tw/faq/detail.aspx?id=Foreign",
    "last_verified": "2026-09-29",
-   "page_url": "https://broker.ampm-aiops.com/items/esun-sub-brokerage/",
+   "page_url": "https://finance.ampm-aiops.com/broker/items/esun-sub-brokerage/",
    "ampm_ref": "AMPM-c0a964e623"
   }
  ]
