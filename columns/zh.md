@@ -1,8 +1,8 @@
 # 專欄（已上線）
 
 - 2026-10-18 [問問貓先查過：Fireflies.ai 個人用沒事，全公司用的坑在這](https://ampm-aiops.com/guides/fireflies-ai-news-20261018/)
-- 2026-10-18 [Meta 新條款傳可免費用新聞網站內容訓練 AI：問問貓說「可能」兩字才是重點](https://ampm-aiops.com/guides/context-dev-news-20261018/)
-- 2026-10-18 [Meta 刪掉「抓取資料訓練 AI」的爭議措辭：刪一句話不等於改做法，AI 文字轉影片工具使用者要注意什麼](https://ampm-aiops.com/guides/fliki-news-20261018/)
+- 2026-10-18 [一台 24 萬的筆電，可以不用上網就跑 1200 億參數的大模型：MSI Prestige N16 Flip AI+ 誰該買](https://ampm-aiops.com/guides/msi-prestige-n16-flip-news-20261018/)
+- 2026-10-18 [Meta 刪掉抓取訓練措辭、新條款又傳可免費用新聞內容訓練 AI：兩則報導合併整理，AI 文字轉影片工具使用者要注意什麼](https://ampm-aiops.com/guides/fliki-news-20261018/)
 - 2026-10-18 [Meshy 免費版 100 credits 怎麼用？文字生成 3D 上手與付費方案 Pro US$20 起怎麼選](https://ampm-aiops.com/guides/meshy-howto-2026/)
 - 2026-10-18 [Filmora 免費版先別急著付費：US$19.99/月是素材加購，軟體最低年繳 US$49.99](https://ampm-aiops.com/guides/filmora-howto-2026/)
 - 2026-10-17 [Zapier 免費版該不該升級？問問貓直讀官網：大字招牌往下點兩層才看得到的落差](https://ampm-aiops.com/guides/zapier-howto-2026/)
@@ -10,7 +10,7 @@
 - 2026-10-17 [OpenSEO評價：自架版免費但要技術，代管版月繳US$10、品牌檢查一次US$1.09貴嗎](https://ampm-aiops.com/guides/openseo-review-2026/)
 - 2026-10-16 [Velo免費版「沒浮水印」是真的，但只限分享連結——下載檔案這點常被忽略](https://ampm-aiops.com/guides/velo-scene-2026/)
 - 2026-10-16 [Suno免費版50點、付費US$10起,我查了官網條款——這三種人誰該升級](https://ampm-aiops.com/guides/suno-scene-2026/)
-- 2026-10-16 [Grok 定價查了一圈才查到,問問貓提醒:學生免費版卡在信用卡驗證,付費方案 US$10 起跳](https://ampm-aiops.com/guides/grok-scene-2026/)
+- 2026-10-16 [Grok 定價查了一圈才查到,問問貓提醒:學生免費版卡在信用卡驗證,付費方案 US$8 起跳](https://ampm-aiops.com/guides/grok-scene-2026/)
 - 2026-10-16 [Google AI Studio免費額度怎麼算？Gemini 2.5 Pro一天只有50次](https://ampm-aiops.com/guides/google-ai-studio-review-2026/)
 - 2026-10-16 [Codex 訂閱怎麼選？ChatGPT Plus US$20、Go US$8、Pro US$100／US$200 方案比較](https://ampm-aiops.com/guides/codex-list-2026/)
 - 2026-10-15 [被 AdSense 退件第五次，我乾脆公開整套多代理 AI 營運系統架構：一個看不懂語法的設計師，跟 AI 拚了半年的 15 個模組](https://ampm-aiops.com/guides/ampm-open-architecture-20261015/)
