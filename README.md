@@ -85,7 +85,7 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | | |
 | :--- | :--- |
 | Rows published | **179** (below public threshold, not exported: 13) |
-| Last verified (newest row) | **2026-10-17** |
+| Last verified (newest row) | **2026-10-18** |
 | Files | [`datasets/cards/cards_2026.json`](./datasets/cards/cards_2026.json) · [`datasets/cards/cards_2026.csv`](./datasets/cards/cards_2026.csv) · [`schema.json`](./datasets/cards/schema.json) |
 | Browse online | [finance.ampm-aiops.com/](https://finance.ampm-aiops.com/items/) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
@@ -186,7 +186,7 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | | |
 | :--- | :--- |
 | Rows published | **25** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-10-17** |
+| Last verified (newest row) | **2026-10-18** |
 | Files | [`datasets/crypto/crypto_2026.json`](./datasets/crypto/crypto_2026.json) · [`datasets/crypto/crypto_2026.csv`](./datasets/crypto/crypto_2026.csv) · [`schema.json`](./datasets/crypto/schema.json) |
 | Browse online | [finance.ampm-aiops.com/crypto/](https://finance.ampm-aiops.com/crypto/exchanges/) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
@@ -194,15 +194,15 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | name | kind | type | fee_or_price | source_url | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Bitget](https://finance.ampm-aiops.com/crypto/exchanges/bitget/) | exchange | 國際 | 現貨 Maker/Taker 皆 0.10%（用 BGB 付手續費折 20%）；合約 Maker 0.02%／Taker 0.06%（一般用戶） | [official](https://www.bitget.com/academy/245) | 2026-09-03 |
-| [BitoPro（幣託科技）](https://finance.ampm-aiops.com/crypto/exchanges/bitopro/) | exchange | 本土 | VIP0 現貨 Maker 0.1% / Taker 0.2%；以 BITO 支付享 8 折＝Maker 0.08% / Taker 0.16%；網格機器人 Maker/Taker 均 0.05%。官方 API 直讀。 | [official](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News) | 2026-10-17 |
-| [Bybit](https://finance.ampm-aiops.com/crypto/exchanges/bybit/) | exchange | 國際 | VIP0 現貨 Maker/Taker 皆 0.1%（VIP 最低 0.005%/0.015%） | [official](https://www.bybit.com/zh-TW/help-center/article/Trading-Fee-Structure) | 2026-10-17 |
+| [BitoPro（幣託科技）](https://finance.ampm-aiops.com/crypto/exchanges/bitopro/) | exchange | 本土 | VIP0 現貨 Maker 0.1% / Taker 0.2%；以 BITO 支付享 8 折＝Maker 0.08% / Taker 0.16%；網格機器人 Maker/Taker 均 0.05%。官方 API 直讀。 | [official](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News) | 2026-10-18 |
+| [Bybit](https://finance.ampm-aiops.com/crypto/exchanges/bybit/) | exchange | 國際 | VIP0 現貨 Maker/Taker 皆 0.1%（VIP 最低 0.005%/0.015%） | [official](https://www.bybit.com/zh-TW/help-center/article/Trading-Fee-Structure) | 2026-10-18 |
 | [Coinbase](https://finance.ampm-aiops.com/crypto/exchanges/coinbase/) | exchange | 國際 | 一般介面約 2% 上下（依方式與金額分級；Advanced 介面較低）；信用卡購幣約 3.99% | [official](https://help.coinbase.com/en/coinbase/trading-and-funding/pricing-and-fees/fees) | 2026-09-03 |
 | [Gate.io](https://finance.ampm-aiops.com/crypto/exchanges/gate-io/) | exchange | 國際 | 現貨基礎費率 Maker/Taker 約 0.20%（不同來源亦見報 0.10%，以官網當下頁面為準）；依 17 階 VIP／GT 持倉遞減，最高可到 Maker 0%／Taker 0.02% | [official](https://www.gate.com/global-market-maker-program) | 2026-09-03 |
 | [HOYA BIT（禾亞數位科技）](https://finance.ampm-aiops.com/crypto/exchanges/hoya-bit/) | exchange | 本土 | 現貨以價差（spread）方式收費，內含約 0.2%–0.5% 支付處理費（買入收加密貨幣、賣出收台幣）。官網未設公開的獨立費率頁，級距引自 support.hoyabit.com 說明。 | [official](https://support.hoyabit.com/transaction/%E4%BA%A4%E6%98%93%E6%89%8B%E7%BA%8C%E8%B2%BB%E5%A4%9A%E5%B0%91%EF%BC%9F-2/) | 2026-09-08 |
 | [Kraken](https://finance.ampm-aiops.com/crypto/exchanges/kraken/) | exchange | 國際 | 標準介面 Taker 約 0.26%；Kraken Pro 依 30 天量分級大幅較低 | [official](https://www.kraken.com/features/fee-schedule) | 2026-09-30 |
 | [KuCoin](https://finance.ampm-aiops.com/crypto/exchanges/kucoin/) | exchange | 國際 | 現貨 Maker/Taker 皆 0.10%（用 KCS 付手續費折至 0.08%），依 30 天量／VIP 分級遞減 | [official](https://www.kucoin.com/blog/Full-KuCoin-Review) | 2026-09-03 |
 | [MAX（現代財富科技／MaiCoin）](https://finance.ampm-aiops.com/crypto/exchanges/max-maicoin/) | exchange | 本土 | VIP0（一般會員）現貨 Maker 0.08% / Taker 0.16%；依 30 天交易量或 MAX 鎖倉量分級，最高 VIP9 可低至 Maker -0.008% / Taker 0.045%。官網費率頁直讀。 | [official](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News) | 2026-09-08 |
-| [OKX 歐易](https://finance.ampm-aiops.com/crypto/exchanges/okx/) | exchange | 國際 | 普通用戶現貨 Maker 0.08% / Taker 0.10%；依 30 天交易量／資產量分 VIP1–9，最高可低至 Maker -0.005% / Taker 0.015%。官網費率頁直讀。 | [official](https://www.okx.com/zh-hant/fees) | 2026-10-17 |
+| [OKX 歐易](https://finance.ampm-aiops.com/crypto/exchanges/okx/) | exchange | 國際 | 普通用戶現貨 Maker 0.08% / Taker 0.10%；依 30 天交易量／資產量分 VIP1–9，最高可低至 Maker -0.005% / Taker 0.015%。官網費率頁直讀。 | [official](https://www.okx.com/zh-hant/fees) | 2026-10-18 |
 
 *Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 25 rows.*
 

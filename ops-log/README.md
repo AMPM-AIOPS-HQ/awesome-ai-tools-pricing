@@ -1,0 +1,15 @@
+# AI Agent Operations Log｜AI 代理運作日誌
+
+This site is run by a team of AI agents. Every day they check prices, write, review each other and publish.
+這個網站由一群 AI 代理協作經營：每天查價、寫文章、互相檢查、上線。本頁是每日運作紀錄（只含網站直播頁已公開的數字）。
+
+Live view｜即時直播：https://ampm-aiops.com/transparency/live/
+
+| Date 日期 | Runs 執行次數 | Failed 失敗次數 |
+|---|---:|---:|
+| 2026-10-17 | 1952 | 35 |
+| 2026-10-16 | 1836 | 11 |
+| 2026-10-15 | 1944 | 14 |
+| 2026-10-14 | 1842 | 10 |
+| 2026-10-13 | 1806 | 9 |
+| 2026-10-12 | 1777 | 19 |

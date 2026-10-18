@@ -35,7 +35,7 @@ gamma,Gamma,Gamma,productivity,True,註冊送一次性點數,12,,2026-09-27,http
 gemini,Gemini,Google,general,True,免費版每月 NT$0，只要有 Google 帳戶就能用,4.99,True,2026-10-17,https://gemini.google.com,https://ampm-aiops.com/tools/gemini/,AMPM-578c4f6eb9
 notebooklm,Gemini Notebook,Google,search|productivity,True,免費版即很夠用且永久免費，無須訂閱或信用卡,4.99,True,2026-10-17,https://notebooklm.google.com,https://ampm-aiops.com/tools/notebooklm/,AMPM-df39026991
 github-copilot,GitHub Copilot,GitHub/Microsoft,coding,True,"一般用戶免費層每月2,000次補全+50次chat；開源維護者/教師可免費升級Pro；學生免費方案新申請已於2026-06-17起逐步重新開放；2026-07-27補充：自2026…",10,,2026-10-17,https://github.com/features/copilot,https://ampm-aiops.com/tools/github-copilot/,AMPM-95106c36ca
-glaze,Glaze by Raycast,Raycast,appbuilder|coding,True,免費版是「一次性」不是每月配額：註冊送 120 點的 launch welcome pack,10,True,2026-10-17,https://glaze.app,https://ampm-aiops.com/tools/glaze/,AMPM-f5236d88df
+glaze,Glaze by Raycast,Raycast,appbuilder|coding,True,免費版是「一次性」不是每月配額：註冊送 120 點的 launch welcome pack,10,True,2026-10-18,https://glaze.app,https://ampm-aiops.com/tools/glaze/,AMPM-e2384906e4
 google-ai-studio,Google AI Studio,Google,coding|search,True,"開發用途幾乎免費；Gemini 2.5系列：Search grounding免費1,500次/日，Maps grounding亦免費1,500次/日但超過後費率不同為US$25/1…",0,True,2026-10-10,https://aistudio.google.com,https://ampm-aiops.com/tools/google-ai-studio/,AMPM-f8703e5595
 gptzero,GPTZero,GPTZero,writing,True,"每月 10,000 字；含進階 AI 偵測、多語言偵測與寫作反饋；無需信用卡",23.99,,2026-10-17,https://gptzero.me,https://ampm-aiops.com/tools/gptzero/,AMPM-f6c557dda9
 grammarly,Grammarly,Grammarly,writing|productivity,True,拼字與文法檢查、語氣偵測，每月 100 次 AI 生成,0,True,2026-10-17,https://www.grammarly.com,https://ampm-aiops.com/tools/grammarly/,AMPM-a408839327
@@ -50,7 +50,7 @@ hostinger,Hostinger AI Website Builder,Hostinger,appbuilder|productivity|coding,
 ideogram,Ideogram,Ideogram,image,True,官網方案表已無 Free 欄；FAQ：符合資格的免費帳號以 Google、Apple 或 Microsoft 登入，每週可獲得點數，數量可能變動；優先點數只能從付費方案或加購取得,0,,2026-10-17,https://ideogram.ai,https://ampm-aiops.com/tools/ideogram/,AMPM-3baa468a5f
 invideo,InVideo AI,InVideo (InVideo Inc.),video,False,2026-09-25 官網定價頁沒有列出免費方案,20,False,2026-10-17,https://invideo.io,https://ampm-aiops.com/tools/invideo/,AMPM-9a40df9960
 jasper-ai,Jasper AI,Jasper,marketing|writing,False,7 天免費試用,0,False,2026-10-17,https://www.jasper.ai/pricing,https://ampm-aiops.com/tools/jasper-ai/,AMPM-d35b31e854
-kling,Kling,快手,video,True,"每日登入送點數,可生少量",10.0,False,2026-10-17,https://klingai.com,https://ampm-aiops.com/tools/kling/,AMPM-fe543ac194
+kling,Kling,快手,video,True,"每日登入送點數,可生少量",10.0,False,2026-10-18,https://klingai.com,https://ampm-aiops.com/tools/kling/,AMPM-15a7401f6c
 krisp,Krisp,"Krisp Technologies, Inc.",productivity|voice,True,免費桌面版每日 60 分鐘降噪＋每日 2 則 AI 會議筆記、轉錄不限量,0,True,2026-10-17,https://krisp.ai,https://ampm-aiops.com/tools/krisp/,AMPM-199555793d
 leonardo,Leonardo AI,Leonardo,image,True,每日 150 點快速代幣，24小時到期不累積、不可跨日滾存，同時僅可執行1個生成任務,12,True,2026-10-17,https://leonardo.ai,https://ampm-aiops.com/tools/leonardo/,AMPM-a649ee626d
 livedocs,Livedocs,Livedocs (Y Combinator),agent|search|productivity,True,免費版每月 US$0，最多3個notebook，單人使用，4GB RAM，0.5 vCPU，US$5 AI額度上限,0,,2026-10-18,https://livedocs.com,https://ampm-aiops.com/tools/livedocs/,AMPM-dbfb882fc1
@@ -95,8 +95,8 @@ socialecho,SocialEcho,SocialEcho,marketing|productivity,True,Free Plan US$0「Fo
 speechify,Speechify,Speechify Inc.,voice|productivity,True,免費版可長期使用但限制明確：只有 10 個基本聲音、朗讀語速上限 1.5 倍、文件儲存上限 5 個檔案；1000+ 自然人聲、5 倍速、OCR 掃描朗讀、離線下載都鎖在 Premi…,19,False,2026-10-05,https://speechify.com,https://ampm-aiops.com/tools/speechify/,AMPM-019c8bd87a
 stable-diffusion,Stable Diffusion,Stability AI,image,True,開源模型權重免費自架；官方 API 新戶送 25 點免費；原 Brand Studio 免費試用：方案頁 2026-10-15 為 404，無法在官網核實,0,,2026-09-17,https://stability.ai,https://ampm-aiops.com/tools/stable-diffusion/,AMPM-24db6b7f2d
 strix,Strix,Strix (Open-source),agent|coding,False,雲端平台沒有常態免費方案，Pro 有 7 天免費試用,0,,2026-10-17,https://www.strix.ai,https://ampm-aiops.com/tools/strix/,AMPM-d67852b6a0
-suno,Suno,Suno,voice,True,免費方案官網頁面上叫 Free Plan，US$0/月,10,False,2026-10-17,https://suno.com,https://ampm-aiops.com/tools/suno/,AMPM-3eeafce2e0
-surfer-seo,Surfer SEO,Surfer (surferseo.com),marketing|writing|search,False,無免費層：主平台需付費訂閱，官方僅提供 7 天退款保證；舊 7 天 US$1 試用已於先前取消,49,True,2026-10-17,https://surferseo.com,https://ampm-aiops.com/tools/surfer-seo/,AMPM-004b7609fc
+suno,Suno,Suno,voice,True,免費方案官網頁面上叫 Free Plan，US$0/月,10,False,2026-10-18,https://suno.com,https://ampm-aiops.com/tools/suno/,AMPM-4755b0d0ca
+surfer-seo,Surfer SEO,Surfer (surferseo.com),marketing|writing|search,False,無免費層：主平台需付費訂閱，官方僅提供 7 天退款保證；舊 7 天 US$1 試用已於先前取消,49,True,2026-10-18,https://surferseo.com,https://ampm-aiops.com/tools/surfer-seo/,AMPM-72aad1ba85
 synthesia,Synthesia,Synthesia,video,True,Basic 方案 US$0：每月 10 分鐘影片＋500 點＋3 份問卷回覆，每月重置、不滾存；9 種 AI 虛擬人像、每月 3 個 AI 影片素材、1 位編輯者；成品有 Synt…,0,,2026-10-17,https://www.synthesia.io,https://ampm-aiops.com/tools/synthesia/,AMPM-b4095902d6
 taskade,Taskade,Taskade Inc.,agent|productivity,True,"免費層 1 位使用者、最多 3 個 AI 應用、一次性 6,000 AI credits、1 個 AI agent、3 條 AI 自動化、250MB 儲存空間、500+ 社群模板",10,True,2026-10-17,https://www.taskade.com,https://ampm-aiops.com/tools/taskade/,AMPM-e8ae117731
 teable,Teable,Teable,agent|productivity,True,免費版 US$0 per seat/month「For individuals」,12,,2026-10-17,https://teable.ai,https://ampm-aiops.com/tools/teable/,AMPM-bf578d6322

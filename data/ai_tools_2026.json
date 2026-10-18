@@ -1,7 +1,7 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-10-18T04:00:03+08:00",
+ "generated_at": "2026-10-18T16:00:16+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -619,10 +619,10 @@
    "free_tier_summary": "免費版是「一次性」不是每月配額：註冊送 120 點的 launch welcome pack",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": true,
-   "last_verified": "2026-10-17",
+   "last_verified": "2026-10-18",
    "source_url": "https://glaze.app",
    "tool_page": "https://ampm-aiops.com/tools/glaze/",
-   "ampm_ref": "AMPM-f5236d88df"
+   "ampm_ref": "AMPM-e2384906e4"
   },
   {
    "slug": "google-ai-studio",
@@ -866,10 +866,10 @@
    "free_tier_summary": "每日登入送點數,可生少量",
    "cheapest_paid_usd_per_month": 10.0,
    "commercial_use": false,
-   "last_verified": "2026-10-17",
+   "last_verified": "2026-10-18",
    "source_url": "https://klingai.com",
    "tool_page": "https://ampm-aiops.com/tools/kling/",
-   "ampm_ref": "AMPM-fe543ac194"
+   "ampm_ref": "AMPM-15a7401f6c"
   },
   {
    "slug": "krisp",
@@ -1613,10 +1613,10 @@
    "free_tier_summary": "免費方案官網頁面上叫 Free Plan，US$0/月",
    "cheapest_paid_usd_per_month": 10,
    "commercial_use": false,
-   "last_verified": "2026-10-17",
+   "last_verified": "2026-10-18",
    "source_url": "https://suno.com",
    "tool_page": "https://ampm-aiops.com/tools/suno/",
-   "ampm_ref": "AMPM-3eeafce2e0"
+   "ampm_ref": "AMPM-4755b0d0ca"
   },
   {
    "slug": "surfer-seo",
@@ -1631,10 +1631,10 @@
    "free_tier_summary": "無免費層：主平台需付費訂閱，官方僅提供 7 天退款保證；舊 7 天 US$1 試用已於先前取消",
    "cheapest_paid_usd_per_month": 49,
    "commercial_use": true,
-   "last_verified": "2026-10-17",
+   "last_verified": "2026-10-18",
    "source_url": "https://surferseo.com",
    "tool_page": "https://ampm-aiops.com/tools/surfer-seo/",
-   "ampm_ref": "AMPM-004b7609fc"
+   "ampm_ref": "AMPM-72aad1ba85"
   },
   {
    "slug": "synthesia",
