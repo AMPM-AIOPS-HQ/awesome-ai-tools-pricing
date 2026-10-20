@@ -1,7 +1,7 @@
 {
  "dataset": "crypto",
  "title": "Crypto Exchanges & Wallets (Taiwan)",
- "generated_at": "2026-10-20T04:00:02+08:00",
+ "generated_at": "2026-10-21T02:06:43+08:00",
  "source": "https://finance.ampm-aiops.com/crypto/",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -21,7 +21,7 @@
    "source_url": "https://www.bitget.com/academy/245",
    "last_verified": "2026-09-03",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/bitget/",
-   "ampm_ref": "AMPM-4a22811883"
+   "ampm_ref": "AMPM-432d28a4dc"
   },
   {
    "slug": "bitopro",
@@ -33,7 +33,7 @@
    "source_url": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/bitopro/",
-   "ampm_ref": "AMPM-26e378ad66"
+   "ampm_ref": "AMPM-86aa3679e5"
   },
   {
    "slug": "bybit",
@@ -45,7 +45,7 @@
    "source_url": "https://www.bybit.com/zh-TW/help-center/article/Trading-Fee-Structure",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/bybit/",
-   "ampm_ref": "AMPM-ec2c1b6b62"
+   "ampm_ref": "AMPM-2ab71c8016"
   },
   {
    "slug": "coinbase",
@@ -57,7 +57,7 @@
    "source_url": "https://help.coinbase.com/en/coinbase/trading-and-funding/pricing-and-fees/fees",
    "last_verified": "2026-09-03",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/coinbase/",
-   "ampm_ref": "AMPM-5117ae3146"
+   "ampm_ref": "AMPM-ef0d7d0cdd"
   },
   {
    "slug": "gate-io",
@@ -69,7 +69,7 @@
    "source_url": "https://www.gate.com/global-market-maker-program",
    "last_verified": "2026-09-03",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/gate-io/",
-   "ampm_ref": "AMPM-ba7638bc0a"
+   "ampm_ref": "AMPM-efde90746a"
   },
   {
    "slug": "hoya-bit",
@@ -81,7 +81,7 @@
    "source_url": "https://support.hoyabit.com/transaction/%E4%BA%A4%E6%98%93%E6%89%8B%E7%BA%8C%E8%B2%BB%E5%A4%9A%E5%B0%91%EF%BC%9F-2/",
    "last_verified": "2026-09-08",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/hoya-bit/",
-   "ampm_ref": "AMPM-f21f4a8ef4"
+   "ampm_ref": "AMPM-88605d836d"
   },
   {
    "slug": "kraken",
@@ -93,7 +93,7 @@
    "source_url": "https://www.kraken.com/features/fee-schedule",
    "last_verified": "2026-09-30",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/kraken/",
-   "ampm_ref": "AMPM-3663f21d54"
+   "ampm_ref": "AMPM-ab3f17f9d7"
   },
   {
    "slug": "kucoin",
@@ -105,7 +105,7 @@
    "source_url": "https://www.kucoin.com/blog/Full-KuCoin-Review",
    "last_verified": "2026-09-03",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/kucoin/",
-   "ampm_ref": "AMPM-c091163018"
+   "ampm_ref": "AMPM-17af351299"
   },
   {
    "slug": "max-maicoin",
@@ -117,7 +117,7 @@
    "source_url": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News",
    "last_verified": "2026-09-08",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/max-maicoin/",
-   "ampm_ref": "AMPM-f722ce1bd7"
+   "ampm_ref": "AMPM-9697510b79"
   },
   {
    "slug": "okx",
@@ -129,7 +129,7 @@
    "source_url": "https://www.okx.com/zh-hant/fees",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/okx/",
-   "ampm_ref": "AMPM-ae14924f66"
+   "ampm_ref": "AMPM-276338607f"
   },
   {
    "slug": "pionex",
@@ -141,7 +141,7 @@
    "source_url": "https://www.sfb.gov.tw/ch/home.jsp?id=1053&parentpath=0%2C8%2C1053",
    "last_verified": "2026-09-03",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/pionex/",
-   "ampm_ref": "AMPM-81c5c4d47f"
+   "ampm_ref": "AMPM-a788ccc4a0"
   },
   {
    "slug": "twex",
@@ -153,7 +153,7 @@
    "source_url": "https://corp.taiwanmobile.com/press-release/news/press_20260105_596379.html",
    "last_verified": "2026-09-08",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/twex/",
-   "ampm_ref": "AMPM-3e4afba75d"
+   "ampm_ref": "AMPM-f486be62ef"
   },
   {
    "slug": "xrex",
@@ -165,7 +165,7 @@
    "source_url": "https://xrex.io",
    "last_verified": "2026-09-08",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/xrex/",
-   "ampm_ref": "AMPM-abf72a55ec"
+   "ampm_ref": "AMPM-d815b6277c"
   },
   {
    "slug": "zone-wallet",
@@ -177,7 +177,7 @@
    "source_url": "https://zonewallet.io",
    "last_verified": "2026-09-10",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/zone-wallet/",
-   "ampm_ref": "AMPM-9c068e0aee"
+   "ampm_ref": "AMPM-6fcbb51255"
   },
   {
    "slug": "binance",
@@ -189,7 +189,7 @@
    "source_url": "https://www.binance.com/zh-TC/fee/schedule",
    "last_verified": "2026-09-10",
    "page_url": "https://finance.ampm-aiops.com/crypto/exchanges/binance/",
-   "ampm_ref": "AMPM-b0f4e3e4e8"
+   "ampm_ref": "AMPM-1d0bb78064"
   },
   {
    "slug": "coolwallet-pro-s",
@@ -201,7 +201,7 @@
    "source_url": "https://www.coolwallet.io/",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/crypto/wallets/coolwallet-pro-s/",
-   "ampm_ref": "AMPM-4dda52e8c7"
+   "ampm_ref": "AMPM-abdc56ed19"
   },
   {
    "slug": "ledger-nano-s-plus",
@@ -213,7 +213,7 @@
    "source_url": "https://shop.ledger.com/products/ledger-nano-s-plus",
    "last_verified": "2026-09-29",
    "page_url": "https://finance.ampm-aiops.com/crypto/wallets/ledger-nano-s-plus/",
-   "ampm_ref": "AMPM-78a87ba757"
+   "ampm_ref": "AMPM-d3848a1291"
   },
   {
    "slug": "ledger-nano-x",
@@ -225,7 +225,7 @@
    "source_url": "https://shop.ledger.com/products/ledger-nano-x",
    "last_verified": "2026-09-29",
    "page_url": "https://finance.ampm-aiops.com/crypto/wallets/ledger-nano-x/",
-   "ampm_ref": "AMPM-1541d6229b"
+   "ampm_ref": "AMPM-9d15a6b0f7"
   },
   {
    "slug": "ledger-stax",
@@ -237,7 +237,7 @@
    "source_url": "https://shop.ledger.com/products/ledger-stax",
    "last_verified": "2026-09-29",
    "page_url": "https://finance.ampm-aiops.com/crypto/wallets/ledger-stax/",
-   "ampm_ref": "AMPM-ac63242872"
+   "ampm_ref": "AMPM-283399318b"
   },
   {
    "slug": "metamask",
@@ -249,7 +249,7 @@
    "source_url": "https://metamask.io/security",
    "last_verified": "2026-08-29",
    "page_url": "https://finance.ampm-aiops.com/crypto/wallets/metamask/",
-   "ampm_ref": "AMPM-b3596a2345"
+   "ampm_ref": "AMPM-0d294d80a5"
   },
   {
    "slug": "onekey-classic-1s",
@@ -261,7 +261,7 @@
    "source_url": "https://onekey.so/products/onekey-classic-1s-hardware-wallet/",
    "last_verified": "2026-10-08",
    "page_url": "https://finance.ampm-aiops.com/crypto/wallets/onekey-classic-1s/",
-   "ampm_ref": "AMPM-031f73cbd9"
+   "ampm_ref": "AMPM-05e023e300"
   },
   {
    "slug": "rabby-wallet",
@@ -273,7 +273,7 @@
    "source_url": "https://rabby.io/",
    "last_verified": "2026-08-29",
    "page_url": "https://finance.ampm-aiops.com/crypto/wallets/rabby-wallet/",
-   "ampm_ref": "AMPM-1efe5cc493"
+   "ampm_ref": "AMPM-cdc6cc76e6"
   },
   {
    "slug": "trezor-safe-3",
@@ -285,7 +285,7 @@
    "source_url": "https://trezor.io/trezor-safe-3",
    "last_verified": "2026-08-29",
    "page_url": "https://finance.ampm-aiops.com/crypto/wallets/trezor-safe-3/",
-   "ampm_ref": "AMPM-6abf6e4c04"
+   "ampm_ref": "AMPM-50c0574aaa"
   },
   {
    "slug": "trezor-safe-5",
@@ -297,7 +297,7 @@
    "source_url": "https://trezor.io/trezor-safe-5",
    "last_verified": "2026-08-29",
    "page_url": "https://finance.ampm-aiops.com/crypto/wallets/trezor-safe-5/",
-   "ampm_ref": "AMPM-66208ad685"
+   "ampm_ref": "AMPM-166108395c"
   },
   {
    "slug": "trust-wallet",
@@ -309,7 +309,7 @@
    "source_url": "https://trustwallet.com/blog/crypto-basics/the-lifecycle-of-a-seed-phrase-in-trust-wallet-why-it-is-your-most-valuable-asset-and-how-to-protect-it",
    "last_verified": "2026-08-29",
    "page_url": "https://finance.ampm-aiops.com/crypto/wallets/trust-wallet/",
-   "ampm_ref": "AMPM-70eac56473"
+   "ampm_ref": "AMPM-cf53e31a5b"
   }
  ]
 }

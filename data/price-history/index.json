@@ -1,44 +1,7 @@
 {
  "dataset": "price-history",
- "fields": {
-  "check_day": "the day whose saved official-page reads were checked (Asia/Taipei)",
-  "checked_at": "the moment our crawler read the vendor's official pricing page (Asia/Taipei); empty when the page could not be read",
-  "evidence": "official page URL + read time; screenshots and page text are kept on our server",
-  "plan": "plan name as listed on our site",
-  "seen": "prices read on the official page at checked_at (kind: list / annual / ...)",
-  "site_monthly_usd / site_annual_usd": "price we publish (annual = per-month equivalent when billed yearly)",
-  "type=correction": "later rows may correct an earlier row (ref = its key); earlier rows are never edited or deleted",
-  "verdict": "ok = matches; mismatch = does not match (program check — needs human review before treated as an error); unverified = page or plan could not be read",
-  "verdict values": {
-   "mismatch": "our price differs from what the page showed (automated check — needs human review before it is treated as an error)",
-   "not_found": "this plan name + price could not be found on the page this time (not counted as checked)",
-   "ok": "monthly price on our site matches the official page (or plan is free / no fixed price and the plan name was found)",
-   "ok_annual_only": "the page showed only the annual price this time, and it matches our recorded annual price",
-   "ok_annual_unrecorded": "monthly price matches; the page also shows an annual price we have not recorded yet",
-   "unverified": "the official pricing page itself could not be read (anti-bot, timeout or no pricing page on file)"
-  }
- },
- "first_checked_at": "2026-10-16T20:00:22+08:00",
- "last_checked_at": "2026-10-19T20:22:17+08:00",
- "months": [
-  {
-   "file": "data/price-history/price_checks_2026-10.jsonl",
-   "first_checked_at": "2026-10-16T20:00:22+08:00",
-   "last_checked_at": "2026-10-19T20:22:17+08:00",
-   "month": "2026-10",
-   "rows": 1542,
-   "tools": 117,
-   "verdicts": {
-    "mismatch": 75,
-    "not_found": 685,
-    "ok": 681,
-    "ok_annual_only": 9,
-    "ok_annual_unrecorded": 92
-   }
-  }
- ],
- "rule": "append-only: a new check adds rows; old rows are never overwritten",
- "title": "AI tool price checks — full history (append-only)",
- "tools": 117,
- "total_rows": 1542
+ "monthly_dir": "data/price-history/monthly",
+ "months": [],
+ "rule": "one summary file per finished month; written once, never rewritten. Raw reads stay on our server; files before 2026-10-21 remain in git history.",
+ "title": "AI tool price checks — monthly summaries"
 }

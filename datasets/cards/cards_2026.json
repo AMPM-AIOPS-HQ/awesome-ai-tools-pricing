@@ -1,7 +1,7 @@
 {
  "dataset": "cards",
  "title": "Taiwan Credit Cards",
- "generated_at": "2026-10-20T04:00:02+08:00",
+ "generated_at": "2026-10-21T02:06:43+08:00",
  "source": "https://finance.ampm-aiops.com/",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -22,7 +22,7 @@
    "source_url": "https://www.scsb.com.tw/content/card/card03_h1.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/scsb-simple-plus/",
-   "ampm_ref": "AMPM-a5ef221b75"
+   "ampm_ref": "AMPM-f7e904fc35"
   },
   {
    "slug": "scsb-simple",
@@ -35,7 +35,7 @@
    "source_url": "https://www.scsb.com.tw/content/card/card03_h1.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/scsb-simple/",
-   "ampm_ref": "AMPM-54060ff6f9"
+   "ampm_ref": "AMPM-4f43400944"
   },
   {
    "slug": "ctbc-linepay",
@@ -48,7 +48,7 @@
    "source_url": "https://www.ctbcbank.com/content/dam/minisite/long/creditcard/LINEPay/index.html",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-linepay/",
-   "ampm_ref": "AMPM-6239f90266"
+   "ampm_ref": "AMPM-231d49db3f"
   },
   {
    "slug": "ctbc-7eleven",
@@ -61,7 +61,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-7eleven/",
-   "ampm_ref": "AMPM-d10570a1e9"
+   "ampm_ref": "AMPM-997f277f5a"
   },
   {
    "slug": "ctbc-allme",
@@ -74,7 +74,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_AllMe.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-allme/",
-   "ampm_ref": "AMPM-78cf047fd5"
+   "ampm_ref": "AMPM-c4d4d76b35"
   },
   {
    "slug": "ctbc-amazon",
@@ -87,7 +87,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-amazon/",
-   "ampm_ref": "AMPM-1f3d35f066"
+   "ampm_ref": "AMPM-63ea09d439"
   },
   {
    "slug": "ctbc-costco",
@@ -100,7 +100,7 @@
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-costco/",
-   "ampm_ref": "AMPM-2cdea4db23"
+   "ampm_ref": "AMPM-389d19a986"
   },
   {
    "slug": "ctbc-debit",
@@ -113,7 +113,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-debit/",
-   "ampm_ref": "AMPM-0a59fe6e22"
+   "ampm_ref": "AMPM-4bcceb4a1d"
   },
   {
    "slug": "ctbc-jcb",
@@ -126,7 +126,7 @@
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-jcb/",
-   "ampm_ref": "AMPM-5680a6ddc6"
+   "ampm_ref": "AMPM-de68392893"
   },
   {
    "slug": "ctbc-linepay-basic",
@@ -139,7 +139,7 @@
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-linepay-basic/",
-   "ampm_ref": "AMPM-fc89fea867"
+   "ampm_ref": "AMPM-4295f0fd3a"
   },
   {
    "slug": "ctbc-foodpanda",
@@ -152,7 +152,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_FP.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-foodpanda/",
-   "ampm_ref": "AMPM-069a377379"
+   "ampm_ref": "AMPM-f68a098526"
   },
   {
    "slug": "ctbc-uniopen",
@@ -165,7 +165,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_uniopen.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-uniopen/",
-   "ampm_ref": "AMPM-eb0bc0c1fb"
+   "ampm_ref": "AMPM-96cf970c56"
   },
   {
    "slug": "ctbc-cpc",
@@ -178,7 +178,7 @@
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_CPC.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-cpc/",
-   "ampm_ref": "AMPM-ba9d1976ba"
+   "ampm_ref": "AMPM-09a58e2ae9"
   },
   {
    "slug": "ctbc-cht",
@@ -191,7 +191,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_CHT.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-cht/",
-   "ampm_ref": "AMPM-ae04428c98"
+   "ampm_ref": "AMPM-b316b011cd"
   },
   {
    "slug": "ctbc-asiamiles",
@@ -204,7 +204,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-asiamiles/",
-   "ampm_ref": "AMPM-4c3e025d34"
+   "ampm_ref": "AMPM-11de4e4d7c"
   },
   {
    "slug": "ctbc-biz-travel",
@@ -217,7 +217,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_EP_Titanium.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-biz-travel/",
-   "ampm_ref": "AMPM-25a42bd8f0"
+   "ampm_ref": "AMPM-92f7aaf721"
   },
   {
    "slug": "ctbc-shinkong",
@@ -230,7 +230,7 @@
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-shinkong/",
-   "ampm_ref": "AMPM-8d3ab9c5a5"
+   "ampm_ref": "AMPM-36531bcfdc"
   },
   {
    "slug": "ctbc-hanshin",
@@ -243,7 +243,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_HanShin.html",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-hanshin/",
-   "ampm_ref": "AMPM-f8bca496a1"
+   "ampm_ref": "AMPM-4415708a2d"
   },
   {
    "slug": "ctbc-cashback-signature",
@@ -256,7 +256,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-cashback-signature/",
-   "ampm_ref": "AMPM-7f10902cc5"
+   "ampm_ref": "AMPM-61445dee2f"
   },
   {
    "slug": "ctbc-cashback-titanium",
@@ -269,7 +269,7 @@
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_Cashback_Titanium.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-cashback-titanium/",
-   "ampm_ref": "AMPM-c2bce36bf3"
+   "ampm_ref": "AMPM-24e592d030"
   },
   {
    "slug": "ctbc-lol",
@@ -282,7 +282,7 @@
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/B_LOL.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-lol/",
-   "ampm_ref": "AMPM-2dfb6d07a7"
+   "ampm_ref": "AMPM-dd109065ad"
   },
   {
    "slug": "ctbc-chinaair",
@@ -295,7 +295,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-chinaair/",
-   "ampm_ref": "AMPM-fb01f0ca58"
+   "ampm_ref": "AMPM-f192bea609"
   },
   {
    "slug": "ctbc-shopee",
@@ -308,7 +308,7 @@
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-shopee/",
-   "ampm_ref": "AMPM-6c139135ad"
+   "ampm_ref": "AMPM-94bb712852"
   },
   {
    "slug": "ctbc-disney",
@@ -321,7 +321,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-disney/",
-   "ampm_ref": "AMPM-40b304849c"
+   "ampm_ref": "AMPM-21c2b0e721"
   },
   {
    "slug": "ctbc-sogo",
@@ -334,7 +334,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_CS.html",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-sogo/",
-   "ampm_ref": "AMPM-efc281117a"
+   "ampm_ref": "AMPM-98fa7f3993"
   },
   {
    "slug": "ctbc-infinite",
@@ -347,7 +347,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-infinite/",
-   "ampm_ref": "AMPM-dbf95651c1"
+   "ampm_ref": "AMPM-50c0236827"
   },
   {
    "slug": "ctbc-familymart",
@@ -360,7 +360,7 @@
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-familymart/",
-   "ampm_ref": "AMPM-cde7e21753"
+   "ampm_ref": "AMPM-4d9f3920b9"
   },
   {
    "slug": "ctbc-student",
@@ -373,7 +373,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-student/",
-   "ampm_ref": "AMPM-38242737c3"
+   "ampm_ref": "AMPM-e7d0e6c1e1"
   },
   {
    "slug": "ctbc-shinkong-mitsukoshi",
@@ -386,7 +386,7 @@
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-shinkong-mitsukoshi/",
-   "ampm_ref": "AMPM-3d2341a13f"
+   "ampm_ref": "AMPM-c7ff755106"
   },
   {
    "slug": "ctbc-starbucks",
@@ -399,7 +399,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-starbucks/",
-   "ampm_ref": "AMPM-ce2403460f"
+   "ampm_ref": "AMPM-a0d998bf73"
   },
   {
    "slug": "ctbc-staralliance",
@@ -412,7 +412,7 @@
    "source_url": "https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-staralliance/",
-   "ampm_ref": "AMPM-b6bbdbfdd2"
+   "ampm_ref": "AMPM-76718a168e"
   },
   {
    "slug": "ctbc-platinum",
@@ -425,7 +425,7 @@
    "source_url": "https://www.ctbcbank.com/",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-platinum/",
-   "ampm_ref": "AMPM-f6547983b0"
+   "ampm_ref": "AMPM-13b6dfe8fb"
   },
   {
    "slug": "ctbc-twm",
@@ -438,7 +438,7 @@
    "source_url": "https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/ctbc-twm/",
-   "ampm_ref": "AMPM-97874ee401"
+   "ampm_ref": "AMPM-faa13112c7"
   },
   {
    "slug": "ktb-card",
@@ -451,7 +451,7 @@
    "source_url": "https://customer.ktb.com.tw/new/personal",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/ktb-card/",
-   "ampm_ref": "AMPM-613f70eacd"
+   "ampm_ref": "AMPM-cc8f15f3be"
   },
   {
    "slug": "yuanta-icash",
@@ -464,7 +464,7 @@
    "source_url": "https://www.yuantabank.com.tw/bank/creditCard/creditCard/in.do?id=2752af9d700000004912",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/yuanta-icash/",
-   "ampm_ref": "AMPM-8e032ad24c"
+   "ampm_ref": "AMPM-31224ce3a6"
   },
   {
    "slug": "yuanta-icash-diamond",
@@ -477,7 +477,7 @@
    "source_url": "https://www.yuantabank.com.tw/bank/creditCard/creditCard/in.do?id=2752af9d700000004912",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/yuanta-icash-diamond/",
-   "ampm_ref": "AMPM-a6277a2493"
+   "ampm_ref": "AMPM-39c7b0e4d0"
   },
   {
    "slug": "megabank-e-second",
@@ -490,7 +490,7 @@
    "source_url": "https://www.megabank.com.tw/personal/credit-card/card/overview",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/megabank-e-second/",
-   "ampm_ref": "AMPM-c97cf94e45"
+   "ampm_ref": "AMPM-f845b34ec0"
   },
   {
    "slug": "megabank-ehappy",
@@ -503,7 +503,7 @@
    "source_url": "https://www.megabank.com.tw/personal/credit-card/card/overview/happy2",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/megabank-ehappy/",
-   "ampm_ref": "AMPM-2b4bc8045d"
+   "ampm_ref": "AMPM-029725b989"
   },
   {
    "slug": "megabank-reward",
@@ -516,7 +516,7 @@
    "source_url": "https://www.megabank.com.tw/personal/credit-card/card/overview/cash-rebate-biz",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/megabank-reward/",
-   "ampm_ref": "AMPM-56f5fa98ba"
+   "ampm_ref": "AMPM-44a9617d09"
   },
   {
    "slug": "megabank-biz-signature",
@@ -529,7 +529,7 @@
    "source_url": "https://www.megabank.com.tw/personal/credit-card/card/overview/vsb-card",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/megabank-biz-signature/",
-   "ampm_ref": "AMPM-0af7f2fc6c"
+   "ampm_ref": "AMPM-d1552f7595"
   },
   {
    "slug": "megabank-benefit",
@@ -542,7 +542,7 @@
    "source_url": "https://www.megabank.com.tw/personal/credit-card/legal-announcemet/revolving-credit-fee",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/megabank-benefit/",
-   "ampm_ref": "AMPM-07128802e8"
+   "ampm_ref": "AMPM-d1389dfd51"
   },
   {
    "slug": "kgi-cashback-signature",
@@ -555,7 +555,7 @@
    "source_url": "https://www.kgibank.com.tw/zh-tw/personal/credit-card/list/cash-back-card",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/kgi-cashback-signature/",
-   "ampm_ref": "AMPM-b158221503"
+   "ampm_ref": "AMPM-48af227c2b"
   },
   {
    "slug": "kgi-gov",
@@ -568,7 +568,7 @@
    "source_url": "https://www.kgibank.com.tw/zh-tw/personal/credit-card",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/kgi-gov/",
-   "ampm_ref": "AMPM-1686966150"
+   "ampm_ref": "AMPM-edefbb40c3"
   },
   {
    "slug": "kgi-mobuy",
@@ -581,7 +581,7 @@
    "source_url": "https://www.kgibank.com.tw/zh-tw/personal/credit-card/list/more-buy-credit-card",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/kgi-mobuy/",
-   "ampm_ref": "AMPM-115c4af6f8"
+   "ampm_ref": "AMPM-64883e9908"
   },
   {
    "slug": "kgi-morebuy",
@@ -594,7 +594,7 @@
    "source_url": "https://www.kgibank.com.tw/zh-tw/personal/credit-card/list/more-buy-credit-card",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/kgi-morebuy/",
-   "ampm_ref": "AMPM-12d5a235c6"
+   "ampm_ref": "AMPM-c45fb86f9f"
   },
   {
    "slug": "kgi-magicbuy-easycard",
@@ -607,7 +607,7 @@
    "source_url": "https://www.kgibank.com.tw/zh-tw/personal/credit-card/list/more-buy-credit-card",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/kgi-magicbuy-easycard/",
-   "ampm_ref": "AMPM-a702d41692"
+   "ampm_ref": "AMPM-659fd076ba"
   },
   {
    "slug": "tcbbank-card",
@@ -620,7 +620,7 @@
    "source_url": "https://www.tcbbank.com.tw/CreditCard/J_02.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/tcbbank-card/",
-   "ampm_ref": "AMPM-567a89767b"
+   "ampm_ref": "AMPM-f839cf620a"
   },
   {
    "slug": "fubon-costco",
@@ -633,7 +633,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/costco/costco.htm",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-costco/",
-   "ampm_ref": "AMPM-4aca8668fe"
+   "ampm_ref": "AMPM-87bee7fd5a"
   },
   {
    "slug": "fubon-j-card",
@@ -646,7 +646,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/omiyage/omiyage.htm",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-j-card/",
-   "ampm_ref": "AMPM-e058880e23"
+   "ampm_ref": "AMPM-5dd3dcb8c5"
   },
   {
    "slug": "fubon-sogo",
@@ -659,7 +659,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/all_card.htm",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-sogo/",
-   "ampm_ref": "AMPM-434071d7ca"
+   "ampm_ref": "AMPM-5529cd97f8"
   },
   {
    "slug": "fubon-momo",
@@ -672,7 +672,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/momo/momo.htm",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-momo/",
-   "ampm_ref": "AMPM-b679e9f08b"
+   "ampm_ref": "AMPM-7736075a45"
   },
   {
    "slug": "fubon-cht",
@@ -685,7 +685,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/all_card.htm",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-cht/",
-   "ampm_ref": "AMPM-5b21d106b0"
+   "ampm_ref": "AMPM-254d3bd40f"
   },
   {
    "slug": "fubon-twm",
@@ -698,7 +698,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/twmobile_s/twmobile_s.htm",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-twm/",
-   "ampm_ref": "AMPM-7008ad4580"
+   "ampm_ref": "AMPM-bc5c3c3830"
   },
   {
    "slug": "fubon-breeze",
@@ -711,7 +711,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/all_card.htm",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-breeze/",
-   "ampm_ref": "AMPM-4dc2230dd5"
+   "ampm_ref": "AMPM-7ba0155fa6"
   },
   {
    "slug": "fubon-digital",
@@ -724,7 +724,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/digitallife/digitallife.htm",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-digital/",
-   "ampm_ref": "AMPM-a290fb7710"
+   "ampm_ref": "AMPM-1ca14ca931"
   },
   {
    "slug": "fubon-infinite",
@@ -737,7 +737,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/infinite/infinite.htm",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-infinite/",
-   "ampm_ref": "AMPM-f7c1fcb944"
+   "ampm_ref": "AMPM-e51f51e336"
   },
   {
    "slug": "fubon-youth",
@@ -750,7 +750,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/fortune/fortune.htm",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-youth/",
-   "ampm_ref": "AMPM-b81d188fab"
+   "ampm_ref": "AMPM-1fac410c2c"
   },
   {
    "slug": "fubon-platinum",
@@ -763,7 +763,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/Bankcard/Bankcard.htm",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-platinum/",
-   "ampm_ref": "AMPM-4e71219dbf"
+   "ampm_ref": "AMPM-9c077cf3d6"
   },
   {
    "slug": "fubon-oneworld",
@@ -776,7 +776,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/all_card.htm",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-oneworld/",
-   "ampm_ref": "AMPM-f480de1c75"
+   "ampm_ref": "AMPM-19bba0dc18"
   },
   {
    "slug": "fubon-apple",
@@ -789,7 +789,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/all_card.htm",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-apple/",
-   "ampm_ref": "AMPM-6445944521"
+   "ampm_ref": "AMPM-29c9e67cfb"
   },
   {
    "slug": "fubon-open",
@@ -802,7 +802,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/openpossible/openpossible.htm",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-open/",
-   "ampm_ref": "AMPM-88fd210038"
+   "ampm_ref": "AMPM-0afb3b747e"
   },
   {
    "slug": "fubon-signature",
@@ -815,7 +815,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/all_card.htm",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-signature/",
-   "ampm_ref": "AMPM-076b4ba5bd"
+   "ampm_ref": "AMPM-be147e6677"
   },
   {
    "slug": "fubon-evaair",
@@ -828,7 +828,7 @@
    "source_url": "https://www.fubon.com/banking/personal/credit_card/all_card/all_card.htm",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/fubon-evaair/",
-   "ampm_ref": "AMPM-9a0ea4cd44"
+   "ampm_ref": "AMPM-bd01071c45"
   },
   {
    "slug": "taishin-woojii-world-legacy",
@@ -841,7 +841,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/common/important-notice/TSBankImportantNotice-001508/",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-woojii-world-legacy/",
-   "ampm_ref": "AMPM-b5f0c8a0b3"
+   "ampm_ref": "AMPM-741540ab95"
   },
   {
    "slug": "taishin-woojii-titanium-legacy",
@@ -854,7 +854,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/common/important-notice/TSBankImportantNotice-001508/",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-woojii-titanium-legacy/",
-   "ampm_ref": "AMPM-9654ddccde"
+   "ampm_ref": "AMPM-c4a2faa425"
   },
   {
    "slug": "taishin-mercuries-legacy",
@@ -867,7 +867,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/common/important-notice/TSBankImportantNotice-001508/",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-mercuries-legacy/",
-   "ampm_ref": "AMPM-c88a2d4ca0"
+   "ampm_ref": "AMPM-221a28da50"
   },
   {
    "slug": "taishin-familymart-fish-legacy",
@@ -880,7 +880,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/common/important-notice/TSBankImportantNotice-001508/",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-familymart-fish-legacy/",
-   "ampm_ref": "AMPM-355366b0cb"
+   "ampm_ref": "AMPM-199513c08e"
   },
   {
    "slug": "taishin-pxmart",
@@ -893,7 +893,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg010/card001/",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-pxmart/",
-   "ampm_ref": "AMPM-3d94ea0961"
+   "ampm_ref": "AMPM-e2775301a6"
   },
   {
    "slug": "feib-friday",
@@ -906,7 +906,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg019/card001/",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/feib-friday/",
-   "ampm_ref": "AMPM-0d2df109bd"
+   "ampm_ref": "AMPM-6973dbc3f5"
   },
   {
    "slug": "taishin-gogo-legacy",
@@ -919,7 +919,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-gogo-legacy/",
-   "ampm_ref": "AMPM-9ad1eece87"
+   "ampm_ref": "AMPM-df135fdbf3"
   },
   {
    "slug": "taishin-flygo-legacy",
@@ -932,7 +932,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-flygo-legacy/",
-   "ampm_ref": "AMPM-b6949ec687"
+   "ampm_ref": "AMPM-e3b02d2885"
   },
   {
    "slug": "taishin-gogoro",
@@ -945,7 +945,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg042/card001/",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-gogoro/",
-   "ampm_ref": "AMPM-fb9d361a60"
+   "ampm_ref": "AMPM-dc873349ef"
   },
   {
    "slug": "taishin-richart",
@@ -958,7 +958,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-richart/",
-   "ampm_ref": "AMPM-719076ffcb"
+   "ampm_ref": "AMPM-d1ae757f72"
   },
   {
    "slug": "taishin-sun-legacy",
@@ -971,7 +971,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-sun-legacy/",
-   "ampm_ref": "AMPM-456aa20a7d"
+   "ampm_ref": "AMPM-1e190c887c"
   },
   {
    "slug": "taishin-pet",
@@ -984,7 +984,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-pet/",
-   "ampm_ref": "AMPM-c2d058b2b3"
+   "ampm_ref": "AMPM-405e542ff0"
   },
   {
    "slug": "taishin-infinite",
@@ -997,7 +997,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-infinite/",
-   "ampm_ref": "AMPM-bd10464dc6"
+   "ampm_ref": "AMPM-f684a26e82"
   },
   {
    "slug": "taishin-rose-legacy",
@@ -1010,7 +1010,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-rose-legacy/",
-   "ampm_ref": "AMPM-762a66f173"
+   "ampm_ref": "AMPM-24dc3c4e19"
   },
   {
    "slug": "taishin-platinum",
@@ -1023,7 +1023,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-platinum/",
-   "ampm_ref": "AMPM-25db234750"
+   "ampm_ref": "AMPM-fa98fedcf1"
   },
   {
    "slug": "taishin-jkopay",
@@ -1036,7 +1036,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg038/card001/",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-jkopay/",
-   "ampm_ref": "AMPM-dfd3cd468d"
+   "ampm_ref": "AMPM-9cd6e5a994"
   },
   {
    "slug": "taishin-jkopay-titanium",
@@ -1049,7 +1049,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-jkopay-titanium/",
-   "ampm_ref": "AMPM-eeb3a17f46"
+   "ampm_ref": "AMPM-793d875d7b"
   },
   {
    "slug": "taishin-young",
@@ -1062,7 +1062,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-young/",
-   "ampm_ref": "AMPM-7bb244f17f"
+   "ampm_ref": "AMPM-d11264fbc9"
   },
   {
    "slug": "taishin-skyteam",
@@ -1075,7 +1075,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-skyteam/",
-   "ampm_ref": "AMPM-1908372ff8"
+   "ampm_ref": "AMPM-d379122ed9"
   },
   {
    "slug": "taishin-pet-platinum",
@@ -1088,7 +1088,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-pet-platinum/",
-   "ampm_ref": "AMPM-62c198ee0a"
+   "ampm_ref": "AMPM-59e455230e"
   },
   {
    "slug": "taishin-breeze",
@@ -1101,7 +1101,7 @@
    "source_url": "https://www.taishinbank.com.tw/TSB/personal/credit/intro/overview/cg047/card001/",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/taishin-breeze/",
-   "ampm_ref": "AMPM-43ac9f7579"
+   "ampm_ref": "AMPM-64f38e7585"
   },
   {
    "slug": "rakuten-pandaj",
@@ -1114,7 +1114,7 @@
    "source_url": "https://www.card.rakuten.com.tw/corp/ads/04.xhtml",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/rakuten-pandaj/",
-   "ampm_ref": "AMPM-f62dcaa0b3"
+   "ampm_ref": "AMPM-38d92c3396"
   },
   {
    "slug": "tcb-icard",
@@ -1127,7 +1127,7 @@
    "source_url": "https://www.tcb-bank.com.tw/",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/tcb-icard/",
-   "ampm_ref": "AMPM-2da39d65a7"
+   "ampm_ref": "AMPM-572317a380"
   },
   {
    "slug": "tcb-ijoy",
@@ -1140,7 +1140,7 @@
    "source_url": "https://portal.tcb-bank.com.tw:8443/Campaign/I_Joy_2023/index.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/tcb-ijoy/",
-   "ampm_ref": "AMPM-64588b6d6c"
+   "ampm_ref": "AMPM-444e04df62"
   },
   {
    "slug": "cathay-7eleven",
@@ -1153,7 +1153,7 @@
    "source_url": "https://www.cathaybk.com.tw/cathaybk/personal/about/news/charge-standard/",
    "last_verified": "2026-09-24",
    "page_url": "https://finance.ampm-aiops.com/items/cathay-7eleven/",
-   "ampm_ref": "AMPM-677c8a3ffb"
+   "ampm_ref": "AMPM-d35af8a1c1"
   },
   {
    "slug": "cathay-cube",
@@ -1166,7 +1166,7 @@
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/cube",
    "last_verified": "2026-09-24",
    "page_url": "https://finance.ampm-aiops.com/items/cathay-cube/",
-   "ampm_ref": "AMPM-57ce93806e"
+   "ampm_ref": "AMPM-bb5197d8df"
   },
   {
    "slug": "cathay-koko-legacy",
@@ -1179,7 +1179,7 @@
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/koko-icash",
    "last_verified": "2026-09-24",
    "page_url": "https://finance.ampm-aiops.com/items/cathay-koko-legacy/",
-   "ampm_ref": "AMPM-d27c8d64eb"
+   "ampm_ref": "AMPM-49c46f8937"
   },
   {
    "slug": "cathay-world",
@@ -1192,7 +1192,7 @@
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/world",
    "last_verified": "2026-08-30",
    "page_url": "https://finance.ampm-aiops.com/items/cathay-world/",
-   "ampm_ref": "AMPM-632b1a7c2e"
+   "ampm_ref": "AMPM-7db2f18468"
   },
   {
    "slug": "cathay-signature",
@@ -1205,7 +1205,7 @@
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/signature",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/cathay-signature/",
-   "ampm_ref": "AMPM-db31549c3b"
+   "ampm_ref": "AMPM-aaceb22a5e"
   },
   {
    "slug": "cathay-infinite",
@@ -1218,7 +1218,7 @@
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/cathay-infinite/",
-   "ampm_ref": "AMPM-e46e4b4a0c"
+   "ampm_ref": "AMPM-07b2f2623f"
   },
   {
    "slug": "cathay-cashback-signature",
@@ -1231,7 +1231,7 @@
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/cash-rebate-signature",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/cathay-cashback-signature/",
-   "ampm_ref": "AMPM-cab62f26f8"
+   "ampm_ref": "AMPM-a7df88f8f8"
   },
   {
    "slug": "cathay-shopee",
@@ -1244,7 +1244,7 @@
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/shopee",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/cathay-shopee/",
-   "ampm_ref": "AMPM-8aedd82c5b"
+   "ampm_ref": "AMPM-91642c59af"
   },
   {
    "slug": "cathay-evaair",
@@ -1257,7 +1257,7 @@
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/eva",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/cathay-evaair/",
-   "ampm_ref": "AMPM-79d07e28a2"
+   "ampm_ref": "AMPM-2abac1e972"
   },
   {
    "slug": "cathay-dual-currency",
@@ -1270,7 +1270,7 @@
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/dual-currency",
    "last_verified": "2026-08-30",
    "page_url": "https://finance.ampm-aiops.com/items/cathay-dual-currency/",
-   "ampm_ref": "AMPM-84b80399de"
+   "ampm_ref": "AMPM-8bbec500d3"
   },
   {
    "slug": "cathay-asiamiles",
@@ -1283,7 +1283,7 @@
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/cube",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/cathay-asiamiles/",
-   "ampm_ref": "AMPM-7f9892ff07"
+   "ampm_ref": "AMPM-e497647a7c"
   },
   {
    "slug": "cathay-evaair-infinite",
@@ -1296,7 +1296,7 @@
    "source_url": "https://www.cathay-cube.com.tw/cathaybk/personal/product/credit-card/cards/eva",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/cathay-evaair-infinite/",
-   "ampm_ref": "AMPM-fc50eca1ea"
+   "ampm_ref": "AMPM-926edcd135"
   },
   {
    "slug": "entie-card",
@@ -1309,7 +1309,7 @@
    "source_url": "https://www.entiebank.com.tw/entie/1_3_3_100",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/entie-card/",
-   "ampm_ref": "AMPM-2fe49cec5f"
+   "ampm_ref": "AMPM-cb4d22badd"
   },
   {
    "slug": "entie-cashback",
@@ -1322,7 +1322,7 @@
    "source_url": "https://www.entiebank.com.tw/entie/1_3_3_100",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/entie-cashback/",
-   "ampm_ref": "AMPM-1145d27f5a"
+   "ampm_ref": "AMPM-8d20027b85"
   },
   {
    "slug": "chb-myle",
@@ -1335,7 +1335,7 @@
    "source_url": "https://www.bankchb.com/frontend/mashup.jsp?funcId=cdf27f7215",
    "last_verified": "2026-09-24",
    "page_url": "https://finance.ampm-aiops.com/items/chb-myle/",
-   "ampm_ref": "AMPM-3e481bda80"
+   "ampm_ref": "AMPM-900fbf0642"
   },
   {
    "slug": "chb-eshopping",
@@ -1348,7 +1348,7 @@
    "source_url": "https://www.bankchb.com/frontend/mashup.jsp?funcId=4292862915",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/chb-eshopping/",
-   "ampm_ref": "AMPM-0de44cec4d"
+   "ampm_ref": "AMPM-cdcc15cf59"
   },
   {
    "slug": "skbank-ou",
@@ -1361,7 +1361,7 @@
    "source_url": "https://www.skbank.com.tw/credit_card/credit_card/105",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/skbank-ou/",
-   "ampm_ref": "AMPM-0d5d1558d0"
+   "ampm_ref": "AMPM-6e2445e169"
   },
   {
    "slug": "skbank-global-cashback",
@@ -1374,7 +1374,7 @@
    "source_url": "https://www.skbank.com.tw/credit_card/credit_card/103",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/skbank-global-cashback/",
-   "ampm_ref": "AMPM-6da636b8e8"
+   "ampm_ref": "AMPM-c77aabbb57"
   },
   {
    "slug": "dbs-eco",
@@ -1387,7 +1387,7 @@
    "source_url": "https://www.dbs.com.tw/personal-zh/cards/dbs_eco/index.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/dbs-eco/",
-   "ampm_ref": "AMPM-715dcbcff0"
+   "ampm_ref": "AMPM-6c9bb62983"
   },
   {
    "slug": "dbs-cashback-signature",
@@ -1400,7 +1400,7 @@
    "source_url": "https://www.dbs.com.tw/personal-zh/cards/dbs-credit-cards/default.page",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/dbs-cashback-signature/",
-   "ampm_ref": "AMPM-82a4021f27"
+   "ampm_ref": "AMPM-602c44acda"
   },
   {
    "slug": "dbs-treasures",
@@ -1413,7 +1413,7 @@
    "source_url": "https://www.dbs.com.tw/personal-zh/cards/dbs-credit-cards/visa-treasures-biz-signature",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/dbs-treasures/",
-   "ampm_ref": "AMPM-30b3680d30"
+   "ampm_ref": "AMPM-9e2d15d82c"
   },
   {
    "slug": "dbs-flying",
@@ -1426,7 +1426,7 @@
    "source_url": "https://www.dbs.com.tw/personal-zh/cards/travel_titanium/index.html",
    "last_verified": "2026-09-24",
    "page_url": "https://finance.ampm-aiops.com/items/dbs-flying/",
-   "ampm_ref": "AMPM-a6869eefda"
+   "ampm_ref": "AMPM-f8d2eb9d2f"
   },
   {
    "slug": "citi-cashback-legacy",
@@ -1439,7 +1439,7 @@
    "source_url": "https://www.citigroup.com/rcs/citigpa/storage/public/tcl-c.pdf",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/citi-cashback-legacy/",
-   "ampm_ref": "AMPM-59c70fecf7"
+   "ampm_ref": "AMPM-ec889b80e7"
   },
   {
    "slug": "sinopac-dawho",
@@ -1452,7 +1452,7 @@
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/sinopac-dawho/",
-   "ampm_ref": "AMPM-e90e00aa4c"
+   "ampm_ref": "AMPM-45c261a59c"
   },
   {
    "slug": "sinopac-dawho-cashback",
@@ -1465,7 +1465,7 @@
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/sinopac-dawho-cashback/",
-   "ampm_ref": "AMPM-1b3275e0dd"
+   "ampm_ref": "AMPM-b06dedaf31"
   },
   {
    "slug": "sinopac-sport",
@@ -1478,7 +1478,7 @@
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/sportcard.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/sinopac-sport/",
-   "ampm_ref": "AMPM-6ff5c27734"
+   "ampm_ref": "AMPM-413e94fd0e"
   },
   {
    "slug": "sinopac-sport-signature",
@@ -1491,7 +1491,7 @@
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/sportcard.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/sinopac-sport-signature/",
-   "ampm_ref": "AMPM-d011815be6"
+   "ampm_ref": "AMPM-7532a9c0a3"
   },
   {
    "slug": "sinopac-insurance",
@@ -1504,7 +1504,7 @@
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/insurance-card.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/sinopac-insurance/",
-   "ampm_ref": "AMPM-a0a12c7532"
+   "ampm_ref": "AMPM-0940f1dca7"
   },
   {
    "slug": "sinopac-beibi",
@@ -1517,7 +1517,7 @@
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/dual-currency-card.html",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/sinopac-beibi/",
-   "ampm_ref": "AMPM-933b5f13f0"
+   "ampm_ref": "AMPM-1addd2cc3c"
   },
   {
    "slug": "sinopac-jcb-cashback",
@@ -1530,7 +1530,7 @@
    "source_url": "https://bank.sinopac.com/sinopacbt/personal/credit-card/introduction/bankcard/cashcardJCB.html",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/sinopac-jcb-cashback/",
-   "ampm_ref": "AMPM-c6dba487f5"
+   "ampm_ref": "AMPM-4de2bcc261"
   },
   {
    "slug": "sinopac-dawho-debit",
@@ -1543,7 +1543,7 @@
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/DAWHO.html",
    "last_verified": "2026-09-24",
    "page_url": "https://finance.ampm-aiops.com/items/sinopac-dawho-debit/",
-   "ampm_ref": "AMPM-d2abfc67a0"
+   "ampm_ref": "AMPM-42c2b5a223"
   },
   {
    "slug": "sinopac-sport-world",
@@ -1556,7 +1556,7 @@
    "source_url": "https://bank.sinopac.com/sinopacBT/personal/credit-card/introduction/bankcard/list.html",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/sinopac-sport-world/",
-   "ampm_ref": "AMPM-da0644336e"
+   "ampm_ref": "AMPM-76b59afc64"
   },
   {
    "slug": "scb-simply",
@@ -1569,7 +1569,7 @@
    "source_url": "https://www.sc.com/tw/credit-cards/",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/scb-simply/",
-   "ampm_ref": "AMPM-5284066532"
+   "ampm_ref": "AMPM-2edf8db531"
   },
   {
    "slug": "scb-cashback-signature",
@@ -1582,7 +1582,7 @@
    "source_url": "https://www.sc.com/tw/credit-cards/signature-card/",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/scb-cashback-signature/",
-   "ampm_ref": "AMPM-f8d212ebb4"
+   "ampm_ref": "AMPM-ca5cee2670"
   },
   {
    "slug": "scb-cashback-platinum",
@@ -1595,7 +1595,7 @@
    "source_url": "https://www.sc.com/tw/credit-cards/signature-card/",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/scb-cashback-platinum/",
-   "ampm_ref": "AMPM-3b0dcaa508"
+   "ampm_ref": "AMPM-01a4ca7089"
   },
   {
    "slug": "scb-pulse",
@@ -1608,7 +1608,7 @@
    "source_url": "https://www.sc.com/tw/credit-cards/",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/scb-pulse/",
-   "ampm_ref": "AMPM-af64468df2"
+   "ampm_ref": "AMPM-0b2370e0a5"
   },
   {
    "slug": "hsbc-cashback-signature",
@@ -1621,7 +1621,7 @@
    "source_url": "https://www.hsbc.com.tw/credit-cards/products/cashback-signature/",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/hsbc-cashback-signature/",
-   "ampm_ref": "AMPM-6b3d9f6a3a"
+   "ampm_ref": "AMPM-4207a43077"
   },
   {
    "slug": "hsbc-live-plus",
@@ -1634,7 +1634,7 @@
    "source_url": "https://www.hsbc.com.tw/credit-cards/products/liveplus/",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/hsbc-live-plus/",
-   "ampm_ref": "AMPM-7073f75440"
+   "ampm_ref": "AMPM-8ff4bf99ef"
   },
   {
    "slug": "hsbc-visa-signature",
@@ -1647,7 +1647,7 @@
    "source_url": "https://www.hsbc.com.tw/credit-cards/products/cashback-titanium/",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/hsbc-visa-signature/",
-   "ampm_ref": "AMPM-8cdbc46454"
+   "ampm_ref": "AMPM-c577d2cf24"
   },
   {
    "slug": "hsbc-premier",
@@ -1660,7 +1660,7 @@
    "source_url": "https://www.hsbc.com.tw/credit-cards/products/premier/",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/hsbc-premier/",
-   "ampm_ref": "AMPM-40fe953dcd"
+   "ampm_ref": "AMPM-067afe474d"
   },
   {
    "slug": "hsbc-red",
@@ -1673,7 +1673,7 @@
    "source_url": "https://www.hsbc.com.tw/credit-cards/",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/hsbc-red/",
-   "ampm_ref": "AMPM-01de9e00ee"
+   "ampm_ref": "AMPM-35a5e8645c"
   },
   {
    "slug": "hsbc-everydayplus",
@@ -1686,7 +1686,7 @@
    "source_url": "https://www.hsbc.com.tw/credit-cards/products/cashback-signature/",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/hsbc-everydayplus/",
-   "ampm_ref": "AMPM-f906c493a7"
+   "ampm_ref": "AMPM-8a5677ca4e"
   },
   {
    "slug": "hsbc-travel-signature",
@@ -1699,7 +1699,7 @@
    "source_url": "https://www.hsbc.com.tw/credit-cards/products/travelone-signature/",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/hsbc-travel-signature/",
-   "ampm_ref": "AMPM-c43f0398b3"
+   "ampm_ref": "AMPM-56f7e37f10"
   },
   {
    "slug": "esun-unicard",
@@ -1712,7 +1712,7 @@
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/unicard",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/esun-unicard/",
-   "ampm_ref": "AMPM-5ad805d3fa"
+   "ampm_ref": "AMPM-b60ed0830a"
   },
   {
    "slug": "esun-bear-card-legacy",
@@ -1725,7 +1725,7 @@
    "source_url": "https://www.esunbank.com/zh-tw/about/announcement/announcement?i=6-5vH1OL4kK_nUvcF0ZjJg",
    "last_verified": "2026-09-05",
    "page_url": "https://finance.ampm-aiops.com/items/esun-bear-card-legacy/",
-   "ampm_ref": "AMPM-c49234502c"
+   "ampm_ref": "AMPM-444d098978"
   },
   {
    "slug": "esun-debit",
@@ -1738,7 +1738,7 @@
    "source_url": "https://event.esunbank.com.tw/credit/ubear/card.html",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/esun-debit/",
-   "ampm_ref": "AMPM-0c2810a41a"
+   "ampm_ref": "AMPM-bbd3250bee"
   },
   {
    "slug": "esun-ikea",
@@ -1751,7 +1751,7 @@
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/esun-ikea/",
-   "ampm_ref": "AMPM-d26d574686"
+   "ampm_ref": "AMPM-9cf77f7668"
   },
   {
    "slug": "esun-only",
@@ -1764,7 +1764,7 @@
    "source_url": "https://event.esunbank.com.tw/credit/ubear/card.html",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/esun-only/",
-   "ampm_ref": "AMPM-8841a9c7e3"
+   "ampm_ref": "AMPM-83f4d08248"
   },
   {
    "slug": "esun-only-signature",
@@ -1777,7 +1777,7 @@
    "source_url": "https://event.esunbank.com.tw/credit/ubear/card.html",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/esun-only-signature/",
-   "ampm_ref": "AMPM-7c36bc66c9"
+   "ampm_ref": "AMPM-bee48f8d3e"
   },
   {
    "slug": "esun-pi",
@@ -1790,7 +1790,7 @@
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/co-branded-card/pi-card",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/esun-pi/",
-   "ampm_ref": "AMPM-6a3813a802"
+   "ampm_ref": "AMPM-64d3c412a5"
   },
   {
    "slug": "esun-pi-signature",
@@ -1803,7 +1803,7 @@
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/co-branded-card/pi-card",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/esun-pi-signature/",
-   "ampm_ref": "AMPM-95465b91ba"
+   "ampm_ref": "AMPM-1926ab3f7b"
   },
   {
    "slug": "esun-share",
@@ -1816,7 +1816,7 @@
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/esun-share/",
-   "ampm_ref": "AMPM-60b63d9255"
+   "ampm_ref": "AMPM-8c79adb1c7"
   },
   {
    "slug": "esun-ubear-student",
@@ -1829,7 +1829,7 @@
    "source_url": "https://event.esunbank.com.tw/credit/ubear/card.html",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/esun-ubear-student/",
-   "ampm_ref": "AMPM-5fd76b248e"
+   "ampm_ref": "AMPM-d930571f94"
   },
   {
    "slug": "esun-ubear",
@@ -1842,7 +1842,7 @@
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/u-bear",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/esun-ubear/",
-   "ampm_ref": "AMPM-a1abc479c1"
+   "ampm_ref": "AMPM-b1faeeb557"
   },
   {
    "slug": "esun-world",
@@ -1855,7 +1855,7 @@
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/world-card/WORLD",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/esun-world/",
-   "ampm_ref": "AMPM-777c90e455"
+   "ampm_ref": "AMPM-a90e2cd6a9"
   },
   {
    "slug": "esun-carrefour",
@@ -1868,7 +1868,7 @@
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/esun-carrefour/",
-   "ampm_ref": "AMPM-4c5a2a1b00"
+   "ampm_ref": "AMPM-7aa8741cba"
   },
   {
    "slug": "esun-signature",
@@ -1881,7 +1881,7 @@
    "source_url": "https://event.esunbank.com.tw/credit/ubear/card.html",
    "last_verified": "2026-09-09",
    "page_url": "https://finance.ampm-aiops.com/items/esun-signature/",
-   "ampm_ref": "AMPM-be2089f2dd"
+   "ampm_ref": "AMPM-9a8be40bd8"
   },
   {
    "slug": "esun-starbucks",
@@ -1894,7 +1894,7 @@
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/esun-starbucks/",
-   "ampm_ref": "AMPM-b97558f3e2"
+   "ampm_ref": "AMPM-a39b33a422"
   },
   {
    "slug": "esun-infinite",
@@ -1907,7 +1907,7 @@
    "source_url": "https://event.esunbank.com.tw/credit/ubear/card.html",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/esun-infinite/",
-   "ampm_ref": "AMPM-db96a86808"
+   "ampm_ref": "AMPM-497a74b80b"
   },
   {
    "slug": "esun-kumamon",
@@ -1920,7 +1920,7 @@
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/kumamon_card",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/esun-kumamon/",
-   "ampm_ref": "AMPM-4cc5182535"
+   "ampm_ref": "AMPM-278e57c336"
   },
   {
    "slug": "esun-evaair",
@@ -1933,7 +1933,7 @@
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/esun-evaair/",
-   "ampm_ref": "AMPM-9196840c6e"
+   "ampm_ref": "AMPM-03e386e416"
   },
   {
    "slug": "esun-cpc",
@@ -1946,7 +1946,7 @@
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/esun-cpc/",
-   "ampm_ref": "AMPM-521c1364a9"
+   "ampm_ref": "AMPM-470d028fb0"
   },
   {
    "slug": "esun-platinum",
@@ -1959,7 +1959,7 @@
    "source_url": "https://www.esunbank.com/zh-tw/personal/credit-card/intro",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/esun-platinum/",
-   "ampm_ref": "AMPM-26e23c9fc9"
+   "ampm_ref": "AMPM-a8e01d5e6f"
   },
   {
    "slug": "obank-orange",
@@ -1972,7 +1972,7 @@
    "source_url": "https://www.o-bank.com/retail/debit/cardmain_new",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/obank-orange/",
-   "ampm_ref": "AMPM-38a285403d"
+   "ampm_ref": "AMPM-628a226aad"
   },
   {
    "slug": "firstbank-ileo",
@@ -1985,7 +1985,7 @@
    "source_url": "https://card.firstbank.com.tw/sites/card/zh_TW/1565697445348",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/firstbank-ileo/",
-   "ampm_ref": "AMPM-ae4f8deedf"
+   "ampm_ref": "AMPM-fec3c24298"
   },
   {
    "slug": "firstbank-icash",
@@ -1998,7 +1998,7 @@
    "source_url": "https://card.firstbank.com.tw/sites/card/CardRateFee",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/firstbank-icash/",
-   "ampm_ref": "AMPM-8f33be86f3"
+   "ampm_ref": "AMPM-b954d8b233"
   },
   {
    "slug": "firstbank-signature",
@@ -2011,7 +2011,7 @@
    "source_url": "https://card.firstbank.com.tw/",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/firstbank-signature/",
-   "ampm_ref": "AMPM-55b659d6cd"
+   "ampm_ref": "AMPM-a39642831b"
   },
   {
    "slug": "firstbank-green",
@@ -2024,7 +2024,7 @@
    "source_url": "https://card.firstbank.com.tw/sites/card/zh_TW/1565690685690",
    "last_verified": "2026-09-26",
    "page_url": "https://finance.ampm-aiops.com/items/firstbank-green/",
-   "ampm_ref": "AMPM-4b3f87b1a4"
+   "ampm_ref": "AMPM-8daf5d89fb"
   },
   {
    "slug": "firstbank-greenlife",
@@ -2037,7 +2037,7 @@
    "source_url": "https://card.firstbank.com.tw/sites/card/CardRateFee",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/firstbank-greenlife/",
-   "ampm_ref": "AMPM-651ad181d3"
+   "ampm_ref": "AMPM-1cf03a6ebc"
   },
   {
    "slug": "amex-platinum",
@@ -2050,7 +2050,7 @@
    "source_url": "https://www.americanexpress.com/tw/benefits/rcp-platinum.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/amex-platinum/",
-   "ampm_ref": "AMPM-cce930a392"
+   "ampm_ref": "AMPM-350eead0c9"
   },
   {
    "slug": "amex-gold",
@@ -2063,7 +2063,7 @@
    "source_url": "https://www.americanexpress.com/zh-tw/benefits/gold-card/",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/amex-gold/",
-   "ampm_ref": "AMPM-a01be575fc"
+   "ampm_ref": "AMPM-7c095b5022"
   },
   {
    "slug": "ubot-jiho",
@@ -2076,7 +2076,7 @@
    "source_url": "https://card.ubot.com.tw/CardDetail/cardDetail202",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/ubot-jiho/",
-   "ampm_ref": "AMPM-abcf6ef5c6"
+   "ampm_ref": "AMPM-3306e0121c"
   },
   {
    "slug": "ubot-happy-m",
@@ -2089,7 +2089,7 @@
    "source_url": "https://card.ubot.com.tw/Card?category=%E9%8A%80%E8%A1%8C%E5%8D%A1",
    "last_verified": "2026-10-09",
    "page_url": "https://finance.ampm-aiops.com/items/ubot-happy-m/",
-   "ampm_ref": "AMPM-1174631213"
+   "ampm_ref": "AMPM-5a7638fcf7"
   },
   {
    "slug": "ubot-laipoint",
@@ -2102,7 +2102,7 @@
    "source_url": "https://card.ubot.com.tw/CardDetail/cardDetail201",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/ubot-laipoint/",
-   "ampm_ref": "AMPM-bcd903df10"
+   "ampm_ref": "AMPM-5574241eee"
   },
   {
    "slug": "tbb-sustainable",
@@ -2115,7 +2115,7 @@
    "source_url": "https://www.tbb.com.tw/zh-tw/personal/cards",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/tbb-sustainable/",
-   "ampm_ref": "AMPM-72ebeece57"
+   "ampm_ref": "AMPM-294ee3cc9b"
   },
   {
    "slug": "tbb-card",
@@ -2128,7 +2128,7 @@
    "source_url": "https://www.tbb.com.tw/zh-tw/personal/cards",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/tbb-card/",
-   "ampm_ref": "AMPM-6ba51c824d"
+   "ampm_ref": "AMPM-3064ece8bd"
   },
   {
    "slug": "tbb-digital",
@@ -2141,7 +2141,7 @@
    "source_url": "https://www.tbb.com.tw/zh-tw/personal/cards",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/tbb-digital/",
-   "ampm_ref": "AMPM-ba3cc06698"
+   "ampm_ref": "AMPM-4823a66d73"
   },
   {
    "slug": "landbank-civil",
@@ -2154,7 +2154,7 @@
    "source_url": "https://www.landbank.com.tw/Category/Items/%E4%BF%A1%E7%94%A8%E5%8D%A1%E3%80%81%E7%8F%BE%E9%87%91%E5%8D%A1%E7%9B%B8%E9%97%9C%E8%B3%87%E8%A8%8A%E5%85%AC%E5%91%8A",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/landbank-civil/",
-   "ampm_ref": "AMPM-a9873281c9"
+   "ampm_ref": "AMPM-98cf90ff0d"
   },
   {
    "slug": "landbank-travel",
@@ -2167,7 +2167,7 @@
    "source_url": "https://www.landbank.com.tw/Category/Items/%E4%BF%A1%E7%94%A8%E5%8D%A1%E3%80%81%E7%8F%BE%E9%87%91%E5%8D%A1%E7%9B%B8%E9%97%9C%E8%B3%87%E8%A8%8A%E5%85%AC%E5%91%8A",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/landbank-travel/",
-   "ampm_ref": "AMPM-3d1e75a3db"
+   "ampm_ref": "AMPM-2182ab1d3f"
   },
   {
    "slug": "landbank-lohas",
@@ -2180,7 +2180,7 @@
    "source_url": "https://www.landbank.com.tw/Category/Items/%E9%8A%80%E8%A1%8C%E5%8D%A1_",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/landbank-lohas/",
-   "ampm_ref": "AMPM-148395c925"
+   "ampm_ref": "AMPM-a300ee8bf3"
   },
   {
    "slug": "hncb-easycard",
@@ -2193,7 +2193,7 @@
    "source_url": "https://card.hncb.com.tw/wps/portal/card/area1/cardall",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/hncb-easycard/",
-   "ampm_ref": "AMPM-a3bd391d6f"
+   "ampm_ref": "AMPM-32f4f36bd9"
   },
   {
    "slug": "hncb-ishopping",
@@ -2206,7 +2206,7 @@
    "source_url": "https://www.hncb.com.tw/wps/portal/HNCB/card/introduce/cash_feedback_card/card_i_shopping",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/hncb-ishopping/",
-   "ampm_ref": "AMPM-7933b081db"
+   "ampm_ref": "AMPM-1aeefada4d"
   },
   {
    "slug": "hncb-super-cashback",
@@ -2219,7 +2219,7 @@
    "source_url": "https://www.hncb.com.tw/wps/portal/HNCB/card/introduce/othercard/cards_overview/",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/hncb-super-cashback/",
-   "ampm_ref": "AMPM-d4674baeaf"
+   "ampm_ref": "AMPM-1e5cf070eb"
   },
   {
    "slug": "hncb-diamond-cashback",
@@ -2232,7 +2232,7 @@
    "source_url": "https://www.hncb.com.tw/wps/portal/HNCB/card/introduce/cash_feedback_card/card_diamond_cash_back",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/hncb-diamond-cashback/",
-   "ampm_ref": "AMPM-852e37ed5b"
+   "ampm_ref": "AMPM-67089c94e2"
   },
   {
    "slug": "hncb-debit",
@@ -2245,7 +2245,7 @@
    "source_url": "https://card.hncb.com.tw/wps/portal/card/area1/cardall",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/hncb-debit/",
-   "ampm_ref": "AMPM-a94e4b8c38"
+   "ampm_ref": "AMPM-6078f63eed"
   },
   {
    "slug": "far-eastern-bankee",
@@ -2258,7 +2258,7 @@
    "source_url": "https://www.bankee.com.tw/card.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/far-eastern-bankee/",
-   "ampm_ref": "AMPM-a1fd13038c"
+   "ampm_ref": "AMPM-974111de4a"
   },
   {
    "slug": "feib-bankee",
@@ -2271,7 +2271,7 @@
    "source_url": "https://www.bankee.com.tw/card.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/feib-bankee/",
-   "ampm_ref": "AMPM-ae10272d0f"
+   "ampm_ref": "AMPM-dbb8ab6106"
   },
   {
    "slug": "feib-lejia",
@@ -2284,7 +2284,7 @@
    "source_url": "https://www.feib.com.tw/upload/creditcard/YACard/page2.html",
    "last_verified": "2026-09-25",
    "page_url": "https://finance.ampm-aiops.com/items/feib-lejia/",
-   "ampm_ref": "AMPM-bd31f9e66f"
+   "ampm_ref": "AMPM-f586919c08"
   },
   {
    "slug": "feib-feds",
@@ -2297,7 +2297,7 @@
    "source_url": "https://www.feib.com.tw/introduce?id=12",
    "last_verified": "2026-08-27",
    "page_url": "https://finance.ampm-aiops.com/items/feib-feds/",
-   "ampm_ref": "AMPM-7ea31d8aeb"
+   "ampm_ref": "AMPM-8f9d8795b0"
   },
   {
    "slug": "sunny-pengda",
@@ -2310,7 +2310,7 @@
    "source_url": "https://www.sunnybank.com.tw/net/Page/Tmenu/498",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/sunny-pengda/",
-   "ampm_ref": "AMPM-737ae8c08b"
+   "ampm_ref": "AMPM-cdbdb58d20"
   },
   {
    "slug": "sunny-yaoching",
@@ -2323,7 +2323,7 @@
    "source_url": "https://www.sunnybank.com.tw/net/Page/Tmenu/503",
    "last_verified": "2026-10-19",
    "page_url": "https://finance.ampm-aiops.com/items/sunny-yaoching/",
-   "ampm_ref": "AMPM-7842b3ddc4"
+   "ampm_ref": "AMPM-501b561f4f"
   },
   {
    "slug": "bok-going",
@@ -2336,7 +2336,7 @@
    "source_url": "https://www.bok.com.tw/card-rights-and-benefits-1",
    "last_verified": "2026-09-26",
    "page_url": "https://finance.ampm-aiops.com/items/bok-going/",
-   "ampm_ref": "AMPM-3be7c25bca"
+   "ampm_ref": "AMPM-dc3fe9ce22"
   }
  ]
 }

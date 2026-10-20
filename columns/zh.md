@@ -1,5 +1,9 @@
 # 專欄（已上線）
 
+- 2026-10-21 [Hailuo AI 免費版解析度多少？768p 加浮水印，1080p 要升哪個方案](https://ampm-aiops.com/guides/hailuo-ai-howto-2026/)
+- 2026-10-20 [Saner.ai 主打給研究者，免費版單檔卻只吃 1 MB，一篇論文常常 2 到 10 MB](https://ampm-aiops.com/guides/saner-ai-howto-2026/)
+- 2026-10-20 [Plus AI 怎麼用？PDF、Word、txt 轉簡報買 Basic 還是 Pro，US$15 那檔做不到](https://ampm-aiops.com/guides/plus-ai-howto-2026/)
+- 2026-10-20 [GPTZero 免費版就含進階偵測，US$23.99 的付費版多賣的只是字數](https://ampm-aiops.com/guides/gptzero-howto-2026/)
 - 2026-10-18 [問問貓先查過：Fireflies.ai 個人用沒事，全公司用的坑在這](https://ampm-aiops.com/guides/fireflies-ai-news-20261018/)
 - 2026-10-18 [一台 24 萬的筆電，可以不用上網就跑 1200 億參數的大模型：MSI Prestige N16 Flip AI+ 誰該買](https://ampm-aiops.com/guides/msi-prestige-n16-flip-news-20261018/)
 - 2026-10-18 [Meta 刪掉抓取訓練措辭、新條款又傳可免費用新聞內容訓練 AI：兩則報導合併整理，AI 文字轉影片工具使用者要注意什麼](https://ampm-aiops.com/guides/fliki-news-20261018/)

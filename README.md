@@ -1,18 +1,18 @@
 # Awesome AI Tools Pricing (2026) ⚡
 
-> **Live Production Engine & Comparison Matrix**: [https://ampm-aiops.com/](https://ampm-aiops.com/)
+> **Live Production Engine & Comparison Matrix**: [https://ampm-aiops.com/](https://ampm-aiops.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing)
 > *Exported daily at 04:00 (Asia/Taipei); every row carries its own official source URL and last_verified date.*
 >
-> For Taiwan local credit card fee & sub-brokerage comparisons, visit [AMPM Finance](https://finance.ampm-aiops.com/).
+> For Taiwan local credit card fee & sub-brokerage comparisons, visit [AMPM Finance](https://finance.ampm-aiops.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing).
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Last verified](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/badges/last_verified.json)](https://ampm-aiops.com/open-data/)
-[![Verified rows](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/badges/rows.json)](https://ampm-aiops.com/open-data/)
+[![Last verified](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/badges/last_verified.json)](https://ampm-aiops.com/open-data/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing)
+[![Verified rows](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/badges/rows.json)](https://ampm-aiops.com/open-data/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing)
 [![Datasets](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/badges/datasets.json)](#datasets)
 [![Changelog](https://img.shields.io/badge/CHANGELOG-daily-informational.svg)](./CHANGELOG.md)
 
-**What this is:** the open dataset behind [問問貓 AMPM-AIOPS](https://ampm-aiops.com), a Traditional-Chinese AI tool comparison site for Taiwan.
-The core dataset covers **117 AI tools** (ChatGPT, Claude, Cursor, Midjourney, ElevenLabs …): category, whether a free tier exists and what it includes,
+**What this is:** the open dataset behind [問問貓 AMPM-AIOPS](https://ampm-aiops.com?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing), a Traditional-Chinese AI tool comparison site for Taiwan.
+The core dataset covers **130 AI tools** (ChatGPT, Claude, Cursor, Midjourney, ElevenLabs …): category, whether a free tier exists and what it includes,
 the cheapest paid plan per month (USD), commercial use where the vendor states it, and the date each row was last verified. Exported every day at 04:00 (Asia/Taipei);
 every row shows its own `last_verified` date, so you can see how fresh each number is.
 
@@ -20,11 +20,11 @@ every row shows its own `last_verified` date, so you can see how fresh each numb
 a `last_verified` date **and** an official source URL (13 rows held back at the moment — the count is shown per dataset below).
 
 **Also included:** datasets from our sister comparison sites (Taiwan credit cards, travel eSIM, VPN, US brokers and more), same rules —
-**379 verified rows across 6 datasets** in total.
+**392 verified rows across 6 datasets** in total.
 
-> 問問貓公開資料集（每天 04:00 匯出）：主資料是 117 個 AI 工具的分類、有沒有免費版與免費額度、最便宜付費方案月費（美元）、官方有寫的商用條款，每一列都附最後查證日期。
+> 問問貓公開資料集（每天 04:00 匯出）：主資料是 130 個 AI 工具的分類、有沒有免費版與免費額度、最便宜付費方案月費（美元）、官方有寫的商用條款，每一列都附最後查證日期。
 
-> 🔍 **How rows are verified**: [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) · 🌐 **Open-data hub**: [ampm-aiops.com/open-data/](https://ampm-aiops.com/open-data/)
+> 🔍 **How rows are verified**: [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) · 🌐 **Open-data hub**: [ampm-aiops.com/open-data/](https://ampm-aiops.com/open-data/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing)
 > 📝 **What changed**: [`CHANGELOG.md`](./CHANGELOG.md) (added / changed / removed, per day) · 📦 **Machine index**: [`datasets/index.json`](./datasets/index.json)
 > ⚠️ **Disclaimer**: Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.
 
@@ -34,14 +34,14 @@ Independent publications that list pages of this project as a source. Each link 
 
 | Publication | Date | Article | Cites our page | Link last confirmed |
 |---|---|---|---|---|
-| Brief IA (France) | 2026-09-08 | [Mistral AI structure l'industrie européenne de l'IA en 2026](https://www.briefia.fr/blog/comment-mistral-ai-redefine-industrie-2026) | [Mistral AI pricing](https://ampm-aiops.com/tools/mistral/) | 2026-10-20 |
-| Brief IA (France) | 2026-09-02 | [5 outils de maquettes IA pour gagner du temps en 2026](https://www.briefia.fr/blog/outils-maquettes-ia-2026) | [Framer pricing](https://ampm-aiops.com/en/tools/framer/) | 2026-10-20 |
+| Brief IA (France) | 2026-09-08 | [Mistral AI structure l'industrie européenne de l'IA en 2026](https://www.briefia.fr/blog/comment-mistral-ai-redefine-industrie-2026) | [Mistral AI pricing](https://ampm-aiops.com/tools/mistral/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-10-21 |
+| Brief IA (France) | 2026-09-02 | [5 outils de maquettes IA pour gagner du temps en 2026](https://www.briefia.fr/blog/outils-maquettes-ia-2026) | [Framer pricing](https://ampm-aiops.com/en/tools/framer/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-10-21 |
 
 > 外部引用：以上媒體把本專案頁面列為資料來源；每次匯出都回原文確認連結仍在，不在就自動撤下。
 
 ## Datasets
 
-- [AI Tools Pricing & Free Tiers](#ai-tools-pricing-free-tiers) — 117 rows
+- [AI Tools Pricing & Free Tiers](#ai-tools-pricing-free-tiers) — 130 rows
 - [Taiwan Credit Cards](#taiwan-credit-cards) — 179 rows
 - [Travel eSIM Plans (Taiwan market)](#travel-esim-plans-taiwan-market) — 35 rows
 - [VPN Pricing & Audits (Taiwan)](#vpn-pricing-audits-taiwan) — 7 rows
@@ -58,26 +58,26 @@ Not included, by design: partner / referral tracking links, internal verificatio
 
 | | |
 | :--- | :--- |
-| Rows published | **117** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-10-20** |
+| Rows published | **130** (below public threshold, not exported: 0) |
+| Last verified (newest row) | **2026-10-21** |
 | Files | [`data/ai_tools_2026.json`](./data/ai_tools_2026.json) · [`data/ai_tools_2026.csv`](./data/ai_tools_2026.csv) |
-| Browse online | [ampm-aiops.com](https://ampm-aiops.com/free/) |
-| How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
+| Browse online | [ampm-aiops.com](https://ampm-aiops.com/free/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
+| How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
 
 | name | category | free_tier_summary | cheapest_paid_usd_per_month | commercial_use | source_url | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Adobe Firefly](https://ampm-aiops.com/tools/adobe-firefly/) | image | 免費版：官網FAQ現行文案已改稱「free daily generations」，惟未提供每日具體上限數字；合作夥伴模型扣點規則沿用原方案點數 | 9.99 | — | [official](https://firefly.adobe.com) | 2026-10-19 |
-| [aider](https://ampm-aiops.com/tools/aider/) | coding | 完全開源免費,無訂閱模式;使用本地模型零成本;API調用費用取決於選用的LLM提供商 | 0 | ✅ | [official](https://aider.chat) | 2026-10-10 |
-| [AirMusic](https://ampm-aiops.com/tools/airmusic/) | voice | 10 credits | 39.8 | ❌ | [official](https://airmusic.ai/) | 2026-10-19 |
-| [Anijam](https://ampm-aiops.com/tools/anijam/) | video | 有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案 | 25 | ❌ | [official](https://www.anijam.ai/) | 2026-10-19 |
-| [Base44](https://ampm-aiops.com/tools/base44/) | appbuilder, coding | 免費方案 US$0/月，每月 25 個 message credits與 100 個 integration credits | 0 | ✅ | [official](https://base44.com/) | 2026-10-19 |
-| [Bolt](https://ampm-aiops.com/tools/bolt/) | appbuilder, coding | 免費版 US$0 | 0 | ❌ | [official](https://bolt.new) | 2026-10-19 |
-| [buzzabout](https://ampm-aiops.com/tools/buzzabout/) | marketing, search | 沒有長期免費方案，只有免費試用 | 0 | ❌ | [official](https://buzzabout.ai/) | 2026-10-19 |
-| [Canva AI](https://ampm-aiops.com/tools/canva-ai/) | image, productivity | 免費版最多 200 次 Standard AI 功能或 20 次 Premium AI 功能，另含 5GB 儲存空間、1 個品牌套件 | 18 | — | [official](https://www.canva.com) | 2026-10-19 |
-| [CapCut AI](https://ampm-aiops.com/tools/capcut-ai/) | video | 基本剪輯免費,AI 功能部分需 Pro | 10 | — | [official](https://www.capcut.com) | 2026-09-08 |
-| [ChatGPT](https://ampm-aiops.com/tools/chatgpt/) | general | 免費版每月 NT$0，人人可用 | 8 | ✅ | [official](https://chatgpt.com) | 2026-10-19 |
+| [Adobe Firefly](https://ampm-aiops.com/tools/adobe-firefly/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | image | 免費版：官網FAQ現行文案已改稱「free daily generations」，惟未提供每日具體上限數字；合作夥伴模型扣點規則沿用原方案點數 | 9.99 | unknown | [official](https://firefly.adobe.com) | 2026-10-20 |
+| [aider](https://ampm-aiops.com/tools/aider/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | coding | 完全開源免費,無訂閱模式;使用本地模型零成本;API調用費用取決於選用的LLM提供商 | — | ✅ | [official](https://aider.chat) | 2026-10-10 |
+| [AirMusic](https://ampm-aiops.com/tools/airmusic/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | voice | 10 credits | 39.8 | ❌ | [official](https://airmusic.ai/) | 2026-10-20 |
+| [Anijam](https://ampm-aiops.com/tools/anijam/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | video | 有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案 | 25 | ❌ | [official](https://www.anijam.ai/) | 2026-10-20 |
+| [Base44](https://ampm-aiops.com/tools/base44/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | appbuilder, coding | 免費方案 US$0/月，每月 25 個 message credits與 100 個 integration credits | 20 | ✅ | [official](https://base44.com/) | 2026-10-20 |
+| [Bolt](https://ampm-aiops.com/tools/bolt/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | appbuilder, coding | 免費版 US$0 | 25 | ❌ | [official](https://bolt.new) | 2026-10-19 |
+| [buzzabout](https://ampm-aiops.com/tools/buzzabout/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | marketing, search | 沒有長期免費方案，只有免費試用 | 98.0 | ❌ | [official](https://buzzabout.ai/) | 2026-10-20 |
+| [Canva AI](https://ampm-aiops.com/tools/canva-ai/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | image, productivity | 免費版最多 200 次 Standard AI 功能或 20 次 Premium AI 功能，另含 5GB 儲存空間、1 個品牌套件 | 18 | unknown | [official](https://www.canva.com) | 2026-10-20 |
+| [CapCut AI](https://ampm-aiops.com/tools/capcut-ai/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | video | 基本剪輯免費,AI 功能部分需 Pro | 10 | unknown | [official](https://www.capcut.com) | 2026-09-08 |
+| [ChatGPT](https://ampm-aiops.com/tools/chatgpt/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | general | 免費版每月 NT$0，人人可用 | 8 | ✅ | [official](https://chatgpt.com) | 2026-10-20 |
 
-*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 117 rows.*
+*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 130 rows.*
 
 ### Taiwan Credit Cards
 *台灣信用卡年費／回饋／循環利率實查*
@@ -87,21 +87,21 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | Rows published | **179** (below public threshold, not exported: 13) |
 | Last verified (newest row) | **2026-10-19** |
 | Files | [`datasets/cards/cards_2026.json`](./datasets/cards/cards_2026.json) · [`datasets/cards/cards_2026.csv`](./datasets/cards/cards_2026.csv) · [`schema.json`](./datasets/cards/schema.json) |
-| Browse online | [finance.ampm-aiops.com/](https://finance.ampm-aiops.com/items/) |
-| How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
+| Browse online | [finance.ampm-aiops.com/](https://finance.ampm-aiops.com/items/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
+| How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
 
 | name | issuer | annual_fee | cashback | revolving_rate | source_url | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [上海商業儲蓄銀行 VISA簡單卡](https://finance.ampm-aiops.com/items/scsb-simple-plus/) | 上海商業儲蓄銀行 | 首年免年費；次年年刷 12 次或 NT$3 萬即免，或上海商銀帳戶自動扣繳即免 | 國內 1%、國外 2%、日韓 3%（限面對面交易）現金回饋 | — | [official](https://www.scsb.com.tw/content/card/card03_h1.html) | 2026-09-25 |
-| [上海商銀 VISA簡單卡](https://finance.ampm-aiops.com/items/scsb-simple/) | 上海商業儲蓄銀行 | 首年免年費；次年年刷 12 次或 NT$3 萬即免，或上海商銀帳戶自動扣繳即免（年費金額產品頁未列，站上舊寫 NT$1,200 官網產品頁查不到） | 國內1%、國外2%、日韓實體消費3%現金回饋，無上限無到期 | — | [official](https://www.scsb.com.tw/content/card/card03_h1.html) | 2026-09-25 |
-| [中信 LINE Pay卡](https://finance.ampm-aiops.com/items/ctbc-linepay/) | 中國信託商業銀行 | 首年免年費；所持 LINE Pay 聯名卡成功綁定 LINE Pay 享免年費（官網優惠期 2026/1/1～2026/12/31，不是終生） | 國外網路消費 1%；國外實體商店面對面刷卡 2.8%（1%＋加碼 1.8%，至 2026/12/31）；需綁定台灣 LINE Pay 帳號；網路、條碼、第三方支付不算 2.8% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/dam/minisite/long/creditcard/LINEPay/index.html) | 2026-10-09 |
-| [中國信託 7-ELEVEN聯名卡](https://finance.ampm-aiops.com/items/ctbc-7eleven/) | 中國信託商業銀行 | 首年免，次年消費6次即免 | 7-ELEVEN消費最高3%icash回饋。國內1%。超商繳費0.5% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
-| [中國信託 ALL ME卡](https://finance.ampm-aiops.com/items/ctbc-allme/) | 中國信託商業銀行 | NT$1,800，首年免；綁 Hami Pay 或 Pi 拍錢包可免年費（2026 全年） | 國內外一般消費 1% 無上限；國外實體商店最高 2.2%（官網未寫組成） | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_AllMe.html) | 2026-09-25 |
-| [中國信託 Amazon聯名卡](https://finance.ampm-aiops.com/items/ctbc-amazon/) | 中國信託商業銀行 | 首年免，次年消費6次即免 | Amazon.com消費最高3%回饋。指定海外通路2%。國內1%無上限 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
-| [中國信託 Costco 聯名卡](https://finance.ampm-aiops.com/items/ctbc-costco/) | 中國信託商業銀行 | 官網查不到；站上舊寫「首年免，次年消費 1 次免」未能官網確認 | 2026-09-26 官網卡片清單查不到這張卡；站上舊寫「Costco 消費 1% 回饋金、加油 1.5%、一般 0.5%」未能官網確認 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html) | 2026-10-09 |
-| [中國信託 Debit金融卡](https://finance.ampm-aiops.com/items/ctbc-debit/) | 中國信託商業銀行 | 免年費 | 國內0.2%。國外0.5%。中信帳戶搭配偶有活動 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
-| [中國信託 JCB晶緻卡](https://finance.ampm-aiops.com/items/ctbc-jcb/) | 中國信託商業銀行 | 官網查不到；站上舊寫「次年消費 3 次免」未能官網確認 | 2026-09-25 官網卡片清單查不到這張卡；站上舊寫「日本 3%、國內 1%」未能官網確認 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html) | 2026-10-09 |
-| [中國信託 LINE Pay卡 一般版](https://finance.ampm-aiops.com/items/ctbc-linepay-basic/) | 中國信託商業銀行 | 首年免年費；所持 LINE Pay 聯名卡成功綁定 LINE Pay 享免年費（官網優惠期 2026/1/1～2026/12/31） | 同中信 LINE Pay 信用卡（中信官網只有一張 LINE Pay 信用卡），回饋以 /items/ctbc-linepay/ 為準；站上舊寫的「LINE POINTS 基本 1%、加碼最高 3%、新戶首 2 月 5%」本次未能官網確認 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-10-09 |
+| [上海商業儲蓄銀行 VISA簡單卡](https://finance.ampm-aiops.com/items/scsb-simple-plus/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 上海商業儲蓄銀行 | 首年免年費；次年年刷 12 次或 NT$3 萬即免，或上海商銀帳戶自動扣繳即免 | 國內 1%、國外 2%、日韓 3%（限面對面交易）現金回饋 | — | [official](https://www.scsb.com.tw/content/card/card03_h1.html) | 2026-09-25 |
+| [上海商銀 VISA簡單卡](https://finance.ampm-aiops.com/items/scsb-simple/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 上海商業儲蓄銀行 | 首年免年費；次年年刷 12 次或 NT$3 萬即免，或上海商銀帳戶自動扣繳即免（年費金額產品頁未列，站上舊寫 NT$1,200 官網產品頁查不到） | 國內1%、國外2%、日韓實體消費3%現金回饋，無上限無到期 | — | [official](https://www.scsb.com.tw/content/card/card03_h1.html) | 2026-09-25 |
+| [中信 LINE Pay卡](https://finance.ampm-aiops.com/items/ctbc-linepay/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 中國信託商業銀行 | 首年免年費；所持 LINE Pay 聯名卡成功綁定 LINE Pay 享免年費（官網優惠期 2026/1/1～2026/12/31，不是終生） | 國外網路消費 1%；國外實體商店面對面刷卡 2.8%（1%＋加碼 1.8%，至 2026/12/31）；需綁定台灣 LINE Pay 帳號；網路、條碼、第三方支付不算 2.8% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/dam/minisite/long/creditcard/LINEPay/index.html) | 2026-10-09 |
+| [中國信託 7-ELEVEN聯名卡](https://finance.ampm-aiops.com/items/ctbc-7eleven/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 中國信託商業銀行 | 首年免，次年消費6次即免 | 7-ELEVEN消費最高3%icash回饋。國內1%。超商繳費0.5% | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
+| [中國信託 ALL ME卡](https://finance.ampm-aiops.com/items/ctbc-allme/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 中國信託商業銀行 | NT$1,800，首年免；綁 Hami Pay 或 Pi 拍錢包可免年費（2026 全年） | 國內外一般消費 1% 無上限；國外實體商店最高 2.2%（官網未寫組成） | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_AllMe.html) | 2026-09-25 |
+| [中國信託 Amazon聯名卡](https://finance.ampm-aiops.com/items/ctbc-amazon/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 中國信託商業銀行 | 首年免，次年消費6次即免 | Amazon.com消費最高3%回饋。指定海外通路2%。國內1%無上限 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
+| [中國信託 Costco 聯名卡](https://finance.ampm-aiops.com/items/ctbc-costco/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 中國信託商業銀行 | 官網查不到；站上舊寫「首年免，次年消費 1 次免」未能官網確認 | 2026-09-26 官網卡片清單查不到這張卡；站上舊寫「Costco 消費 1% 回饋金、加油 1.5%、一般 0.5%」未能官網確認 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html) | 2026-10-09 |
+| [中國信託 Debit金融卡](https://finance.ampm-aiops.com/items/ctbc-debit/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 中國信託商業銀行 | 免年費 | 國內0.2%。國外0.5%。中信帳戶搭配偶有活動 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/content/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-09-05 |
+| [中國信託 JCB晶緻卡](https://finance.ampm-aiops.com/items/ctbc-jcb/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 中國信託商業銀行 | 官網查不到；站上舊寫「次年消費 3 次免」未能官網確認 | 2026-09-25 官網卡片清單查不到這張卡；站上舊寫「日本 3%、國內 1%」未能官網確認 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index.html) | 2026-10-09 |
+| [中國信託 LINE Pay卡 一般版](https://finance.ampm-aiops.com/items/ctbc-linepay-basic/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 中國信託商業銀行 | 首年免年費；所持 LINE Pay 聯名卡成功綁定 LINE Pay 享免年費（官網優惠期 2026/1/1～2026/12/31） | 同中信 LINE Pay 信用卡（中信官網只有一張 LINE Pay 信用卡），回饋以 /items/ctbc-linepay/ 為準；站上舊寫的「LINE POINTS 基本 1%、加碼最高 3%、新戶首 2 月 5%」本次未能官網確認 | 本行 ARMs 指數 ＋ 加碼利率 5.97%~13.47%，年利率上限 15%（循環利率基準日 104 年 9 月 1 日） | [official](https://www.ctbcbank.com/twrbo/zh_tw/cc_index/cc_product/cc_introduction_index/C_LINEPay.html) | 2026-10-09 |
 
 *Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 179 rows.*
 
@@ -113,21 +113,21 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | Rows published | **35** (below public threshold, not exported: 0) |
 | Last verified (newest row) | **2026-10-20** |
 | Files | [`datasets/esim/esim_2026.json`](./datasets/esim/esim_2026.json) · [`datasets/esim/esim_2026.csv`](./datasets/esim/esim_2026.csv) · [`schema.json`](./datasets/esim/schema.json) |
-| Browse online | [trip.ampm-aiops.com/esim/](https://trip.ampm-aiops.com/esim/items/) |
-| How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
+| Browse online | [trip.ampm-aiops.com/esim/](https://trip.ampm-aiops.com/esim/items/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
+| How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
 
 | name | region | price_twd | plan_type | hotspot | source_url | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Airalo](https://trip.ampm-aiops.com/esim/items/airalo/) | 全球通用 / 日韓歐美 | NT$ 150 ～ 980 元 | 固定流量型（1GB/3GB/5GB/10GB）＋吃到飽型（日本 3／5／7／10／15／30 天，US$11.50～69.00，官網 2026-09-25） | 支援（不限設備） | [official](https://www.airalo.com/) | 2026-10-20 |
-| [Airhub](https://trip.ampm-aiops.com/esim/items/airhub/) | 全球 190+ 國 | NT$ 60 ～ 1,150 元（全球 1GB/7 天 US$4.99、25GB 月租 US$36） | 固定流量型為主（1GB~25GB）＋長期月租型；部分地區有吃到飽（如越南 Unltd.／10 天，官網首頁 2026-09-25） | 支援；另有獨家「數據池共享」可多裝置多人共用同一份流量 | [official](https://www.airhubapp.com/) | 2026-10-20 |
-| [BNESIM](https://trip.ampm-aiops.com/esim/items/bnesim/) | 全球 200+ 國（官網 2026-09-25） | NT$ 21 ～ 16,000+ 元（方案 US$0.65~502，整體屬高價位） | 固定流量型（含永久不過期長效方案）＋無限流量型＋門號語音組合 | 無限方案不支援；固定流量方案依評測可支援，官方未逐方案公告 | [official](https://www.bnesim.com/) | 2026-08-27 |
-| [DJB 暢日卡](https://trip.ampm-aiops.com/esim/items/djb-unlimited/) | 日本 / 韓國 | NT$ 290 ～ 850 元 | 暢日卡 PLUS／ULTRA：吃到飽不降速；暢日卡（基本款）：無限流量吃到飽但須遵守公平使用原則；另有遊日卡每日 500MB／1GB 型（日本方案表，官網 2026-09-25） | 支援（建議自用） | [official](https://djbcard.com/) | 2026-08-25 |
-| [Firsty](https://trip.ampm-aiops.com/esim/items/firsty/) | 免費層：北美/歐洲/亞太；付費層 176 國同一價（官網 2026-09-25） | 免費層 NT$0（看廣告換連線）；Classic 每 GB €0.98 起；Unlimited 每日 €2 起（官網 2026-09-25，歐元計價） | 免費層＝每日重置 300MB 低速；Classic＝固定流量；Unlimited＝每日重置吃到飽 | 免費層不可（官方明示需升級付費）；付費方案可以 | [official](https://www.firsty.app/) | 2026-08-27 |
-| [Flexiroam](https://trip.ampm-aiops.com/esim/items/flexiroam/) | 全球包涵蓋 150+ 國與 20 家航空機上網路；另有單國包、區域包（官網 2026-09-26） | 單國包日本 1GB/3 天 US$3.2 起（折扣價，原價 US$4.57）；全球包 8GB/90 天 US$55.9、最長 360 天（官網 2026-09-26 促銷價，會變動） | 固定流量制＋部分國家吃到飽方案（日本吃到飽 5～30 天）；固定流量可用 Flexi Share 分享給親友（官網 2026-09-26） | 多數方案支援（吃到飽允許但不可跨帳號共享流量） | [official](https://flexiroam.com/) | 2026-09-26 |
-| [GigSky](https://trip.ampm-aiops.com/esim/items/gigsky/) | 全球約 190 國 / 獨家郵輪海上方案 | NT$ 128 ～ 2,300+ 元（日本 1GB/7 天 US$4.99；冷門國家與郵輪包更貴） | 固定流量型＋吃到飽型（每日高速額度制）＋郵輪海上專用方案 | 支援，無硬性上限 | [official](https://www.gigsky.com/) | 2026-10-07 |
-| [Holafly](https://trip.ampm-aiops.com/esim/items/holafly/) | 歐美 / 日本 / 全球 | 日本 1 天 NT$ 140 元起；3 天 US$11.90、7 天 US$27.50、30 天 US$73.90（官網 2026-09-26 日本方案頁，其他國家價格不同） | 天數制吃到飽；吃到飽結束後自動啟用 Always On，每月 1GB 備用流量（官網 2026-09-26） | — | [official](https://holafly.com/) | 2026-10-20 |
-| [Instabridge](https://trip.ampm-aiops.com/esim/items/instabridge/) | 全球多國（App 內購買各國方案） | NT$ 64 元起（1GB 約 US$2；10GB/30 天約 US$12） | 固定流量制（部分方案流量不過期）；無吃到飽 | 支援（官方稱最多可分享 10 台裝置） | [official](https://instabridge.com/) | 2026-08-27 |
-| [Jetpac](https://trip.ampm-aiops.com/esim/items/jetpac/) | 全球 200+ 國（官網 2026-09-25） | NT$ 220 ～ 890 元 | 跨國天數包 / 流量包 | 支援 | [official](https://www.jetpacglobal.com/) | 2026-08-25 |
+| [Airalo](https://trip.ampm-aiops.com/esim/items/airalo/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球通用 / 日韓歐美 | NT$ 150 ～ 980 元 | 固定流量型（1GB/3GB/5GB/10GB）＋吃到飽型（日本 3／5／7／10／15／30 天，US$11.50～69.00，官網 2026-09-25） | 支援（不限設備） | [official](https://www.airalo.com/) | 2026-10-20 |
+| [Airhub](https://trip.ampm-aiops.com/esim/items/airhub/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球 190+ 國 | NT$ 60 ～ 1,150 元（全球 1GB/7 天 US$4.99、25GB 月租 US$36） | 固定流量型為主（1GB~25GB）＋長期月租型；部分地區有吃到飽（如越南 Unltd.／10 天，官網首頁 2026-09-25） | 支援；另有獨家「數據池共享」可多裝置多人共用同一份流量 | [official](https://www.airhubapp.com/) | 2026-10-20 |
+| [BNESIM](https://trip.ampm-aiops.com/esim/items/bnesim/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球 200+ 國（官網 2026-09-25） | NT$ 21 ～ 16,000+ 元（方案 US$0.65~502，整體屬高價位） | 固定流量型（含永久不過期長效方案）＋無限流量型＋門號語音組合 | 無限方案不支援；固定流量方案依評測可支援，官方未逐方案公告 | [official](https://www.bnesim.com/) | 2026-08-27 |
+| [DJB 暢日卡](https://trip.ampm-aiops.com/esim/items/djb-unlimited/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 日本 / 韓國 | NT$ 290 ～ 850 元 | 暢日卡 PLUS／ULTRA：吃到飽不降速；暢日卡（基本款）：無限流量吃到飽但須遵守公平使用原則；另有遊日卡每日 500MB／1GB 型（日本方案表，官網 2026-09-25） | 支援（建議自用） | [official](https://djbcard.com/) | 2026-08-25 |
+| [Firsty](https://trip.ampm-aiops.com/esim/items/firsty/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 免費層：北美/歐洲/亞太；付費層 176 國同一價（官網 2026-09-25） | 免費層 NT$0（看廣告換連線）；Classic 每 GB €0.98 起；Unlimited 每日 €2 起（官網 2026-09-25，歐元計價） | 免費層＝每日重置 300MB 低速；Classic＝固定流量；Unlimited＝每日重置吃到飽 | 免費層不可（官方明示需升級付費）；付費方案可以 | [official](https://www.firsty.app/) | 2026-08-27 |
+| [Flexiroam](https://trip.ampm-aiops.com/esim/items/flexiroam/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球包涵蓋 150+ 國與 20 家航空機上網路；另有單國包、區域包（官網 2026-09-26） | 單國包日本 1GB/3 天 US$3.2 起（折扣價，原價 US$4.57）；全球包 8GB/90 天 US$55.9、最長 360 天（官網 2026-09-26 促銷價，會變動） | 固定流量制＋部分國家吃到飽方案（日本吃到飽 5～30 天）；固定流量可用 Flexi Share 分享給親友（官網 2026-09-26） | 多數方案支援（吃到飽允許但不可跨帳號共享流量） | [official](https://flexiroam.com/) | 2026-09-26 |
+| [GigSky](https://trip.ampm-aiops.com/esim/items/gigsky/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球約 190 國 / 獨家郵輪海上方案 | NT$ 128 ～ 2,300+ 元（日本 1GB/7 天 US$4.99；冷門國家與郵輪包更貴） | 固定流量型＋吃到飽型（每日高速額度制）＋郵輪海上專用方案 | 支援，無硬性上限 | [official](https://www.gigsky.com/) | 2026-10-07 |
+| [Holafly](https://trip.ampm-aiops.com/esim/items/holafly/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 歐美 / 日本 / 全球 | 日本 1 天 NT$ 140 元起；3 天 US$11.90、7 天 US$27.50、30 天 US$73.90（官網 2026-09-26 日本方案頁，其他國家價格不同） | 天數制吃到飽；吃到飽結束後自動啟用 Always On，每月 1GB 備用流量（官網 2026-09-26） | — | [official](https://holafly.com/) | 2026-10-20 |
+| [Instabridge](https://trip.ampm-aiops.com/esim/items/instabridge/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球多國（App 內購買各國方案） | NT$ 64 元起（1GB 約 US$2；10GB/30 天約 US$12） | 固定流量制（部分方案流量不過期）；無吃到飽 | 支援（官方稱最多可分享 10 台裝置） | [official](https://instabridge.com/) | 2026-08-27 |
+| [Jetpac](https://trip.ampm-aiops.com/esim/items/jetpac/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球 200+ 國（官網 2026-09-25） | NT$ 220 ～ 890 元 | 跨國天數包 / 流量包 | 支援 | [official](https://www.jetpacglobal.com/) | 2026-08-25 |
 
 *Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 35 rows.*
 
@@ -139,18 +139,18 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | Rows published | **7** (below public threshold, not exported: 0) |
 | Last verified (newest row) | **2026-10-20** |
 | Files | [`datasets/vpn/vpn_2026.json`](./datasets/vpn/vpn_2026.json) · [`datasets/vpn/vpn_2026.csv`](./datasets/vpn/vpn_2026.csv) · [`schema.json`](./datasets/vpn/schema.json) |
-| Browse online | [vpn.ampm-aiops.com](https://vpn.ampm-aiops.com/items/) |
-| How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
+| Browse online | [vpn.ampm-aiops.com](https://vpn.ampm-aiops.com/items/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
+| How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
 
 | name | min_price_usd_per_month | monthly_plan_usd | money_back_days | max_devices | taiwan_servers | latest_audit_year | source_url | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [CyberGhost VPN](https://vpn.ampm-aiops.com/items/cyberghost/) | 2.19 | 12.99 | 45（6 個月及以上方案）/ 14（月繳） | 7 | ✅ | 2024 | [official](https://www.cyberghostvpn.com/buy) | 2026-10-20 |
-| [ExpressVPN](https://vpn.ampm-aiops.com/items/expressvpn/) | 2.99 | 14.99 | 30 | 10（Basic）/ 12（Advanced）/ 14（Pro） | ✅ | 2025 | [official](https://www.expressvpn.com/pricing) | 2026-10-20 |
-| [Mullvad VPN](https://vpn.ampm-aiops.com/items/mullvad/) | 5.45 | — | 14（不含現金/加密貨幣付款） | 5 | ❌ | 2025 | [official](https://mullvad.net/en/pricing) | 2026-10-20 |
-| [NordVPN](https://vpn.ampm-aiops.com/items/nordvpn/) | 3.09 | 12.99 | 30 | 10 | ✅ | 2025 | [official](https://nordvpn.com/pricing/) | 2026-09-09 |
-| [Proton VPN](https://vpn.ampm-aiops.com/items/protonvpn/) | 2.99 | 0 | 30 | 1（Free）/ 10（Plus/Unlimited） | ✅ | 2026 | [official](https://protonvpn.com/pricing) | 2026-10-20 |
-| [Surfshark](https://vpn.ampm-aiops.com/items/surfshark/) | 2.08 | 16.45 | 30 | unlimited | ✅ | 2025 | [official](https://surfshark.com/pricing) | 2026-10-20 |
-| [Windscribe VPN](https://vpn.ampm-aiops.com/items/windscribe/) | 5.75 | 0 | 7（需用量低於 10GB） | unlimited | ✅ | 2024 | [official](https://windscribe.com/upgrade) | 2026-10-20 |
+| [CyberGhost VPN](https://vpn.ampm-aiops.com/items/cyberghost/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2.19 | 12.99 | 45（6 個月及以上方案）/ 14（月繳） | 7 | ✅ | 2024 | [official](https://www.cyberghostvpn.com/buy) | 2026-10-20 |
+| [ExpressVPN](https://vpn.ampm-aiops.com/items/expressvpn/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2.99 | 14.99 | 30 | 10（Basic）/ 12（Advanced）/ 14（Pro） | ✅ | 2025 | [official](https://www.expressvpn.com/pricing) | 2026-10-20 |
+| [Mullvad VPN](https://vpn.ampm-aiops.com/items/mullvad/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 5.45 | — | 14（不含現金/加密貨幣付款） | 5 | ❌ | 2025 | [official](https://mullvad.net/en/pricing) | 2026-10-20 |
+| [NordVPN](https://vpn.ampm-aiops.com/items/nordvpn/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 3.09 | 12.99 | 30 | 10 | ✅ | 2025 | [official](https://nordvpn.com/pricing/) | 2026-09-09 |
+| [Proton VPN](https://vpn.ampm-aiops.com/items/protonvpn/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2.99 | 0 | 30 | 1（Free）/ 10（Plus/Unlimited） | ✅ | 2026 | [official](https://protonvpn.com/pricing) | 2026-10-20 |
+| [Surfshark](https://vpn.ampm-aiops.com/items/surfshark/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2.08 | 16.45 | 30 | unlimited | ✅ | 2025 | [official](https://surfshark.com/pricing) | 2026-10-20 |
+| [Windscribe VPN](https://vpn.ampm-aiops.com/items/windscribe/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 5.75 | 0 | 7（需用量低於 10GB） | unlimited | ✅ | 2024 | [official](https://windscribe.com/upgrade) | 2026-10-20 |
 
 *Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 7 rows.*
 
@@ -162,21 +162,21 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | Rows published | **16** (below public threshold, not exported: 0) |
 | Last verified (newest row) | **2026-10-20** |
 | Files | [`datasets/broker/broker_2026.json`](./datasets/broker/broker_2026.json) · [`datasets/broker/broker_2026.csv`](./datasets/broker/broker_2026.csv) · [`schema.json`](./datasets/broker/schema.json) |
-| Browse online | [finance.ampm-aiops.com/broker/](https://finance.ampm-aiops.com/broker/items/) |
-| How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
+| Browse online | [finance.ampm-aiops.com/broker/](https://finance.ampm-aiops.com/broker/items/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
+| How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
 
 | name | tw_eligible | trade_fee | min_deposit | idle_fee | source_url | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Charles Schwab 嘉信理財（國際帳戶）](https://finance.ampm-aiops.com/broker/items/charles-schwab/) | 可。Schwab One International，開戶接受台灣身分證 | 美股/上市 ETF 線上 US$0 | 個人/聯名國際帳戶無最低開戶入金（US$25,000 門檻為嘉信香港實體規定，非台灣適用） | 無帳戶管理費/閒置費 | [official](https://international.schwab.com/pricing) | 2026-10-20 |
-| [Firstrade 第一證券](https://finance.ampm-aiops.com/broker/items/firstrade/) | 可。台灣居民全線上開國際帳戶，中文開戶流程 | 股票/ETF/期權 US$0 佣金 | 無最低存款 | 無閒置費 | [official](https://www.firstrade.com/content/zh-tw/pricing) | 2026-10-20 |
-| [Interactive Brokers 盈透證券（IBKR）](https://finance.ampm-aiops.com/broker/items/interactive-brokers/) | 可。台灣居民線上開戶（一般隸屬 IBKR 美國 LLC） | IBKR Pro 固定式 US$0.005/股、每筆最低 US$1；IBKR Lite 零佣金台灣居民不適用 | 無最低入金 | 無（2021 已取消月低消） | [official](https://www.interactivebrokers.com/cn/pricing/commissions-stocks.php) | 2026-10-02 |
-| [TD Ameritrade（已併入嘉信）](https://finance.ampm-aiops.com/broker/items/td-ameritrade-schwab/) | 不再受理。2024/5/10 起全帳戶移轉 Schwab，TD 品牌停止散戶服務 | N/A（依 Schwab） | N/A | N/A | [official](https://international.schwab.com/) | 2026-09-10 |
-| [Tiger Brokers 老虎證券（新加坡）](https://finance.ampm-aiops.com/broker/items/tiger-brokers/) | 可。外國人身分開老虎新加坡（MAS 監管）帳戶，App 全線上 | 佣金 US$0.005/股（最低 US$0.99）＋平台費 US$0.005/股（最低 US$1）＝每筆最低約 US$1.99 | 無實質門檻（SG 行銷頁標最低入金 S$1 起） | 官方聲明不收閒置費（集團FAQ，SG站牌告頁未列此項，一致） | [official](https://www.itiger.com/sg/commissions) | 2026-10-20 |
-| [Webull 微牛證券](https://finance.ampm-aiops.com/broker/items/webull/) | 不可。美國版要求美國居住地址＋SSN＋公民/綠卡/美簽；各海外實體亦要求當地居民，無台灣管道 | N/A | N/A | N/A | [official](https://www.webull.com/help/faq/343-I-am-a-US-resident-What-requirements-do-I-need-to-meet-in-order-to-open-a-brokerage-account-on-Webull) | 2026-10-20 |
-| [eToro](https://finance.ampm-aiops.com/broker/items/etoro/) | 可。台灣居民線上註冊 | 現股開/平倉每次 US$1 或 US$2（多數美股 US$2）；CFD 有點差 | 首次入金依國家（官方區間 US$10~10,000；台灣多方來源載 US$50 | 官方費用頁標示 Inactivity fee: Free | [official](https://www.etoro.com/trading/fees/) | 2026-10-19 |
-| [moomoo（富途新加坡）](https://finance.ampm-aiops.com/broker/items/moomoo/) | 可。海外居民（含台灣）以護照＋地址證明開 moomoo SG（MAS 監管） | US$0.99/order平台費（佣金$0） | 無最低入金 | 官方美股費用頁未列此項（SG股有季度託管費SGD2/季但已豁免，非美股項目） | [official](https://www.moomoo.com/sg/support/topic5_395) | 2026-09-24 |
-| [中國信託證券 複委託（台灣對照組）](https://finance.ampm-aiops.com/broker/items/ctbc-sub-brokerage/) | 可。台灣本地券商線上開戶 | 美股定期定額買進 0.2% 無低消；一般複委託單筆最低 US$35 | — | — | [official](https://www.ctbcsec.com/2020/n3-subbrokerage/pdf/%E4%B8%AD%E5%9C%8B%E4%BF%A1%E8%A8%97%E7%B6%9C%E5%90%88%E8%AD%89%E5%88%B8%E5%8F%97%E8%A8%97%E8%B2%B7%E8%B3%A3%E5%A4%96%E5%9C%8B%E8%82%A1%E7%A5%A8%E6%94%B6%E8%B2%BB%E6%A8%99%E6%BA%96.pdf) | 2026-09-29 |
-| [元大證券 複委託（台灣對照組）](https://finance.ampm-aiops.com/broker/items/yuanta-sub-brokerage/) | 可。台灣本地券商線上開戶 | 作業手冊揭露：手續費與通路報酬合計上限為成交金額 5%；市場流傳買進每筆 0.1%（最高 US$1 封頂）、賣出 0.1% | — | — | [official](https://www.yuanta.com.tw/eyuanta/webfile/resourcesFile/b1348f0b-7243-4ae8-9f9d-fd8e87167a0c.pdf) | 2026-10-20 |
+| [Charles Schwab 嘉信理財（國際帳戶）](https://finance.ampm-aiops.com/broker/items/charles-schwab/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 可。Schwab One International，開戶接受台灣身分證 | 美股/上市 ETF 線上 US$0 | 個人/聯名國際帳戶無最低開戶入金（US$25,000 門檻為嘉信香港實體規定，非台灣適用） | 無帳戶管理費/閒置費 | [official](https://international.schwab.com/pricing) | 2026-10-20 |
+| [Firstrade 第一證券](https://finance.ampm-aiops.com/broker/items/firstrade/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 可。台灣居民全線上開國際帳戶，中文開戶流程 | 股票/ETF/期權 US$0 佣金 | 無最低存款 | 無閒置費 | [official](https://www.firstrade.com/content/zh-tw/pricing) | 2026-10-20 |
+| [Interactive Brokers 盈透證券（IBKR）](https://finance.ampm-aiops.com/broker/items/interactive-brokers/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 可。台灣居民線上開戶（一般隸屬 IBKR 美國 LLC） | IBKR Pro 固定式 US$0.005/股、每筆最低 US$1；IBKR Lite 零佣金台灣居民不適用 | 無最低入金 | 無（2021 已取消月低消） | [official](https://www.interactivebrokers.com/cn/pricing/commissions-stocks.php) | 2026-10-02 |
+| [TD Ameritrade（已併入嘉信）](https://finance.ampm-aiops.com/broker/items/td-ameritrade-schwab/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 不再受理。2024/5/10 起全帳戶移轉 Schwab，TD 品牌停止散戶服務 | N/A（依 Schwab） | N/A | N/A | [official](https://international.schwab.com/) | 2026-09-10 |
+| [Tiger Brokers 老虎證券（新加坡）](https://finance.ampm-aiops.com/broker/items/tiger-brokers/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 可。外國人身分開老虎新加坡（MAS 監管）帳戶，App 全線上 | 佣金 US$0.005/股（最低 US$0.99）＋平台費 US$0.005/股（最低 US$1）＝每筆最低約 US$1.99 | 無實質門檻（SG 行銷頁標最低入金 S$1 起） | 官方聲明不收閒置費（集團FAQ，SG站牌告頁未列此項，一致） | [official](https://www.itiger.com/sg/commissions) | 2026-10-20 |
+| [Webull 微牛證券](https://finance.ampm-aiops.com/broker/items/webull/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 不可。美國版要求美國居住地址＋SSN＋公民/綠卡/美簽；各海外實體亦要求當地居民，無台灣管道 | N/A | N/A | N/A | [official](https://www.webull.com/help/faq/343-I-am-a-US-resident-What-requirements-do-I-need-to-meet-in-order-to-open-a-brokerage-account-on-Webull) | 2026-10-20 |
+| [eToro](https://finance.ampm-aiops.com/broker/items/etoro/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 可。台灣居民線上註冊 | 現股開/平倉每次 US$1 或 US$2（多數美股 US$2）；CFD 有點差 | 首次入金依國家（官方區間 US$10~10,000；台灣多方來源載 US$50 | 官方費用頁標示 Inactivity fee: Free | [official](https://www.etoro.com/trading/fees/) | 2026-10-19 |
+| [moomoo（富途新加坡）](https://finance.ampm-aiops.com/broker/items/moomoo/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 可。海外居民（含台灣）以護照＋地址證明開 moomoo SG（MAS 監管） | US$0.99/order平台費（佣金$0） | 無最低入金 | 官方美股費用頁未列此項（SG股有季度託管費SGD2/季但已豁免，非美股項目） | [official](https://www.moomoo.com/sg/support/topic5_395) | 2026-09-24 |
+| [中國信託證券 複委託（台灣對照組）](https://finance.ampm-aiops.com/broker/items/ctbc-sub-brokerage/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 可。台灣本地券商線上開戶 | 美股定期定額買進 0.2% 無低消；一般複委託單筆最低 US$35 | — | — | [official](https://www.ctbcsec.com/2020/n3-subbrokerage/pdf/%E4%B8%AD%E5%9C%8B%E4%BF%A1%E8%A8%97%E7%B6%9C%E5%90%88%E8%AD%89%E5%88%B8%E5%8F%97%E8%A8%97%E8%B2%B7%E8%B3%A3%E5%A4%96%E5%9C%8B%E8%82%A1%E7%A5%A8%E6%94%B6%E8%B2%BB%E6%A8%99%E6%BA%96.pdf) | 2026-09-29 |
+| [元大證券 複委託（台灣對照組）](https://finance.ampm-aiops.com/broker/items/yuanta-sub-brokerage/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 可。台灣本地券商線上開戶 | 作業手冊揭露：手續費與通路報酬合計上限為成交金額 5%；市場流傳買進每筆 0.1%（最高 US$1 封頂）、賣出 0.1% | — | — | [official](https://www.yuanta.com.tw/eyuanta/webfile/resourcesFile/b1348f0b-7243-4ae8-9f9d-fd8e87167a0c.pdf) | 2026-10-20 |
 
 *Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 16 rows.*
 
@@ -188,21 +188,21 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | Rows published | **25** (below public threshold, not exported: 0) |
 | Last verified (newest row) | **2026-10-19** |
 | Files | [`datasets/crypto/crypto_2026.json`](./datasets/crypto/crypto_2026.json) · [`datasets/crypto/crypto_2026.csv`](./datasets/crypto/crypto_2026.csv) · [`schema.json`](./datasets/crypto/schema.json) |
-| Browse online | [finance.ampm-aiops.com/crypto/](https://finance.ampm-aiops.com/crypto/exchanges/) |
-| How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/) |
+| Browse online | [finance.ampm-aiops.com/crypto/](https://finance.ampm-aiops.com/crypto/exchanges/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
+| How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
 
 | name | kind | type | fee_or_price | source_url | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Bitget](https://finance.ampm-aiops.com/crypto/exchanges/bitget/) | exchange | 國際 | 現貨 Maker/Taker 皆 0.10%（用 BGB 付手續費折 20%）；合約 Maker 0.02%／Taker 0.06%（一般用戶） | [official](https://www.bitget.com/academy/245) | 2026-09-03 |
-| [BitoPro（幣託科技）](https://finance.ampm-aiops.com/crypto/exchanges/bitopro/) | exchange | 本土 | VIP0 現貨 Maker 0.1% / Taker 0.2%；以 BITO 支付享 8 折＝Maker 0.08% / Taker 0.16%；網格機器人 Maker/Taker 均 0.05%。官方 API 直讀。 | [official](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News) | 2026-10-19 |
-| [Bybit](https://finance.ampm-aiops.com/crypto/exchanges/bybit/) | exchange | 國際 | VIP0 現貨 Maker/Taker 皆 0.1%（VIP 最低 0.005%/0.015%） | [official](https://www.bybit.com/zh-TW/help-center/article/Trading-Fee-Structure) | 2026-10-19 |
-| [Coinbase](https://finance.ampm-aiops.com/crypto/exchanges/coinbase/) | exchange | 國際 | 一般介面約 2% 上下（依方式與金額分級；Advanced 介面較低）；信用卡購幣約 3.99% | [official](https://help.coinbase.com/en/coinbase/trading-and-funding/pricing-and-fees/fees) | 2026-09-03 |
-| [Gate.io](https://finance.ampm-aiops.com/crypto/exchanges/gate-io/) | exchange | 國際 | 現貨基礎費率 Maker/Taker 約 0.20%（不同來源亦見報 0.10%，以官網當下頁面為準）；依 17 階 VIP／GT 持倉遞減，最高可到 Maker 0%／Taker 0.02% | [official](https://www.gate.com/global-market-maker-program) | 2026-09-03 |
-| [HOYA BIT（禾亞數位科技）](https://finance.ampm-aiops.com/crypto/exchanges/hoya-bit/) | exchange | 本土 | 現貨以價差（spread）方式收費，內含約 0.2%–0.5% 支付處理費（買入收加密貨幣、賣出收台幣）。官網未設公開的獨立費率頁，級距引自 support.hoyabit.com 說明。 | [official](https://support.hoyabit.com/transaction/%E4%BA%A4%E6%98%93%E6%89%8B%E7%BA%8C%E8%B2%BB%E5%A4%9A%E5%B0%91%EF%BC%9F-2/) | 2026-09-08 |
-| [Kraken](https://finance.ampm-aiops.com/crypto/exchanges/kraken/) | exchange | 國際 | 標準介面 Taker 約 0.26%；Kraken Pro 依 30 天量分級大幅較低 | [official](https://www.kraken.com/features/fee-schedule) | 2026-09-30 |
-| [KuCoin](https://finance.ampm-aiops.com/crypto/exchanges/kucoin/) | exchange | 國際 | 現貨 Maker/Taker 皆 0.10%（用 KCS 付手續費折至 0.08%），依 30 天量／VIP 分級遞減 | [official](https://www.kucoin.com/blog/Full-KuCoin-Review) | 2026-09-03 |
-| [MAX（現代財富科技／MaiCoin）](https://finance.ampm-aiops.com/crypto/exchanges/max-maicoin/) | exchange | 本土 | VIP0（一般會員）現貨 Maker 0.08% / Taker 0.16%；依 30 天交易量或 MAX 鎖倉量分級，最高 VIP9 可低至 Maker -0.008% / Taker 0.045%。官網費率頁直讀。 | [official](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News) | 2026-09-08 |
-| [OKX 歐易](https://finance.ampm-aiops.com/crypto/exchanges/okx/) | exchange | 國際 | 普通用戶現貨 Maker 0.08% / Taker 0.10%；依 30 天交易量／資產量分 VIP1–9，最高可低至 Maker -0.005% / Taker 0.015%。官網費率頁直讀。 | [official](https://www.okx.com/zh-hant/fees) | 2026-10-19 |
+| [Bitget](https://finance.ampm-aiops.com/crypto/exchanges/bitget/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | exchange | 國際 | 現貨 Maker/Taker 皆 0.10%（用 BGB 付手續費折 20%）；合約 Maker 0.02%／Taker 0.06%（一般用戶） | [official](https://www.bitget.com/academy/245) | 2026-09-03 |
+| [BitoPro（幣託科技）](https://finance.ampm-aiops.com/crypto/exchanges/bitopro/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | exchange | 本土 | VIP0 現貨 Maker 0.1% / Taker 0.2%；以 BITO 支付享 8 折＝Maker 0.08% / Taker 0.16%；網格機器人 Maker/Taker 均 0.05%。官方 API 直讀。 | [official](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News) | 2026-10-19 |
+| [Bybit](https://finance.ampm-aiops.com/crypto/exchanges/bybit/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | exchange | 國際 | VIP0 現貨 Maker/Taker 皆 0.1%（VIP 最低 0.005%/0.015%） | [official](https://www.bybit.com/zh-TW/help-center/article/Trading-Fee-Structure) | 2026-10-19 |
+| [Coinbase](https://finance.ampm-aiops.com/crypto/exchanges/coinbase/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | exchange | 國際 | 一般介面約 2% 上下（依方式與金額分級；Advanced 介面較低）；信用卡購幣約 3.99% | [official](https://help.coinbase.com/en/coinbase/trading-and-funding/pricing-and-fees/fees) | 2026-09-03 |
+| [Gate.io](https://finance.ampm-aiops.com/crypto/exchanges/gate-io/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | exchange | 國際 | 現貨基礎費率 Maker/Taker 約 0.20%（不同來源亦見報 0.10%，以官網當下頁面為準）；依 17 階 VIP／GT 持倉遞減，最高可到 Maker 0%／Taker 0.02% | [official](https://www.gate.com/global-market-maker-program) | 2026-09-03 |
+| [HOYA BIT（禾亞數位科技）](https://finance.ampm-aiops.com/crypto/exchanges/hoya-bit/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | exchange | 本土 | 現貨以價差（spread）方式收費，內含約 0.2%–0.5% 支付處理費（買入收加密貨幣、賣出收台幣）。官網未設公開的獨立費率頁，級距引自 support.hoyabit.com 說明。 | [official](https://support.hoyabit.com/transaction/%E4%BA%A4%E6%98%93%E6%89%8B%E7%BA%8C%E8%B2%BB%E5%A4%9A%E5%B0%91%EF%BC%9F-2/) | 2026-09-08 |
+| [Kraken](https://finance.ampm-aiops.com/crypto/exchanges/kraken/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | exchange | 國際 | 標準介面 Taker 約 0.26%；Kraken Pro 依 30 天量分級大幅較低 | [official](https://www.kraken.com/features/fee-schedule) | 2026-09-30 |
+| [KuCoin](https://finance.ampm-aiops.com/crypto/exchanges/kucoin/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | exchange | 國際 | 現貨 Maker/Taker 皆 0.10%（用 KCS 付手續費折至 0.08%），依 30 天量／VIP 分級遞減 | [official](https://www.kucoin.com/blog/Full-KuCoin-Review) | 2026-09-03 |
+| [MAX（現代財富科技／MaiCoin）](https://finance.ampm-aiops.com/crypto/exchanges/max-maicoin/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | exchange | 本土 | VIP0（一般會員）現貨 Maker 0.08% / Taker 0.16%；依 30 天交易量或 MAX 鎖倉量分級，最高 VIP9 可低至 Maker -0.008% / Taker 0.045%。官網費率頁直讀。 | [official](https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0%2C2&mcustomize=news_view.jsp&dataserno=202509220001&dtable=News) | 2026-09-08 |
+| [OKX 歐易](https://finance.ampm-aiops.com/crypto/exchanges/okx/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | exchange | 國際 | 普通用戶現貨 Maker 0.08% / Taker 0.10%；依 30 天交易量／資產量分 VIP1–9，最高可低至 Maker -0.005% / Taker 0.015%。官網費率頁直讀。 | [official](https://www.okx.com/zh-hant/fees) | 2026-10-19 |
 
 *Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 25 rows.*
 
@@ -211,10 +211,9 @@ Not included, by design: partner / referral tracking links, internal verificatio
 
 | | |
 | :--- | :--- |
-| Plan-level checks | **1542** rows · 117 tools · 2026-10-16 → 2026-10-19 |
-| Files | [`data/price-history/`](./data/price-history/) — `price_checks_YYYY-MM.jsonl` (one row = one plan in one check) · [`index.json`](./data/price-history/index.json) (field guide) |
-| Raw daily reads | **9654** rows · 44 days (2026-09-05 → 2026-10-18, finished days only) — numbers our crawler read on each official pricing page, **not yet mapped to plan names**; `changed_vs_previous_read_day` marks the days the numbers moved (742 so far) |
-| Daily snapshots | [`data/snapshots/`](./data/snapshots/) — one copy of the main dataset per day, never overwritten |
+| Monthly summaries | 0 finished month(s) · [`data/price-history/monthly/`](./data/price-history/monthly/) — one file per month: checks, verdict counts and price changes per tool |
+| Raw reads | Kept on our server (not in this repo since 2026-10-21). Earlier raw files remain in git history. |
+| Snapshots | [`data/snapshots/`](./data/snapshots/) — one copy of the main dataset on each day the data actually changed |
 
 **How to read it:** `verdict: ok` / `ok_annual_only` / `ok_annual_unrecorded` = our published price matched what the official page showed at `checked_at`; `mismatch` = it did not match in our **automated** check (treat it as "needs human review", not as a confirmed error); `not_found` = that plan could not be found on the page this time; `unverified` = the official page itself could not be read. Full field guide: [`index.json`](./data/price-history/index.json). Rows are never edited or deleted — corrections are added later as new rows (`type: correction`). The screenshots and page text behind every check are kept on our server.
 
@@ -256,13 +255,13 @@ We re-verify and update the source databases daily; the fix flows into this repo
 Distributed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** — see [`LICENSE`](./LICENSE).
 
 - Free to share and adapt, including commercially.
-- **Attribution required**: cite **[AMPM-AIOPS 問問貓](https://ampm-aiops.com)** as the source with a link back (dataset page: [ampm-aiops.com/open-data/](https://ampm-aiops.com/open-data/)).
+- **Attribution required**: cite **[AMPM-AIOPS 問問貓](https://ampm-aiops.com?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing)** as the source with a link back (dataset page: [ampm-aiops.com/open-data/](https://ampm-aiops.com/open-data/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing)).
 
 ---
 
 ## 🔗 Live site
 
-> **Live Production Engine & Comparison Matrix**: [https://ampm-aiops.com/](https://ampm-aiops.com/)
+> **Live Production Engine & Comparison Matrix**: [https://ampm-aiops.com/](https://ampm-aiops.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing)
 > *Exported daily at 04:00 (Asia/Taipei); every row carries its own official source URL and last_verified date.*
 >
-> For Taiwan local credit card fee & sub-brokerage comparisons, visit [AMPM Finance](https://finance.ampm-aiops.com/).
+> For Taiwan local credit card fee & sub-brokerage comparisons, visit [AMPM Finance](https://finance.ampm-aiops.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing).

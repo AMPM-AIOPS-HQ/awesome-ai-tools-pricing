@@ -1,5 +1,9 @@
 # Columns (published)
 
+- 2026-10-21 [(How-to) Hailuo AI free vs paid: What You Actually Give Up on the Free Tier](https://ampm-aiops.com/en/guides/hailuo-ai-howto-2026/)
+- 2026-10-20 [(How-to) Saner.ai free usage limits 2026: Can It Hold a Real Research Paper?](https://ampm-aiops.com/en/guides/saner-ai-howto-2026/)
+- 2026-10-20 [(How-to) Plus AI pricing: Which Plan Actually Turns Your PDF Into Slides?](https://ampm-aiops.com/en/guides/plus-ai-howto-2026/)
+- 2026-10-20 [(How-to) GPTZero free vs paid: Does the Upgrade Buy More Than a Bigger Word Count?](https://ampm-aiops.com/en/guides/gptzero-howto-2026/)
 - 2026-10-18 [(News) Yelp, Delta and Banks Start Blocking AI Agents — Does Wispr Flow Get Caught in It?](https://ampm-aiops.com/en/guides/wispr-flow-news-20261018/)
 - 2026-10-18 [(News) Meta Deleted the Wording That Spooked Creators — Did Anything Actually Change?](https://ampm-aiops.com/en/guides/fliki-news-20261018/)
 - 2026-10-18 [(News) Fireflies.ai Auto-Joins Your Meetings — and the New 'Rogue AI Agent' Reports Just Made That a Boardroom Question](https://ampm-aiops.com/en/guides/fireflies-ai-news-20261018/)

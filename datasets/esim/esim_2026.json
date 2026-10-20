@@ -1,7 +1,7 @@
 {
  "dataset": "esim",
  "title": "Travel eSIM Plans (Taiwan market)",
- "generated_at": "2026-10-20T04:00:02+08:00",
+ "generated_at": "2026-10-21T02:06:43+08:00",
  "source": "https://trip.ampm-aiops.com/esim/",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -21,7 +21,7 @@
    "source_url": "https://www.airalo.com/",
    "last_verified": "2026-10-20",
    "page_url": "https://trip.ampm-aiops.com/esim/items/airalo/",
-   "ampm_ref": "AMPM-de680002c4"
+   "ampm_ref": "AMPM-5d6df2d7d8"
   },
   {
    "slug": "airhub",
@@ -33,7 +33,7 @@
    "source_url": "https://www.airhubapp.com/",
    "last_verified": "2026-10-20",
    "page_url": "https://trip.ampm-aiops.com/esim/items/airhub/",
-   "ampm_ref": "AMPM-9bc1a65dfa"
+   "ampm_ref": "AMPM-ce63c6b08b"
   },
   {
    "slug": "bnesim",
@@ -45,7 +45,7 @@
    "source_url": "https://www.bnesim.com/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/bnesim/",
-   "ampm_ref": "AMPM-19084d3916"
+   "ampm_ref": "AMPM-5ee2b635a9"
   },
   {
    "slug": "djb-unlimited",
@@ -57,7 +57,7 @@
    "source_url": "https://djbcard.com/",
    "last_verified": "2026-08-25",
    "page_url": "https://trip.ampm-aiops.com/esim/items/djb-unlimited/",
-   "ampm_ref": "AMPM-0f18cfdfb2"
+   "ampm_ref": "AMPM-8b1c2ab132"
   },
   {
    "slug": "firsty",
@@ -69,7 +69,7 @@
    "source_url": "https://www.firsty.app/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/firsty/",
-   "ampm_ref": "AMPM-883b19618e"
+   "ampm_ref": "AMPM-6a450c8161"
   },
   {
    "slug": "flexiroam",
@@ -81,7 +81,7 @@
    "source_url": "https://flexiroam.com/",
    "last_verified": "2026-09-26",
    "page_url": "https://trip.ampm-aiops.com/esim/items/flexiroam/",
-   "ampm_ref": "AMPM-d275c3d8c5"
+   "ampm_ref": "AMPM-c37db71e31"
   },
   {
    "slug": "gigsky",
@@ -93,7 +93,7 @@
    "source_url": "https://www.gigsky.com/",
    "last_verified": "2026-10-07",
    "page_url": "https://trip.ampm-aiops.com/esim/items/gigsky/",
-   "ampm_ref": "AMPM-66ac95f358"
+   "ampm_ref": "AMPM-bbc9c1ad22"
   },
   {
    "slug": "holafly",
@@ -105,7 +105,7 @@
    "source_url": "https://holafly.com/",
    "last_verified": "2026-10-20",
    "page_url": "https://trip.ampm-aiops.com/esim/items/holafly/",
-   "ampm_ref": "AMPM-8c9e8c23d8"
+   "ampm_ref": "AMPM-4a8250d429"
   },
   {
    "slug": "instabridge",
@@ -117,7 +117,7 @@
    "source_url": "https://instabridge.com/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/instabridge/",
-   "ampm_ref": "AMPM-ee562840e3"
+   "ampm_ref": "AMPM-705f0d6289"
   },
   {
    "slug": "jetpac",
@@ -129,7 +129,7 @@
    "source_url": "https://www.jetpacglobal.com/",
    "last_verified": "2026-08-25",
    "page_url": "https://trip.ampm-aiops.com/esim/items/jetpac/",
-   "ampm_ref": "AMPM-0f41ff6137"
+   "ampm_ref": "AMPM-b1af4b8516"
   },
   {
    "slug": "joytel",
@@ -141,7 +141,7 @@
    "source_url": "https://www.joytel-tw.com/",
    "last_verified": "2026-08-25",
    "page_url": "https://trip.ampm-aiops.com/esim/items/joytel/",
-   "ampm_ref": "AMPM-db9b29b149"
+   "ampm_ref": "AMPM-fdcec517c6"
   },
   {
    "slug": "kkday-esim",
@@ -153,7 +153,7 @@
    "source_url": "https://www.kkday.com/",
    "last_verified": "2026-08-25",
    "page_url": "https://trip.ampm-aiops.com/esim/items/kkday-esim/",
-   "ampm_ref": "AMPM-2abb5b7964"
+   "ampm_ref": "AMPM-3bfc07e186"
   },
   {
    "slug": "klook-esim",
@@ -165,7 +165,7 @@
    "source_url": "https://www.klook.com/",
    "last_verified": "2026-08-25",
    "page_url": "https://trip.ampm-aiops.com/esim/items/klook-esim/",
-   "ampm_ref": "AMPM-7ae2371587"
+   "ampm_ref": "AMPM-2e8cd29b7f"
   },
   {
    "slug": "maya-mobile",
@@ -177,7 +177,7 @@
    "source_url": "https://maya.net/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/maya-mobile/",
-   "ampm_ref": "AMPM-3b6b756f83"
+   "ampm_ref": "AMPM-842373ec98"
   },
   {
    "slug": "mobimatter",
@@ -189,7 +189,7 @@
    "source_url": "https://www.mobimatter.com/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/mobimatter/",
-   "ampm_ref": "AMPM-85411d4985"
+   "ampm_ref": "AMPM-6b9df14ddd"
   },
   {
    "slug": "nomad",
@@ -201,7 +201,7 @@
    "source_url": "https://www.nomadesim.com/",
    "last_verified": "2026-10-20",
    "page_url": "https://trip.ampm-aiops.com/esim/items/nomad/",
-   "ampm_ref": "AMPM-b5661c6aa8"
+   "ampm_ref": "AMPM-1d8baa4ee8"
   },
   {
    "slug": "redteago",
@@ -213,7 +213,7 @@
    "source_url": "https://www.redteago.com/",
    "last_verified": "2026-10-20",
    "page_url": "https://trip.ampm-aiops.com/esim/items/redteago/",
-   "ampm_ref": "AMPM-1bec9401d8"
+   "ampm_ref": "AMPM-70dd5e1223"
   },
   {
    "slug": "roamless",
@@ -225,7 +225,7 @@
    "source_url": "https://roamless.com/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/roamless/",
-   "ampm_ref": "AMPM-784b359fb9"
+   "ampm_ref": "AMPM-c40da5aaf2"
   },
   {
    "slug": "saily",
@@ -237,7 +237,7 @@
    "source_url": "https://saily.com/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/saily/",
-   "ampm_ref": "AMPM-7f876ebbe3"
+   "ampm_ref": "AMPM-4a66325513"
   },
   {
    "slug": "simoptions",
@@ -249,7 +249,7 @@
    "source_url": "https://simoptions.com/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/simoptions/",
-   "ampm_ref": "AMPM-6008c3d2d0"
+   "ampm_ref": "AMPM-1189e19333"
   },
   {
    "slug": "tripcom-esim",
@@ -261,7 +261,7 @@
    "source_url": "https://www.trip.com/",
    "last_verified": "2026-10-20",
    "page_url": "https://trip.ampm-aiops.com/esim/items/tripcom-esim/",
-   "ampm_ref": "AMPM-974d866293"
+   "ampm_ref": "AMPM-abe41a1492"
   },
   {
    "slug": "truely",
@@ -273,7 +273,7 @@
    "source_url": "https://truely.com/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/truely/",
-   "ampm_ref": "AMPM-911b909b5c"
+   "ampm_ref": "AMPM-02ae878272"
   },
   {
    "slug": "ubigi",
@@ -285,7 +285,7 @@
    "source_url": "https://www.ubigi.com/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/ubigi/",
-   "ampm_ref": "AMPM-79f48ff5b1"
+   "ampm_ref": "AMPM-6d3862b3e3"
   },
   {
    "slug": "waysim",
@@ -297,7 +297,7 @@
    "source_url": "https://waysim.net/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/waysim/",
-   "ampm_ref": "AMPM-15856a07c4"
+   "ampm_ref": "AMPM-cc05f537d1"
   },
   {
    "slug": "wiho-esim",
@@ -309,7 +309,7 @@
    "source_url": "https://www.telecomsquare.tw/",
    "last_verified": "2026-08-25",
    "page_url": "https://trip.ampm-aiops.com/esim/items/wiho-esim/",
-   "ampm_ref": "AMPM-cec05ba9a3"
+   "ampm_ref": "AMPM-977798c923"
   },
   {
    "slug": "yesim",
@@ -321,7 +321,7 @@
    "source_url": "https://yesim.app/",
    "last_verified": "2026-10-20",
    "page_url": "https://trip.ampm-aiops.com/esim/items/yesim/",
-   "ampm_ref": "AMPM-ae8023c929"
+   "ampm_ref": "AMPM-f43e135e0c"
   },
   {
    "slug": "alosim",
@@ -333,7 +333,7 @@
    "source_url": "https://alosim.com/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/alosim/",
-   "ampm_ref": "AMPM-3abdb3af23"
+   "ampm_ref": "AMPM-3d9a91691a"
   },
   {
    "slug": "esimx",
@@ -345,7 +345,7 @@
    "source_url": "https://esimx.com/",
    "last_verified": "2026-10-20",
    "page_url": "https://trip.ampm-aiops.com/esim/items/esimx/",
-   "ampm_ref": "AMPM-2eadb99fcc"
+   "ampm_ref": "AMPM-12f22c91d1"
   },
   {
    "slug": "cht-roaming",
@@ -357,7 +357,7 @@
    "source_url": "https://www.cht.com.tw/",
    "last_verified": "2026-10-20",
    "page_url": "https://trip.ampm-aiops.com/esim/items/cht-roaming/",
-   "ampm_ref": "AMPM-d363f28130"
+   "ampm_ref": "AMPM-be5e831845"
   },
   {
    "slug": "esimpass",
@@ -369,7 +369,7 @@
    "source_url": "https://www.esimpass.net/",
    "last_verified": "2026-08-28",
    "page_url": "https://trip.ampm-aiops.com/esim/items/esimpass/",
-   "ampm_ref": "AMPM-c6eb113c56"
+   "ampm_ref": "AMPM-1f84c74a71"
   },
   {
    "slug": "twm-roaming",
@@ -381,7 +381,7 @@
    "source_url": "https://www.taiwanmobile.com/",
    "last_verified": "2026-10-20",
    "page_url": "https://trip.ampm-aiops.com/esim/items/twm-roaming/",
-   "ampm_ref": "AMPM-1278bc39e8"
+   "ampm_ref": "AMPM-1e0014e553"
   },
   {
    "slug": "aerobile",
@@ -393,7 +393,7 @@
    "source_url": "https://www.aerobile.com/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/aerobile/",
-   "ampm_ref": "AMPM-e46fca03a3"
+   "ampm_ref": "AMPM-2595943cd7"
   },
   {
    "slug": "fet-roaming",
@@ -405,7 +405,7 @@
    "source_url": "https://www.fetnet.net/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/fet-roaming/",
-   "ampm_ref": "AMPM-e2413e7771"
+   "ampm_ref": "AMPM-a6762b7408"
   },
   {
    "slug": "fet-travel-card",
@@ -417,7 +417,7 @@
    "source_url": "https://www.fetnet.net/",
    "last_verified": "2026-08-27",
    "page_url": "https://trip.ampm-aiops.com/esim/items/fet-travel-card/",
-   "ampm_ref": "AMPM-4806c72fd3"
+   "ampm_ref": "AMPM-c7e6af8dd0"
   },
   {
    "slug": "traveltobuy",
@@ -429,7 +429,7 @@
    "source_url": "https://www.traveltobuys.com/",
    "last_verified": "2026-10-20",
    "page_url": "https://trip.ampm-aiops.com/esim/items/traveltobuy/",
-   "ampm_ref": "AMPM-af0e8dcaa4"
+   "ampm_ref": "AMPM-f72c71c320"
   }
  ]
 }
