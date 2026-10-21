@@ -1,7 +1,7 @@
 {
  "dataset": "esim",
  "title": "Travel eSIM Plans (Taiwan market)",
- "generated_at": "2026-10-21T02:06:43+08:00",
+ "generated_at": "2026-10-22T04:00:02+08:00",
  "source": "https://trip.ampm-aiops.com/esim/",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 35,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-20",
+ "last_verified_max": "2026-10-22",
  "rows": [
   {
    "slug": "airalo",
@@ -175,7 +175,7 @@
    "plan_type": "每日重置準吃到飽（每日 4GB 高速）＋固定流量型（1GB~20GB+）",
    "hotspot": "全方案支援（含無限方案），同類準吃到飽中少見",
    "source_url": "https://maya.net/",
-   "last_verified": "2026-08-27",
+   "last_verified": "2026-10-22",
    "page_url": "https://trip.ampm-aiops.com/esim/items/maya-mobile/",
    "ampm_ref": "AMPM-842373ec98"
   },

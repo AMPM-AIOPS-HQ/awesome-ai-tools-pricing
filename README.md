@@ -12,7 +12,7 @@
 [![Changelog](https://img.shields.io/badge/CHANGELOG-daily-informational.svg)](./CHANGELOG.md)
 
 **What this is:** the open dataset behind [問問貓 AMPM-AIOPS](https://ampm-aiops.com?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing), a Traditional-Chinese AI tool comparison site for Taiwan.
-The core dataset covers **130 AI tools** (ChatGPT, Claude, Cursor, Midjourney, ElevenLabs …): category, whether a free tier exists and what it includes,
+The core dataset covers **139 AI tools** (ChatGPT, Claude, Cursor, Midjourney, ElevenLabs …): category, whether a free tier exists and what it includes,
 the cheapest paid plan per month (USD), commercial use where the vendor states it, and the date each row was last verified. Exported every day at 04:00 (Asia/Taipei);
 every row shows its own `last_verified` date, so you can see how fresh each number is.
 
@@ -20,9 +20,9 @@ every row shows its own `last_verified` date, so you can see how fresh each numb
 a `last_verified` date **and** an official source URL (13 rows held back at the moment — the count is shown per dataset below).
 
 **Also included:** datasets from our sister comparison sites (Taiwan credit cards, travel eSIM, VPN, US brokers and more), same rules —
-**392 verified rows across 6 datasets** in total.
+**401 verified rows across 6 datasets** in total.
 
-> 問問貓公開資料集（每天 04:00 匯出）：主資料是 130 個 AI 工具的分類、有沒有免費版與免費額度、最便宜付費方案月費（美元）、官方有寫的商用條款，每一列都附最後查證日期。
+> 問問貓公開資料集（每天 04:00 匯出）：主資料是 139 個 AI 工具的分類、有沒有免費版與免費額度、最便宜付費方案月費（美元）、官方有寫的商用條款，每一列都附最後查證日期。
 
 > 🔍 **How rows are verified**: [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) · 🌐 **Open-data hub**: [ampm-aiops.com/open-data/](https://ampm-aiops.com/open-data/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing)
 > 📝 **What changed**: [`CHANGELOG.md`](./CHANGELOG.md) (added / changed / removed, per day) · 📦 **Machine index**: [`datasets/index.json`](./datasets/index.json)
@@ -34,14 +34,14 @@ Independent publications that list pages of this project as a source. Each link 
 
 | Publication | Date | Article | Cites our page | Link last confirmed |
 |---|---|---|---|---|
-| Brief IA (France) | 2026-09-08 | [Mistral AI structure l'industrie européenne de l'IA en 2026](https://www.briefia.fr/blog/comment-mistral-ai-redefine-industrie-2026) | [Mistral AI pricing](https://ampm-aiops.com/tools/mistral/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-10-21 |
-| Brief IA (France) | 2026-09-02 | [5 outils de maquettes IA pour gagner du temps en 2026](https://www.briefia.fr/blog/outils-maquettes-ia-2026) | [Framer pricing](https://ampm-aiops.com/en/tools/framer/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-10-21 |
+| Brief IA (France) | 2026-09-08 | [Mistral AI structure l'industrie européenne de l'IA en 2026](https://www.briefia.fr/blog/comment-mistral-ai-redefine-industrie-2026) | [Mistral AI pricing](https://ampm-aiops.com/tools/mistral/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-10-22 |
+| Brief IA (France) | 2026-09-02 | [5 outils de maquettes IA pour gagner du temps en 2026](https://www.briefia.fr/blog/outils-maquettes-ia-2026) | [Framer pricing](https://ampm-aiops.com/en/tools/framer/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-10-22 |
 
 > 外部引用：以上媒體把本專案頁面列為資料來源；每次匯出都回原文確認連結仍在，不在就自動撤下。
 
 ## Datasets
 
-- [AI Tools Pricing & Free Tiers](#ai-tools-pricing-free-tiers) — 130 rows
+- [AI Tools Pricing & Free Tiers](#ai-tools-pricing-free-tiers) — 139 rows
 - [Taiwan Credit Cards](#taiwan-credit-cards) — 179 rows
 - [Travel eSIM Plans (Taiwan market)](#travel-esim-plans-taiwan-market) — 35 rows
 - [VPN Pricing & Audits (Taiwan)](#vpn-pricing-audits-taiwan) — 7 rows
@@ -58,8 +58,8 @@ Not included, by design: partner / referral tracking links, internal verificatio
 
 | | |
 | :--- | :--- |
-| Rows published | **130** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-10-21** |
+| Rows published | **139** (below public threshold, not exported: 0) |
+| Last verified (newest row) | **2026-10-22** |
 | Files | [`data/ai_tools_2026.json`](./data/ai_tools_2026.json) · [`data/ai_tools_2026.csv`](./data/ai_tools_2026.csv) |
 | Browse online | [ampm-aiops.com](https://ampm-aiops.com/free/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
@@ -77,7 +77,7 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | [CapCut AI](https://ampm-aiops.com/tools/capcut-ai/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | video | 基本剪輯免費,AI 功能部分需 Pro | 10 | unknown | [official](https://www.capcut.com) | 2026-09-08 |
 | [ChatGPT](https://ampm-aiops.com/tools/chatgpt/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | general | 免費版每月 NT$0，人人可用 | 8 | ✅ | [official](https://chatgpt.com) | 2026-10-20 |
 
-*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 130 rows.*
+*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 139 rows.*
 
 ### Taiwan Credit Cards
 *台灣信用卡年費／回饋／循環利率實查*
@@ -111,7 +111,7 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | | |
 | :--- | :--- |
 | Rows published | **35** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-10-20** |
+| Last verified (newest row) | **2026-10-22** |
 | Files | [`datasets/esim/esim_2026.json`](./datasets/esim/esim_2026.json) · [`datasets/esim/esim_2026.csv`](./datasets/esim/esim_2026.csv) · [`schema.json`](./datasets/esim/schema.json) |
 | Browse online | [trip.ampm-aiops.com/esim/](https://trip.ampm-aiops.com/esim/items/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |

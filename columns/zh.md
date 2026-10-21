@@ -1,5 +1,11 @@
 # 專欄（已上線）
 
+- 2026-10-22 [Hemory 免費額度怎麼算？10 小時只扣講話時間、用完不重置](https://ampm-aiops.com/guides/hemory-howto-2026/)
+- 2026-10-22 [Colibri 免費版 5 小時即時轉錄限英語？想免費轉中文會議逐字稿前要先看的事](https://ampm-aiops.com/guides/colibri-howto-2026/)
+- 2026-10-21 [Topaz Labs 四套方案我幫你對過了：先看你要幾套，再決定單買還是上全套](https://ampm-aiops.com/guides/topaz-labs-howto-2026/)
+- 2026-10-21 [Relume 免費版做得出一頁網站，但你帶走的只是一張 Figma 設計稿](https://ampm-aiops.com/guides/relume-howto-2026/)
+- 2026-10-21 [Predis.ai 怎麼用？3 天免費試用要先綁卡，Core 方案月繳 US$32、年繳月均 US$19](https://ampm-aiops.com/guides/predis-ai-howto-2026/)
+- 2026-10-21 [NocoDB 那條「每席 US$15」的細則，其實團隊越大越划算，我幫你算到第 9 席](https://ampm-aiops.com/guides/nocodb-howto-2026/)
 - 2026-10-21 [Hailuo AI 免費版解析度多少？768p 加浮水印，1080p 要升哪個方案](https://ampm-aiops.com/guides/hailuo-ai-howto-2026/)
 - 2026-10-20 [Saner.ai 主打給研究者，免費版單檔卻只吃 1 MB，一篇論文常常 2 到 10 MB](https://ampm-aiops.com/guides/saner-ai-howto-2026/)
 - 2026-10-20 [Plus AI 怎麼用？PDF、Word、txt 轉簡報買 Basic 還是 Pro，US$15 那檔做不到](https://ampm-aiops.com/guides/plus-ai-howto-2026/)

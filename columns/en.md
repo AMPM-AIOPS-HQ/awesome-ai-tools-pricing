@@ -1,5 +1,11 @@
 # Columns (published)
 
+- 2026-10-22 [(How-to) Hemory Free Usage Limits 2026: What the Quota Really Counts](https://ampm-aiops.com/en/guides/hemory-howto-2026/)
+- 2026-10-22 [(How-to) Colibri free vs paid: Why the Free Plan Only Hears English](https://ampm-aiops.com/en/guides/colibri-howto-2026/)
+- 2026-10-21 [(How-to) Topaz Labs pricing in 2026: One App, or the Whole Suite?](https://ampm-aiops.com/en/guides/topaz-labs-howto-2026/)
+- 2026-10-21 [(How-to) Relume Free vs Paid: What You Really Get to Take Home](https://ampm-aiops.com/en/guides/relume-howto-2026/)
+- 2026-10-21 [(How-to) Predis.ai free vs paid: the trial catch and which plan fits a one-brand team](https://ampm-aiops.com/en/guides/predis-ai-howto-2026/)
+- 2026-10-21 [(How-to) NocoDB pricing: the per-seat rule that quietly flips in your favor](https://ampm-aiops.com/en/guides/nocodb-howto-2026/)
 - 2026-10-21 [(How-to) Hailuo AI free vs paid: What You Actually Give Up on the Free Tier](https://ampm-aiops.com/en/guides/hailuo-ai-howto-2026/)
 - 2026-10-20 [(How-to) Saner.ai free usage limits 2026: Can It Hold a Real Research Paper?](https://ampm-aiops.com/en/guides/saner-ai-howto-2026/)
 - 2026-10-20 [(How-to) Plus AI pricing: Which Plan Actually Turns Your PDF Into Slides?](https://ampm-aiops.com/en/guides/plus-ai-howto-2026/)
