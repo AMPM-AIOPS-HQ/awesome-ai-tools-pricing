@@ -1,6 +1,11 @@
 # 專欄（已上線）
 
+- 2026-10-23 [Kintone 免費試用值不值？問問貓先替你查過 US$24、5 席、月消 US$120，坑在哪講給你聽](https://ampm-aiops.com/guides/kintone-howto-2026/)
+- 2026-10-22 [我去把 Grist 官網翻了一遍：免費版 5,000 筆的坑，是「每份文件」四個字](https://ampm-aiops.com/guides/grist-howto-2026/)
+- 2026-10-22 [問問貓查 Pagewiz 免費試用：30 天免綁卡，真正的坑在 200 位訪客](https://ampm-aiops.com/guides/pagewiz-howto-2026/)
+- 2026-10-22 [Klaviyo 免費版值不值得開？問問貓直讀官網：250 名聯絡人不是坑，每月 500 封才是卡點](https://ampm-aiops.com/guides/klaviyo-howto-2026/)
 - 2026-10-22 [Hemory 免費額度怎麼算？10 小時只扣講話時間、用完不重置](https://ampm-aiops.com/guides/hemory-howto-2026/)
+- 2026-10-22 [GoSearch 免費版怎麼用？每日 10 次搜尋夠不夠一個工作天，3 步上手教學](https://ampm-aiops.com/guides/gosearch-howto-2026/)
 - 2026-10-22 [Colibri 免費版 5 小時即時轉錄限英語？想免費轉中文會議逐字稿前要先看的事](https://ampm-aiops.com/guides/colibri-howto-2026/)
 - 2026-10-21 [Topaz Labs 四套方案我幫你對過了：先看你要幾套，再決定單買還是上全套](https://ampm-aiops.com/guides/topaz-labs-howto-2026/)
 - 2026-10-21 [Relume 免費版做得出一頁網站，但你帶走的只是一張 Figma 設計稿](https://ampm-aiops.com/guides/relume-howto-2026/)

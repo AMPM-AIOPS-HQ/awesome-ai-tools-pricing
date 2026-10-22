@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-10-22T04:00:02+08:00",
+ "generated_at": "2026-10-23T04:00:02+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 139,
+ "row_count": 142,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
  "last_verified_max": "2026-10-22",
- "tool_count": 139,
+ "tool_count": 142,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -1126,6 +1126,24 @@
    "ampm_ref": "AMPM-02acb45256"
   },
   {
+   "slug": "lalal-ai",
+   "name": "LALAL.AI",
+   "vendor": "OmniSale GMBH",
+   "category": [
+    "voice"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Starter：10 分鐘處理長度、單檔上傳上限 200 MB；僅供線上試聽預覽，不支援完整成果下載",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 9.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-22",
+   "source_url": "https://www.lalal.ai",
+   "tool_page": "https://ampm-aiops.com/tools/lalal-ai/",
+   "ampm_ref": "AMPM-9e14c87b31"
+  },
+  {
    "slug": "leonardo",
    "name": "Leonardo AI",
    "vendor": "Leonardo",
@@ -1703,6 +1721,24 @@
    "ampm_ref": "AMPM-19e9e656a7"
   },
   {
+   "slug": "pixlr",
+   "name": "Pixlr",
+   "vendor": "Inmagine Lab",
+   "category": [
+    "image"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "提供基本網頁修圖工具，每日有限制儲存次數，有廣告且不含每月固定配發之 AI 點數額度",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 2.49,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-22",
+   "source_url": "https://pixlr.com",
+   "tool_page": "https://ampm-aiops.com/tools/pixlr/",
+   "ampm_ref": "AMPM-6837ac6b6f"
+  },
+  {
    "slug": "pixverse",
    "name": "PixVerse",
    "vendor": "PixVerse",
@@ -2221,6 +2257,25 @@
    "source_url": "https://suno.com",
    "tool_page": "https://ampm-aiops.com/tools/suno/",
    "ampm_ref": "AMPM-59016b69f7"
+  },
+  {
+   "slug": "supabase",
+   "name": "Supabase",
+   "vendor": "Supabase Inc.",
+   "category": [
+    "coding",
+    "api"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "最多 2 個活躍專案、50,000 月活躍用戶 、500 MB 資料庫容量、1 GB 檔案儲存空間、5 GB 原生輸出流量  與 5 GB 快取輸出流量、500,000 次 Edg…",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 25,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-22",
+   "source_url": "https://supabase.com",
+   "tool_page": "https://ampm-aiops.com/tools/supabase/",
+   "ampm_ref": "AMPM-982c5ed96b"
   },
   {
    "slug": "surfer-seo",
