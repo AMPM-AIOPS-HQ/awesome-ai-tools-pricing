@@ -1,7 +1,7 @@
 {
  "dataset": "broker",
  "title": "US Stock Brokers for Taiwan residents",
- "generated_at": "2026-10-23T04:00:02+08:00",
+ "generated_at": "2026-10-25T04:00:04+08:00",
  "source": "https://finance.ampm-aiops.com/broker/",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",

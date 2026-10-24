@@ -12,7 +12,7 @@
 [![Changelog](https://img.shields.io/badge/CHANGELOG-daily-informational.svg)](./CHANGELOG.md)
 
 **What this is:** the open dataset behind [問問貓 AMPM-AIOPS](https://ampm-aiops.com?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing), a Traditional-Chinese AI tool comparison site for Taiwan.
-The core dataset covers **142 AI tools** (ChatGPT, Claude, Cursor, Midjourney, ElevenLabs …): category, whether a free tier exists and what it includes,
+The core dataset covers **172 AI tools** (ChatGPT, Claude, Cursor, Midjourney, ElevenLabs …): category, whether a free tier exists and what it includes,
 the cheapest paid plan per month (USD), commercial use where the vendor states it, and the date each row was last verified. Exported every day at 04:00 (Asia/Taipei);
 every row shows its own `last_verified` date, so you can see how fresh each number is.
 
@@ -20,9 +20,9 @@ every row shows its own `last_verified` date, so you can see how fresh each numb
 a `last_verified` date **and** an official source URL (13 rows held back at the moment — the count is shown per dataset below).
 
 **Also included:** datasets from our sister comparison sites (Taiwan credit cards, travel eSIM, VPN, US brokers and more), same rules —
-**404 verified rows across 6 datasets** in total.
+**434 verified rows across 6 datasets** in total.
 
-> 問問貓公開資料集（每天 04:00 匯出）：主資料是 142 個 AI 工具的分類、有沒有免費版與免費額度、最便宜付費方案月費（美元）、官方有寫的商用條款，每一列都附最後查證日期。
+> 問問貓公開資料集（每天 04:00 匯出）：主資料是 172 個 AI 工具的分類、有沒有免費版與免費額度、最便宜付費方案月費（美元）、官方有寫的商用條款，每一列都附最後查證日期。
 
 > 🔍 **How rows are verified**: [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) · 🌐 **Open-data hub**: [ampm-aiops.com/open-data/](https://ampm-aiops.com/open-data/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing)
 > 📝 **What changed**: [`CHANGELOG.md`](./CHANGELOG.md) (added / changed / removed, per day) · 📦 **Machine index**: [`datasets/index.json`](./datasets/index.json)
@@ -34,14 +34,14 @@ Independent publications that list pages of this project as a source. Each link 
 
 | Publication | Date | Article | Cites our page | Link last confirmed |
 |---|---|---|---|---|
-| Brief IA (France) | 2026-09-08 | [Mistral AI structure l'industrie européenne de l'IA en 2026](https://www.briefia.fr/blog/comment-mistral-ai-redefine-industrie-2026) | [Mistral AI pricing](https://ampm-aiops.com/tools/mistral/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-10-23 |
-| Brief IA (France) | 2026-09-02 | [5 outils de maquettes IA pour gagner du temps en 2026](https://www.briefia.fr/blog/outils-maquettes-ia-2026) | [Framer pricing](https://ampm-aiops.com/en/tools/framer/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-10-23 |
+| Brief IA (France) | 2026-09-08 | [Mistral AI structure l'industrie européenne de l'IA en 2026](https://www.briefia.fr/blog/comment-mistral-ai-redefine-industrie-2026) | [Mistral AI pricing](https://ampm-aiops.com/tools/mistral/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-10-25 |
+| Brief IA (France) | 2026-09-02 | [5 outils de maquettes IA pour gagner du temps en 2026](https://www.briefia.fr/blog/outils-maquettes-ia-2026) | [Framer pricing](https://ampm-aiops.com/en/tools/framer/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-10-25 |
 
 > 外部引用：以上媒體把本專案頁面列為資料來源；每次匯出都回原文確認連結仍在，不在就自動撤下。
 
 ## Datasets
 
-- [AI Tools Pricing & Free Tiers](#ai-tools-pricing-free-tiers) — 142 rows
+- [AI Tools Pricing & Free Tiers](#ai-tools-pricing-free-tiers) — 172 rows
 - [Taiwan Credit Cards](#taiwan-credit-cards) — 179 rows
 - [Travel eSIM Plans (Taiwan market)](#travel-esim-plans-taiwan-market) — 35 rows
 - [VPN Pricing & Audits (Taiwan)](#vpn-pricing-audits-taiwan) — 7 rows
@@ -58,8 +58,8 @@ Not included, by design: partner / referral tracking links, internal verificatio
 
 | | |
 | :--- | :--- |
-| Rows published | **142** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-10-22** |
+| Rows published | **172** (below public threshold, not exported: 0) |
+| Last verified (newest row) | **2026-10-24** |
 | Files | [`data/ai_tools_2026.json`](./data/ai_tools_2026.json) · [`data/ai_tools_2026.csv`](./data/ai_tools_2026.csv) |
 | Browse online | [ampm-aiops.com](https://ampm-aiops.com/free/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
@@ -69,15 +69,15 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | [Adobe Firefly](https://ampm-aiops.com/tools/adobe-firefly/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | image | 免費版：官網FAQ現行文案已改稱「free daily generations」，惟未提供每日具體上限數字；合作夥伴模型扣點規則沿用原方案點數 | 9.99 | unknown | [official](https://firefly.adobe.com) | 2026-10-20 |
 | [aider](https://ampm-aiops.com/tools/aider/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | coding | 完全開源免費,無訂閱模式;使用本地模型零成本;API調用費用取決於選用的LLM提供商 | — | ✅ | [official](https://aider.chat) | 2026-10-10 |
 | [AirMusic](https://ampm-aiops.com/tools/airmusic/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | voice | 10 credits | 39.8 | ❌ | [official](https://airmusic.ai/) | 2026-10-20 |
+| [AIVA](https://ampm-aiops.com/tools/aiva/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | voice | Free 方案每月 3 次下載額度、單曲時長上限 3 分鐘，僅限非商業用途，且音樂版權歸 AIVA 所有、公開需標註署名 | 16.5 | unknown | [official](https://www.aiva.ai) | 2026-10-23 |
 | [Anijam](https://ampm-aiops.com/tools/anijam/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | video | 有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案 | 25 | ❌ | [official](https://www.anijam.ai/) | 2026-10-20 |
 | [Base44](https://ampm-aiops.com/tools/base44/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | appbuilder, coding | 免費方案 US$0/月，每月 25 個 message credits與 100 個 integration credits | 20 | ✅ | [official](https://base44.com/) | 2026-10-20 |
+| [beehiiv](https://ampm-aiops.com/tools/beehiiv-ai/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | marketing, writing | Free 方案：最多 2,500 位訂閱者，包含電子報寄送、獨立網站、播客發行，但不可自訂網域、無自動化流程與無內建廣告營銷機制 | 59 | unknown | [official](https://www.beehiiv.com) | 2026-10-24 |
 | [Bolt](https://ampm-aiops.com/tools/bolt/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | appbuilder, coding | 免費版 US$0 | 25 | ❌ | [official](https://bolt.new) | 2026-10-19 |
+| [Brave Leo](https://ampm-aiops.com/tools/brave-leo/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | search, general | 官網未公布具體數字 | 14.99 | unknown | [official](https://brave.com/leo/) | 2026-10-24 |
 | [buzzabout](https://ampm-aiops.com/tools/buzzabout/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | marketing, search | 沒有長期免費方案，只有免費試用 | 98.0 | ❌ | [official](https://buzzabout.ai/) | 2026-10-20 |
-| [Canva AI](https://ampm-aiops.com/tools/canva-ai/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | image, productivity | 免費版最多 200 次 Standard AI 功能或 20 次 Premium AI 功能，另含 5GB 儲存空間、1 個品牌套件 | 18 | unknown | [official](https://www.canva.com) | 2026-10-20 |
-| [CapCut AI](https://ampm-aiops.com/tools/capcut-ai/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | video | 基本剪輯免費,AI 功能部分需 Pro | 10 | unknown | [official](https://www.capcut.com) | 2026-09-08 |
-| [ChatGPT](https://ampm-aiops.com/tools/chatgpt/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | general | 免費版每月 NT$0，人人可用 | 8 | ✅ | [official](https://chatgpt.com) | 2026-10-20 |
 
-*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 142 rows.*
+*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 172 rows.*
 
 ### Taiwan Credit Cards
 *台灣信用卡年費／回饋／循環利率實查*
