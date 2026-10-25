@@ -1,6 +1,11 @@
 # Columns (published)
 
+- 2026-10-25 [(How-to) Vidnoz free vs paid: where the free plan actually stops you](https://ampm-aiops.com/en/guides/vidnoz-howto-2026/)
+- 2026-10-25 [(How-to) TopMediai Free vs Paid: What the Trial Lets You Make Before You Pay](https://ampm-aiops.com/en/guides/topmediai-howto-2026/)
+- 2026-10-25 [(How-to) Read AI free vs paid: does upgrading actually unlock meeting replay?](https://ampm-aiops.com/en/guides/read-ai-howto-2026/)
+- 2026-10-25 [(How-to) Kagi Free vs Paid: How to Spend the Trial Before You Commit](https://ampm-aiops.com/en/guides/kagi-howto-2026/)
 - 2026-10-25 [(How-to) Civitai Free Tier 2026: Make Your First Image Before Deciding to Pay](https://ampm-aiops.com/en/guides/civitai-howto-2026/)
+- 2026-10-25 [(How-to) AIVA free vs paid: Who Actually Owns the Music You Make?](https://ampm-aiops.com/en/guides/aiva-howto-2026/)
 - 2026-10-24 [(How-to) Topview Pricing 2026: The One Number the Site Leaves Blank](https://ampm-aiops.com/en/guides/topview-howto-2026/)
 - 2026-10-24 [(How-to) Squibler Free vs Paid: Where the Free Plan Stops and You Have to Upgrade](https://ampm-aiops.com/en/guides/squibler-howto-2026/)
 - 2026-10-24 [(How-to) Petal Free vs Paid: The One-Time Credit Trap Beginners Miss](https://ampm-aiops.com/en/guides/petal-howto-2026/)

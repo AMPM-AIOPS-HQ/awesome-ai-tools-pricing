@@ -1,6 +1,11 @@
 # 專欄（已上線）
 
 - 2026-10-25 [問問貓直讀 Civitai 官網：免費版就能跑完第一張圖，Gold「加贈 20%」的坑先幫你講清楚](https://ampm-aiops.com/guides/civitai-howto-2026/)
+- 2026-10-25 [問問貓查過 TopMediai：免費版先跑一次，週繳的坑幫你先標出來](https://ampm-aiops.com/guides/topmediai-howto-2026/)
+- 2026-10-25 [問問貓先查了 AIVA：Standard 寫「可營利」卻又「版權歸 AIVA」，100% 版權要到 Pro](https://ampm-aiops.com/guides/aiva-howto-2026/)
+- 2026-10-25 [Vidnoz 值不值得付費？我照官網把點數算過，先告訴你免費版卡在哪、貴在哪](https://ampm-aiops.com/guides/vidnoz-howto-2026/)
+- 2026-10-25 [Read AI 值不值得升 Pro？問問貓先幫你擋「以為能重看影片」的坑](https://ampm-aiops.com/guides/read-ai-howto-2026/)
+- 2026-10-25 [Kagi 免費版值不值得領？問問貓直讀官網：100 次一次性試用，想續用月繳 US$5 起](https://ampm-aiops.com/guides/kagi-howto-2026/)
 - 2026-10-24 [問問貓直讀 Petal 官網：免費 400 點是一次性，這條斷點註冊前先搞懂](https://ampm-aiops.com/guides/petal-howto-2026/)
 - 2026-10-24 [問問貓查了官網：Pixlr 免費版能修圖、不能生圖，想玩 AI 從 Plus（月繳 US$2.49）起跳，還有兩個坑](https://ampm-aiops.com/guides/pixlr-howto-2026/)
 - 2026-10-24 [問問貓查 Topview：100 點做幾支短影音，US$24 方案這格官網自己留白](https://ampm-aiops.com/guides/topview-howto-2026/)
