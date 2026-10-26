@@ -148,7 +148,7 @@
 - 2026-10-05 [Suno免費額度每天50點，不能分軌不能加購，能撐多久？](https://ampm-aiops.com/guides/suno-special-2026/)
 - 2026-10-05 [Runway價格我查完了:免費125點大概只夠生2支影片,三個卡關點要先懂](https://ampm-aiops.com/guides/runway-price-2026/)
 - 2026-10-05 [QuillBot教學：免費版125字上限、月繳19.95美元方案怎麼選](https://ampm-aiops.com/guides/quillbot-howto-2026/)
-- 2026-10-05 [Groq API 免費額度多少次？70B與GPT OSS 120B每日卡在1000次請求](https://ampm-aiops.com/guides/groq-special-2026/)
+- 2026-10-05 [Groq API 免費額度還剩什麼？Llama 下架、Compound 停用後的 10 月官網現況](https://ampm-aiops.com/guides/groq-special-2026/)
 - 2026-10-05 [Grammarly 免費版能撐多久？文法檢查無上限，AI 生成每月只有 100 次](https://ampm-aiops.com/guides/grammarly-special-2026/)
 - 2026-10-05 [Google AI Studio免費額度，問問貓拆到模型等級幫你看完Search、Maps超額費的坑](https://ampm-aiops.com/guides/google-ai-studio-price-2026/)
 - 2026-10-05 [Base44費用怎麼算?免費方案每月25點、每天只能用5點](https://ampm-aiops.com/guides/base44-review-2026/)

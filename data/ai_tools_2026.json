@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-10-26T04:00:03+08:00",
+ "generated_at": "2026-10-27T04:00:03+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 185,
+ "row_count": 191,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-25",
- "tool_count": 185,
+ "last_verified_max": "2026-10-26",
+ "tool_count": 191,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -363,6 +363,25 @@
    "source_url": "https://claude.ai",
    "tool_page": "https://ampm-aiops.com/tools/claude/",
    "ampm_ref": "AMPM-d5c36e1cd4"
+  },
+  {
+   "slug": "clay",
+   "name": "Clay",
+   "vendor": "Clay Solutions, Inc.",
+   "category": [
+    "marketing",
+    "agent"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "每月 100 Data Credits 與 500 Actions，支援無限席次與瀑布式擴充功能",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 185,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-26",
+   "source_url": "https://www.clay.com",
+   "tool_page": "https://ampm-aiops.com/tools/clay/",
+   "ampm_ref": "AMPM-f91cdd9556"
   },
   {
    "slug": "coderabbit",
@@ -789,6 +808,25 @@
    "source_url": "https://fireworks.ai",
    "tool_page": "https://ampm-aiops.com/tools/fireworks-ai/",
    "ampm_ref": "AMPM-1721c7e852"
+  },
+  {
+   "slug": "flagsmith",
+   "name": "Flagsmith",
+   "vendor": "Bullet Train Ltd.",
+   "category": [
+    "coding",
+    "agent"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案：每月 50,000 次 API Requests、實驗支援 100,000 名使用者、1 名團隊成員、無限 Feature Flags 與環境、無限 Identit…",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 45,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-26",
+   "source_url": "https://www.flagsmith.com",
+   "tool_page": "https://ampm-aiops.com/tools/flagsmith/",
+   "ampm_ref": "AMPM-01884284dd"
   },
   {
    "slug": "fliki",
@@ -1738,6 +1776,24 @@
    "ampm_ref": "AMPM-abbd62b52e"
   },
   {
+   "slug": "mural",
+   "name": "Mural",
+   "vendor": "Tactivos, Inc.",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案提供無限成員加入、最多 3 個可同時編輯的 Murals 畫布、無限制訪客檢視權限，不包含 Mural AI 功能",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 12,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-26",
+   "source_url": "https://www.mural.co",
+   "tool_page": "https://ampm-aiops.com/tools/mural/",
+   "ampm_ref": "AMPM-44d5e12375"
+  },
+  {
    "slug": "murf-ai",
    "name": "Murf AI",
    "vendor": "Murf AI",
@@ -2348,6 +2404,25 @@
    "source_url": "https://www.read.ai",
    "tool_page": "https://ampm-aiops.com/tools/read-ai/",
    "ampm_ref": "AMPM-e06537a81a"
+  },
+  {
+   "slug": "reclaim-ai",
+   "name": "Reclaim.ai",
+   "vendor": "Dropbox",
+   "category": [
+    "productivity",
+    "agent"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Lite 永久免費：限 1 位使用者、5 個 AI Agents、排程時間跨度最長 1 週、2 個連結行事曆、1 組行事曆雙向同步、1 個預約連結，僅支援基本整合",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 12,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-25",
+   "source_url": "https://reclaim.ai/",
+   "tool_page": "https://ampm-aiops.com/tools/reclaim-ai/",
+   "ampm_ref": "AMPM-c614893c57"
   },
   {
    "slug": "recraft",
@@ -3169,6 +3244,24 @@
    "ampm_ref": "AMPM-59792984c2"
   },
   {
+   "slug": "travis-ci",
+   "name": "Travis CI",
+   "vendor": "Idera, Inc.",
+   "category": [
+    "coding"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案開通贈送 10,000 Credits 測試額度",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 69,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-25",
+   "source_url": "https://www.travis-ci.com",
+   "tool_page": "https://ampm-aiops.com/tools/travis-ci/",
+   "ampm_ref": "AMPM-2588daa941"
+  },
+  {
    "slug": "udio",
    "name": "Udio",
    "vendor": "Udio",
@@ -3389,6 +3482,24 @@
    "source_url": "https://writesonic.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/writesonic/",
    "ampm_ref": "AMPM-e28e66f853"
+  },
+  {
+   "slug": "xmind",
+   "name": "Xmind",
+   "vendor": "Xmind Ltd.",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案上限 10 個線上心智圖、50 點 AI 額度、每張圖限 3 個 sheet、Pitch 簡報模式限 5 頁，匯出帶浮水印",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 5.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-26",
+   "source_url": "https://xmind.com",
+   "tool_page": "https://ampm-aiops.com/tools/xmind/",
+   "ampm_ref": "AMPM-70aafb76f7"
   },
   {
    "slug": "yylo",
