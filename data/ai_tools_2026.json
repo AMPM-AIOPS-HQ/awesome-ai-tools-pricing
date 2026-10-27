@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-10-27T04:00:03+08:00",
+ "generated_at": "2026-10-28T04:00:05+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 191,
+ "row_count": 197,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-26",
- "tool_count": 191,
+ "last_verified_max": "2026-10-27",
+ "tool_count": 197,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -179,6 +179,25 @@
    "ampm_ref": "AMPM-8cfaeb3d58"
   },
   {
+   "slug": "bland-ai",
+   "name": "Bland AI",
+   "vendor": "Bland AI Inc.",
+   "category": [
+    "voice",
+    "agent"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Start 方案無月費，註冊免綁信用卡即贈 2 點通話額度與一組價值 US$15/月 的進線電話號碼；上限每日 100 通、同時通話 10 通",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 299,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-27",
+   "source_url": "https://www.bland.ai",
+   "tool_page": "https://ampm-aiops.com/tools/bland-ai/",
+   "ampm_ref": "AMPM-1ea456c3a9"
+  },
+  {
    "slug": "bolt",
    "name": "Bolt",
    "vendor": "StackBlitz",
@@ -308,6 +327,24 @@
    "source_url": "https://www.capcut.com",
    "tool_page": "https://ampm-aiops.com/tools/capcut-ai/",
    "ampm_ref": "AMPM-a2fc3e5cc0"
+  },
+  {
+   "slug": "caspio",
+   "name": "Caspio",
+   "vendor": "Caspio, Inc.",
+   "category": [
+    "appbuilder"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 300,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-27",
+   "source_url": "https://www.caspio.com",
+   "tool_page": "https://ampm-aiops.com/tools/caspio/",
+   "ampm_ref": "AMPM-98403cf365"
   },
   {
    "slug": "chatgpt",
@@ -1035,6 +1072,25 @@
    "ampm_ref": "AMPM-f521694513"
   },
   {
+   "slug": "grain",
+   "name": "Grain",
+   "vendor": "Grain Intelligence, Inc.",
+   "category": [
+    "productivity",
+    "voice"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案：1 位錄製席次，單場會議最長 45 分鐘，歷史紀錄保留 30 天，每人終身 5 次上傳配額",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 19,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-27",
+   "source_url": "https://grain.com",
+   "tool_page": "https://ampm-aiops.com/tools/grain/",
+   "ampm_ref": "AMPM-84e0da66c2"
+  },
+  {
    "slug": "grammarly",
    "name": "Grammarly",
    "vendor": "Grammarly",
@@ -1441,6 +1497,25 @@
    "ampm_ref": "AMPM-9e14c87b31"
   },
   {
+   "slug": "langfuse",
+   "name": "Langfuse",
+   "vendor": "Langfuse GmbH / ClickHouse",
+   "category": [
+    "coding",
+    "api"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Hobby 方案完全免費，每月含 50,000 個計費用量單位、30 天歷史數據存取、支援 2 名協作用戶與每分鐘 1,000 次請求吞吐量；亦可透過 MIT 開源授權自行部署無用…",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-27",
+   "source_url": "https://langfuse.com",
+   "tool_page": "https://ampm-aiops.com/tools/langfuse/",
+   "ampm_ref": "AMPM-c6d60281d4"
+  },
+  {
    "slug": "leonardo",
    "name": "Leonardo AI",
    "vendor": "Leonardo",
@@ -1755,6 +1830,25 @@
    "source_url": "https://mistral.ai",
    "tool_page": "https://ampm-aiops.com/tools/mistral/",
    "ampm_ref": "AMPM-a8ab235dde"
+  },
+  {
+   "slug": "modal",
+   "name": "Modal",
+   "vendor": "Modal Labs, Inc.",
+   "category": [
+    "coding",
+    "api"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Starter 方案每月提供 US$30 免費算力額度、3 個工作區席次、100 個容器上限與 10 個 GPU 同時執行額度、1 TiB/月 免費外網流量",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 250,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-25",
+   "source_url": "https://modal.com",
+   "tool_page": "https://ampm-aiops.com/tools/modal/",
+   "ampm_ref": "AMPM-72803802ea"
   },
   {
    "slug": "monica",
@@ -3168,6 +3262,24 @@
    "source_url": "https://tilda.cc",
    "tool_page": "https://ampm-aiops.com/tools/tilda-publishing/",
    "ampm_ref": "AMPM-4d1b80e0f8"
+  },
+  {
+   "slug": "together-ai",
+   "name": "Together AI",
+   "vendor": "Together AI",
+   "category": [
+    "api"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "新註冊用戶提供一次性免費 API 測試額度；另對特定輕量開源模型提供免費用量",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": null,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-26",
+   "source_url": "https://www.together.ai",
+   "tool_page": "https://ampm-aiops.com/tools/together-ai/",
+   "ampm_ref": "AMPM-8951c80426"
   },
   {
    "slug": "topaz-labs",

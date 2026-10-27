@@ -1,5 +1,6 @@
 # Columns (published)
 
+- 2026-10-27 [(How-to) Brave Leo free vs paid: What Actually Changes?](https://ampm-aiops.com/en/guides/brave-leo-howto-2026/)
 - 2026-10-25 [(How-to) Vidnoz free vs paid: where the free plan actually stops you](https://ampm-aiops.com/en/guides/vidnoz-howto-2026/)
 - 2026-10-25 [(How-to) TopMediai Free vs Paid: What the Trial Lets You Make Before You Pay](https://ampm-aiops.com/en/guides/topmediai-howto-2026/)
 - 2026-10-25 [(How-to) Read AI free vs paid: does upgrading actually unlock meeting replay?](https://ampm-aiops.com/en/guides/read-ai-howto-2026/)

@@ -1,5 +1,7 @@
 # 專欄（已上線）
 
+- 2026-10-28 [我先查過 Linear 商業版 18 美元/月與 250 Issues 限制，告訴你 AI credits 的隱形成本到底值不值得](https://ampm-aiops.com/guides/linear-howto-2026/)
+- 2026-10-27 [一分鐘搞懂 Brave Leo 免費版的隱藏限制與 US$14.99 升級差異](https://ampm-aiops.com/guides/brave-leo-howto-2026/)
 - 2026-10-25 [問問貓直讀 Civitai 官網：免費版就能跑完第一張圖，Gold「加贈 20%」的坑先幫你講清楚](https://ampm-aiops.com/guides/civitai-howto-2026/)
 - 2026-10-25 [問問貓查過 TopMediai：免費版先跑一次，週繳的坑幫你先標出來](https://ampm-aiops.com/guides/topmediai-howto-2026/)
 - 2026-10-25 [問問貓先查了 AIVA：Standard 寫「可營利」卻又「版權歸 AIVA」，100% 版權要到 Pro](https://ampm-aiops.com/guides/aiva-howto-2026/)
