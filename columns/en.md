@@ -1,5 +1,7 @@
 # Columns (published)
 
+- 2026-10-28 [(How-to) ProWritingAid free vs paid: Can the Free Version Actually Edit a Novel?](https://ampm-aiops.com/en/guides/prowritingaid-howto-2026/)
+- 2026-10-28 [(How-to) Octoparse Free vs Paid: What the Free Plan Actually Lets You Scrape](https://ampm-aiops.com/en/guides/octoparse-howto-2026/)
 - 2026-10-27 [(How-to) Brave Leo free vs paid: What Actually Changes?](https://ampm-aiops.com/en/guides/brave-leo-howto-2026/)
 - 2026-10-25 [(How-to) Vidnoz free vs paid: where the free plan actually stops you](https://ampm-aiops.com/en/guides/vidnoz-howto-2026/)
 - 2026-10-25 [(How-to) TopMediai Free vs Paid: What the Trial Lets You Make Before You Pay](https://ampm-aiops.com/en/guides/topmediai-howto-2026/)

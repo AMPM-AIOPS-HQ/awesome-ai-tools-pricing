@@ -1,6 +1,11 @@
 # 專欄（已上線）
 
+- 2026-10-29 [Tidio 免費版 50 次 AI 對話上限與 10 席位、100 次 Flows 使用限制全解析](https://ampm-aiops.com/guides/tidio-howto-2026/)
 - 2026-10-28 [我先查過 Linear 商業版 18 美元/月與 250 Issues 限制，告訴你 AI credits 的隱形成本到底值不值得](https://ampm-aiops.com/guides/linear-howto-2026/)
+- 2026-10-28 [我先查過 DeepInfra 只送 US$5 試玩額度，哪裡會卡？完整流程與坑點大公開](https://ampm-aiops.com/guides/deepinfra-howto-2026/)
+- 2026-10-28 [先查過才敢用：Fireworks AI 1 美元免費額度、10 RPM 限制與 Token 價格到底值不值得？](https://ampm-aiops.com/guides/fireworks-ai-howto-2026/)
+- 2026-10-28 [ProWritingAid 自稱為長篇而生，免費版單次卻只收 500 字——這篇先幫你算清楚](https://ampm-aiops.com/guides/prowritingaid-howto-2026/)
+- 2026-10-28 [Octoparse 免費版教學：永久免費是真的，雲端爬蟲要月繳 US$83](https://ampm-aiops.com/guides/octoparse-howto-2026/)
 - 2026-10-27 [一分鐘搞懂 Brave Leo 免費版的隱藏限制與 US$14.99 升級差異](https://ampm-aiops.com/guides/brave-leo-howto-2026/)
 - 2026-10-25 [問問貓直讀 Civitai 官網：免費版就能跑完第一張圖，Gold「加贈 20%」的坑先幫你講清楚](https://ampm-aiops.com/guides/civitai-howto-2026/)
 - 2026-10-25 [問問貓查過 TopMediai：免費版先跑一次，週繳的坑幫你先標出來](https://ampm-aiops.com/guides/topmediai-howto-2026/)

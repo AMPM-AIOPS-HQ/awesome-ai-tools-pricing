@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-10-28T04:00:05+08:00",
+ "generated_at": "2026-10-29T04:00:03+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 197,
+ "row_count": 205,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-27",
- "tool_count": 197,
+ "last_verified_max": "2026-10-28",
+ "tool_count": 205,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -104,6 +104,24 @@
    "ampm_ref": "AMPM-122d295d66"
   },
   {
+   "slug": "akool",
+   "name": "Akool",
+   "vendor": "Akool Inc.",
+   "category": [
+    "video"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案：100 點免費額度",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 12,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-27",
+   "source_url": "https://akool.com",
+   "tool_page": "https://ampm-aiops.com/tools/akool/",
+   "ampm_ref": "AMPM-5f7d43966c"
+  },
+  {
    "slug": "anijam",
    "name": "Anijam",
    "vendor": "Anijam",
@@ -120,6 +138,25 @@
    "source_url": "https://www.anijam.ai/",
    "tool_page": "https://ampm-aiops.com/tools/anijam/",
    "ampm_ref": "AMPM-8e6a030898"
+  },
+  {
+   "slug": "anyword",
+   "name": "Anyword",
+   "vendor": "Anyword Inc.",
+   "category": [
+    "marketing",
+    "writing"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案，提供 7 天免費試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 49,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-28",
+   "source_url": "https://www.anyword.com/",
+   "tool_page": "https://ampm-aiops.com/tools/anyword/",
+   "ampm_ref": "AMPM-f33de97654"
   },
   {
    "slug": "appwrite",
@@ -272,6 +309,24 @@
    "source_url": "https://buzzabout.ai/",
    "tool_page": "https://ampm-aiops.com/tools/buzzabout/",
    "ampm_ref": "AMPM-387139e409"
+  },
+  {
+   "slug": "calendly",
+   "name": "Calendly",
+   "vendor": "Calendly LLC",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "永久免費版：提供 1 個作用中事件類型、連接 1 個個人日曆、1 對 1 會議無限次預約、基本通知與自訂預約連結",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 12,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-28",
+   "source_url": "https://calendly.com",
+   "tool_page": "https://ampm-aiops.com/tools/calendly/",
+   "ampm_ref": "AMPM-db3b5e3010"
   },
   {
    "slug": "campaign-monitor",
@@ -1479,6 +1534,25 @@
    "ampm_ref": "AMPM-02acb45256"
   },
   {
+   "slug": "krispcall",
+   "name": "KrispCall",
+   "vendor": "KrispCall Communications Inc.",
+   "category": [
+    "productivity",
+    "voice"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案或免綁卡免費試用；付費訂閱後享有 14 天無條件退款保證",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 15,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-28",
+   "source_url": "https://krispcall.com",
+   "tool_page": "https://ampm-aiops.com/tools/krispcall/",
+   "ampm_ref": "AMPM-96d100d2ce"
+  },
+  {
    "slug": "lalal-ai",
    "name": "LALAL.AI",
    "vendor": "OmniSale GMBH",
@@ -2500,6 +2574,25 @@
    "ampm_ref": "AMPM-e06537a81a"
   },
   {
+   "slug": "recall",
+   "name": "Recall.ai",
+   "vendor": "Recall.ai, Inc.",
+   "category": [
+    "api",
+    "voice"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "註冊 Pay As You Go 方案享有前 5 小時錄音完全免費；Calendar API 免費提供",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 0.5,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-28",
+   "source_url": "https://www.recall.ai",
+   "tool_page": "https://ampm-aiops.com/tools/recall/",
+   "ampm_ref": "AMPM-a495565a54"
+  },
+  {
    "slug": "reclaim-ai",
    "name": "Reclaim.ai",
    "vendor": "Dropbox",
@@ -2666,6 +2759,25 @@
    "source_url": "https://www.resemble.ai",
    "tool_page": "https://ampm-aiops.com/tools/resemble-ai/",
    "ampm_ref": "AMPM-76239e9065"
+  },
+  {
+   "slug": "retool",
+   "name": "Retool",
+   "vendor": "Retool, Inc.",
+   "category": [
+    "appbuilder",
+    "agent"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案：最多支援 5 位使用者，每月包含 500 次 Workflow 工作流執行、250 點共用 AI 點數、20 小時 AI Agent 免費額度，以及 5 GB 資料…",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 12,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-28",
+   "source_url": "https://retool.com",
+   "tool_page": "https://ampm-aiops.com/tools/retool/",
+   "ampm_ref": "AMPM-4e1261eb92"
   },
   {
    "slug": "rev-ai",
@@ -3558,6 +3670,24 @@
    "ampm_ref": "AMPM-db14cf5236"
   },
   {
+   "slug": "wellsaid-labs",
+   "name": "WellSaid Labs",
+   "vendor": "WellSaid Labs, Inc.",
+   "category": [
+    "voice"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free Trial 免費試用免綁信用卡，每月提供 3 分鐘下載音訊額度、10 分鐘生成額度與 3 個專案上限；僅限個人測試使用，不包含商業授權",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 19,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-28",
+   "source_url": "https://wellsaidlabs.com",
+   "tool_page": "https://ampm-aiops.com/tools/wellsaid-labs/",
+   "ampm_ref": "AMPM-c311a4416e"
+  },
+  {
    "slug": "wispr-flow",
    "name": "Wispr Flow",
    "vendor": "Wispr AI",
@@ -3612,6 +3742,25 @@
    "source_url": "https://xmind.com",
    "tool_page": "https://ampm-aiops.com/tools/xmind/",
    "ampm_ref": "AMPM-70aafb76f7"
+  },
+  {
+   "slug": "you-com",
+   "name": "You.com",
+   "vendor": "SuSea, Inc.",
+   "category": [
+    "search",
+    "general"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "免費方案提供 Smart Agent 無限查詢，進階模型與研究 Agent 每日限次使用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 20,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-24",
+   "source_url": "https://you.com",
+   "tool_page": "https://ampm-aiops.com/tools/you-com/",
+   "ampm_ref": "AMPM-87464f66e7"
   },
   {
    "slug": "yylo",
