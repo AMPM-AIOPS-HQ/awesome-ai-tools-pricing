@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-10-29T04:00:03+08:00",
+ "generated_at": "2026-10-30T04:00:03+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 205,
+ "row_count": 211,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-28",
- "tool_count": 205,
+ "last_verified_max": "2026-10-29",
+ "tool_count": 211,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -120,6 +120,25 @@
    "source_url": "https://akool.com",
    "tool_page": "https://ampm-aiops.com/tools/akool/",
    "ampm_ref": "AMPM-5f7d43966c"
+  },
+  {
+   "slug": "amazon-q-developer",
+   "name": "Amazon Q Developer",
+   "vendor": "Amazon Web Services, Inc.",
+   "category": [
+    "coding",
+    "agent"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free Tier 免費方案：每月 50 次 Agentic 請求、每月 1,000 行代碼遷移轉換、無上限 IDE/CLI 程式碼補全與基礎安全弱點掃描",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 19,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-29",
+   "source_url": "https://aws.amazon.com/q/developer/",
+   "tool_page": "https://ampm-aiops.com/tools/amazon-q-developer/",
+   "ampm_ref": "AMPM-bd962cea1c"
   },
   {
    "slug": "anijam",
@@ -792,6 +811,25 @@
    "ampm_ref": "AMPM-650d7607a7"
   },
   {
+   "slug": "elevenreader",
+   "name": "ElevenReader",
+   "vendor": "ElevenLabs",
+   "category": [
+    "voice",
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 永久免費方案：每月提供 10 小時文字轉語音額度、1,000+ 種擬真人聲庫、支援數千本免費公版有聲書、跨裝置網頁與手機 App 同步、最快 4.0x 播放速度與睡眠定時…",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 11,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-29",
+   "source_url": "https://elevenreader.io/",
+   "tool_page": "https://ampm-aiops.com/tools/elevenreader/",
+   "ampm_ref": "AMPM-26197a3086"
+  },
+  {
    "slug": "fathom",
    "name": "Fathom",
    "vendor": "Fathom Video Inc.",
@@ -1034,6 +1072,24 @@
    "ampm_ref": "AMPM-9e4c5402d3"
   },
   {
+   "slug": "getresponse",
+   "name": "GetResponse",
+   "vendor": "GetResponse Sp. z o.o.",
+   "category": [
+    "marketing"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案上限 500 名聯絡人、每月 2,500 封信件發送額度，並附 30 天付費功能試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 19,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-29",
+   "source_url": "https://www.getresponse.com/",
+   "tool_page": "https://ampm-aiops.com/tools/getresponse/",
+   "ampm_ref": "AMPM-69214f04c9"
+  },
+  {
    "slug": "github-copilot",
    "name": "GitHub Copilot",
    "vendor": "GitHub/Microsoft",
@@ -1163,6 +1219,25 @@
    "source_url": "https://www.grammarly.com",
    "tool_page": "https://ampm-aiops.com/tools/grammarly/",
    "ampm_ref": "AMPM-94827a58e8"
+  },
+  {
+   "slug": "granola",
+   "name": "Granola",
+   "vendor": "Granola Labs, Inc.",
+   "category": [
+    "productivity",
+    "voice"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Basic 免費方案：無限次會議筆記、無通話時數上限，但會議歷史紀錄僅保留 30 天",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 14,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-29",
+   "source_url": "https://www.granola.ai",
+   "tool_page": "https://ampm-aiops.com/tools/granola/",
+   "ampm_ref": "AMPM-1a9e855d96"
   },
   {
    "slug": "grist",
@@ -1571,6 +1646,24 @@
    "ampm_ref": "AMPM-9e14c87b31"
   },
   {
+   "slug": "landr",
+   "name": "Landr",
+   "vendor": "LANDR Audio Inc.",
+   "category": [
+    "voice"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "提供免費試聽母帶效果；單曲購買無訂閱時為單首 WAV 母帶 US$10；訂閱方案提供 3 天免費試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 13,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-29",
+   "source_url": "https://www.landr.com",
+   "tool_page": "https://ampm-aiops.com/tools/landr/",
+   "ampm_ref": "AMPM-2c91459702"
+  },
+  {
    "slug": "langfuse",
    "name": "Langfuse",
    "vendor": "Langfuse GmbH / ClickHouse",
@@ -1885,6 +1978,24 @@
    "source_url": "https://www.mindmeister.com/",
    "tool_page": "https://ampm-aiops.com/tools/mindmeister/",
    "ampm_ref": "AMPM-db7b894c00"
+  },
+  {
+   "slug": "miro",
+   "name": "Miro",
+   "vendor": "Miro (RealtimeBoard Inc.)",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案：提供 3 個可編輯白板、無限訪客檢視、基礎範本庫、預設 10～25 次 AI 試用點數，無過期期限",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 10,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-29",
+   "source_url": "https://miro.com/",
+   "tool_page": "https://ampm-aiops.com/tools/miro/",
+   "ampm_ref": "AMPM-5327c9868a"
   },
   {
    "slug": "mistral",
