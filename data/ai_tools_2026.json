@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-10-30T04:00:03+08:00",
+ "generated_at": "2026-10-31T04:00:03+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 211,
+ "row_count": 215,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-29",
- "tool_count": 211,
+ "last_verified_max": "2026-10-30",
+ "tool_count": 215,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -495,6 +495,25 @@
    "ampm_ref": "AMPM-f91cdd9556"
   },
   {
+   "slug": "clickup",
+   "name": "ClickUp",
+   "vendor": "ClickUp",
+   "category": [
+    "productivity",
+    "agent"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free Forever 方案支援無上限任務與使用者人數、60MB 儲存容量、每月 100 次自動化運行；ClickUp Brain AI 提供 500 點 Workspace 試…",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 10,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-30",
+   "source_url": "https://clickup.com",
+   "tool_page": "https://ampm-aiops.com/tools/clickup/",
+   "ampm_ref": "AMPM-164f66bcce"
+  },
+  {
    "slug": "coderabbit",
    "name": "CodeRabbit",
    "vendor": "CodeRabbit",
@@ -700,6 +719,25 @@
    "source_url": "https://www.dashworks.ai",
    "tool_page": "https://ampm-aiops.com/tools/dashworks/",
    "ampm_ref": "AMPM-a0d33c5eb2"
+  },
+  {
+   "slug": "deepgram",
+   "name": "Deepgram",
+   "vendor": "Deepgram, Inc.",
+   "category": [
+    "voice",
+    "api"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "新註冊帳號贈送 US$200 免費使用額度，無需綁定信用卡即可測試",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 333.33,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-30",
+   "source_url": "https://deepgram.com",
+   "tool_page": "https://ampm-aiops.com/tools/deepgram/",
+   "ampm_ref": "AMPM-9c17726eba"
   },
   {
    "slug": "deepinfra",
@@ -1453,7 +1491,7 @@
    "free_tier": false,
    "free_tier_summary": "無免費方案，提供 14 天免費試用",
    "free_tier_summary_en": null,
-   "cheapest_paid_usd_per_month": 99,
+   "cheapest_paid_usd_per_month": 99.0,
    "cheapest_paid_twd_per_month": null,
    "commercial_use": "unknown",
    "last_verified": "2026-10-24",
@@ -2571,6 +2609,42 @@
    "source_url": "https://poe.com",
    "tool_page": "https://ampm-aiops.com/tools/poe/",
    "ampm_ref": "AMPM-0d229470b8"
+  },
+  {
+   "slug": "posthog",
+   "name": "PostHog",
+   "vendor": "PostHog, Inc.",
+   "category": [
+    "agent"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "每月免費額度：產品分析 100 萬次事件、Session Replay 5,000 次錄影、Feature Flags 100 萬次請求、LLM/AI Observability …",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": null,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-28",
+   "source_url": "https://posthog.com",
+   "tool_page": "https://ampm-aiops.com/tools/posthog/",
+   "ampm_ref": "AMPM-e588754b51"
+  },
+  {
+   "slug": "postman",
+   "name": "Postman",
+   "vendor": "Postman, Inc.",
+   "category": [
+    "coding"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "限單一使用者，提供無限制集合運行與 Mock 伺服器、每月 1,000 次 API 監控請求、每月 100 點Postman AI 額度",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 12,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-30",
+   "source_url": "https://www.postman.com",
+   "tool_page": "https://ampm-aiops.com/tools/postman/",
+   "ampm_ref": "AMPM-e9dfccedd2"
   },
   {
    "slug": "postsyncer",
