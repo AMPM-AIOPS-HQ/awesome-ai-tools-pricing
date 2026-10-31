@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-10-31T04:00:03+08:00",
+ "generated_at": "2026-11-01T04:00:03+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 215,
+ "row_count": 220,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-30",
- "tool_count": 215,
+ "last_verified_max": "2026-10-31",
+ "tool_count": 220,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -1035,6 +1035,24 @@
    "ampm_ref": "AMPM-e854e99b64"
   },
   {
+   "slug": "foxit-pdf-editor",
+   "name": "Foxit PDF Editor",
+   "vendor": "Foxit Software",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 10.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-31",
+   "source_url": "https://www.foxit.com/pdf-editor/",
+   "tool_page": "https://ampm-aiops.com/tools/foxit-pdf-editor/",
+   "ampm_ref": "AMPM-20f290999e"
+  },
+  {
    "slug": "framer",
    "name": "Framer",
    "vendor": "Framer B.V.",
@@ -1721,6 +1739,24 @@
    "ampm_ref": "AMPM-c6d60281d4"
   },
   {
+   "slug": "languagetool",
+   "name": "LanguageTool",
+   "vendor": "LanguageTooler GmbH",
+   "category": [
+    "writing"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "基礎拼字與文法檢查，單一文本輸入框上限 2,000 字元，每日 3 次 AI 改寫",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 11.07,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-31",
+   "source_url": "https://languagetool.org",
+   "tool_page": "https://ampm-aiops.com/tools/languagetool/",
+   "ampm_ref": "AMPM-33cb1d6e95"
+  },
+  {
    "slug": "leonardo",
    "name": "Leonardo AI",
    "vendor": "Leonardo",
@@ -2091,6 +2127,24 @@
    "source_url": "https://monica.im",
    "tool_page": "https://ampm-aiops.com/tools/monica/",
    "ampm_ref": "AMPM-abbd62b52e"
+  },
+  {
+   "slug": "mubert",
+   "name": "Mubert",
+   "vendor": "Mubert Inc.",
+   "category": [
+    "voice"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Ambassador 方案：每月 25 次生成、每月 5 次下載、每日生成時長上限 30 分鐘，僅支援 MP3 格式且含音訊浮水印，限非商業用途且必須標註出處",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 14,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-31",
+   "source_url": "https://mubert.com/",
+   "tool_page": "https://ampm-aiops.com/tools/mubert/",
+   "ampm_ref": "AMPM-df5447b5ec"
   },
   {
    "slug": "mural",
@@ -2866,7 +2920,7 @@
    "cheapest_paid_usd_per_month": null,
    "cheapest_paid_twd_per_month": null,
    "commercial_use": true,
-   "last_verified": "2026-09-27",
+   "last_verified": "2026-10-31",
    "source_url": "https://replicate.com",
    "tool_page": "https://ampm-aiops.com/tools/replicate/",
    "ampm_ref": "AMPM-229970d483"
@@ -3835,6 +3889,43 @@
    "source_url": "https://viggle.ai",
    "tool_page": "https://ampm-aiops.com/tools/viggle/",
    "ampm_ref": "AMPM-e1585d45f8"
+  },
+  {
+   "slug": "vmake",
+   "name": "Vmake",
+   "vendor": "Vmake Labs",
+   "category": [
+    "video",
+    "image"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "註冊送 5 點點數；基礎非生成功能提供無限次預覽，但匯出結果帶有浮水印且有解析度限制",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 9.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-31",
+   "source_url": "https://vmake.ai/",
+   "tool_page": "https://ampm-aiops.com/tools/vmake/",
+   "ampm_ref": "AMPM-b918f439ca"
+  },
+  {
+   "slug": "voice-ai",
+   "name": "Voice.ai",
+   "vendor": "Voice.ai Inc.",
+   "category": [
+    "voice"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "每月 5,000 點免費點數，單次 TTS 轉換上限 500 字元，不可下載 TTS 音訊檔，無即時聲音克隆",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 5,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-31",
+   "source_url": "https://voice.ai",
+   "tool_page": "https://ampm-aiops.com/tools/voice-ai/",
+   "ampm_ref": "AMPM-3fb4f6e308"
   },
   {
    "slug": "warp",

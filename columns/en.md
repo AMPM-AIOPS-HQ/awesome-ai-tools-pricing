@@ -1,5 +1,12 @@
 # Columns (published)
 
+- 2026-11-01 [(News) Mori, the Silent Screenless Robot Built to Win Back Your Attention: Does It Change Anything for Speechify Users?](https://ampm-aiops.com/en/guides/speechify-news-20261101/)
+- 2026-11-01 [(News) Fireflies.ai and the Dartmouth Provost Story: What Should You Ask Before a Bot Joins Your Meeting?](https://ampm-aiops.com/en/guides/fireflies-ai-news-20261101/)
+- 2026-11-01 [(News) DoorDash Says AI Agents Placed Only 'Several Hundred' Orders: Should Taskade Users Care?](https://ampm-aiops.com/en/guides/taskade-news-20261101/)
+- 2026-11-01 [(News) AI Infostealer That 'Autodoxes' Victims: What It Means for PostSyncer Users and Social Logins](https://ampm-aiops.com/en/guides/postsyncer-news-20261101/)
+- 2026-10-31 [(Review) Veo Free vs Paid: Which Google Plan Is Actually Worth Paying For?](https://ampm-aiops.com/en/guides/veo-review-2026/)
+- 2026-10-31 [(Review) Floot Free Usage Limits 2026: Where the Free Plan Actually Stops](https://ampm-aiops.com/en/guides/floot-review-2026/)
+- 2026-10-31 [ChatGPT Pro Gets Double Work and Codex Usage, Pro 200 Cut Is Off: Same Price, No Taiwan Discount](https://ampm-aiops.com/en/guides/chatgpt-news-20261031/)
 - 2026-10-30 [(How-to) beehiiv Free Usage Limits 2026: Where the Free Plan Stops Working](https://ampm-aiops.com/en/guides/beehiiv-ai-howto-2026/)
 - 2026-10-30 [(How-to) Tilda Publishing free vs paid: Which Limit Stops You First](https://ampm-aiops.com/en/guides/tilda-publishing-howto-2026/)
 - 2026-10-30 [(How-to) Sudowrite free vs paid: What Can You Actually Do Before You Pay?](https://ampm-aiops.com/en/guides/sudowrite-howto-2026/)

@@ -1,7 +1,9 @@
 {
  "dataset": "price-history",
  "monthly_dir": "data/price-history/monthly",
- "months": [],
+ "months": [
+  "2026-10"
+ ],
  "rule": "one summary file per finished month; written once, never rewritten. Raw reads stay on our server; files before 2026-10-21 remain in git history.",
  "title": "AI tool price checks — monthly summaries"
 }

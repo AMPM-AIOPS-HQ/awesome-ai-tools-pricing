@@ -1,5 +1,12 @@
 # 專欄（已上線）
 
+- 2026-11-01 [問問貓先查 DoorDash 的「幾百筆」，再告訴你 Taskade 這類 AI agent 值不值得跟](https://ampm-aiops.com/guides/taskade-news-20261101/)
+- 2026-11-01 [PostSyncer 評價：AI 竊資木馬新聞，能用它發資安提醒嗎](https://ampm-aiops.com/guides/postsyncer-news-20261101/)
+- 2026-11-01 [Mori 陪伴機器人不說話也沒有螢幕，主打找回注意力：滑手機停不下來的人該期待還是先觀望](https://ampm-aiops.com/guides/speechify-news-20261101/)
+- 2026-11-01 [Fireflies.ai 評價：我先查了達特茅斯教務長事件，查不到的先講清楚，再談 AI 會議記錄哪裡有坑](https://ampm-aiops.com/guides/fireflies-ai-news-20261101/)
+- 2026-10-31 [Veo 免費額度每日 50 點？Google Flow 官網沒寫，Plus、Pro、Ultra 付費點數與月費整理](https://ampm-aiops.com/guides/veo-review-2026/)
+- 2026-10-31 [Floot 免費版值不值得用？我查了官網：失敗不計次，但每週總量池上限沒公開](https://ampm-aiops.com/guides/floot-review-2026/)
+- 2026-10-31 [ChatGPT Pro 用量加倍、Pro 200 縮水喊卡：月費沒降，台灣這次也沒有折扣](https://ampm-aiops.com/guides/chatgpt-news-20261031/)
 - 2026-10-30 [beehiiv 免費版能用到 2,500 人嗎？自訂網域、自動化、廣告限制與 Lite 月繳 US$59 價格](https://ampm-aiops.com/guides/beehiiv-ai-howto-2026/)
 - 2026-10-30 [Tilda Publishing 免費版：50 頁是明寫的，50MB 才是先卡住你的那個](https://ampm-aiops.com/guides/tilda-publishing-howto-2026/)
 - 2026-10-30 [Sudowrite 的 100 萬點先別全信：我查了點數拆法，穩穩用以 450,000 點規劃](https://ampm-aiops.com/guides/sudowrite-howto-2026/)

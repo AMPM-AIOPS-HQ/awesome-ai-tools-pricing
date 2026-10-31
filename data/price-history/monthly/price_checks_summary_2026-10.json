@@ -1,0 +1,8352 @@
+{
+ "dataset": "price-history-monthly",
+ "month": "2026-10",
+ "note": "Summary of our automated official-page price checks for this month. Raw reads, screenshots and page text are kept on our server.",
+ "tools": {
+  "adobe-firefly": {
+   "checks": 64,
+   "last_checked_at": "2026-10-27T20:03:01+08:00",
+   "name": "Adobe Firefly",
+   "plans": {
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      199.99
+     ],
+     "verdicts": {
+      "mismatch": 6,
+      "not_found": 4,
+      "ok": 6
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19.99
+     ],
+     "verdicts": {
+      "not_found": 4,
+      "ok": 12
+     }
+    },
+    "Pro Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      49.99
+     ],
+     "verdicts": {
+      "mismatch": 6,
+      "not_found": 4,
+      "ok": 6
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      9.99
+     ],
+     "verdicts": {
+      "not_found": 4,
+      "ok": 12
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 12,
+    "not_found": 16,
+    "ok": 36
+   }
+  },
+  "agorapulse": {
+   "checks": 21,
+   "last_checked_at": "2026-10-31T21:09:44+08:00",
+   "name": "Agorapulse",
+   "plans": {
+    "Advanced": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      199
+     ],
+     "verdicts": {
+      "not_found": 7
+     }
+    },
+    "Professional": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      149
+     ],
+     "verdicts": {
+      "not_found": 7
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99
+     ],
+     "verdicts": {
+      "not_found": 7
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 21
+   }
+  },
+  "aider": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T20:49:19+08:00",
+   "name": "aider",
+   "plans": {
+    "API 成本(自選供應商)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16
+   }
+  },
+  "airmusic": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:53:39+08:00",
+   "name": "AirMusic",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      59.8
+     ],
+     "verdicts": {
+      "mismatch": 16
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      39.8
+     ],
+     "verdicts": {
+      "mismatch": 16
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 32
+   }
+  },
+  "aiva": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:08:20+08:00",
+   "name": "AIVA",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      53.5
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      16.5
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16
+   }
+  },
+  "akool": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:13:15+08:00",
+   "name": "Akool",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      174
+     ],
+     "verdicts": {
+      "mismatch": 4
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 4
+     }
+    },
+    "Pro Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      41
+     ],
+     "verdicts": {
+      "mismatch": 4
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 4
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 8,
+    "ok_annual_unrecorded": 8
+   }
+  },
+  "amazon-q-developer": {
+   "checks": 3,
+   "last_checked_at": "2026-10-31T21:15:31+08:00",
+   "name": "Amazon Q Developer",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "ok": 3
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 3
+   }
+  },
+  "anijam": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:53:31+08:00",
+   "name": "Anijam",
+   "plans": {
+    "Beginner": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Creator": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      50
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Master": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Master Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      300
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 64
+   }
+  },
+  "anyword": {
+   "checks": 8,
+   "last_checked_at": "2026-10-31T21:13:24+08:00",
+   "name": "Anyword",
+   "plans": {
+    "Data-Driven": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99
+     ],
+     "verdicts": {
+      "ok": 4
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      49
+     ],
+     "verdicts": {
+      "ok": 4
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 8
+   }
+  },
+  "appwrite": {
+   "checks": 7,
+   "last_checked_at": "2026-10-31T21:11:23+08:00",
+   "name": "Appwrite",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "ok": 6
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 6,
+    "unverified": 1
+   }
+  },
+  "base44": {
+   "checks": 80,
+   "last_checked_at": "2026-10-31T20:53:16+08:00",
+   "name": "Base44",
+   "plans": {
+    "Builder": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      50
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Elite": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      200
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 64
+   }
+  },
+  "beehiiv-ai": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:05:57+08:00",
+   "name": "beehiiv",
+   "plans": {
+    "Lite": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      59
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      109
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 16
+   }
+  },
+  "bland-ai": {
+   "checks": 9,
+   "last_checked_at": "2026-10-31T21:13:02+08:00",
+   "name": "Bland AI",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Build": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      299
+     ],
+     "verdicts": {
+      "not_found": 4
+     }
+    },
+    "Start (Usage-based)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 4
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 8,
+    "unverified": 1
+   }
+  },
+  "bolt": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:45:39+08:00",
+   "name": "Bolt",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 4,
+      "ok": 12
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "not_found": 12,
+      "ok": 4
+     }
+    },
+    "Teams": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "mismatch": 7,
+      "not_found": 4,
+      "ok": 5
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 7,
+    "not_found": 20,
+    "ok": 21
+   }
+  },
+  "brave-leo": {
+   "checks": 8,
+   "last_checked_at": "2026-10-31T21:05:18+08:00",
+   "name": "Brave Leo",
+   "plans": {
+    "Leo Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      14.99
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 8
+   }
+  },
+  "builder-io": {
+   "checks": 13,
+   "last_checked_at": "2026-10-31T21:10:40+08:00",
+   "name": "Builder.io",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      24
+     ],
+     "verdicts": {
+      "ok": 6
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      40
+     ],
+     "verdicts": {
+      "ok": 6
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 12,
+    "unverified": 1
+   }
+  },
+  "buzzabout": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:53:22+08:00",
+   "name": "buzzabout",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      450.0
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      178.0
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      98.0
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 64
+   }
+  },
+  "calendly": {
+   "checks": 8,
+   "last_checked_at": "2026-10-31T21:15:07+08:00",
+   "name": "Calendly",
+   "plans": {
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "ok": 4
+     }
+    },
+    "Teams": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 4
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 8
+   }
+  },
+  "campaign-monitor": {
+   "checks": 24,
+   "last_checked_at": "2026-10-26T20:31:45+08:00",
+   "name": "Campaign Monitor",
+   "plans": {
+    "Essentials (0-500 contacts)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      31
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Lite (0-500 contacts)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      13
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Premier (0-500 contacts)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      171
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 24
+   }
+  },
+  "canva-ai": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:42:36+08:00",
+   "name": "Canva AI",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      18
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32
+   }
+  },
+  "capcut-ai": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:44:22+08:00",
+   "name": "CapCut AI",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32
+   }
+  },
+  "caspio": {
+   "checks": 10,
+   "last_checked_at": "2026-10-31T21:12:41+08:00",
+   "name": "Caspio",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      600
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 5
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      300
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 5
+     }
+    }
+   },
+   "verdicts": {
+    "ok_annual_unrecorded": 10
+   }
+  },
+  "chatgpt": {
+   "checks": 80,
+   "last_checked_at": "2026-10-31T20:40:20+08:00",
+   "name": "ChatGPT",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Go": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      8
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      200
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 64
+   }
+  },
+  "civitai": {
+   "checks": 24,
+   "last_checked_at": "2026-10-31T21:06:42+08:00",
+   "name": "Civitai",
+   "plans": {
+    "Bronze": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "not_found": 2,
+      "ok": 6
+     }
+    },
+    "Gold": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      50
+     ],
+     "verdicts": {
+      "not_found": 2,
+      "ok": 6
+     }
+    },
+    "Silver": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "not_found": 2,
+      "ok": 6
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 6,
+    "ok": 18
+   }
+  },
+  "claude": {
+   "checks": 96,
+   "last_checked_at": "2026-10-31T20:40:27+08:00",
+   "name": "Claude",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Max 20x": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      200
+     ],
+     "verdicts": {
+      "not_found": 1,
+      "ok": 15
+     }
+    },
+    "Max 5x": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "not_found": 1,
+      "ok": 15
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    },
+    "Team Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      125
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Team Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 34,
+    "ok": 46,
+    "ok_annual_unrecorded": 16
+   }
+  },
+  "clay": {
+   "checks": 12,
+   "last_checked_at": "2026-10-31T21:11:48+08:00",
+   "name": "Clay",
+   "plans": {
+    "Growth": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      495
+     ],
+     "verdicts": {
+      "not_found": 6
+     }
+    },
+    "Launch": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      185
+     ],
+     "verdicts": {
+      "not_found": 6
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 12
+   }
+  },
+  "clickup": {
+   "checks": 4,
+   "last_checked_at": "2026-10-31T21:16:53+08:00",
+   "name": "ClickUp",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "mismatch": 2
+     }
+    },
+    "Unlimited": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "mismatch": 2
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 4
+   }
+  },
+  "coderabbit": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:53:10+08:00",
+   "name": "CodeRabbit",
+   "plans": {
+    "Advanced": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      72
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Essentials": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      60
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 64
+   }
+  },
+  "codex": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:51:23+08:00",
+   "name": "Codex",
+   "plans": {
+    "含於 ChatGPT Go": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      8
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "含於 ChatGPT Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "含於 ChatGPT Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 48
+   }
+  },
+  "colibri": {
+   "checks": 45,
+   "last_checked_at": "2026-10-31T21:02:26+08:00",
+   "name": "Colibri",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Growth": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      60
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      50
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    },
+    "Scale": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      80
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 44,
+    "unverified": 1
+   }
+  },
+  "comet": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:46:50+08:00",
+   "name": "Comet",
+   "plans": {
+    "Comet Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      5
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      200
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 48
+   }
+  },
+  "contentstack": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:06:17+08:00",
+   "name": "Contentstack",
+   "plans": {
+    "Build": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Growth": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      299
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 16
+   }
+  },
+  "context-dev": {
+   "checks": 80,
+   "last_checked_at": "2026-10-31T20:50:54+08:00",
+   "name": "Context.dev",
+   "plans": {
+    "Developer": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "mismatch": 6,
+      "ok": 10
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 10,
+      "ok": 6
+     }
+    },
+    "Growth": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      299
+     ],
+     "verdicts": {
+      "mismatch": 6,
+      "ok": 10
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99
+     ],
+     "verdicts": {
+      "mismatch": 6,
+      "ok": 10
+     }
+    },
+    "Scale": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      499
+     ],
+     "verdicts": {
+      "mismatch": 6,
+      "ok": 10
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 24,
+    "not_found": 10,
+    "ok": 46
+   }
+  },
+  "copilot-microsoft": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:41:36+08:00",
+   "name": "Microsoft Copilot",
+   "plans": {
+    "M365 內含版": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Microsoft 365 Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32
+   }
+  },
+  "copy-ai": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:48:26+08:00",
+   "name": "Copy.ai",
+   "plans": {
+    "Chat": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32
+   }
+  },
+  "coze": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:47:05+08:00",
+   "name": "Coze",
+   "plans": {
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Premium Lite": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      9
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32
+   }
+  },
+  "createos-sandbox": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T20:47:40+08:00",
+   "name": "CreateOS Sandbox",
+   "plans": {
+    "按使用量": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16
+   }
+  },
+  "cursor": {
+   "checks": 82,
+   "last_checked_at": "2026-10-31T20:44:59+08:00",
+   "name": "Cursor",
+   "plans": {
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      8
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "not_found": 1
+     }
+    },
+    "Pro+": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      60
+     ],
+     "verdicts": {
+      "not_found": 1
+     }
+    },
+    "Super": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Teams": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      200
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 2,
+    "ok": 80
+   }
+  },
+  "dashworks": {
+   "checks": 23,
+   "last_checked_at": "2026-10-31T21:02:46+08:00",
+   "name": "Dashworks",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Business Plan": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    },
+    "Team Plan": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 22,
+    "unverified": 1
+   }
+  },
+  "deepgram": {
+   "checks": 4,
+   "last_checked_at": "2026-10-31T21:16:25+08:00",
+   "name": "Deepgram",
+   "plans": {
+    "Growth": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      333.33
+     ],
+     "verdicts": {
+      "not_found": 2
+     }
+    },
+    "Pay As You Go": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 2
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 4
+   }
+  },
+  "deepinfra": {
+   "checks": 8,
+   "last_checked_at": "2026-10-31T21:06:47+08:00",
+   "name": "DeepInfra",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "no_paid_plans": 8
+     }
+    }
+   },
+   "verdicts": {
+    "no_paid_plans": 8
+   }
+  },
+  "deepl": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:50:09+08:00",
+   "name": "DeepL",
+   "plans": {
+    "API Growth（開發者）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      26
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Business（企業）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      68.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Individual（個人）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10.49
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Team（團隊）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      34.49
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 64
+   }
+  },
+  "deepseek": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:40:51+08:00",
+   "name": "DeepSeek",
+   "plans": {
+    "API - DeepSeek-V4-Flash": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "API - DeepSeek-V4-Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32
+   }
+  },
+  "descript": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:51:38+08:00",
+   "name": "Descript",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      65
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Creator": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      35
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Hobbyist": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      24
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 48
+   }
+  },
+  "elevenlabs": {
+   "checks": 96,
+   "last_checked_at": "2026-10-31T20:44:35+08:00",
+   "name": "ElevenLabs",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      990
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Creator": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      22
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Scale": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      299
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      6
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 80
+   }
+  },
+  "elevenreader": {
+   "checks": 3,
+   "last_checked_at": "2026-10-31T21:15:22+08:00",
+   "name": "ElevenReader",
+   "plans": {
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      11
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 3
+     }
+    }
+   },
+   "verdicts": {
+    "ok_annual_unrecorded": 3
+   }
+  },
+  "fathom": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:56:18+08:00",
+   "name": "Fathom",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      16
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 48,
+    "ok": 16
+   }
+  },
+  "felo": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:41:15+08:00",
+   "name": "Felo",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      14.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro(年繳)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12.5
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32
+   }
+  },
+  "filmora": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:59:41+08:00",
+   "name": "Filmora",
+   "plans": {
+    "Advanced": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      5.0
+     ],
+     "verdicts": {
+      "not_found": 6,
+      "ok": 10
+     }
+    },
+    "Basic": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      4.17
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      8.33
+     ],
+     "verdicts": {
+      "not_found": 6,
+      "ok": 10
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 12,
+    "ok": 36
+   }
+  },
+  "finevoice": {
+   "checks": 96,
+   "last_checked_at": "2026-10-31T20:59:30+08:00",
+   "name": "FineVoice",
+   "plans": {
+    "Basic（年繳）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      71.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Basic（月繳）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      8.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro（年繳）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro（月繳）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      17.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Ultra（年繳）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      129.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Ultra（月繳）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      24.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 96
+   }
+  },
+  "fireflies-ai": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:55:20+08:00",
+   "name": "Fireflies.ai",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "ok_annual_only": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      39
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      18
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 32,
+    "ok_annual_only": 16
+   }
+  },
+  "fireworks-ai": {
+   "checks": 7,
+   "last_checked_at": "2026-10-31T21:11:00+08:00",
+   "name": "Fireworks AI",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Serverless Inference (Pay-as-you-go)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 6
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 6,
+    "unverified": 1
+   }
+  },
+  "flagsmith": {
+   "checks": 12,
+   "last_checked_at": "2026-10-31T21:11:58+08:00",
+   "name": "Flagsmith",
+   "plans": {
+    "Scale-Up": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      300
+     ],
+     "verdicts": {
+      "ok": 6
+     }
+    },
+    "Start-Up": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      45
+     ],
+     "verdicts": {
+      "ok": 6
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 12
+   }
+  },
+  "fliki": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:57:20+08:00",
+   "name": "Fliki",
+   "plans": {
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      88
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      28
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok_annual_unrecorded": 32
+   }
+  },
+  "floot": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:53:48+08:00",
+   "name": "Floot",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Power": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 32
+   }
+  },
+  "foxit-pdf-editor": {
+   "checks": 2,
+   "last_checked_at": "2026-10-31T21:17:18+08:00",
+   "name": "Foxit PDF Editor",
+   "plans": {
+    "PDF Editor": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10.99
+     ],
+     "verdicts": {
+      "not_found": 1
+     }
+    },
+    "PDF Editor+": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      13.99
+     ],
+     "verdicts": {
+      "not_found": 1
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 2
+   }
+  },
+  "framer": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:56:55+08:00",
+   "name": "Framer",
+   "plans": {
+    "Basic": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 48
+   }
+  },
+  "gamma": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:45:57+08:00",
+   "name": "Gamma",
+   "plans": {
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 48
+   }
+  },
+  "gemini": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:40:36+08:00",
+   "name": "Gemini",
+   "plans": {
+    "AI Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      4.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "AI Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "AI Ultra 20x": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      199.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "AI Ultra 5x": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32,
+    "ok": 32
+   }
+  },
+  "getresponse": {
+   "checks": 7,
+   "last_checked_at": "2026-10-31T21:15:57+08:00",
+   "name": "GetResponse",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Creator": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      69
+     ],
+     "verdicts": {
+      "ok": 2
+     }
+    },
+    "Marketer": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      59
+     ],
+     "verdicts": {
+      "not_found": 2
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "ok": 2
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 2,
+    "ok": 4,
+    "unverified": 1
+   }
+  },
+  "github-copilot": {
+   "checks": 80,
+   "last_checked_at": "2026-10-31T20:45:09+08:00",
+   "name": "GitHub Copilot",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      39
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro+": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      39
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32,
+    "ok": 48
+   }
+  },
+  "glaze": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:49:36+08:00",
+   "name": "Glaze by Raycast",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      35
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32
+   }
+  },
+  "google-ai-studio": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T20:46:18+08:00",
+   "name": "Google AI Studio",
+   "plans": {
+    "API 按量": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16
+   }
+  },
+  "gosearch": {
+   "checks": 12,
+   "last_checked_at": "2026-10-31T21:01:48+08:00",
+   "name": "GoSearch",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 12
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 12
+   }
+  },
+  "gptzero": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T21:01:27+08:00",
+   "name": "GPTZero",
+   "plans": {
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      23.99
+     ],
+     "verdicts": {
+      "ok_annual_only": 16
+     }
+    },
+    "Professional": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      45.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 16,
+    "ok_annual_only": 16
+   }
+  },
+  "grain": {
+   "checks": 9,
+   "last_checked_at": "2026-10-31T21:12:56+08:00",
+   "name": "Grain",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      39
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 4
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "not_found": 4
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 4,
+    "ok_annual_unrecorded": 4,
+    "unverified": 1
+   }
+  },
+  "grammarly": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:50:40+08:00",
+   "name": "Grammarly",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 16
+   }
+  },
+  "granola": {
+   "checks": 6,
+   "last_checked_at": "2026-10-31T21:15:42+08:00",
+   "name": "Granola",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      14
+     ],
+     "verdicts": {
+      "ok": 3
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      35
+     ],
+     "verdicts": {
+      "ok": 3
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 6
+   }
+  },
+  "grist": {
+   "checks": 11,
+   "last_checked_at": "2026-10-31T21:04:08+08:00",
+   "name": "Grist",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 11
+   }
+  },
+  "grok": {
+   "checks": 84,
+   "last_checked_at": "2026-10-31T20:40:44+08:00",
+   "name": "Grok",
+   "plans": {
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      8
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Super": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "SuperGrok": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "not_found": 1
+     }
+    },
+    "SuperGrok Heavy": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      300
+     ],
+     "verdicts": {
+      "not_found": 1
+     }
+    },
+    "SuperGrok Lite": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "not_found": 1
+     }
+    },
+    "SuperGrok Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "not_found": 1
+     }
+    },
+    "Teams": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      200
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 4,
+    "ok": 80
+   }
+  },
+  "groq": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:49:54+08:00",
+   "name": "Groq",
+   "plans": {
+    "API - GPT OSS 120B": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "API - GPT OSS 20B": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "API - Llama 3.1 8B Instant": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "API - Llama 3.3 70B Versatile": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 64
+   }
+  },
+  "hailuo-ai": {
+   "checks": 80,
+   "last_checked_at": "2026-10-31T21:00:04+08:00",
+   "name": "Hailuo AI",
+   "plans": {
+    "Master": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      94.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      199.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      54.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      14.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      124.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 80
+   }
+  },
+  "hedra": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:58:43+08:00",
+   "name": "Hedra",
+   "plans": {
+    "Basic": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "not_found": 15,
+      "ok": 1
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      50
+     ],
+     "verdicts": {
+      "not_found": 15,
+      "ok": 1
+     }
+    },
+    "Teams": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      75
+     ],
+     "verdicts": {
+      "not_found": 15,
+      "ok": 1
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "not_found": 15,
+      "ok": 1
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 60,
+    "ok": 4
+   }
+  },
+  "hemory": {
+   "checks": 34,
+   "last_checked_at": "2026-10-31T21:03:03+08:00",
+   "name": "Hemory",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      50
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 33,
+    "unverified": 1
+   }
+  },
+  "heygen": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:43:57+08:00",
+   "name": "HeyGen",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      149
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Creator": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      49
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 48
+   }
+  },
+  "higgsfield": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T21:00:33+08:00",
+   "name": "Higgsfield",
+   "plans": {
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      59
+     ],
+     "verdicts": {
+      "not_found": 13,
+      "ok": 3
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "not_found": 13,
+      "ok": 3
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      129
+     ],
+     "verdicts": {
+      "not_found": 13,
+      "ok": 3
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 39,
+    "ok": 9
+   }
+  },
+  "holaos": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:58:49+08:00",
+   "name": "holaOS",
+   "plans": {
+    "Growth": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      499
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Scale": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      3000
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 48
+   }
+  },
+  "hostinger": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:56:29+08:00",
+   "name": "Hostinger AI Website Builder",
+   "plans": {
+    "Cloud Startup": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      7.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      2.99
+     ],
+     "verdicts": {
+      "mismatch": 13,
+      "ok": 3
+     }
+    },
+    "Unlimited": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      3.99
+     ],
+     "verdicts": {
+      "mismatch": 13,
+      "ok": 3
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 26,
+    "ok": 22
+   }
+  },
+  "ideogram": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:42:22+08:00",
+   "name": "Ideogram",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 10,
+      "ok": 6
+     }
+    },
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      60
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 10,
+    "ok": 38,
+    "ok_annual_unrecorded": 16
+   }
+  },
+  "instapage": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:09:05+08:00",
+   "name": "Instapage",
+   "plans": {
+    "Create": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Optimize": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      199
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16
+   }
+  },
+  "invideo": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:57:30+08:00",
+   "name": "InVideo AI",
+   "plans": {
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      150
+     ],
+     "verdicts": {
+      "mismatch": 2,
+      "ok_annual_unrecorded": 14
+     }
+    },
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      60
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 2,
+    "ok_annual_unrecorded": 46
+   }
+  },
+  "jasper-ai": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:53:00+08:00",
+   "name": "Jasper AI",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      69
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 16
+   }
+  },
+  "kagi": {
+   "checks": 40,
+   "last_checked_at": "2026-10-31T21:08:41+08:00",
+   "name": "Kagi",
+   "plans": {
+    "Duo": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      14
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Family": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Professional": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      5
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Ultimate": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 24
+   }
+  },
+  "kinsta": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T21:06:55+08:00",
+   "name": "Kinsta",
+   "plans": {
+    "Business 1": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      115
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Business 2": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      225
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      70
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      35
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32
+   }
+  },
+  "kintone": {
+   "checks": 12,
+   "last_checked_at": "2026-10-31T21:02:56+08:00",
+   "name": "Kintone",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Professional Edition": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      24
+     ],
+     "verdicts": {
+      "not_found": 11
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 11,
+    "unverified": 1
+   }
+  },
+  "klaviyo": {
+   "checks": 22,
+   "last_checked_at": "2026-10-31T21:04:20+08:00",
+   "name": "Klaviyo",
+   "plans": {
+    "Email (500 profiles)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "not_found": 11
+     }
+    },
+    "Email and SMS (500 profiles)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      35
+     ],
+     "verdicts": {
+      "not_found": 11
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 22
+   }
+  },
+  "kling": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:43:40+08:00",
+   "name": "Kling",
+   "plans": {
+    "Premier": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      92.0
+     ],
+     "verdicts": {
+      "mismatch": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      37.0
+     ],
+     "verdicts": {
+      "mismatch": 16
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10.0
+     ],
+     "verdicts": {
+      "mismatch": 16
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      180.0
+     ],
+     "verdicts": {
+      "mismatch": 16
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 64
+   }
+  },
+  "krisp": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:57:00+08:00",
+   "name": "Krisp",
+   "plans": {
+    "Advanced": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Core": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      16
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 48
+   }
+  },
+  "krispcall": {
+   "checks": 12,
+   "last_checked_at": "2026-10-31T21:14:33+08:00",
+   "name": "KrispCall",
+   "plans": {
+    "Advance": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      40
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 4
+     }
+    },
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      60
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 4
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 4
+     }
+    }
+   },
+   "verdicts": {
+    "ok_annual_unrecorded": 12
+   }
+  },
+  "lalal-ai": {
+   "checks": 20,
+   "last_checked_at": "2026-10-31T21:04:50+08:00",
+   "name": "LALAL.AI",
+   "plans": {
+    "Lite": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      9.99
+     ],
+     "verdicts": {
+      "ok": 10
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19.99
+     ],
+     "verdicts": {
+      "ok": 10
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 20
+   }
+  },
+  "landr": {
+   "checks": 7,
+   "last_checked_at": "2026-10-31T21:16:06+08:00",
+   "name": "Landr",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Studio Essentials": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      13
+     ],
+     "verdicts": {
+      "not_found": 2
+     }
+    },
+    "Studio Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "not_found": 2
+     }
+    },
+    "Studio Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "not_found": 2
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 6,
+    "unverified": 1
+   }
+  },
+  "langfuse": {
+   "checks": 13,
+   "last_checked_at": "2026-10-31T21:13:07+08:00",
+   "name": "Langfuse",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Core": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "not_found": 4
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      2499
+     ],
+     "verdicts": {
+      "not_found": 4
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      199
+     ],
+     "verdicts": {
+      "not_found": 4
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 12,
+    "unverified": 1
+   }
+  },
+  "languagetool": {
+   "checks": 2,
+   "last_checked_at": "2026-10-31T21:17:39+08:00",
+   "name": "LanguageTool",
+   "plans": {
+    "Premium (Monthly)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      24.9
+     ],
+     "verdicts": {
+      "not_found": 1
+     }
+    },
+    "Teams": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      11.07
+     ],
+     "verdicts": {
+      "not_found": 1
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 2
+   }
+  },
+  "leonardo": {
+   "checks": 80,
+   "last_checked_at": "2026-10-31T20:42:14+08:00",
+   "name": "Leonardo AI",
+   "plans": {
+    "Essential": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "not_found": 11,
+      "ok": 5
+     }
+    },
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "not_found": 11,
+      "ok": 5
+     }
+    },
+    "Team Growth": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      144
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Team Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      72
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Ultimate": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      60
+     ],
+     "verdicts": {
+      "not_found": 11,
+      "ok": 5
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 65,
+    "ok": 15
+   }
+  },
+  "linear": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:05:24+08:00",
+   "name": "Linear",
+   "plans": {
+    "Basic": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 8
+     }
+    },
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      18
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 8
+     }
+    }
+   },
+   "verdicts": {
+    "ok_annual_unrecorded": 16
+   }
+  },
+  "livedocs": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:47:22+08:00",
+   "name": "Livedocs",
+   "plans": {
+    "Builder": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Custom Plan": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 32
+   }
+  },
+  "lm-studio": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:06:09+08:00",
+   "name": "LM Studio",
+   "plans": {
+    "Bionic+": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 16
+   }
+  },
+  "loopmessage": {
+   "checks": 24,
+   "last_checked_at": "2026-10-31T21:05:03+08:00",
+   "name": "LoopMessage",
+   "plans": {
+    "Dedicated Sender Light": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      59.99
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Dedicated Sender Regular": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99.99
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Shared Sender Regular": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 24
+   }
+  },
+  "lovable": {
+   "checks": 80,
+   "last_checked_at": "2026-10-31T20:49:24+08:00",
+   "name": "Lovable",
+   "plans": {
+    "Business（100 credits）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      50
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro（100 credits）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro（200 credits）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      50
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro（400 credits）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 80
+   }
+  },
+  "luma": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:54:12+08:00",
+   "name": "Luma AI",
+   "plans": {
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      90
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      300
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok_annual_unrecorded": 48
+   }
+  },
+  "magic-hour": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:51:15+08:00",
+   "name": "Magic Hour",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99
+     ],
+     "verdicts": {
+      "mismatch": 14,
+      "ok": 2
+     }
+    },
+    "Creator": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "mismatch": 14,
+      "ok": 2
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      39
+     ],
+     "verdicts": {
+      "mismatch": 14,
+      "ok": 2
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 42,
+    "ok": 6
+   }
+  },
+  "mailerlite": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:05:31+08:00",
+   "name": "MailerLite",
+   "plans": {
+    "Comfort": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 8
+     }
+    },
+    "Power": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 8
+     }
+    }
+   },
+   "verdicts": {
+    "ok_annual_unrecorded": 16
+   }
+  },
+  "make": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:56:48+08:00",
+   "name": "Make",
+   "plans": {
+    "Core": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      9
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      16
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Teams": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 64
+   }
+  },
+  "manus": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:46:09+08:00",
+   "name": "Manus",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      200
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      40
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 3,
+      "ok_annual_unrecorded": 13
+     }
+    },
+    "基礎": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 48,
+    "ok": 3,
+    "ok_annual_unrecorded": 13
+   }
+  },
+  "markopolo-ai": {
+   "checks": 24,
+   "last_checked_at": "2026-10-31T21:02:14+08:00",
+   "name": "Markopolo AI",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      31.99
+     ],
+     "verdicts": {
+      "mismatch": 12
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      8.79
+     ],
+     "verdicts": {
+      "mismatch": 12
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 24
+   }
+  },
+  "meshy": {
+   "checks": 80,
+   "last_checked_at": "2026-10-31T21:00:11+08:00",
+   "name": "Meshy",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      40
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Studio": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      70
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 80
+   }
+  },
+  "midjourney": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:41:51+08:00",
+   "name": "Midjourney",
+   "plans": {
+    "Basic": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    },
+    "Mega": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      120
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      60
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok_annual_unrecorded": 64
+   }
+  },
+  "mindmeister": {
+   "checks": 21,
+   "last_checked_at": "2026-10-31T21:09:51+08:00",
+   "name": "MindMeister",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "not_found": 7
+     }
+    },
+    "Personal": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      7.5
+     ],
+     "verdicts": {
+      "not_found": 7
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12.5
+     ],
+     "verdicts": {
+      "not_found": 7
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 21
+   }
+  },
+  "miro": {
+   "checks": 5,
+   "last_checked_at": "2026-10-31T21:15:49+08:00",
+   "name": "Miro",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "ok": 2
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "ok": 2
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 4,
+    "unverified": 1
+   }
+  },
+  "mistral": {
+   "checks": 80,
+   "last_checked_at": "2026-10-31T20:52:31+08:00",
+   "name": "Mistral AI",
+   "plans": {
+    "API - Mistral Large": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0.5
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "API - Mistral Small": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0.15
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Education plan": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      5.99
+     ],
+     "verdicts": {
+      "mismatch": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      14.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      24.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 16,
+    "not_found": 32,
+    "ok": 32
+   }
+  },
+  "modal": {
+   "checks": 9,
+   "last_checked_at": "2026-10-31T21:12:46+08:00",
+   "name": "Modal",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "ok": 4
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      250
+     ],
+     "verdicts": {
+      "ok": 4
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 8,
+    "unverified": 1
+   }
+  },
+  "monica": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:41:45+08:00",
+   "name": "Monica",
+   "plans": {
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      16.6
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      8.3
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      82.9
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 48
+   }
+  },
+  "mubert": {
+   "checks": 3,
+   "last_checked_at": "2026-10-31T21:18:07+08:00",
+   "name": "Mubert",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      199
+     ],
+     "verdicts": {
+      "ok": 1
+     }
+    },
+    "Creator": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      14
+     ],
+     "verdicts": {
+      "ok": 1
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      39
+     ],
+     "verdicts": {
+      "ok": 1
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 3
+   }
+  },
+  "mural": {
+   "checks": 12,
+   "last_checked_at": "2026-10-31T21:11:33+08:00",
+   "name": "Mural",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      17.99
+     ],
+     "verdicts": {
+      "ok": 6
+     }
+    },
+    "Team+": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 6
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 6,
+    "ok_annual_unrecorded": 6
+   }
+  },
+  "murf-ai": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:52:40+08:00",
+   "name": "Murf AI",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Creator": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32
+   }
+  },
+  "mymind": {
+   "checks": 33,
+   "last_checked_at": "2026-10-31T21:03:44+08:00",
+   "name": "mymind",
+   "plans": {
+    "Mastermind": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12.99
+     ],
+     "verdicts": {
+      "ok": 2,
+      "ok_annual_unrecorded": 9
+     }
+    },
+    "Student of Life": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      7.99
+     ],
+     "verdicts": {
+      "ok": 2,
+      "ok_annual_unrecorded": 9
+     }
+    },
+    "The Bookmarker": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      4.99
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 15,
+    "ok_annual_unrecorded": 18
+   }
+  },
+  "n8n": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:56:06+08:00",
+   "name": "n8n",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      667
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 11,
+      "ok": 5
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      50
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 27,
+    "ok": 37
+   }
+  },
+  "nano-banana": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:41:56+08:00",
+   "name": "Nano Banana",
+   "plans": {
+    "Google AI Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      4.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Google AI Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Google AI Ultra 20x": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      199.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Google AI Ultra 5x": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32,
+    "ok": 32
+   }
+  },
+  "napkin-ai": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:58:14+08:00",
+   "name": "Napkin AI",
+   "plans": {
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      9
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      22
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 32
+   }
+  },
+  "nitro-pdf": {
+   "checks": 13,
+   "last_checked_at": "2026-10-31T21:10:32+08:00",
+   "name": "Nitro PDF",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Nitro PDF Classic": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      270
+     ],
+     "verdicts": {
+      "not_found": 6
+     }
+    },
+    "Nitro PDF Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "not_found": 6
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 12,
+    "unverified": 1
+   }
+  },
+  "nocodb": {
+   "checks": 33,
+   "last_checked_at": "2026-10-31T21:03:35+08:00",
+   "name": "NocoDB",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    },
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    },
+    "Scale": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      54
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 33
+   }
+  },
+  "notebooklm": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:45:48+08:00",
+   "name": "Gemini Notebook",
+   "plans": {
+    "Google AI Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      4.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Google AI Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Google AI Ultra 20x": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      199.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Google AI Ultra 5x": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32,
+    "ok": 32
+   }
+  },
+  "notion-ai": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:46:30+08:00",
+   "name": "Notion AI",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      24
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "學生方案(Plus)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32,
+    "ok": 32
+   }
+  },
+  "notta": {
+   "checks": 14,
+   "last_checked_at": "2026-10-31T21:10:03+08:00",
+   "name": "Notta",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      27.99
+     ],
+     "verdicts": {
+      "mismatch": 7
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      13.49
+     ],
+     "verdicts": {
+      "mismatch": 7
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 14
+   }
+  },
+  "octoparse": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:04:58+08:00",
+   "name": "Octoparse",
+   "plans": {
+    "Professional": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      299
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 8
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      83
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 8
+     }
+    }
+   },
+   "verdicts": {
+    "ok_annual_unrecorded": 16
+   }
+  },
+  "omnisend": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:08:32+08:00",
+   "name": "Omnisend",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      59
+     ],
+     "verdicts": {
+      "mismatch": 8
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      16
+     ],
+     "verdicts": {
+      "mismatch": 8
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 16
+   }
+  },
+  "openrouter": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:49:43+08:00",
+   "name": "OpenRouter",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pay-as-you-go": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 16
+   }
+  },
+  "openseo": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T20:50:46+08:00",
+   "name": "OpenSEO",
+   "plans": {
+    "Hosted Base Plan": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16
+   }
+  },
+  "opus-clip": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:52:08+08:00",
+   "name": "OpusClip",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 48
+   }
+  },
+  "otter-ai": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:50:29+08:00",
+   "name": "Otter.ai",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      16.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 32
+   }
+  },
+  "pagewiz": {
+   "checks": 45,
+   "last_checked_at": "2026-10-31T21:02:21+08:00",
+   "name": "Pagewiz",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Basic": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    },
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      199
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      49
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 44,
+    "unverified": 1
+   }
+  },
+  "pazi": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T20:49:31+08:00",
+   "name": "Pazi",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "mismatch": 16
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 16
+   }
+  },
+  "perplexity": {
+   "checks": 80,
+   "last_checked_at": "2026-10-30T20:01:25+08:00",
+   "name": "Perplexity",
+   "plans": {
+    "Education Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Enterprise Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      325
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Enterprise Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      40
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      200
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "mismatch": 11,
+      "not_found": 5
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 11,
+    "not_found": 69
+   }
+  },
+  "petal": {
+   "checks": 34,
+   "last_checked_at": "2026-10-31T21:03:21+08:00",
+   "name": "Petal",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Advanced": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      13.99
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 11
+     }
+    },
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      4.99
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 11
+     }
+    },
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29.99
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 11,
+    "ok_annual_unrecorded": 22,
+    "unverified": 1
+   }
+  },
+  "photoroom": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T21:00:28+08:00",
+   "name": "Photoroom",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      34.99
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 32,
+    "ok_annual_unrecorded": 16
+   }
+  },
+  "pictory": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:57:11+08:00",
+   "name": "Pictory",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Professional": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      35
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      119
+     ],
+     "verdicts": {
+      "not_found": 10,
+      "ok_annual_unrecorded": 6
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 26,
+    "ok_annual_unrecorded": 38
+   }
+  },
+  "pika": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:43:46+08:00",
+   "name": "Pika",
+   "plans": {
+    "Creator": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      35
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Fancy": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      95
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 48
+   }
+  },
+  "pixlr": {
+   "checks": 30,
+   "last_checked_at": "2026-10-31T21:04:35+08:00",
+   "name": "Pixlr",
+   "plans": {
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      2.49
+     ],
+     "verdicts": {
+      "ok": 10
+     }
+    },
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      9.99
+     ],
+     "verdicts": {
+      "ok": 10
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      24.99
+     ],
+     "verdicts": {
+      "ok": 10
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 30
+   }
+  },
+  "pixverse": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:54:03+08:00",
+   "name": "PixVerse",
+   "plans": {
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      60
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "mismatch": 16
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 16,
+    "not_found": 32
+   }
+  },
+  "plaud": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T21:00:57+08:00",
+   "name": "PLAUD",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      17.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      35
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Unlimited": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 48
+   }
+  },
+  "plus-ai": {
+   "checks": 45,
+   "last_checked_at": "2026-10-31T21:03:09+08:00",
+   "name": "Plus AI",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Basic": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 11
+     }
+    },
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      240
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 11
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 11
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      40
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 11
+     }
+    }
+   },
+   "verdicts": {
+    "ok_annual_unrecorded": 44,
+    "unverified": 1
+   }
+  },
+  "poe": {
+   "checks": 80,
+   "last_checked_at": "2026-10-31T20:48:50+08:00",
+   "name": "Poe",
+   "plans": {
+    "1.65 百萬點/月": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      49.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "10 千點/日": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      4.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "3.3 百萬點/月": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "660 千點/月": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "8.25 百萬點/月": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      249.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 80
+   }
+  },
+  "posthog": {
+   "checks": 2,
+   "last_checked_at": "2026-10-31T21:16:34+08:00",
+   "name": "PostHog",
+   "plans": {
+    "Pay-as-you-go": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "ok": 2
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 2
+   }
+  },
+  "postman": {
+   "checks": 6,
+   "last_checked_at": "2026-10-31T21:17:02+08:00",
+   "name": "Postman",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      49
+     ],
+     "verdicts": {
+      "not_found": 2
+     }
+    },
+    "Solo": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "ok": 2
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      23
+     ],
+     "verdicts": {
+      "ok": 2
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 2,
+    "ok": 4
+   }
+  },
+  "postsyncer": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:47:29+08:00",
+   "name": "PostSyncer",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      49
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      49
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    },
+    "Starter Plan": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "額外工作區加購": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 32,
+    "ok_annual_unrecorded": 16
+   }
+  },
+  "predis-ai": {
+   "checks": 36,
+   "last_checked_at": "2026-10-31T21:01:55+08:00",
+   "name": "Predis.ai",
+   "plans": {
+    "Core": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      32
+     ],
+     "verdicts": {
+      "mismatch": 12
+     }
+    },
+    "Enterprise +": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      249
+     ],
+     "verdicts": {
+      "mismatch": 12
+     }
+    },
+    "Rise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      79
+     ],
+     "verdicts": {
+      "mismatch": 12
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 36
+   }
+  },
+  "prowritingaid": {
+   "checks": 14,
+   "last_checked_at": "2026-10-31T21:09:32+08:00",
+   "name": "ProWritingAid",
+   "plans": {
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok": 7
+     }
+    },
+    "Premium Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      36
+     ],
+     "verdicts": {
+      "ok": 7
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 14
+   }
+  },
+  "quillbot": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:55:41+08:00",
+   "name": "QuillBot",
+   "plans": {
+    "Premium（半年繳）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      13.33
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Premium（年繳）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      8.33
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Premium（月繳）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19.95
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Team Plan": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 64
+   }
+  },
+  "railway": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:08:25+08:00",
+   "name": "Railway",
+   "plans": {
+    "Hobby": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      5
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 16
+   }
+  },
+  "read-ai": {
+   "checks": 24,
+   "last_checked_at": "2026-10-31T21:06:37+08:00",
+   "name": "Read AI",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29.75
+     ],
+     "verdicts": {
+      "mismatch": 8
+     }
+    },
+    "Enterprise+": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      39.75
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19.75
+     ],
+     "verdicts": {
+      "mismatch": 8
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 16,
+    "not_found": 8
+   }
+  },
+  "recall": {
+   "checks": 4,
+   "last_checked_at": "2026-10-31T21:13:58+08:00",
+   "name": "Recall.ai",
+   "plans": {
+    "Pay As You Go": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0.5
+     ],
+     "verdicts": {
+      "ok": 4
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 4
+   }
+  },
+  "reclaim-ai": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:12:11+08:00",
+   "name": "Reclaim.ai",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      18
+     ],
+     "verdicts": {
+      "ok": 5
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      22
+     ],
+     "verdicts": {
+      "ok": 5
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "ok": 5
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 15,
+    "unverified": 1
+   }
+  },
+  "recraft": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:54:21+08:00",
+   "name": "Recraft",
+   "plans": {
+    "Basic": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      16
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Teams": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      18
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 48
+   }
+  },
+  "relume": {
+   "checks": 33,
+   "last_checked_at": "2026-10-31T21:03:59+08:00",
+   "name": "Relume",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      57
+     ],
+     "verdicts": {
+      "not_found": 11
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      26
+     ],
+     "verdicts": {
+      "mismatch": 11
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      51
+     ],
+     "verdicts": {
+      "mismatch": 11
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 22,
+    "not_found": 11
+   }
+  },
+  "remove-bg": {
+   "checks": 44,
+   "last_checked_at": "2026-10-31T21:04:25+08:00",
+   "name": "remove.bg",
+   "plans": {
+    "Pay-as-you-go (10 Credits)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      9
+     ],
+     "verdicts": {
+      "not_found": 11
+     }
+    },
+    "Subscription 200 Credits": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      39
+     ],
+     "verdicts": {
+      "not_found": 11
+     }
+    },
+    "Subscription 40 Credits": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      9
+     ],
+     "verdicts": {
+      "not_found": 11
+     }
+    },
+    "Subscription 500 Credits": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      89
+     ],
+     "verdicts": {
+      "not_found": 11
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 44
+   }
+  },
+  "replicate": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:49:59+08:00",
+   "name": "Replicate",
+   "plans": {
+    "公開模型 - 按執行秒數計費": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "公開模型 - 按產出計費": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "私有模型（專屬硬體）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 48
+   }
+  },
+  "replit": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:45:25+08:00",
+   "name": "Replit",
+   "plans": {
+    "Core": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 32
+   }
+  },
+  "repowise": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:58:33+08:00",
+   "name": "Repowise",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Teams": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 16,
+    "ok_annual_unrecorded": 16
+   }
+  },
+  "rescuetime": {
+   "checks": 29,
+   "last_checked_at": "2026-10-31T21:09:15+08:00",
+   "name": "RescueTime",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Solo Focus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      9
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 7
+     }
+    },
+    "Solo+ (Timesheets + Focus)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "not_found": 7
+     }
+    },
+    "Team Focus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 7
+     }
+    },
+    "Team+ (Timesheets + Focus)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      18
+     ],
+     "verdicts": {
+      "not_found": 7
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 14,
+    "ok_annual_unrecorded": 14,
+    "unverified": 1
+   }
+  },
+  "resemble-ai": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:07:48+08:00",
+   "name": "Resemble AI",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      1000
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 8
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      350
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 8
+     }
+    }
+   },
+   "verdicts": {
+    "ok_annual_unrecorded": 16
+   }
+  },
+  "retool": {
+   "checks": 8,
+   "last_checked_at": "2026-10-31T21:14:06+08:00",
+   "name": "Retool",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      65
+     ],
+     "verdicts": {
+      "ok": 4
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "ok": 4
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 8
+   }
+  },
+  "rev-ai": {
+   "checks": 28,
+   "last_checked_at": "2026-10-31T21:09:56+08:00",
+   "name": "Rev AI",
+   "plans": {
+    "Human Transcription (API Escalation)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 7
+     }
+    },
+    "Pay As You Go (Foreign Language)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 7
+     }
+    },
+    "Pay As You Go (Reverb English)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 7
+     }
+    },
+    "Pay As You Go (Whisper Large)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 7
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 28
+   }
+  },
+  "riverside-fm": {
+   "checks": 24,
+   "last_checked_at": "2026-10-31T21:07:35+08:00",
+   "name": "Riverside.fm",
+   "plans": {
+    "Grow": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      45
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      35
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Webinar": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 24
+   }
+  },
+  "runway": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:43:20+08:00",
+   "name": "Runway",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      95
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      35
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 64
+   }
+  },
+  "rytr": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:52:16+08:00",
+   "name": "Rytr",
+   "plans": {
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "mismatch": 1,
+      "not_found": 15
+     }
+    },
+    "Unlimited": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      9
+     ],
+     "verdicts": {
+      "mismatch": 1,
+      "ok": 15
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 2,
+    "not_found": 15,
+    "ok": 15
+   }
+  },
+  "sandbase-cli": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:58:09+08:00",
+   "name": "SandBase CLI",
+   "plans": {
+    "Pay as you go": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Team / Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32
+   }
+  },
+  "saner-ai": {
+   "checks": 24,
+   "last_checked_at": "2026-10-31T21:02:00+08:00",
+   "name": "Saner.ai",
+   "plans": {
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      16
+     ],
+     "verdicts": {
+      "ok": 12
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      8
+     ],
+     "verdicts": {
+      "ok": 12
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 24
+   }
+  },
+  "sanity": {
+   "checks": 7,
+   "last_checked_at": "2026-10-31T21:10:24+08:00",
+   "name": "Sanity",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Growth": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "ok": 6
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 6,
+    "unverified": 1
+   }
+  },
+  "scenario": {
+   "checks": 36,
+   "last_checked_at": "2026-10-31T21:02:05+08:00",
+   "name": "Scenario",
+   "plans": {
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      75
+     ],
+     "verdicts": {
+      "ok": 12
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      45
+     ],
+     "verdicts": {
+      "ok": 12
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "ok": 12
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 36
+   }
+  },
+  "semaphore": {
+   "checks": 11,
+   "last_checked_at": "2026-10-31T21:03:50+08:00",
+   "name": "Semaphore",
+   "plans": {
+    "Cloud Pay-As-You-Go": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 11
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 11
+   }
+  },
+  "sender": {
+   "checks": 13,
+   "last_checked_at": "2026-10-31T21:11:06+08:00",
+   "name": "Sender",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Professional (1,000 subscribers)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "not_found": 6
+     }
+    },
+    "Standard (1,000 subscribers)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "not_found": 6
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 12,
+    "unverified": 1
+   }
+  },
+  "sim": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:47:46+08:00",
+   "name": "Sim",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 32
+   }
+  },
+  "slazzer": {
+   "checks": 60,
+   "last_checked_at": "2026-10-31T21:01:35+08:00",
+   "name": "Slazzer",
+   "plans": {
+    "100 Credits / month": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      11
+     ],
+     "verdicts": {
+      "not_found": 12
+     }
+    },
+    "1000 Credits / month": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      94
+     ],
+     "verdicts": {
+      "not_found": 12
+     }
+    },
+    "1800 Credits / month": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      155
+     ],
+     "verdicts": {
+      "not_found": 12
+     }
+    },
+    "300 Credits / month": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      36
+     ],
+     "verdicts": {
+      "not_found": 12
+     }
+    },
+    "5000 Credits / month": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      344
+     ],
+     "verdicts": {
+      "not_found": 12
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 60
+   }
+  },
+  "smugmug": {
+   "checks": 33,
+   "last_checked_at": "2026-10-31T21:04:30+08:00",
+   "name": "SmugMug",
+   "plans": {
+    "Direct": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "not_found": 11
+     }
+    },
+    "Portfolio": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      35.5
+     ],
+     "verdicts": {
+      "not_found": 11
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      52
+     ],
+     "verdicts": {
+      "not_found": 11
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 33
+   }
+  },
+  "socialecho": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:59:03+08:00",
+   "name": "SocialEcho",
+   "plans": {
+    "Basic": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      18.75
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 32
+   }
+  },
+  "soundraw": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T21:07:25+08:00",
+   "name": "Soundraw",
+   "plans": {
+    "Artist Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      35.99
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Artist Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29.99
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Artist Unlimited": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      50
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Creator": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      16.99
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 32
+   }
+  },
+  "speechify": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:55:59+08:00",
+   "name": "Speechify",
+   "plans": {
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Studio Creator": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      49
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Studio Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32,
+    "ok": 16
+   }
+  },
+  "speechmatics": {
+   "checks": 19,
+   "last_checked_at": "2026-10-31T21:10:48+08:00",
+   "name": "Speechmatics",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Melia 1 (General Purpose STT)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0.12
+     ],
+     "verdicts": {
+      "not_found": 6
+     }
+    },
+    "Oak 1 (Medical STT)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0.15
+     ],
+     "verdicts": {
+      "not_found": 6
+     }
+    },
+    "Standard / Enhanced": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0.23
+     ],
+     "verdicts": {
+      "not_found": 6
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 18,
+    "unverified": 1
+   }
+  },
+  "squibler": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:05:13+08:00",
+   "name": "Squibler",
+   "plans": {
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      89
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 8,
+    "ok": 8
+   }
+  },
+  "stable-diffusion": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:42:05+08:00",
+   "name": "Stable Diffusion",
+   "plans": {
+    "API 按量付費": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Brand Studio Creator": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Core (Brand Studio)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      50
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 64
+   }
+  },
+  "stockimg-ai": {
+   "checks": 33,
+   "last_checked_at": "2026-10-31T21:03:28+08:00",
+   "name": "Stockimg AI",
+   "plans": {
+    "Premium Plan": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      24
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    },
+    "Starter Plan": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    },
+    "Ultra Plan": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      48
+     ],
+     "verdicts": {
+      "ok": 11
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 33
+   }
+  },
+  "strix": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:47:34+08:00",
+   "name": "Strix",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Full Audit": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      2000
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Rightsized Pentest": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      60
+     ],
+     "verdicts": {
+      "mismatch": 10,
+      "ok": 6
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 10,
+    "not_found": 16,
+    "ok": 38
+   }
+  },
+  "sudowrite": {
+   "checks": 19,
+   "last_checked_at": "2026-10-31T21:11:15+08:00",
+   "name": "Sudowrite",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Hobby & Student": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "mismatch": 6
+     }
+    },
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      59
+     ],
+     "verdicts": {
+      "not_found": 6
+     }
+    },
+    "Professional": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "mismatch": 6
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 12,
+    "not_found": 6,
+    "unverified": 1
+   }
+  },
+  "suno": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:44:27+08:00",
+   "name": "Suno",
+   "plans": {
+    "Premier": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32
+   }
+  },
+  "supabase": {
+   "checks": 20,
+   "last_checked_at": "2026-10-31T21:04:42+08:00",
+   "name": "Supabase",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "ok": 10
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      599
+     ],
+     "verdicts": {
+      "ok": 10
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 20
+   }
+  },
+  "surfer-seo": {
+   "checks": 96,
+   "last_checked_at": "2026-10-31T20:56:41+08:00",
+   "name": "Surfer SEO",
+   "plans": {
+    "AI Search Analytics": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      82
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Discovery": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      49
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      999
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Peace of Mind": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      299
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      182
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 96
+   }
+  },
+  "synthesia": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:48:34+08:00",
+   "name": "Synthesia",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      89
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "mismatch": 3,
+      "ok": 13
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 3,
+    "ok": 45
+   }
+  },
+  "taskade": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:57:38+08:00",
+   "name": "Taskade",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "ok": 7,
+      "ok_annual_unrecorded": 9
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      250
+     ],
+     "verdicts": {
+      "not_found": 2,
+      "ok": 5,
+      "ok_annual_unrecorded": 9
+     }
+    },
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "ok": 7,
+      "ok_annual_unrecorded": 9
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "ok": 7,
+      "ok_annual_unrecorded": 9
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 2,
+    "ok": 26,
+    "ok_annual_unrecorded": 36
+   }
+  },
+  "teable": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:47:54+08:00",
+   "name": "Teable",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      24
+     ],
+     "verdicts": {
+      "mismatch": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "mismatch": 16
+     }
+    },
+    "加購 2,000 credits": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      24
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 32,
+    "not_found": 16
+   }
+  },
+  "termi-protocol": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T20:48:15+08:00",
+   "name": "Termi Protocol",
+   "plans": {
+    "Lifetime Pass": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      7.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 16
+   }
+  },
+  "textexpander": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:08:47+08:00",
+   "name": "TextExpander",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      6
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 16
+   }
+  },
+  "tidio": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T21:08:09+08:00",
+   "name": "Tidio",
+   "plans": {
+    "Growth": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      59
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Lyro AI Agent (Add-on)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      39
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      300
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32
+   }
+  },
+  "tilda-publishing": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:06:03+08:00",
+   "name": "Tilda Publishing",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "not_found": 8
+     }
+    },
+    "Personal": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 8,
+    "ok": 8
+   }
+  },
+  "together-ai": {
+   "checks": 10,
+   "last_checked_at": "2026-10-31T21:12:32+08:00",
+   "name": "Together AI",
+   "plans": {
+    "Dedicated Inference & GPU Clusters": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 5
+     }
+    },
+    "Serverless Inference (Pay-as-you-go)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 5
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 10
+   }
+  },
+  "topaz-labs": {
+   "checks": 80,
+   "last_checked_at": null,
+   "name": "Topaz Labs",
+   "plans": {
+    "Topaz Gigapixel": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Topaz Photo": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      39
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Topaz Studio": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      69
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Topaz Studio Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      66.58
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Topaz Video": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      59
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 80
+   }
+  },
+  "topmediai": {
+   "checks": 21,
+   "last_checked_at": "2026-10-31T21:08:58+08:00",
+   "name": "TopMediai",
+   "plans": {
+    "1-Month Plan": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      23.99
+     ],
+     "verdicts": {
+      "mismatch": 5,
+      "ok": 2
+     }
+    },
+    "1-Week Plan": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15.99
+     ],
+     "verdicts": {
+      "ok": 7
+     }
+    },
+    "Lifetime Plan": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      329.99
+     ],
+     "verdicts": {
+      "mismatch": 4,
+      "not_found": 1,
+      "ok": 2
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 9,
+    "not_found": 1,
+    "ok": 11
+   }
+  },
+  "topview": {
+   "checks": 29,
+   "last_checked_at": "2026-10-31T21:09:21+08:00",
+   "name": "Topview",
+   "plans": {
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    },
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      58
+     ],
+     "verdicts": {
+      "ok": 7
+     }
+    },
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      24
+     ],
+     "verdicts": {
+      "ok": 7
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      118
+     ],
+     "verdicts": {
+      "ok": 7
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      112
+     ],
+     "verdicts": {
+      "ok": 7
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 28,
+    "unverified": 1
+   }
+  },
+  "trae": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:54:32+08:00",
+   "name": "TRAE",
+   "plans": {
+    "Lite": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      3
+     ],
+     "verdicts": {
+      "not_found": 6,
+      "ok": 10
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "mismatch": 6,
+      "ok": 10
+     }
+    },
+    "Pro+": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "mismatch": 6,
+      "ok": 10
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "mismatch": 6,
+      "ok": 10
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 18,
+    "not_found": 6,
+    "ok": 40
+   }
+  },
+  "travis-ci": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:12:04+08:00",
+   "name": "Travis CI",
+   "plans": {
+    "1 Concurrent Job": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      69
+     ],
+     "verdicts": {
+      "not_found": 5
+     }
+    },
+    "2 Concurrent Jobs": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      129
+     ],
+     "verdicts": {
+      "not_found": 5
+     }
+    },
+    "5 Concurrent Jobs": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      249
+     ],
+     "verdicts": {
+      "not_found": 5
+     }
+    },
+    "?": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [],
+     "verdicts": {
+      "unverified": 1
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 15,
+    "unverified": 1
+   }
+  },
+  "udio": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:44:49+08:00",
+   "name": "Udio",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    },
+    "Standard": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "ok_annual_unrecorded": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok_annual_unrecorded": 32
+   }
+  },
+  "v0": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:45:31+08:00",
+   "name": "v0",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      100
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 32
+   }
+  },
+  "vapi": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:47:13+08:00",
+   "name": "Vapi",
+   "plans": {
+    "Core": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Premier": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      999
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Usage only (No Success Package)": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32,
+    "ok": 32
+   }
+  },
+  "veed": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:48:44+08:00",
+   "name": "VEED",
+   "plans": {
+    "Creator": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "not_found": 8,
+      "ok_annual_only": 8
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      44
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Studio": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      70
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 56,
+    "ok_annual_only": 8
+   }
+  },
+  "velo": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:48:55+08:00",
+   "name": "Velo",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      49
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Ultra": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      200
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 32
+   }
+  },
+  "veo": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:51:02+08:00",
+   "name": "Veo",
+   "plans": {
+    "Google AI Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      4.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Google AI Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Google AI Ultra（20x）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      199.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Google AI Ultra（5x）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99.99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 32,
+    "ok": 32
+   }
+  },
+  "vibe-trading": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T20:49:07+08:00",
+   "name": "Vibe-Trading",
+   "plans": {
+    "QVeris 進階資料": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16
+   }
+  },
+  "vidnoz": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T21:06:24+08:00",
+   "name": "Vidnoz",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      74.99
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      26.99
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 16
+   }
+  },
+  "viggle": {
+   "checks": 24,
+   "last_checked_at": "2026-10-31T21:05:36+08:00",
+   "name": "Viggle",
+   "plans": {
+    "Live": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19.99
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      79.99
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      9.99
+     ],
+     "verdicts": {
+      "ok": 8
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 24
+   }
+  },
+  "vmake": {
+   "checks": 2,
+   "last_checked_at": "2026-10-31T21:18:16+08:00",
+   "name": "Vmake",
+   "plans": {
+    "Plus": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      9.99
+     ],
+     "verdicts": {
+      "ok": 1
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29.99
+     ],
+     "verdicts": {
+      "ok": 1
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 2
+   }
+  },
+  "voice-ai": {
+   "checks": 3,
+   "last_checked_at": "2026-10-31T21:17:47+08:00",
+   "name": "Voice.ai",
+   "plans": {
+    "Core": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99
+     ],
+     "verdicts": {
+      "ok": 1
+     }
+    },
+    "Launch": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      24
+     ],
+     "verdicts": {
+      "ok": 1
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      5
+     ],
+     "verdicts": {
+      "ok": 1
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 3
+   }
+  },
+  "warp": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:55:01+08:00",
+   "name": "Warp",
+   "plans": {
+    "Build": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      50
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      200
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 48
+   }
+  },
+  "wellsaid-labs": {
+   "checks": 12,
+   "last_checked_at": "2026-10-31T21:13:52+08:00",
+   "name": "WellSaid Labs",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      160
+     ],
+     "verdicts": {
+      "ok": 4
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      49
+     ],
+     "verdicts": {
+      "ok": 4
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      19
+     ],
+     "verdicts": {
+      "ok": 4
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 12
+   }
+  },
+  "windsurf": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T20:45:17+08:00",
+   "name": "Devin Desktop",
+   "plans": {
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      200
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Teams": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      40
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 32
+   }
+  },
+  "wispr-flow": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T20:54:40+08:00",
+   "name": "Wispr Flow",
+   "plans": {
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      15
+     ],
+     "verdicts": {
+      "mismatch": 16
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 16
+   }
+  },
+  "writesonic": {
+   "checks": 64,
+   "last_checked_at": "2026-10-31T20:51:46+08:00",
+   "name": "Writesonic",
+   "plans": {
+    "Basic": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      249
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Growth": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      499
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Starter": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      99
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 64
+   }
+  },
+  "xmind": {
+   "checks": 12,
+   "last_checked_at": "2026-10-31T21:11:40+08:00",
+   "name": "Xmind",
+   "plans": {
+    "Premium": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      12.99
+     ],
+     "verdicts": {
+      "not_found": 6
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      5.99
+     ],
+     "verdicts": {
+      "mismatch": 6
+     }
+    }
+   },
+   "verdicts": {
+    "mismatch": 6,
+    "not_found": 6
+   }
+  },
+  "you-com": {
+   "checks": 12,
+   "last_checked_at": "2026-10-31T21:13:44+08:00",
+   "name": "You.com",
+   "plans": {
+    "Max": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      200
+     ],
+     "verdicts": {
+      "not_found": 4
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      20
+     ],
+     "verdicts": {
+      "not_found": 4
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      25
+     ],
+     "verdicts": {
+      "not_found": 4
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 12
+   }
+  },
+  "yylo": {
+   "checks": 16,
+   "last_checked_at": "2026-10-31T20:58:54+08:00",
+   "name": "YYLO",
+   "plans": {
+    "API 成本（自選供應商）": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16
+   }
+  },
+  "zapier": {
+   "checks": 48,
+   "last_checked_at": "2026-10-31T21:01:11+08:00",
+   "name": "Zapier",
+   "plans": {
+    "Enterprise": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      0
+     ],
+     "verdicts": {
+      "not_found": 16
+     }
+    },
+    "Professional": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      29.99
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Team": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      103.5
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "not_found": 16,
+    "ok": 32
+   }
+  },
+  "zed": {
+   "checks": 32,
+   "last_checked_at": "2026-10-31T20:58:26+08:00",
+   "name": "Zed",
+   "plans": {
+    "Business": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      30
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    },
+    "Pro": {
+     "price_changed_this_month": false,
+     "site_monthly_usd": [
+      10
+     ],
+     "verdicts": {
+      "ok": 16
+     }
+    }
+   },
+   "verdicts": {
+    "ok": 32
+   }
+  }
+ }
+}
