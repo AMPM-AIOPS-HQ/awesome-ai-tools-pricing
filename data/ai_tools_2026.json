@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-01T04:00:03+08:00",
+ "generated_at": "2026-11-02T04:00:03+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 220,
+ "row_count": 224,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-31",
- "tool_count": 220,
+ "last_verified_max": "2026-11-01",
+ "tool_count": 224,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -439,6 +439,24 @@
    "ampm_ref": "AMPM-4cfff00efd"
   },
   {
+   "slug": "circleci",
+   "name": "CircleCI",
+   "vendor": "Circle Internet Services, Inc.",
+   "category": [
+    "coding"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案每月提供 30,000 點免費額度，最多支援 5 位活躍使用者、30x 平行建置並包含基本開源專案額度；額度每月重置不累計",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 15,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-01",
+   "source_url": "https://circleci.com/",
+   "tool_page": "https://ampm-aiops.com/tools/circleci/",
+   "ampm_ref": "AMPM-0cda67bde8"
+  },
+  {
    "slug": "civitai",
    "name": "Civitai",
    "vendor": "Civitai Inc.",
@@ -813,6 +831,24 @@
    "ampm_ref": "AMPM-0d572cafc0"
   },
   {
+   "slug": "devcycle",
+   "name": "DevCycle",
+   "vendor": "DevCycle (Dynatrace)",
+   "category": [
+    "coding"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案永久免費，提供每月 1,000 名客戶端月活躍使用者、每月 10,000 次 Cloud Config 請求、每月 100,000 次 Server Config 請…",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 625,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-01",
+   "source_url": "https://devcycle.com/",
+   "tool_page": "https://ampm-aiops.com/tools/devcycle/",
+   "ampm_ref": "AMPM-0033b225f7"
+  },
+  {
    "slug": "windsurf",
    "name": "Devin Desktop",
    "vendor": "Cognition",
@@ -1033,6 +1069,25 @@
    "source_url": "https://floot.com/",
    "tool_page": "https://ampm-aiops.com/tools/floot/",
    "ampm_ref": "AMPM-e854e99b64"
+  },
+  {
+   "slug": "fly-io",
+   "name": "Fly.io",
+   "vendor": "Fly.io, Inc.",
+   "category": [
+    "coding",
+    "api"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "首 10GB 磁碟快照/月免費、前 10 組單網域 SSL 憑證免費、入站流量免費，附贈共用 IPv4 與 Anycast IPv6；運算與儲存採無月租隨付隨選，新用戶不再提供無限…",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-01",
+   "source_url": "https://fly.io/",
+   "tool_page": "https://ampm-aiops.com/tools/fly-io/",
+   "ampm_ref": "AMPM-c8fc9bdf14"
   },
   {
    "slug": "foxit-pdf-editor",
@@ -3741,6 +3796,25 @@
    "source_url": "https://www.udio.com",
    "tool_page": "https://ampm-aiops.com/tools/udio/",
    "ampm_ref": "AMPM-3654321537"
+  },
+  {
+   "slug": "unbounce",
+   "name": "Unbounce",
+   "vendor": "Unbounce (Unbounce Marketing Solutions Inc.)",
+   "category": [
+    "marketing",
+    "appbuilder"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-01",
+   "source_url": "https://unbounce.com/",
+   "tool_page": "https://ampm-aiops.com/tools/unbounce/",
+   "ampm_ref": "AMPM-1073a261e8"
   },
   {
    "slug": "v0",

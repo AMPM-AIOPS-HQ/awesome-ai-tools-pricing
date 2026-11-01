@@ -1,7 +1,7 @@
 {
  "dataset": "crypto",
  "title": "Crypto Exchanges & Wallets (Taiwan)",
- "generated_at": "2026-11-01T04:00:03+08:00",
+ "generated_at": "2026-11-02T04:00:03+08:00",
  "source": "https://finance.ampm-aiops.com/crypto/",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 25,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-19",
+ "last_verified_max": "2026-11-01",
  "rows": [
   {
    "slug": "bitget",
@@ -283,7 +283,7 @@
    "fee_or_price": "官方 US$59（原 $79 已調降）",
    "twd_channel": "",
    "source_url": "https://trezor.io/trezor-safe-3",
-   "last_verified": "2026-08-29",
+   "last_verified": "2026-11-01",
    "page_url": "https://finance.ampm-aiops.com/crypto/wallets/trezor-safe-3/",
    "ampm_ref": "AMPM-50c0574aaa"
   },
@@ -295,7 +295,7 @@
    "fee_or_price": "官方 US$129",
    "twd_channel": "",
    "source_url": "https://trezor.io/trezor-safe-5",
-   "last_verified": "2026-08-29",
+   "last_verified": "2026-11-01",
    "page_url": "https://finance.ampm-aiops.com/crypto/wallets/trezor-safe-5/",
    "ampm_ref": "AMPM-166108395c"
   },
