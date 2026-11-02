@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-02T04:00:03+08:00",
+ "generated_at": "2026-11-03T04:00:04+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 224,
+ "row_count": 227,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-01",
- "tool_count": 224,
+ "last_verified_max": "2026-11-02",
+ "tool_count": 227,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -195,6 +195,24 @@
    "source_url": "https://appwrite.io",
    "tool_page": "https://ampm-aiops.com/tools/appwrite/",
    "ampm_ref": "AMPM-bf0a945274"
+  },
+  {
+   "slug": "aweber",
+   "name": "AWeber",
+   "vendor": "AWeber Systems, Inc.",
+   "category": [
+    "marketing"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "上限 500 位訂閱者、每月最多發送 3,000 封電子郵件、1 組自動化工作流程、1 個登陸頁面，含基礎 AI 主旨輔助",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 15,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-02",
+   "source_url": "https://www.aweber.com",
+   "tool_page": "https://ampm-aiops.com/tools/aweber/",
+   "ampm_ref": "AMPM-94d21f7a61"
   },
   {
    "slug": "base44",
@@ -1425,24 +1443,6 @@
    "ampm_ref": "AMPM-e071358c98"
   },
   {
-   "slug": "hedra",
-   "name": "Hedra",
-   "vendor": "Hedra",
-   "category": [
-    "video"
-   ],
-   "free_tier": true,
-   "free_tier_summary": "官網未公布具體數字：定價頁僅標示「Free Plan, No Credit Card」，FAQ 亦只提到取消訂閱後仍保有「有限的浮水印生成」，未列免費額度數字",
-   "free_tier_summary_en": "No numbers published: pricing page only says \"Free Plan, No Credit Card\"; FAQ mentions limited watermarked generations",
-   "cheapest_paid_usd_per_month": 20,
-   "cheapest_paid_twd_per_month": null,
-   "commercial_use": "unknown",
-   "last_verified": "2026-10-16",
-   "source_url": "https://www.hedra.com",
-   "tool_page": "https://ampm-aiops.com/tools/hedra/",
-   "ampm_ref": "AMPM-3fd7b7dd4b"
-  },
-  {
    "slug": "hemory",
    "name": "Hemory",
    "vendor": "ONES.com",
@@ -2406,6 +2406,25 @@
    "ampm_ref": "AMPM-2c64e0e226"
   },
   {
+   "slug": "ollama",
+   "name": "Ollama",
+   "vendor": "Ollama",
+   "category": [
+    "api",
+    "coding"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "本地端在個人硬體上完全免費且無調用次數限制；雲端 Free 方案提供少量啟動模型輕量額度與 1 個並發請求",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 20,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-02",
+   "source_url": "https://ollama.com/",
+   "tool_page": "https://ampm-aiops.com/tools/ollama/",
+   "ampm_ref": "AMPM-dcd95a5489"
+  },
+  {
    "slug": "omnisend",
    "name": "Omnisend",
    "vendor": "Omnisend",
@@ -2627,6 +2646,24 @@
    "source_url": "https://pika.art",
    "tool_page": "https://ampm-aiops.com/tools/pika/",
    "ampm_ref": "AMPM-19e9e656a7"
+  },
+  {
+   "slug": "pixelcut",
+   "name": "Pixelcut",
+   "vendor": "Pixelcut",
+   "category": [
+    "image"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "免費版提供有限次數去背、畫質放大與魔法橡皮擦，可無浮水印免費匯出，但不含每月 AI 生成點數與商業授權",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 10,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-02",
+   "source_url": "https://www.pixelcut.ai",
+   "tool_page": "https://ampm-aiops.com/tools/pixelcut/",
+   "ampm_ref": "AMPM-3de51ec697"
   },
   {
    "slug": "pixlr",
@@ -3556,6 +3593,25 @@
    "source_url": "https://www.synthesia.io",
    "tool_page": "https://ampm-aiops.com/tools/synthesia/",
    "ampm_ref": "AMPM-79d5f98a04"
+  },
+  {
+   "slug": "tailwind",
+   "name": "Tailwind",
+   "vendor": "Tailwind",
+   "category": [
+    "marketing",
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案免費提供基礎功能試用，升級時才需付款",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 14.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-02",
+   "source_url": "https://www.tailwindapp.com",
+   "tool_page": "https://ampm-aiops.com/tools/tailwind/",
+   "ampm_ref": "AMPM-307f258347"
   },
   {
    "slug": "taskade",
