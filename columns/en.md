@@ -1,6 +1,10 @@
 # Columns (published)
 
+- 2026-11-04 [(How-to) Kinsta Pricing: What Beginners Must Count Before Picking a Plan](https://ampm-aiops.com/en/guides/kinsta-howto-2026/)
+- 2026-11-03 [(Review) Midjourney Pricing 2026: What the Four Tiers Actually Get You](https://ampm-aiops.com/en/guides/midjourney-review-2026/)
 - 2026-11-03 [(Review) Copy.ai Pricing Without a Free Tier: Is the Chat Plan Worth It?](https://ampm-aiops.com/en/guides/copy-ai-review-2026/)
+- 2026-11-03 [(How-to) Nitro PDF Free Trial: What Beginners Can Actually Finish Before It Ends](https://ampm-aiops.com/en/guides/nitro-pdf-howto-2026/)
+- 2026-11-03 [(How-to) ClickUp Free Plan Limits: What Breaks First When You Add AI and Automations](https://ampm-aiops.com/en/guides/clickup-howto-2026/)
 - 2026-11-02 [(Review) Saner.ai Pricing: Is the Free Tier Enough or Do You Need to Pay?](https://ampm-aiops.com/en/guides/saner-ai-review-2026/)
 - 2026-11-02 [(Review) Recall.ai Pricing: What the Per-Hour Meter Really Costs You](https://ampm-aiops.com/en/guides/recall-review-2026/)
 - 2026-11-02 [(Review) AirMusic Pricing: Is the Free Tier Enough When Commercial Rights Cost Extra?](https://ampm-aiops.com/en/guides/airmusic-review-2026/)

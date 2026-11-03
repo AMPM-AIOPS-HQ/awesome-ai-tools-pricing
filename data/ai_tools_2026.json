@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-03T04:00:04+08:00",
+ "generated_at": "2026-11-04T04:00:12+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 227,
+ "row_count": 231,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-02",
- "tool_count": 227,
+ "last_verified_max": "2026-11-03",
+ "tool_count": 231,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -382,6 +382,25 @@
    "source_url": "https://www.campaignmonitor.com",
    "tool_page": "https://ampm-aiops.com/tools/campaign-monitor/",
    "ampm_ref": "AMPM-03b02d0317"
+  },
+  {
+   "slug": "canary-mail",
+   "name": "Canary Mail",
+   "vendor": "MailTime / Canary Mail Inc.",
+   "category": [
+    "productivity",
+    "writing"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案支援最多 2 台裝置、基本收件匣、簡易已讀回執、Snooze 與 Pin，但不包含 AI Copilot 與進階加密",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 3,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-03",
+   "source_url": "https://canarymail.io",
+   "tool_page": "https://ampm-aiops.com/tools/canary-mail/",
+   "ampm_ref": "AMPM-a8011222a3"
   },
   {
    "slug": "canva-ai",
@@ -1146,6 +1165,25 @@
    "ampm_ref": "AMPM-b9e188acb0"
   },
   {
+   "slug": "frase",
+   "name": "Frase",
+   "vendor": "Frase, Inc.",
+   "category": [
+    "marketing",
+    "writing"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無常規免費方案，提供 7 天免費試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 49,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-03",
+   "source_url": "https://www.frase.io",
+   "tool_page": "https://ampm-aiops.com/tools/frase/",
+   "ampm_ref": "AMPM-2292d6fbdf"
+  },
+  {
    "slug": "gamma",
    "name": "Gamma",
    "vendor": "Gamma",
@@ -1626,6 +1664,24 @@
    "source_url": "https://kagi.com",
    "tool_page": "https://ampm-aiops.com/tools/kagi/",
    "ampm_ref": "AMPM-a9a428073b"
+  },
+  {
+   "slug": "kapwing",
+   "name": "Kapwing",
+   "vendor": "Kapwing",
+   "category": [
+    "video"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "可免費使用，但匯出影片帶有浮水印、長度上限 7 分鐘、最高 720p 畫質，每月僅提供 10 點 AI 額度且專案保留 30 天",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 24,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-03",
+   "source_url": "https://www.kapwing.com",
+   "tool_page": "https://ampm-aiops.com/tools/kapwing/",
+   "ampm_ref": "AMPM-ddccb2767d"
   },
   {
    "slug": "kinsta",
@@ -2125,6 +2181,25 @@
    "source_url": "https://miro.com/",
    "tool_page": "https://ampm-aiops.com/tools/miro/",
    "ampm_ref": "AMPM-5327c9868a"
+  },
+  {
+   "slug": "missive",
+   "name": "Missive",
+   "vendor": "Missive (Hel сме Labs Inc.)",
+   "category": [
+    "productivity",
+    "agent"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 18,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-02",
+   "source_url": "https://missiveapp.com",
+   "tool_page": "https://ampm-aiops.com/tools/missive/",
+   "ampm_ref": "AMPM-38bda64e38"
   },
   {
    "slug": "mistral",

@@ -1,6 +1,15 @@
 # 專欄（已上線）
 
+- 2026-11-04 [Kinsta 月繳 US$35、年繳月均 US$29.17，站點數量與流量沒盤點就先刷卡最容易買錯階級](https://ampm-aiops.com/guides/kinsta-howto-2026/)
+- 2026-11-04 [Builder.io 免費版 1 席、每日 15 點；Figma 轉 React 能跑，Slack 派工要 Team 方案每人每月 US$40](https://ampm-aiops.com/guides/builder-io-howto-2026/)
+- 2026-11-03 [Strix 單次測試官網是 US$60–300，US$1,000 是第三方舊資料；月費 US$29 不含測試](https://ampm-aiops.com/guides/strix-faq-2026/)
+- 2026-11-03 [Nitro PDF 免費轉檔免註冊，14 天試用免綁卡；但 US$15 月繳按鈕不存在，結帳只收年費 US$180](https://ampm-aiops.com/guides/nitro-pdf-howto-2026/)
+- 2026-11-03 [Midjourney 官網會擋自動查詢，US$10 到 US$120 這四階是三個第三方網站拼出來的，可信度自己掂量](https://ampm-aiops.com/guides/midjourney-review-2026/)
+- 2026-11-03 [Deepgram 的 US$200 免綁卡是真的，但 Growth 年費 US$4,000 起，折扣不是給免費用戶的](https://ampm-aiops.com/guides/deepgram-review-2026/)
 - 2026-11-03 [Copy.ai 免費方案還在嗎？每月 2,000 字免費已從官網定價頁消失](https://ampm-aiops.com/guides/copy-ai-review-2026/)
+- 2026-11-03 [ClickUp 免費版接 MCP 不用買 AI 點數，但 60MB 容量與每月 100 次自動化照樣會讓你撞牆](https://ampm-aiops.com/guides/clickup-howto-2026/)
+- 2026-11-03 [AI 新聞：網站擋 AI 代理人是真的，跨網站自動抓取不再保證能用，日常流程要留手動匯入備案](https://ampm-aiops.com/guides/ai-news-20261103-4/)
+- 2026-11-03 [AI 新聞：Uber 管 5,000 個 AI agent 工具，MCP Gateway 值不值得跟？先看你會不會撞到權限跟重複接線這兩面牆](https://ampm-aiops.com/guides/ai-news-20261103-6/)
 - 2026-11-02 [免綁信用卡就能用 WellSaid Labs，但每月 3 分鐘下載額度不含商業授權——企業內訓和廣告到底能不能放？](https://ampm-aiops.com/guides/wellsaid-labs-howto-2026/)
 - 2026-11-02 [Saner.ai 每月 30 次竟分成兩種扣法？免費版一路綁到 US$16 的雙重額度](https://ampm-aiops.com/guides/saner-ai-review-2026/)
 - 2026-11-02 [Resemble AI 已停售語音生成，Flex 方案 US$0 免月租但偵測要儲值點數，免帳號網頁先驗檔案最省](https://ampm-aiops.com/guides/resemble-ai-howto-2026/)
