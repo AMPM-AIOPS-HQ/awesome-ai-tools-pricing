@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-04T04:00:12+08:00",
+ "generated_at": "2026-11-05T04:00:10+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 231,
+ "row_count": 232,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-03",
- "tool_count": 231,
+ "last_verified_max": "2026-11-04",
+ "tool_count": 232,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -1014,6 +1014,25 @@
    "ampm_ref": "AMPM-31c382d588"
   },
   {
+   "slug": "firecrawl",
+   "name": "Firecrawl",
+   "vendor": "Firecrawl",
+   "category": [
+    "api",
+    "coding"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "1,000 credits every month ; no credit card; refreshes monthly",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 19,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-04",
+   "source_url": "https://www.firecrawl.dev",
+   "tool_page": "https://ampm-aiops.com/tools/firecrawl/",
+   "ampm_ref": "AMPM-f4c963c8fd"
+  },
+  {
    "slug": "fireflies-ai",
    "name": "Fireflies.ai",
    "vendor": "Fireflies.ai Corp",
@@ -1196,7 +1215,7 @@
    "cheapest_paid_usd_per_month": 12,
    "cheapest_paid_twd_per_month": null,
    "commercial_use": "unknown",
-   "last_verified": "2026-09-27",
+   "last_verified": "2026-11-04",
    "source_url": "https://gamma.app",
    "tool_page": "https://ampm-aiops.com/tools/gamma/",
    "ampm_ref": "AMPM-04159ae9f6"
@@ -2215,7 +2234,7 @@
    "cheapest_paid_usd_per_month": 0.15,
    "cheapest_paid_twd_per_month": null,
    "commercial_use": false,
-   "last_verified": "2026-09-27",
+   "last_verified": "2026-11-04",
    "source_url": "https://mistral.ai",
    "tool_page": "https://ampm-aiops.com/tools/mistral/",
    "ampm_ref": "AMPM-a8ab235dde"
