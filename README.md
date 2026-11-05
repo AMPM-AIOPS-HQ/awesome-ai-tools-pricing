@@ -12,7 +12,7 @@
 [![Changelog](https://img.shields.io/badge/CHANGELOG-daily-informational.svg)](./CHANGELOG.md)
 
 **What this is:** the open dataset behind [問問貓 AMPM-AIOPS](https://ampm-aiops.com?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing), a Traditional-Chinese AI tool comparison site for Taiwan.
-The core dataset covers **232 AI tools** (ChatGPT, Claude, Cursor, Midjourney, ElevenLabs …): category, whether a free tier exists and what it includes,
+The core dataset covers **240 AI tools** (ChatGPT, Claude, Cursor, Midjourney, ElevenLabs …): category, whether a free tier exists and what it includes,
 the cheapest paid plan per month (USD), commercial use where the vendor states it, and the date each row was last verified. Exported every day at 04:00 (Asia/Taipei);
 every row shows its own `last_verified` date, so you can see how fresh each number is.
 
@@ -20,9 +20,9 @@ every row shows its own `last_verified` date, so you can see how fresh each numb
 a `last_verified` date **and** an official source URL (13 rows held back at the moment — the count is shown per dataset below).
 
 **Also included:** datasets from our sister comparison sites (Taiwan credit cards, travel eSIM, VPN, US brokers and more), same rules —
-**494 verified rows across 6 datasets** in total.
+**502 verified rows across 6 datasets** in total.
 
-> 問問貓公開資料集（每天 04:00 匯出）：主資料是 232 個 AI 工具的分類、有沒有免費版與免費額度、最便宜付費方案月費（美元）、官方有寫的商用條款，每一列都附最後查證日期。
+> 問問貓公開資料集（每天 04:00 匯出）：主資料是 240 個 AI 工具的分類、有沒有免費版與免費額度、最便宜付費方案月費（美元）、官方有寫的商用條款，每一列都附最後查證日期。
 
 > 🔍 **How rows are verified**: [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) · 🌐 **Open-data hub**: [ampm-aiops.com/open-data/](https://ampm-aiops.com/open-data/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing)
 > 📝 **What changed**: [`CHANGELOG.md`](./CHANGELOG.md) (added / changed / removed, per day) · 📦 **Machine index**: [`datasets/index.json`](./datasets/index.json)
@@ -41,7 +41,7 @@ Independent publications that list pages of this project as a source. Each link 
 
 ## Datasets
 
-- [AI Tools Pricing & Free Tiers](#ai-tools-pricing-free-tiers) — 232 rows
+- [AI Tools Pricing & Free Tiers](#ai-tools-pricing-free-tiers) — 240 rows
 - [Taiwan Credit Cards](#taiwan-credit-cards) — 179 rows
 - [Travel eSIM Plans (Taiwan market)](#travel-esim-plans-taiwan-market) — 35 rows
 - [VPN Pricing & Audits (Taiwan)](#vpn-pricing-audits-taiwan) — 7 rows
@@ -58,26 +58,26 @@ Not included, by design: partner / referral tracking links, internal verificatio
 
 | | |
 | :--- | :--- |
-| Rows published | **232** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-11-04** |
+| Rows published | **240** (below public threshold, not exported: 0) |
+| Last verified (newest row) | **2026-11-05** |
 | Files | [`data/ai_tools_2026.json`](./data/ai_tools_2026.json) · [`data/ai_tools_2026.csv`](./data/ai_tools_2026.csv) |
 | Browse online | [ampm-aiops.com](https://ampm-aiops.com/free/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
 
 | name | category | free_tier_summary | cheapest_paid_usd_per_month | commercial_use | source_url | last_verified |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Adobe Firefly](https://ampm-aiops.com/tools/adobe-firefly/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | image | 免費版：官網FAQ現行文案已改稱「free daily generations」，惟未提供每日具體上限數字；合作夥伴模型扣點規則沿用原方案點數 | 9.99 | unknown | [official](https://firefly.adobe.com) | 2026-10-20 |
-| [Agorapulse](https://ampm-aiops.com/tools/agorapulse/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | marketing, agent | 無永久免費方案，提供 30 天全功能免費試用 | 99 | unknown | [official](https://www.agorapulse.com/) | 2026-10-25 |
-| [aider](https://ampm-aiops.com/tools/aider/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | coding | 完全開源免費,無訂閱模式;使用本地模型零成本;API調用費用取決於選用的LLM提供商 | — | ✅ | [official](https://aider.chat) | 2026-10-10 |
-| [AirMusic](https://ampm-aiops.com/tools/airmusic/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | voice | 10 credits | 39.8 | ❌ | [official](https://airmusic.ai/) | 2026-10-20 |
-| [AIVA](https://ampm-aiops.com/tools/aiva/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | voice | Free 方案每月 3 次下載額度、單曲時長上限 3 分鐘，僅限非商業用途，且音樂版權歸 AIVA 所有、公開需標註署名 | 16.5 | unknown | [official](https://www.aiva.ai) | 2026-10-23 |
-| [Akool](https://ampm-aiops.com/tools/akool/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | video | Free 方案：100 點免費額度 | 12 | unknown | [official](https://akool.com) | 2026-10-27 |
-| [Amazon Q Developer](https://ampm-aiops.com/tools/amazon-q-developer/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | coding, agent | Free Tier 免費方案：每月 50 次 Agentic 請求、每月 1,000 行代碼遷移轉換、無上限 IDE/CLI 程式碼補全與基礎安全弱點掃描 | 19 | unknown | [official](https://aws.amazon.com/q/developer/) | 2026-10-29 |
-| [Anijam](https://ampm-aiops.com/tools/anijam/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | video | 有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案 | 25 | ❌ | [official](https://www.anijam.ai/) | 2026-10-20 |
-| [Anyword](https://ampm-aiops.com/tools/anyword/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | marketing, writing | 無永久免費方案，提供 7 天免費試用 | 49 | unknown | [official](https://www.anyword.com/) | 2026-10-28 |
-| [Appwrite](https://ampm-aiops.com/tools/appwrite/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | coding, appbuilder | Free 方案提供 75,000 月活躍用戶、2 GB 儲存空間、5 GB 頻寬，自架版開放原始碼無授權費 | 25 | unknown | [official](https://appwrite.io) | 2026-10-25 |
+| [Adobe Firefly](https://ampm-aiops.com/tools/adobe-firefly/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | image | 免費版：官網FAQ現行文案已改稱「free daily generations」，惟未提供每日具體上限數字；合作夥伴模型扣點規則沿用原方案點數 | 9.99 | unknown | [official](https://firefly.adobe.com/plans) | 2026-10-27 |
+| [Agorapulse](https://ampm-aiops.com/tools/agorapulse/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | marketing, agent | 無永久免費方案，提供 30 天全功能免費試用 | 99 | unknown | [official](https://www.agorapulse.com/pricing/) | 2026-11-05 |
+| [aider](https://ampm-aiops.com/tools/aider/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | coding | 完全開源免費,無訂閱模式;使用本地模型零成本;API調用費用取決於選用的LLM提供商 | — | ✅ | [official](https://aider.chat/docs/faq.html) | 2026-10-10 |
+| [AirMusic](https://ampm-aiops.com/tools/airmusic/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | voice | 10 credits | 39.8 | ❌ | [official](https://airmusic.ai/pricing) | 2026-11-05 |
+| [AIVA](https://ampm-aiops.com/tools/aiva/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | voice | Free 方案每月 3 次下載額度、單曲時長上限 3 分鐘，僅限非商業用途，且音樂版權歸 AIVA 所有、公開需標註署名 | 16.5 | unknown | [official](https://www.aiva.ai/pricing) | 2026-10-23 |
+| [Akool](https://ampm-aiops.com/tools/akool/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | video | Free 方案：100 點免費額度 | 12 | unknown | [official](https://akool.com/pricing) | 2026-11-05 |
+| [Amazon Q Developer](https://ampm-aiops.com/tools/amazon-q-developer/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | coding, agent | Free Tier 免費方案：每月 50 次 Agentic 請求、每月 1,000 行代碼遷移轉換、無上限 IDE/CLI 程式碼補全與基礎安全弱點掃描 | 19 | unknown | [official](https://aws.amazon.com/q/developer/pricing/) | 2026-11-05 |
+| [Anijam](https://ampm-aiops.com/tools/anijam/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | video | 有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案 | 25 | ❌ | [official](https://www.anijam.ai/pricing/) | 2026-11-05 |
+| [Anyword](https://ampm-aiops.com/tools/anyword/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | marketing, writing | 無永久免費方案，提供 7 天免費試用 | 49 | unknown | [official](https://www.anyword.com/pricing) | 2026-11-05 |
+| [Appwrite](https://ampm-aiops.com/tools/appwrite/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | coding, appbuilder | Free 方案提供 75,000 月活躍用戶、2 GB 儲存空間、5 GB 頻寬，自架版開放原始碼無授權費 | 25 | unknown | [official](https://appwrite.io/pricing) | 2026-11-05 |
 
-*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 232 rows.*
+*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 240 rows.*
 
 ### Taiwan Credit Cards
 *台灣信用卡年費／回饋／循環利率實查*
