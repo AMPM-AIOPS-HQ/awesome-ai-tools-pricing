@@ -1,5 +1,6 @@
 # Columns (published)
 
+- 2026-11-06 [(News) Aina Smart Ring Puts a Screen and Joystick on Your Finger: Wait or Preorder?](https://ampm-aiops.com/en/guides/ai-news-20261106/)
 - 2026-11-05 [(Review) Plus AI Pricing: Is the Free Trial Worth the Card You Must Hand Over?](https://ampm-aiops.com/en/guides/plus-ai-review-2026/)
 - 2026-11-05 [(Review) Make Free Plan Limits Hit Faster Than the Credit Count Suggests](https://ampm-aiops.com/en/guides/make-review-2026/)
 - 2026-11-05 [(Review) Does Supabase Pro Pricing Cover One Project or Your Whole Organization?](https://ampm-aiops.com/en/guides/supabase-review-2026/)

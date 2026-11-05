@@ -34,8 +34,8 @@ Independent publications that list pages of this project as a source. Each link 
 
 | Publication | Date | Article | Cites our page | Link last confirmed |
 |---|---|---|---|---|
-| Brief IA (France) | 2026-09-08 | [Mistral AI structure l'industrie européenne de l'IA en 2026](https://www.briefia.fr/blog/comment-mistral-ai-redefine-industrie-2026) | [Mistral AI pricing](https://ampm-aiops.com/tools/mistral/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-05 |
-| Brief IA (France) | 2026-09-02 | [5 outils de maquettes IA pour gagner du temps en 2026](https://www.briefia.fr/blog/outils-maquettes-ia-2026) | [Framer pricing](https://ampm-aiops.com/en/tools/framer/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-05 |
+| Brief IA (France) | 2026-09-08 | [Mistral AI structure l'industrie européenne de l'IA en 2026](https://www.briefia.fr/blog/comment-mistral-ai-redefine-industrie-2026) | [Mistral AI pricing](https://ampm-aiops.com/tools/mistral/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-06 |
+| Brief IA (France) | 2026-09-02 | [5 outils de maquettes IA pour gagner du temps en 2026](https://www.briefia.fr/blog/outils-maquettes-ia-2026) | [Framer pricing](https://ampm-aiops.com/en/tools/framer/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-06 |
 
 > 外部引用：以上媒體把本專案頁面列為資料來源；每次匯出都回原文確認連結仍在，不在就自動撤下。
 

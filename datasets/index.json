@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T22:23:09+08:00",
+ "generated_at": "2026-11-06T04:00:02+08:00",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "methodology": "https://ampm-aiops.com/methodology/",
  "open_data_page": "https://ampm-aiops.com/open-data/",
@@ -91,7 +91,7 @@
   "dataset": "price-history",
   "title": "AI tool price checks — monthly summaries",
   "rows": 1,
-  "tools": 234,
+  "tools": 242,
   "first_checked_at": null,
   "last_checked_at": null,
   "index": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/data/price-history/index.json",

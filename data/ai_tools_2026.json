@@ -1,7 +1,7 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-05T22:23:09+08:00",
+ "generated_at": "2026-11-06T04:00:02+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -211,7 +211,7 @@
    "cheapest_paid_twd_per_month": null,
    "commercial_use": "unknown",
    "last_verified": "2026-11-05",
-   "source_url": "https://appy.ai",
+   "source_url": "https://appy.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/appy-ai/",
    "ampm_ref": "AMPM-a690b78ada"
   },
@@ -509,7 +509,7 @@
    "cheapest_paid_twd_per_month": null,
    "commercial_use": "unknown",
    "last_verified": "2026-11-05",
-   "source_url": "https://circleback.ai",
+   "source_url": "https://circleback.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/circleback/",
    "ampm_ref": "AMPM-f97d223526"
   },
@@ -620,7 +620,7 @@
    "cheapest_paid_twd_per_month": null,
    "commercial_use": "unknown",
    "last_verified": "2026-11-05",
-   "source_url": "https://tryclico.com",
+   "source_url": "https://tryclico.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/clico/",
    "ampm_ref": "AMPM-82e7528907"
   },
@@ -1264,7 +1264,7 @@
    "vendor": "Fyxer",
    "category": [
     "productivity",
-    "email",
+    "marketing",
     "agent"
    ],
    "free_tier": true,
@@ -1274,7 +1274,7 @@
    "cheapest_paid_twd_per_month": null,
    "commercial_use": "unknown",
    "last_verified": "2026-11-05",
-   "source_url": "https://www.fyxer.com",
+   "source_url": "https://www.fyxer.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/fyxer/",
    "ampm_ref": "AMPM-e6ebc3cc88"
   },
@@ -1617,8 +1617,7 @@
    "name": "Heyy",
    "vendor": "Heyy",
    "category": [
-    "support",
-    "sales",
+    "productivity",
     "agent"
    ],
    "free_tier": true,
@@ -1628,7 +1627,7 @@
    "cheapest_paid_twd_per_month": null,
    "commercial_use": "unknown",
    "last_verified": "2026-11-05",
-   "source_url": "https://www.heyy.io",
+   "source_url": "https://www.heyy.io/pricing",
    "tool_page": "https://ampm-aiops.com/tools/heyy/",
    "ampm_ref": "AMPM-5314025f90"
   },
@@ -2147,7 +2146,7 @@
    "cheapest_paid_twd_per_month": null,
    "commercial_use": "unknown",
    "last_verified": "2026-11-05",
-   "source_url": "https://magica.com",
+   "source_url": "https://magica.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/magica/",
    "ampm_ref": "AMPM-ed778fca4e"
   },
@@ -2779,7 +2778,7 @@
    "cheapest_paid_twd_per_month": null,
    "commercial_use": true,
    "last_verified": "2026-09-08",
-   "source_url": "https://www.perplexity.ai",
+   "source_url": "https://www.perplexity.ai/pro",
    "tool_page": "https://ampm-aiops.com/tools/perplexity/",
    "ampm_ref": "AMPM-54ee462eb5"
   },
@@ -3715,7 +3714,7 @@
    "name": "Subscribr",
    "vendor": "Subscribr",
    "category": [
-    "content",
+    "writing",
     "video",
     "productivity"
    ],
@@ -3726,7 +3725,7 @@
    "cheapest_paid_twd_per_month": null,
    "commercial_use": "unknown",
    "last_verified": "2026-11-05",
-   "source_url": "https://subscribr.ai",
+   "source_url": "https://subscribr.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/subscribr/",
    "ampm_ref": "AMPM-68cb5f324c"
   },
@@ -4301,7 +4300,7 @@
    "cheapest_paid_twd_per_month": null,
    "commercial_use": "unknown",
    "last_verified": "2026-11-05",
-   "source_url": "https://www.voiceos.com",
+   "source_url": "https://www.voiceos.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/voiceos/",
    "ampm_ref": "AMPM-d5b8736e12"
   },

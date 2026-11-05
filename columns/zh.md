@@ -1,5 +1,7 @@
 # 專欄（已上線）
 
+- 2026-11-06 [You.com 免費方案只有 Smart Agent 無限，研究 Agent 每日限次且官網不寫次數；要數字就走 MCP，免註冊每天 100 次](https://ampm-aiops.com/guides/you-com-howto-2026/)
+- 2026-11-06 [AI 新聞：Aina 智慧戒指把螢幕、搖桿、麥克風塞進手指，2026 第一代先觀望，通勤收音與誤觸都還是未知數](https://ampm-aiops.com/guides/ai-news-20261106/)
 - 2026-11-05 [開會只想要逐字稿？三款會議轉文字這樣挑，別再被免費額度騙](https://ampm-aiops.com/guides/meeting-transcript-3pick-2026/)
 - 2026-11-05 [要配音、要朗讀，還是要口述？三款 AI 語音工具別買錯](https://ampm-aiops.com/guides/ai-voice-3pick-2026/)
 - 2026-11-05 [短影音一週要出 3 支？文字進、多平台出的剪輯 SOP](https://ampm-aiops.com/guides/short-video-edit-workflow-sop-2026/)
@@ -18,6 +20,7 @@
 - 2026-11-05 [Photoroom 免費 100 次到底能幹嘛？Pro 只要 US$12.99，哪個方案最划算](https://ampm-aiops.com/guides/photoroom-review-2026/)
 - 2026-11-05 [Perplexity 教學：Free 先查附來源答案；Pro 年繳約 US$17／月才擴 Computer 與模型自選](https://ampm-aiops.com/guides/perplexity-howto-2026/)
 - 2026-11-05 [Make 價格先看這點：Core、Pro、Teams 都是 10,000 credits，升級買功能，每一步還都扣點](https://ampm-aiops.com/guides/make-review-2026/)
+- 2026-11-05 [Livedocs 免費版 US$5 額度燒完不能加購；Pro 月付 US$30 官網寫 16GB RAM，不是 32GB](https://ampm-aiops.com/guides/livedocs-review-2026/)
 - 2026-11-05 [HeyGen 教學：免費每月 3 支有浮水印；Creator US$29 起才拿得到正式輸出](https://ampm-aiops.com/guides/heygen-howto-2026/)
 - 2026-11-05 [Groq 教學：Free 測速、Developer 才放大限額；自助價看 GPT-OSS，Llama 要談企業](https://ampm-aiops.com/guides/groq-howto-2026/)
 - 2026-11-05 [Grok 教學：免費即可開聊；要更高上限走 SuperGrok 或 X Premium，別買錯 Basic](https://ampm-aiops.com/guides/grok-howto-2026/)
