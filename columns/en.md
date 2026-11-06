@@ -1,6 +1,10 @@
 # Columns (published)
 
+- 2026-11-06 [(Review) Read AI Pricing and Free Tier Limits: Which Plan Earns Its Seat?](https://ampm-aiops.com/en/guides/read-ai-review-2026/)
 - 2026-11-06 [(News) Aina Smart Ring Puts a Screen and Joystick on Your Finger: Wait or Preorder?](https://ampm-aiops.com/en/guides/ai-news-20261106/)
+- 2026-11-06 [(News) AI Warning Drafts in Disaster Response: What Emergency Teams Risk Without Rules](https://ampm-aiops.com/en/guides/ai-news-20261106-4/)
+- 2026-11-06 [(How-to) GetResponse Free Plan: Building Your First Campaign Without Paying](https://ampm-aiops.com/en/guides/getresponse-howto-2026/)
+- 2026-11-06 [(How-to) Caspio Pricing: Build Your First App Before the Builder Limit Bites](https://ampm-aiops.com/en/guides/caspio-howto-2026/)
 - 2026-11-05 [(Review) Plus AI Pricing: Is the Free Trial Worth the Card You Must Hand Over?](https://ampm-aiops.com/en/guides/plus-ai-review-2026/)
 - 2026-11-05 [(Review) Make Free Plan Limits Hit Faster Than the Credit Count Suggests](https://ampm-aiops.com/en/guides/make-review-2026/)
 - 2026-11-05 [(Review) Does Supabase Pro Pricing Cover One Project or Your Whole Organization?](https://ampm-aiops.com/en/guides/supabase-review-2026/)

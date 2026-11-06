@@ -1,7 +1,7 @@
 {
  "dataset": "esim",
  "title": "Travel eSIM Plans (Taiwan market)",
- "generated_at": "2026-11-06T04:00:02+08:00",
+ "generated_at": "2026-11-07T04:00:03+08:00",
  "source": "https://trip.ampm-aiops.com/esim/",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 35,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-10-22",
+ "last_verified_max": "2026-11-07",
  "rows": [
   {
    "slug": "airalo",
@@ -91,7 +91,7 @@
    "plan_type": "固定流量型＋吃到飽型（每日高速額度制）＋郵輪海上專用方案",
    "hotspot": "支援，無硬性上限",
    "source_url": "https://www.gigsky.com/",
-   "last_verified": "2026-10-07",
+   "last_verified": "2026-11-07",
    "page_url": "https://trip.ampm-aiops.com/esim/items/gigsky/",
    "ampm_ref": "AMPM-bbc9c1ad22"
   },

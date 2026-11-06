@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-06T04:00:02+08:00",
+ "generated_at": "2026-11-07T04:00:03+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 240,
+ "row_count": 236,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
  "last_verified_max": "2026-11-05",
- "tool_count": 240,
+ "tool_count": 236,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -1259,26 +1259,6 @@
    "ampm_ref": "AMPM-2292d6fbdf"
   },
   {
-   "slug": "fyxer",
-   "name": "Fyxer",
-   "vendor": "Fyxer",
-   "category": [
-    "productivity",
-    "marketing",
-    "agent"
-   ],
-   "free_tier": true,
-   "free_tier_summary": "Official entry seen; published free quota / paid plans not filled here . Confirm on fyxer.…",
-   "free_tier_summary_en": null,
-   "cheapest_paid_usd_per_month": null,
-   "cheapest_paid_twd_per_month": null,
-   "commercial_use": "unknown",
-   "last_verified": "2026-11-05",
-   "source_url": "https://www.fyxer.com/pricing",
-   "tool_page": "https://ampm-aiops.com/tools/fyxer/",
-   "ampm_ref": "AMPM-e6ebc3cc88"
-  },
-  {
    "slug": "gamma",
    "name": "Gamma",
    "vendor": "Gamma",
@@ -1611,25 +1591,6 @@
    "source_url": "https://www.heygen.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/heygen/",
    "ampm_ref": "AMPM-ce9413e054"
-  },
-  {
-   "slug": "heyy",
-   "name": "Heyy",
-   "vendor": "Heyy",
-   "category": [
-    "productivity",
-    "agent"
-   ],
-   "free_tier": true,
-   "free_tier_summary": "Official site entry seen; published free quota / paid plans not filled here . Confirm on w…",
-   "free_tier_summary_en": null,
-   "cheapest_paid_usd_per_month": null,
-   "cheapest_paid_twd_per_month": null,
-   "commercial_use": "unknown",
-   "last_verified": "2026-11-05",
-   "source_url": "https://www.heyy.io/pricing",
-   "tool_page": "https://ampm-aiops.com/tools/heyy/",
-   "ampm_ref": "AMPM-5314025f90"
   },
   {
    "slug": "higgsfield",
@@ -2130,25 +2091,6 @@
    "source_url": "https://magichour.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/magic-hour/",
    "ampm_ref": "AMPM-1dd41b8db6"
-  },
-  {
-   "slug": "magica",
-   "name": "Magica",
-   "vendor": "Magica",
-   "category": [
-    "agent",
-    "productivity"
-   ],
-   "free_tier": true,
-   "free_tier_summary": "Official site entry seen; published free quota / paid plans not filled here . Confirm on m…",
-   "free_tier_summary_en": null,
-   "cheapest_paid_usd_per_month": null,
-   "cheapest_paid_twd_per_month": null,
-   "commercial_use": "unknown",
-   "last_verified": "2026-11-05",
-   "source_url": "https://magica.com/pricing",
-   "tool_page": "https://ampm-aiops.com/tools/magica/",
-   "ampm_ref": "AMPM-ed778fca4e"
   },
   {
    "slug": "mailerlite",
@@ -3708,26 +3650,6 @@
    "source_url": "https://www.strix.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/strix/",
    "ampm_ref": "AMPM-0991291a78"
-  },
-  {
-   "slug": "subscribr",
-   "name": "Subscribr",
-   "vendor": "Subscribr",
-   "category": [
-    "writing",
-    "video",
-    "productivity"
-   ],
-   "free_tier": true,
-   "free_tier_summary": "Official site entry seen; published free quota / paid plans not filled here . Confirm on s…",
-   "free_tier_summary_en": null,
-   "cheapest_paid_usd_per_month": null,
-   "cheapest_paid_twd_per_month": null,
-   "commercial_use": "unknown",
-   "last_verified": "2026-11-05",
-   "source_url": "https://subscribr.ai/pricing",
-   "tool_page": "https://ampm-aiops.com/tools/subscribr/",
-   "ampm_ref": "AMPM-68cb5f324c"
   },
   {
    "slug": "sudowrite",

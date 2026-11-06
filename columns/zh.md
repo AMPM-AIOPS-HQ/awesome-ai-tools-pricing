@@ -1,7 +1,12 @@
 # 專欄（已上線）
 
 - 2026-11-06 [You.com 免費方案只有 Smart Agent 無限，研究 Agent 每日限次且官網不寫次數；要數字就走 MCP，免註冊每天 100 次](https://ampm-aiops.com/guides/you-com-howto-2026/)
+- 2026-11-06 [Read AI 免費版每月 5 場、單場 1 小時；Pro 月繳 US$19.75，但商用條款還沒人工交叉，報帳前先看清楚](https://ampm-aiops.com/guides/read-ai-review-2026/)
+- 2026-11-06 [GetResponse 免費方案鎖 500 名聯絡人、每月 2,500 封信，30 天試用到期後進階功能會卡死](https://ampm-aiops.com/guides/getresponse-howto-2026/)
+- 2026-11-06 [Context.dev 月費多少？Developer 方案 US$19 與 US$25 差異全解析](https://ampm-aiops.com/guides/context-dev-review-2026/)
+- 2026-11-06 [Caspio 不限終端使用者是真的，但 Team 方案 US$300/月只含 5 位建構者、100 個 DataPages，預算會卡在做系統的人與頁面數量](https://ampm-aiops.com/guides/caspio-howto-2026/)
 - 2026-11-06 [AI 新聞：Aina 智慧戒指把螢幕、搖桿、麥克風塞進手指，2026 第一代先觀望，通勤收音與誤觸都還是未知數](https://ampm-aiops.com/guides/ai-news-20261106/)
+- 2026-11-06 [AI 新聞講的防災警報補強，問題不在 AI 會不會寫錯，而在這還是非正式使用、沒有公開驗證清單](https://ampm-aiops.com/guides/ai-news-20261106-4/)
 - 2026-11-05 [開會只想要逐字稿？三款會議轉文字這樣挑，別再被免費額度騙](https://ampm-aiops.com/guides/meeting-transcript-3pick-2026/)
 - 2026-11-05 [要配音、要朗讀，還是要口述？三款 AI 語音工具別買錯](https://ampm-aiops.com/guides/ai-voice-3pick-2026/)
 - 2026-11-05 [短影音一週要出 3 支？文字進、多平台出的剪輯 SOP](https://ampm-aiops.com/guides/short-video-edit-workflow-sop-2026/)
