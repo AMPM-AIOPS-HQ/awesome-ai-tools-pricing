@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-07T04:00:03+08:00",
+ "generated_at": "2026-11-10T04:00:08+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 236,
+ "row_count": 239,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-05",
- "tool_count": 236,
+ "last_verified_max": "2026-11-09",
+ "tool_count": 239,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -453,7 +453,7 @@
    "cheapest_paid_usd_per_month": 10,
    "cheapest_paid_twd_per_month": null,
    "commercial_use": "unknown",
-   "last_verified": "2026-09-08",
+   "last_verified": "2026-11-09",
    "source_url": "https://www.capcut.com/activities/subscribe/",
    "tool_page": "https://ampm-aiops.com/tools/capcut-ai/",
    "ampm_ref": "AMPM-a2fc3e5cc0"
@@ -1609,6 +1609,25 @@
    "source_url": "https://higgsfield.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/higgsfield/",
    "ampm_ref": "AMPM-77268148ee"
+  },
+  {
+   "slug": "hiver",
+   "name": "Hiver",
+   "vendor": "Hiver (GrexIt, Inc.)",
+   "category": [
+    "productivity",
+    "agent"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案，僅提供 7 天 Elite 等級功能免費試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 35,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-06",
+   "source_url": "https://hiverhq.com/pricing/hiver-omni",
+   "tool_page": "https://ampm-aiops.com/tools/hiver/",
+   "ampm_ref": "AMPM-471fc3b36d"
   },
   {
    "slug": "holaos",
@@ -3579,6 +3598,25 @@
    "ampm_ref": "AMPM-3294be8556"
   },
   {
+   "slug": "sprout-social",
+   "name": "Sprout Social",
+   "vendor": "Sprout Social, Inc.",
+   "category": [
+    "marketing",
+    "productivity"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案；提供 30 天全功能免費試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-09",
+   "source_url": "https://sproutsocial.com/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/sprout-social/",
+   "ampm_ref": "AMPM-1fc872e115"
+  },
+  {
    "slug": "squibler",
    "name": "Squibler",
    "vendor": "Squibler",
@@ -3631,6 +3669,25 @@
    "source_url": "https://stockimg.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/stockimg-ai/",
    "ampm_ref": "AMPM-acd80765d2"
+  },
+  {
+   "slug": "strapi",
+   "name": "Strapi",
+   "vendor": "Strapi Solutions SAS",
+   "category": [
+    "appbuilder",
+    "coding"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Community 開源自託管版完全免費",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 35,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-09",
+   "source_url": "https://strapi.io/pricing-cloud",
+   "tool_page": "https://ampm-aiops.com/tools/strapi/",
+   "ampm_ref": "AMPM-dd44cc57f1"
   },
   {
    "slug": "strix",
