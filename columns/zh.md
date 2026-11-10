@@ -1,6 +1,13 @@
 # 專欄（已上線）
 
+- 2026-11-11 [Reclaim.ai 四級方案，Enterprise 卡 100 席又只給年繳；100 席以內，官網最高只到 Business](https://ampm-aiops.com/guides/reclaim-ai-review-2026/)
+- 2026-11-11 [Adobe AI 新聞橫跨 Photoshop、Premiere、Firefly 三條線，MCP 細節媒體沒寫清楚，先別急著改工作流](https://ampm-aiops.com/guides/ai-news-20261111/)
+- 2026-11-11 [AI 新聞 Core Studio AI 預定 11/30 上線，24 位 AI Agent 寫劇本兼剪輯，值不值得等月底再看](https://ampm-aiops.com/guides/ai-news-20261111-2/)
+- 2026-11-10 [Tilda Publishing 免費版只給 50 個頁面又不能綁網域，要接案就只剩 US$15 月繳或 US$120 年繳](https://ampm-aiops.com/guides/tilda-publishing-review-2026/)
+- 2026-11-10 [Scenario 每日 50 點免費額度能做什麼？付費方案 15、45、75 美元哪個值得投資](https://ampm-aiops.com/guides/scenario-review-2026/)
+- 2026-11-10 [Relume 的 Team 方案月繳 US$51 比 Pro 的 US$57 便宜，但最少綁 3 席，年繳起步 US$1,296](https://ampm-aiops.com/guides/relume-review-2026/)
 - 2026-11-10 [Postman 免費版給無限制集合運行與 Mock，但限單一使用者，團隊工作區要 US$23／席／月](https://ampm-aiops.com/guides/postman-howto-2026/)
+- 2026-11-10 [AI 新聞：本地端模型卡點在硬體，一般文書機先別急著換](https://ampm-aiops.com/guides/ai-news-20261110-2/)
 - 2026-11-10 [AI 新聞：Disney 與 Adobe 要一起做生成式 AI 工具，但公開的只有合作大方向，沒有上線日期](https://ampm-aiops.com/guides/ai-news-20261110/)
 - 2026-11-09 [Linear 免費版 250 個 Issues 不是試用期：封存不限數量，小團隊可以一直循環用](https://ampm-aiops.com/guides/linear-review-2026/)
 - 2026-11-09 [LanguageTool Teams 方案每月 US$11.07 起（2 人起訂）vs Premium US$24.90，哪個更划算？](https://ampm-aiops.com/guides/languagetool-review-2026/)

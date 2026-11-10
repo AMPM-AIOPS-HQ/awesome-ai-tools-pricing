@@ -1,5 +1,11 @@
 # Columns (published)
 
+- 2026-11-11 [(Review) Reclaim.ai Pricing: The 100-Seat Wall Nobody Mentions on the Pricing Page](https://ampm-aiops.com/en/guides/reclaim-ai-review-2026/)
+- 2026-11-11 [(News) Core Studio AI Launches 11/30 With 24 AI Agents for Script and Edit Work](https://ampm-aiops.com/en/guides/ai-news-20261111-2/)
+- 2026-11-11 [(News) Adobe Adds AI Agents to Photoshop, Premiere and Firefly: What Creators Should Watch](https://ampm-aiops.com/en/guides/ai-news-20261111/)
+- 2026-11-10 [(Review) Tilda Publishing Pricing: Is the Free Plan Enough for Client Work?](https://ampm-aiops.com/en/guides/tilda-publishing-review-2026/)
+- 2026-11-10 [(Review) Relume Pricing: The Team Plan Costs Less Per Seat Than Pro — So Why Pay More?](https://ampm-aiops.com/en/guides/relume-review-2026/)
+- 2026-11-10 [(News) Local AI Models: What Hardware You Actually Need in 2026](https://ampm-aiops.com/en/guides/ai-news-20261110-2/)
 - 2026-11-10 [(News) Disney and Adobe Are Building Generative AI Tools Together: What Creators Should Watch](https://ampm-aiops.com/en/guides/ai-news-20261110/)
 - 2026-11-10 [(How-to) Postman Free Tier Limits: Build Your First API Before the Team Wall](https://ampm-aiops.com/en/guides/postman-howto-2026/)
 - 2026-11-09 [(News) Paper Trail Tools for Authors Facing AI Accusations: What They Actually Prove](https://ampm-aiops.com/en/guides/ai-news-20261109-2/)

@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-10T04:00:08+08:00",
+ "generated_at": "2026-11-11T04:00:04+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 239,
+ "row_count": 244,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-09",
- "tool_count": 239,
+ "last_verified_max": "2026-11-10",
+ "tool_count": 244,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -327,6 +327,24 @@
    "source_url": "https://brave.com/premium/",
    "tool_page": "https://ampm-aiops.com/tools/brave-leo/",
    "ampm_ref": "AMPM-2b1ad90318"
+  },
+  {
+   "slug": "brevo",
+   "name": "Brevo",
+   "vendor": "Brevo",
+   "category": [
+    "marketing"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "每日上限 300 封電子郵件，聯絡人名單上限可達 100,000 筆，信件底部附帶 Brevo 品牌標誌，自動化旅程上限 2,000 位聯絡人",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 9,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-10",
+   "source_url": "https://www.brevo.com/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/brevo/",
+   "ampm_ref": "AMPM-642f2cf87d"
   },
   {
    "slug": "builder-io",
@@ -1162,6 +1180,24 @@
    "source_url": "https://fliki.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/fliki/",
    "ampm_ref": "AMPM-849a1e09fd"
+  },
+  {
+   "slug": "flixier",
+   "name": "Flixier",
+   "vendor": "Flixier",
+   "category": [
+    "video"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "每月 10 分鐘影片匯出上限、5 分鐘自動字幕、500 AI credits、匯出畫質最高 720p、2GB 雲端空間，影片帶有 Flixier 浮水印",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 19,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-10",
+   "source_url": "https://flixier.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/flixier/",
+   "ampm_ref": "AMPM-8ad8fc4668"
   },
   {
    "slug": "floot",
@@ -3598,6 +3634,25 @@
    "ampm_ref": "AMPM-3294be8556"
   },
   {
+   "slug": "spikes-studio",
+   "name": "Spikes Studio",
+   "vendor": "Spikes",
+   "category": [
+    "video",
+    "marketing"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Basic plan: 每月最高 30 分鐘影片處理額度，匯出帶有官方浮水印，最高 720p 畫質，儲存期 7 天，無須綁定信用卡",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 32.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-10",
+   "source_url": "https://www.spikes.studio/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/spikes-studio/",
+   "ampm_ref": "AMPM-127ff035d5"
+  },
+  {
    "slug": "sprout-social",
    "name": "Sprout Social",
    "vendor": "Sprout Social, Inc.",
@@ -4080,6 +4135,25 @@
    "ampm_ref": "AMPM-1073a261e8"
   },
   {
+   "slug": "updf-ai",
+   "name": "UPDF AI",
+   "vendor": "Superace Software Technologies Co., Ltd.",
+   "category": [
+    "productivity",
+    "writing"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "免費版可上傳分析最多 5 份 PDF、最多發問 100 個問題，單檔上限 100 頁與 10 MB；基礎 PDF 編輯工具試用會帶有浮水印",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 54.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-06",
+   "source_url": "https://updf.com/pricing-individuals/?source=website_updf&channel=SEO-EN-AI&currency=USD&language=en-US",
+   "tool_page": "https://ampm-aiops.com/tools/updf-ai/",
+   "ampm_ref": "AMPM-f0af7c40f1"
+  },
+  {
    "slug": "v0",
    "name": "v0",
    "vendor": "Vercel",
@@ -4300,6 +4374,24 @@
    "source_url": "https://www.warp.dev/pricing",
    "tool_page": "https://ampm-aiops.com/tools/warp/",
    "ampm_ref": "AMPM-db14cf5236"
+  },
+  {
+   "slug": "webflow",
+   "name": "Webflow",
+   "vendor": "Webflow, Inc.",
+   "category": [
+    "appbuilder"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Starter Plan：免費提供 webflow.io 次網域、2 頁靜態頁面、50 筆 CMS 資料項目、1 GB 頻寬，免綁信用卡",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 25,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-10",
+   "source_url": "https://webflow.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/webflow/",
+   "ampm_ref": "AMPM-5a6370dc5e"
   },
   {
    "slug": "wellsaid-labs",
