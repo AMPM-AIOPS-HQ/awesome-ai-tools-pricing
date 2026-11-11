@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-11T04:00:04+08:00",
+ "generated_at": "2026-11-12T04:00:03+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 244,
+ "row_count": 249,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-10",
- "tool_count": 244,
+ "last_verified_max": "2026-11-11",
+ "tool_count": 249,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -641,6 +641,24 @@
    "source_url": "https://tryclico.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/clico/",
    "ampm_ref": "AMPM-82e7528907"
+  },
+  {
+   "slug": "clipchamp",
+   "name": "Clipchamp",
+   "vendor": "Microsoft",
+   "category": [
+    "video"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "免費導出最高 1080p Full HD 無浮水印影片，可無限制製作影片，內建基本 AI 語音合成、AI 自動字幕、靜音消除及免費素材庫",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 11.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-10",
+   "source_url": "https://clipchamp.com/en/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/clipchamp/",
+   "ampm_ref": "AMPM-1710300d6f"
   },
   {
    "slug": "coderabbit",
@@ -1592,6 +1610,25 @@
    "ampm_ref": "AMPM-e071358c98"
   },
   {
+   "slug": "help-scout-ai",
+   "name": "Help Scout",
+   "vendor": "Help Scout Inc.",
+   "category": [
+    "agent",
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案上限 5 位使用者、每月 100 位聯絡人",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 30,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-11",
+   "source_url": "https://www.helpscout.com/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/help-scout-ai/",
+   "ampm_ref": "AMPM-833d6ad4de"
+  },
+  {
    "slug": "hemory",
    "name": "Hemory",
    "vendor": "ONES.com",
@@ -1720,6 +1757,25 @@
    "source_url": "https://ideogram.ai/pricing/",
    "tool_page": "https://ampm-aiops.com/tools/ideogram/",
    "ampm_ref": "AMPM-875fc8c83e"
+  },
+  {
+   "slug": "infogram",
+   "name": "Infogram",
+   "vendor": "Prezi Inc.",
+   "category": [
+    "productivity",
+    "image"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Basic 免費版：1 個使用者、最多建立 10 個專案、每個專案上限 5 頁、可使用 35+ 種基本圖表與 13 種地圖類型，僅限線上公開發布，匯出含浮水印",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 25,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-11",
+   "source_url": "https://infogram.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/infogram/",
+   "ampm_ref": "AMPM-9094c9e8fb"
   },
   {
    "slug": "instapage",
@@ -2517,6 +2573,25 @@
    "ampm_ref": "AMPM-8f237514bc"
   },
   {
+   "slug": "narakeet",
+   "name": "Narakeet",
+   "vendor": "Narakeet (Openmind Networks)",
+   "category": [
+    "voice",
+    "video"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "免註冊或免費帳號提供 20 次評估轉換；音訊文字限制 1 KB，影片腳本限制 10 KB；不含商業授權與 API 取用權限",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 6,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-11",
+   "source_url": "https://www.narakeet.com/docs/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/narakeet/",
+   "ampm_ref": "AMPM-5d797ac202"
+  },
+  {
    "slug": "nitro-pdf",
    "name": "Nitro PDF",
    "vendor": "Nitro Software",
@@ -2815,6 +2890,25 @@
    "source_url": "https://www.photoroom.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/photoroom/",
    "ampm_ref": "AMPM-964cb244a1"
+  },
+  {
+   "slug": "picsart",
+   "name": "Picsart",
+   "vendor": "PicsArt, Inc.",
+   "category": [
+    "image",
+    "video"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "基礎圖片與影片編輯功能、社群模板，官網每週提供 5 點 AI 額度供體驗",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 15,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-11",
+   "source_url": "https://picsart.com/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/picsart/",
+   "ampm_ref": "AMPM-6faad8f968"
   },
   {
    "slug": "pictory",

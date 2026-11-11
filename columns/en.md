@@ -1,5 +1,6 @@
 # Columns (published)
 
+- 2026-11-12 [(News) China's Digital IDs for AI Agents: Who Issues the Badge, and Who Takes the Blame?](https://ampm-aiops.com/en/guides/ai-news-20261112/)
 - 2026-11-11 [(Review) Reclaim.ai Pricing: The 100-Seat Wall Nobody Mentions on the Pricing Page](https://ampm-aiops.com/en/guides/reclaim-ai-review-2026/)
 - 2026-11-11 [(News) Core Studio AI Launches 11/30 With 24 AI Agents for Script and Edit Work](https://ampm-aiops.com/en/guides/ai-news-20261111-2/)
 - 2026-11-11 [(News) Adobe Adds AI Agents to Photoshop, Premiere and Firefly: What Creators Should Watch](https://ampm-aiops.com/en/guides/ai-news-20261111/)

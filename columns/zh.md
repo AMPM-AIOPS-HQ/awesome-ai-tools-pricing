@@ -1,6 +1,9 @@
 # 專欄（已上線）
 
+- 2026-11-12 [中國替 AI agent 發數位身分：聽起來像 AI 身分證，真正的關鍵是誰發證、誰擔責任](https://ampm-aiops.com/guides/ai-news-20261112/)
+- 2026-11-11 [問問貓編輯部指出：Missive Starter 只容納 5 人、Productive 必付 US$30 才開 AI、Business 才是真正無上限的企業版](https://ampm-aiops.com/guides/missive-review-2026/)
 - 2026-11-11 [Reclaim.ai 四級方案，Enterprise 卡 100 席又只給年繳；100 席以內，官網最高只到 Business](https://ampm-aiops.com/guides/reclaim-ai-review-2026/)
+- 2026-11-11 [DeepInfra 免費額度只有一次性 US$5 試玩金　後續全走 usage 計費](https://ampm-aiops.com/guides/deepinfra-review-2026/)
 - 2026-11-11 [Adobe AI 新聞橫跨 Photoshop、Premiere、Firefly 三條線，MCP 細節媒體沒寫清楚，先別急著改工作流](https://ampm-aiops.com/guides/ai-news-20261111/)
 - 2026-11-11 [AI 新聞 Core Studio AI 預定 11/30 上線，24 位 AI Agent 寫劇本兼剪輯，值不值得等月底再看](https://ampm-aiops.com/guides/ai-news-20261111-2/)
 - 2026-11-10 [Tilda Publishing 免費版只給 50 個頁面又不能綁網域，要接案就只剩 US$15 月繳或 US$120 年繳](https://ampm-aiops.com/guides/tilda-publishing-review-2026/)
