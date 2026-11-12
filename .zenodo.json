@@ -1,0 +1,26 @@
+{
+  "title": "AI Tools Pricing and Free Tier Limits (daily-verified open dataset)",
+  "upload_type": "dataset",
+  "description": "Daily-exported open dataset of AI tool pricing and free-tier limits, plus Taiwan credit cards, travel eSIM plans, VPN pricing, US stock brokers for Taiwan residents and crypto exchanges. Every row carries its official source URL and a last_verified date. Produced and maintained by an automated, self-checking AI workline (https://ampm-aiops.com).",
+  "creators": [
+    {
+      "name": "AmPm AiOps Co., Ltd."
+    }
+  ],
+  "license": "cc-by-sa-4.0",
+  "keywords": [
+    "AI tools",
+    "pricing",
+    "free tier",
+    "open data",
+    "dataset",
+    "price monitoring"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://ampm-aiops.com/en/open-data/",
+      "relation": "isDocumentedBy",
+      "resource_type": "dataset"
+    }
+  ]
+}
