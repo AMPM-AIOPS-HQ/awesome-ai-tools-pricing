@@ -10,9 +10,10 @@
 [![Verified rows](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/badges/rows.json)](https://ampm-aiops.com/open-data/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing)
 [![Datasets](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/badges/datasets.json)](#datasets)
 [![Changelog](https://img.shields.io/badge/CHANGELOG-daily-informational.svg)](./CHANGELOG.md)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24153597.svg)](https://doi.org/10.5281/zenodo.24153597)
 
 **What this is:** the open dataset behind [問問貓 AMPM-AIOPS](https://ampm-aiops.com?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing), a Traditional-Chinese AI tool comparison site for Taiwan.
-The core dataset covers **249 AI tools** (ChatGPT, Claude, Cursor, Midjourney, ElevenLabs …): category, whether a free tier exists and what it includes,
+The core dataset covers **251 AI tools** (ChatGPT, Claude, Cursor, Midjourney, ElevenLabs …): category, whether a free tier exists and what it includes,
 the cheapest paid plan per month (USD), commercial use where the vendor states it, and the date each row was last verified. Exported every day at 04:00 (Asia/Taipei);
 every row shows its own `last_verified` date, so you can see how fresh each number is.
 
@@ -20,9 +21,9 @@ every row shows its own `last_verified` date, so you can see how fresh each numb
 a `last_verified` date **and** an official source URL (13 rows held back at the moment — the count is shown per dataset below).
 
 **Also included:** datasets from our sister comparison sites (Taiwan credit cards, travel eSIM, VPN, US brokers and more), same rules —
-**511 verified rows across 6 datasets** in total.
+**513 verified rows across 6 datasets** in total.
 
-> 問問貓公開資料集（每天 04:00 匯出）：主資料是 249 個 AI 工具的分類、有沒有免費版與免費額度、最便宜付費方案月費（美元）、官方有寫的商用條款，每一列都附最後查證日期。
+> 問問貓公開資料集（每天 04:00 匯出）：主資料是 251 個 AI 工具的分類、有沒有免費版與免費額度、最便宜付費方案月費（美元）、官方有寫的商用條款，每一列都附最後查證日期。
 
 > 🔍 **How rows are verified**: [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) · 🌐 **Open-data hub**: [ampm-aiops.com/open-data/](https://ampm-aiops.com/open-data/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing)
 > 📝 **What changed**: [`CHANGELOG.md`](./CHANGELOG.md) (added / changed / removed, per day) · 📦 **Machine index**: [`datasets/index.json`](./datasets/index.json)
@@ -34,6 +35,11 @@ Independent publications that list pages of this project as a source. Each link 
 
 | Publication | Date | Article | Cites our page | Link last confirmed |
 |---|---|---|---|---|
+| Hakky Handbook (Japan) | 2026-11-05 | [civitai商用利用の判断基準: 用途別に確認する5つの権限](https://book.st-hakky.com/data-science/civitai-commercial-use-2025-guide) | [Civitai pricing (JA)](https://ampm-aiops.com/ja/tools/civitai/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-12 |
+| Hakky Handbook (Japan) | 2026-11-04 | [Groq LPU技術解説: 25倍速の根拠とGroqCloud導入条件](https://book.st-hakky.com/data-science/groq-database-query-evolution) | [Groq FAQ 2026](https://ampm-aiops.com/en/guides/groq-faq-2026/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-12 |
+| AiToolMap (—) | 2026-10-16 | [Glaze by Raycast Review, Pricing & Features](https://aitoolmap.org/tools/glaze-by-raycast/) | [Aider vs Glaze](https://ampm-aiops.com/en/compare/aider-vs-glaze/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-12 |
+| Fanavarikade (Iran) | 2026-10-11 | [Suno Speech چیست؟ صدای گوینده و موسیقی متن در یک ترک](https://fanavarikade.com/fa/news/suno-speech-chist) | [Suno guide 2026](https://ampm-aiops.com/en/guides/suno-special-2026/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-12 |
+| Essentras AI Check (—) | 2026-10-04 | [Does AI recommend AetherCut?](https://essentras.com/ai-check/b/aethercut) | [CapCut AI plans: free vs Pro](https://ampm-aiops.com/en/guides/capcut-ai-plans-free-vs-pro-2026/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-12 |
 | Brief IA (France) | 2026-09-08 | [Mistral AI structure l'industrie européenne de l'IA en 2026](https://www.briefia.fr/blog/comment-mistral-ai-redefine-industrie-2026) | [Mistral AI pricing](https://ampm-aiops.com/tools/mistral/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-12 |
 | Brief IA (France) | 2026-09-02 | [5 outils de maquettes IA pour gagner du temps en 2026](https://www.briefia.fr/blog/outils-maquettes-ia-2026) | [Framer pricing](https://ampm-aiops.com/en/tools/framer/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-12 |
 
@@ -41,7 +47,7 @@ Independent publications that list pages of this project as a source. Each link 
 
 ## Datasets
 
-- [AI Tools Pricing & Free Tiers](#ai-tools-pricing-free-tiers) — 249 rows
+- [AI Tools Pricing & Free Tiers](#ai-tools-pricing-free-tiers) — 251 rows
 - [Taiwan Credit Cards](#taiwan-credit-cards) — 179 rows
 - [Travel eSIM Plans (Taiwan market)](#travel-esim-plans-taiwan-market) — 35 rows
 - [VPN Pricing & Audits (Taiwan)](#vpn-pricing-audits-taiwan) — 7 rows
@@ -58,8 +64,8 @@ Not included, by design: partner / referral tracking links, internal verificatio
 
 | | |
 | :--- | :--- |
-| Rows published | **249** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-11-11** |
+| Rows published | **251** (below public threshold, not exported: 0) |
+| Last verified (newest row) | **2026-11-12** |
 | Files | [`data/ai_tools_2026.json`](./data/ai_tools_2026.json) · [`data/ai_tools_2026.csv`](./data/ai_tools_2026.csv) |
 | Browse online | [ampm-aiops.com](https://ampm-aiops.com/free/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
@@ -68,6 +74,7 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Adobe Firefly](https://ampm-aiops.com/tools/adobe-firefly/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | image | 免費版：官網FAQ現行文案已改稱「free daily generations」，惟未提供每日具體上限數字；合作夥伴模型扣點規則沿用原方案點數 | 9.99 | unknown | [official](https://firefly.adobe.com/plans) | 2026-10-27 |
 | [Agorapulse](https://ampm-aiops.com/tools/agorapulse/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | marketing, agent | 無永久免費方案，提供 30 天全功能免費試用 | 99 | unknown | [official](https://www.agorapulse.com/pricing/) | 2026-11-05 |
+| [Ahrefs](https://ampm-aiops.com/tools/ahrefs/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | marketing, search | Ahrefs Webmaster Tools ：僅限驗證擁有權的自有網站免費使用有限度的 Site Explorer 與 Site Audit 功能 | 29 | unknown | [official](https://ahrefs.com/pricing) | 2026-11-10 |
 | [aider](https://ampm-aiops.com/tools/aider/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | coding | 完全開源免費,無訂閱模式;使用本地模型零成本;API調用費用取決於選用的LLM提供商 | — | ✅ | [official](https://aider.chat/docs/faq.html) | 2026-10-10 |
 | [AirMusic](https://ampm-aiops.com/tools/airmusic/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | voice | 10 credits | 39.8 | ❌ | [official](https://airmusic.ai/pricing) | 2026-11-05 |
 | [AIVA](https://ampm-aiops.com/tools/aiva/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | voice | Free 方案每月 3 次下載額度、單曲時長上限 3 分鐘，僅限非商業用途，且音樂版權歸 AIVA 所有、公開需標註署名 | 16.5 | unknown | [official](https://www.aiva.ai/pricing) | 2026-10-23 |
@@ -75,9 +82,8 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | [Amazon Q Developer](https://ampm-aiops.com/tools/amazon-q-developer/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | coding, agent | Free Tier 免費方案：每月 50 次 Agentic 請求、每月 1,000 行代碼遷移轉換、無上限 IDE/CLI 程式碼補全與基礎安全弱點掃描 | 19 | unknown | [official](https://aws.amazon.com/q/developer/pricing/) | 2026-11-05 |
 | [Anijam](https://ampm-aiops.com/tools/anijam/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | video | 有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案 | 25 | ❌ | [official](https://www.anijam.ai/pricing/) | 2026-11-05 |
 | [Anyword](https://ampm-aiops.com/tools/anyword/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | marketing, writing | 無永久免費方案，提供 7 天免費試用 | 49 | unknown | [official](https://www.anyword.com/pricing) | 2026-11-05 |
-| [Appwrite](https://ampm-aiops.com/tools/appwrite/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | coding, appbuilder | Free 方案提供 75,000 月活躍用戶、2 GB 儲存空間、5 GB 頻寬，自架版開放原始碼無授權費 | 25 | unknown | [official](https://appwrite.io/pricing) | 2026-11-05 |
 
-*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 249 rows.*
+*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 251 rows.*
 
 ### Taiwan Credit Cards
 *台灣信用卡年費／回饋／循環利率實查*
@@ -111,7 +117,7 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | | |
 | :--- | :--- |
 | Rows published | **35** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-11-07** |
+| Last verified (newest row) | **2026-11-12** |
 | Files | [`datasets/esim/esim_2026.json`](./datasets/esim/esim_2026.json) · [`datasets/esim/esim_2026.csv`](./datasets/esim/esim_2026.csv) · [`schema.json`](./datasets/esim/schema.json) |
 | Browse online | [trip.ampm-aiops.com/esim/](https://trip.ampm-aiops.com/esim/items/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
@@ -120,14 +126,14 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Airalo](https://trip.ampm-aiops.com/esim/items/airalo/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球通用 / 日韓歐美 | NT$ 150 ～ 980 元 | 固定流量型（1GB/3GB/5GB/10GB）＋吃到飽型（日本 3／5／7／10／15／30 天，US$11.50～69.00，官網 2026-09-25） | 支援（不限設備） | [official](https://www.airalo.com/) | 2026-10-20 |
 | [Airhub](https://trip.ampm-aiops.com/esim/items/airhub/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球 190+ 國 | NT$ 60 ～ 1,150 元（全球 1GB/7 天 US$4.99、25GB 月租 US$36） | 固定流量型為主（1GB~25GB）＋長期月租型；部分地區有吃到飽（如越南 Unltd.／10 天，官網首頁 2026-09-25） | 支援；另有獨家「數據池共享」可多裝置多人共用同一份流量 | [official](https://www.airhubapp.com/) | 2026-10-20 |
-| [BNESIM](https://trip.ampm-aiops.com/esim/items/bnesim/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球 200+ 國（官網 2026-09-25） | NT$ 21 ～ 16,000+ 元（方案 US$0.65~502，整體屬高價位） | 固定流量型（含永久不過期長效方案）＋無限流量型＋門號語音組合 | 無限方案不支援；固定流量方案依評測可支援，官方未逐方案公告 | [official](https://www.bnesim.com/) | 2026-08-27 |
+| [BNESIM](https://trip.ampm-aiops.com/esim/items/bnesim/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球 200+ 國（官網 2026-09-25） | 約 NT$ 91 起（1GB/30 天，依臺灣銀行 2026/11/12 12:00 即期賣出 US$1=NT$32.965、€1=NT$36.66 換算）；日本（官網 2026-11-12 瀏覽器實讀，30 天）：1GB €2.49、3GB €2.99、5GB €4.49、10GB €5.99、20GB €9.99、… | 固定流量型（含永久不過期長效方案）＋無限流量型＋門號語音組合 | 無限方案不支援；固定流量方案依評測可支援，官方未逐方案公告 | [official](https://www.bnesim.com/) | 2026-11-12 |
 | [DJB 暢日卡](https://trip.ampm-aiops.com/esim/items/djb-unlimited/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 日本 / 韓國 | NT$ 290 ～ 850 元 | 暢日卡 PLUS／ULTRA：吃到飽不降速；暢日卡（基本款）：無限流量吃到飽但須遵守公平使用原則；另有遊日卡每日 500MB／1GB 型（日本方案表，官網 2026-09-25） | 支援（建議自用） | [official](https://djbcard.com/) | 2026-08-25 |
 | [Firsty](https://trip.ampm-aiops.com/esim/items/firsty/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 免費層：北美/歐洲/亞太；付費層 176 國同一價（官網 2026-09-25） | 免費層 NT$0（看廣告換連線）；Classic 每 GB €0.98 起；Unlimited 每日 €2 起（官網 2026-09-25，歐元計價） | 免費層＝每日重置 300MB 低速；Classic＝固定流量；Unlimited＝每日重置吃到飽 | 免費層不可（官方明示需升級付費）；付費方案可以 | [official](https://www.firsty.app/) | 2026-08-27 |
-| [Flexiroam](https://trip.ampm-aiops.com/esim/items/flexiroam/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球包涵蓋 150+ 國與 20 家航空機上網路；另有單國包、區域包（官網 2026-09-26） | 單國包日本 1GB/3 天 US$3.2 起（折扣價，原價 US$4.57）；全球包 8GB/90 天 US$55.9、最長 360 天（官網 2026-09-26 促銷價，會變動） | 固定流量制＋部分國家吃到飽方案（日本吃到飽 5～30 天）；固定流量可用 Flexi Share 分享給親友（官網 2026-09-26） | 多數方案支援（吃到飽允許但不可跨帳號共享流量） | [official](https://flexiroam.com/) | 2026-09-26 |
+| [Flexiroam](https://trip.ampm-aiops.com/esim/items/flexiroam/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球包涵蓋 150+ 國與 20 家航空機上網路；另有單國包、區域包（官網 2026-09-26） | 約 NT$ 105 起（1GB/3 天，依臺灣銀行 2026/11/12 12:00 即期賣出 US$1=NT$32.965、€1=NT$36.66 換算）；日本固定流量（官網 2026-11-12 瀏覽器實讀，頁面標 30% OFF 折後價）：1GB/3 天 US$3.2（原價 US$4.57）、5GB/30 天 U… | 固定流量制＋部分國家吃到飽方案（日本吃到飽 5～30 天）；固定流量可用 Flexi Share 分享給親友（官網 2026-09-26） | 多數方案支援（吃到飽允許但不可跨帳號共享流量） | [official](https://flexiroam.com/) | 2026-11-12 |
 | [GigSky](https://trip.ampm-aiops.com/esim/items/gigsky/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球約 190 國 / 獨家郵輪海上方案 | NT$ 128 ～ 2,300+ 元（日本 1GB/7 天 US$4.99；冷門國家與郵輪包更貴） | 固定流量型＋吃到飽型（每日高速額度制）＋郵輪海上專用方案 | 支援，無硬性上限 | [official](https://www.gigsky.com/) | 2026-11-07 |
 | [Holafly](https://trip.ampm-aiops.com/esim/items/holafly/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 歐美 / 日本 / 全球 | 日本 1 天 NT$ 140 元起；3 天 US$11.90、7 天 US$27.50、30 天 US$73.90（官網 2026-09-26 日本方案頁，其他國家價格不同） | 天數制吃到飽；吃到飽結束後自動啟用 Always On，每月 1GB 備用流量（官網 2026-09-26） | — | [official](https://holafly.com/) | 2026-10-20 |
 | [Instabridge](https://trip.ampm-aiops.com/esim/items/instabridge/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球多國（App 內購買各國方案） | NT$ 64 元起（1GB 約 US$2；10GB/30 天約 US$12） | 固定流量制（部分方案流量不過期）；無吃到飽 | 支援（官方稱最多可分享 10 台裝置） | [official](https://instabridge.com/) | 2026-08-27 |
-| [Jetpac](https://trip.ampm-aiops.com/esim/items/jetpac/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球 200+ 國（官網 2026-09-25） | NT$ 220 ～ 890 元 | 跨國天數包 / 流量包 | 支援 | [official](https://www.jetpacglobal.com/) | 2026-08-25 |
+| [Jetpac](https://trip.ampm-aiops.com/esim/items/jetpac/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 全球 200+ 國（官網 2026-09-25） | 約 NT$ 330 起（5GB，依臺灣銀行 2026/11/12 12:00 即期賣出 US$1=NT$32.965、€1=NT$36.66 換算）；日本（官網 2026-11-12 瀏覽器實讀，30 天效期）：5GB US$10、10GB US$16、15GB US$21、30GB US$29.99、40GB US$… | 跨國天數包 / 流量包 | 支援 | [official](https://www.jetpacglobal.com/) | 2026-11-12 |
 
 *Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 35 rows.*
 

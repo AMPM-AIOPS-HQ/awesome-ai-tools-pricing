@@ -1,6 +1,11 @@
 # 專欄（已上線）
 
 - 2026-11-12 [中國替 AI agent 發數位身分：聽起來像 AI 身分證，真正的關鍵是誰發證、誰擔責任](https://ampm-aiops.com/guides/ai-news-20261112/)
+- 2026-11-12 [LALAL.AI Pro 年繳 US$10.5/月 vs 月繳 US$19.99，價格全解析](https://ampm-aiops.com/guides/lalal-ai-review-2026/)
+- 2026-11-12 [CapCut AI 方案價格全解析：免費、Standard、Pro 月繳與年繳差異](https://ampm-aiops.com/guides/capcut-ai-price-2026/)
+- 2026-11-12 [AI 新聞：聯合航空以資安為由限制 AI 代理訂機票，貓編看真正的坑是誰替程式擔保](https://ampm-aiops.com/guides/ai-news-20261112-3/)
+- 2026-11-12 [AI 新聞：Google Tabletop 台灣能不能用還沒下文，貓編建議先看看就好](https://ampm-aiops.com/guides/ai-news-20261112-4/)
+- 2026-11-12 [AI 新聞這題，問問貓編輯部查到的是：Nvidia 走弱不會讓工具明天關門，但被單一平台綁死的工作流會先出事](https://ampm-aiops.com/guides/ai-news-20261112-5/)
 - 2026-11-11 [問問貓編輯部指出：Missive Starter 只容納 5 人、Productive 必付 US$30 才開 AI、Business 才是真正無上限的企業版](https://ampm-aiops.com/guides/missive-review-2026/)
 - 2026-11-11 [Reclaim.ai 四級方案，Enterprise 卡 100 席又只給年繳；100 席以內，官網最高只到 Business](https://ampm-aiops.com/guides/reclaim-ai-review-2026/)
 - 2026-11-11 [DeepInfra 免費額度只有一次性 US$5 試玩金　後續全走 usage 計費](https://ampm-aiops.com/guides/deepinfra-review-2026/)

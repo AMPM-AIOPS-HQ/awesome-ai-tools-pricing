@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-12T04:00:03+08:00",
+ "generated_at": "2026-11-12T18:46:07+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 249,
+ "row_count": 251,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-11",
- "tool_count": 249,
+ "last_verified_max": "2026-11-12",
+ "tool_count": 251,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -48,6 +48,25 @@
    "source_url": "https://www.agorapulse.com/pricing/",
    "tool_page": "https://ampm-aiops.com/tools/agorapulse/",
    "ampm_ref": "AMPM-59e32975a6"
+  },
+  {
+   "slug": "ahrefs",
+   "name": "Ahrefs",
+   "vendor": "Ahrefs",
+   "category": [
+    "marketing",
+    "search"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Ahrefs Webmaster Tools ：僅限驗證擁有權的自有網站免費使用有限度的 Site Explorer 與 Site Audit 功能",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-10",
+   "source_url": "https://ahrefs.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/ahrefs/",
+   "ampm_ref": "AMPM-9fba13e645"
   },
   {
    "slug": "aider",
@@ -4634,6 +4653,24 @@
    "source_url": "https://zed.dev/pricing",
    "tool_page": "https://ampm-aiops.com/tools/zed/",
    "ampm_ref": "AMPM-e7edb607ae"
+  },
+  {
+   "slug": "zernio",
+   "name": "Zernio",
+   "vendor": "Zernio",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "前 2 個連結的社群帳號免費、免信用卡；所有功能每個帳號都可用，沒有分方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 1,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-12",
+   "source_url": "https://zernio.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/zernio/",
+   "ampm_ref": "AMPM-9dee9be898"
   }
  ]
 }

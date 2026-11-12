@@ -1,5 +1,9 @@
 # Columns (published)
 
+- 2026-11-12 [(Pricing) CapCut AI free tier: What Limits Hide Behind the No‑Watermark Promise](https://ampm-aiops.com/en/guides/capcut-ai-price-2026/)
+- 2026-11-12 [(News) United Airlines Restricts AI Booking Agents: A Security Rule or a Gatekeeping Move?](https://ampm-aiops.com/en/guides/ai-news-20261112-3/)
+- 2026-11-12 [(News) Nvidia Falters: What Happens to the AI Tools You Pay For](https://ampm-aiops.com/en/guides/ai-news-20261112-5/)
+- 2026-11-12 [(News) Google Tabletop Lets Groups Build AI Planning Tools Together: Who Gets In First?](https://ampm-aiops.com/en/guides/ai-news-20261112-4/)
 - 2026-11-12 [(News) China's Digital IDs for AI Agents: Who Issues the Badge, and Who Takes the Blame?](https://ampm-aiops.com/en/guides/ai-news-20261112/)
 - 2026-11-11 [(Review) Reclaim.ai Pricing: The 100-Seat Wall Nobody Mentions on the Pricing Page](https://ampm-aiops.com/en/guides/reclaim-ai-review-2026/)
 - 2026-11-11 [(News) Core Studio AI Launches 11/30 With 24 AI Agents for Script and Edit Work](https://ampm-aiops.com/en/guides/ai-news-20261111-2/)
