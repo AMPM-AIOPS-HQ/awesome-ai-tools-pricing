@@ -1,5 +1,12 @@
 # Columns (published)
 
+- 2026-11-14 [(Use cases) Claude Pricing by Reader Type: Student, Freelancer or Small Team, Who Pays for What?](https://ampm-aiops.com/en/guides/claude-scene-2026/)
+- 2026-11-14 [(News) Do AI Coding Tools Really Help Programmers? What a New Model-Limits Test Can and Can't Tell You](https://ampm-aiops.com/en/guides/ai-news-20261114/)
+- 2026-11-13 [(News) Zernio Pricing: What the Free Tier Actually Covers](https://ampm-aiops.com/en/guides/zernio-price-change-20261113/)
+- 2026-11-13 [(News) Should Developers Trust a Free AWS Cloud Emulator Written Only by AI Agents?](https://ampm-aiops.com/en/guides/ai-news-20261113/)
+- 2026-11-13 [(News) Apple AI Registered in China for Tablets and Laptops, but Can Anyone Use It Yet?](https://ampm-aiops.com/en/guides/ai-news-20261113-3/)
+- 2026-11-13 [(News) Adobe MAX Experimental AI Tools: 3D Photo Tours and Character Chat, Ready to Use?](https://ampm-aiops.com/en/guides/ai-news-20261113-6/)
+- 2026-11-13 [(FAQ) Lovable free tier: Is it enough for serious app building?](https://ampm-aiops.com/en/guides/lovable-faq-2026/)
 - 2026-11-12 [(Pricing) CapCut AI free tier: What Limits Hide Behind the No‑Watermark Promise](https://ampm-aiops.com/en/guides/capcut-ai-price-2026/)
 - 2026-11-12 [(News) United Airlines Restricts AI Booking Agents: A Security Rule or a Gatekeeping Move?](https://ampm-aiops.com/en/guides/ai-news-20261112-3/)
 - 2026-11-12 [(News) Nvidia Falters: What Happens to the AI Tools You Pay For](https://ampm-aiops.com/en/guides/ai-news-20261112-5/)

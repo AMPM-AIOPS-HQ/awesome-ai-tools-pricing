@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-12T18:46:07+08:00",
+ "generated_at": "2026-11-14T04:00:02+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 251,
+ "row_count": 254,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-12",
- "tool_count": 251,
+ "last_verified_max": "2026-11-13",
+ "tool_count": 254,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -496,6 +496,25 @@
    "ampm_ref": "AMPM-a2fc3e5cc0"
   },
   {
+   "slug": "cartesia",
+   "name": "Cartesia",
+   "vendor": "Cartesia AI",
+   "category": [
+    "voice",
+    "api"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案：每月 20,000 Model Credits、US$1 美元 Voice Agent 使用額度、支援 Sonic-3 TTS 模型",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 5,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-13",
+   "source_url": "https://www.cartesia.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/cartesia/",
+   "ampm_ref": "AMPM-0e6d9144ab"
+  },
+  {
    "slug": "caspio",
    "name": "Caspio",
    "vendor": "Caspio, Inc.",
@@ -734,6 +753,24 @@
    "source_url": "https://colibri.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/colibri/",
    "ampm_ref": "AMPM-b3a0c0a203"
+  },
+  {
+   "slug": "colossyan",
+   "name": "Colossyan",
+   "vendor": "Colossyan Inc.",
+   "category": [
+    "video"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Starter 免費方案：提供基本功能試用、內含 300+ 數位人像，影片含浮水印",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 27,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-13",
+   "source_url": "https://www.colossyan.com/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/colossyan/",
+   "ampm_ref": "AMPM-caedb6c5e2"
   },
   {
    "slug": "comet",
@@ -1013,6 +1050,25 @@
    "source_url": "https://devin.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/windsurf/",
    "ampm_ref": "AMPM-1d889ea480"
+  },
+  {
+   "slug": "elephas",
+   "name": "Elephas",
+   "vendor": "Liberation Softwares LLP",
+   "category": [
+    "writing",
+    "productivity"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費額度",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 19,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-13",
+   "source_url": "https://elephas.app/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/elephas/",
+   "ampm_ref": "AMPM-b700b38f3f"
   },
   {
    "slug": "elevenlabs",

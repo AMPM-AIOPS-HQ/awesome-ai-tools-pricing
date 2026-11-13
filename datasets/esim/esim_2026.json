@@ -1,7 +1,7 @@
 {
  "dataset": "esim",
  "title": "Travel eSIM Plans (Taiwan market)",
- "generated_at": "2026-11-12T18:46:07+08:00",
+ "generated_at": "2026-11-14T04:00:02+08:00",
  "source": "https://trip.ampm-aiops.com/esim/",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 35,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-12",
+ "last_verified_max": "2026-11-14",
  "rows": [
   {
    "slug": "airalo",
@@ -55,7 +55,7 @@
    "plan_type": "暢日卡 PLUS／ULTRA：吃到飽不降速；暢日卡（基本款）：無限流量吃到飽但須遵守公平使用原則；另有遊日卡每日 500MB／1GB 型（日本方案表，官網 2026-09-25）",
    "hotspot": "支援（建議自用）",
    "source_url": "https://djbcard.com/",
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-11-14",
    "page_url": "https://trip.ampm-aiops.com/esim/items/djb-unlimited/",
    "ampm_ref": "AMPM-8b1c2ab132"
   },
@@ -67,7 +67,7 @@
    "plan_type": "免費層＝每日重置 300MB 低速；Classic＝固定流量；Unlimited＝每日重置吃到飽",
    "hotspot": "免費層不可（官方明示需升級付費）；付費方案可以",
    "source_url": "https://www.firsty.app/",
-   "last_verified": "2026-08-27",
+   "last_verified": "2026-11-14",
    "page_url": "https://trip.ampm-aiops.com/esim/items/firsty/",
    "ampm_ref": "AMPM-6a450c8161"
   },
@@ -115,7 +115,7 @@
    "plan_type": "固定流量制（部分方案流量不過期）；無吃到飽",
    "hotspot": "支援（官方稱最多可分享 10 台裝置）",
    "source_url": "https://instabridge.com/",
-   "last_verified": "2026-08-27",
+   "last_verified": "2026-11-14",
    "page_url": "https://trip.ampm-aiops.com/esim/items/instabridge/",
    "ampm_ref": "AMPM-705f0d6289"
   },
@@ -139,7 +139,7 @@
    "plan_type": "雙電信自動切換型",
    "hotspot": "支援",
    "source_url": "https://www.joytel-tw.com/",
-   "last_verified": "2026-08-25",
+   "last_verified": "2026-11-14",
    "page_url": "https://trip.ampm-aiops.com/esim/items/joytel/",
    "ampm_ref": "AMPM-fdcec517c6"
   },
@@ -187,7 +187,7 @@
    "plan_type": "固定流量為主（日/週/月/年都有），實際型態依所選供應商方案而定",
    "hotspot": "依各供應商方案而定、無統一保證，須看商品頁標示",
    "source_url": "https://www.mobimatter.com/",
-   "last_verified": "2026-08-27",
+   "last_verified": "2026-11-14",
    "page_url": "https://trip.ampm-aiops.com/esim/items/mobimatter/",
    "ampm_ref": "AMPM-6b9df14ddd"
   },
@@ -247,7 +247,7 @@
    "plan_type": "代售平台（2018 年起的預付 eSIM Marketplace）：轉售 AIS SIM2FLY、TrueMove H 等電信商方案，固定流量為主、部分標榜無限",
    "hotspot": "多數方案支援（依所代售方案而定，官方未逐一標示）",
    "source_url": "https://simoptions.com/",
-   "last_verified": "2026-08-27",
+   "last_verified": "2026-11-14",
    "page_url": "https://trip.ampm-aiops.com/esim/items/simoptions/",
    "ampm_ref": "AMPM-1189e19333"
   },
@@ -283,7 +283,7 @@
    "plan_type": "固定流量型＋吃到飽型（日本 8/15/30 天，另有月租續約型）",
    "hotspot": "支援，官方明示可多裝置分享、不另收費",
    "source_url": "https://www.ubigi.com/",
-   "last_verified": "2026-08-27",
+   "last_verified": "2026-11-14",
    "page_url": "https://trip.ampm-aiops.com/esim/items/ubigi/",
    "ampm_ref": "AMPM-6d3862b3e3"
   },
@@ -295,7 +295,7 @@
    "plan_type": "高速吃到飽＋每日限量高速（每日 1GB/2GB/3GB 超量降速隔日重置）＋固定流量",
    "hotspot": "高速吃到飽方案可開（官方載明）",
    "source_url": "https://waysim.net/",
-   "last_verified": "2026-08-27",
+   "last_verified": "2026-11-14",
    "page_url": "https://trip.ampm-aiops.com/esim/items/waysim/",
    "ampm_ref": "AMPM-cc05f537d1"
   },
@@ -331,7 +331,7 @@
    "plan_type": "固定流量型（1GB~20GB）＋吃到飽型（3~30 天）",
    "hotspot": "多數方案支援、不另收費",
    "source_url": "https://alosim.com/",
-   "last_verified": "2026-08-27",
+   "last_verified": "2026-11-14",
    "page_url": "https://trip.ampm-aiops.com/esim/items/alosim/",
    "ampm_ref": "AMPM-3d9a91691a"
   },
@@ -367,7 +367,7 @@
    "plan_type": "三型並存：固定總流量型（5GB/10GB/20GB）、每日重置型（每天1GB/2GB）、吃到飽型（依國家可選）",
    "hotspot": "視方案而定非全面支援（如日本KDDI吃到飽支援但熱點以「天數-1」計算，同國其他方案不支援），官方無統一跨國熱點政策（KDDI 吃到飽「天數-1」：官網 2026-09-25）",
    "source_url": "https://www.esimpass.net/",
-   "last_verified": "2026-08-28",
+   "last_verified": "2026-11-14",
    "page_url": "https://trip.ampm-aiops.com/esim/items/esimpass/",
    "ampm_ref": "AMPM-1f84c74a71"
   },

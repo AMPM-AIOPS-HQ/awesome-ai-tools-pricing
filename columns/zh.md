@@ -1,6 +1,18 @@
 # 專欄（已上線）
 
+- 2026-11-14 [Claude Enterprise 價格多少？US$20 起、僅年繳、用量另計，跟 Pro 月付 US$20 不一樣](https://ampm-aiops.com/guides/claude-scene-2026/)
+- 2026-11-14 [AI 新聞｜貓編只確認到 iThome 的標題與連結：程式碼工具測試的「極限」，看到原始報告前先不下結論](https://ampm-aiops.com/guides/ai-news-20261114/)
+- 2026-11-13 [問問貓編輯部：Lovable 免費版每日 5 點、月上限 30 點，付費方案從 US$25 起，商用無限制但年繳不提供退款](https://ampm-aiops.com/guides/lovable-faq-2026/)
+- 2026-11-13 [Zernio 免費不是用到飽：前 2 個帳號免錢，私訊 10,000 則、自動化 2,000 次、廣告 500 則](https://ampm-aiops.com/guides/zernio-price-change-20261113/)
+- 2026-11-13 [Notion AI 月付 12 美元 vs 年付 120 美元，哪種方案更划算？](https://ampm-aiops.com/guides/notion-ai-review-2026/)
+- 2026-11-13 [Grist 免費版文件數無上限，但單一文件 5,000 行與 10 份附件就是硬牆；Pro 月付 US$10 換 100,000 行，關聯式資料庫被拆檔就白玩了](https://ampm-aiops.com/guides/grist-review-2026/)
+- 2026-11-13 [AI 新聞｜Adobe 牽手迪士尼：合作是真的，細節還沒交代，授權最值得先看](https://ampm-aiops.com/guides/ai-news-20261113-8/)
+- 2026-11-13 [AI 新聞｜AWS 免費雲端模擬器值不值得試？問問貓編輯部提醒，先看支援哪些服務](https://ampm-aiops.com/guides/ai-news-20261113/)
+- 2026-11-13 [AI 新聞：蘋果 AI 在中國只確定「完成登記」，上線與能用，報導都沒寫](https://ampm-aiops.com/guides/ai-news-20261113-3/)
+- 2026-11-13 [AI 新聞：AnyInsight Edge 喊地端生成式 AI 防火牆與集中管理 AI Agent，公開細節只有標題等級，TechCrunch 連結還對不上](https://ampm-aiops.com/guides/ai-news-20261113-7/)
+- 2026-11-13 [AI 新聞：Adobe MAX 10 項實驗性 AI 工具是什麼？3D 照片導覽、角色對話設計現在能用嗎](https://ampm-aiops.com/guides/ai-news-20261113-6/)
 - 2026-11-12 [中國替 AI agent 發數位身分：聽起來像 AI 身分證，真正的關鍵是誰發證、誰擔責任](https://ampm-aiops.com/guides/ai-news-20261112/)
+- 2026-11-12 [Tailwind 三項功能拆開買，比 Bundle 貴——Pinterest 排程、SEO、互助怎麼買才不多付](https://ampm-aiops.com/guides/tailwind-review-2026/)
 - 2026-11-12 [LALAL.AI Pro 年繳 US$10.5/月 vs 月繳 US$19.99，價格全解析](https://ampm-aiops.com/guides/lalal-ai-review-2026/)
 - 2026-11-12 [CapCut AI 方案價格全解析：免費、Standard、Pro 月繳與年繳差異](https://ampm-aiops.com/guides/capcut-ai-price-2026/)
 - 2026-11-12 [AI 新聞：聯合航空以資安為由限制 AI 代理訂機票，貓編看真正的坑是誰替程式擔保](https://ampm-aiops.com/guides/ai-news-20261112-3/)
