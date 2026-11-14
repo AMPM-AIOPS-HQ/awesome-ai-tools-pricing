@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-14T04:00:02+08:00",
+ "generated_at": "2026-11-15T04:00:04+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 254,
+ "row_count": 259,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-13",
- "tool_count": 254,
+ "last_verified_max": "2026-11-14",
+ "tool_count": 259,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -327,6 +327,24 @@
    "source_url": "https://bolt.new/pricing",
    "tool_page": "https://ampm-aiops.com/tools/bolt/",
    "ampm_ref": "AMPM-29e7357b00"
+  },
+  {
+   "slug": "brand24",
+   "name": "Brand24",
+   "vendor": "Brand24 S.A.",
+   "category": [
+    "marketing"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "官網無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 249,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-14",
+   "source_url": "https://brand24.com/prices/?t=",
+   "tool_page": "https://ampm-aiops.com/tools/brand24/",
+   "ampm_ref": "AMPM-f9f97ae1aa"
   },
   {
    "slug": "brave-leo",
@@ -1124,6 +1142,24 @@
    "source_url": "https://fathom.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/fathom/",
    "ampm_ref": "AMPM-0146ba6641"
+  },
+  {
+   "slug": "fellow",
+   "name": "Fellow",
+   "vendor": "Fellow Insights Inc.",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案終身每位使用者提供 5 次 AI 會議記錄與錄音額度，最多支援 10 名成員，包含基礎會議筆記與協作議程",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 11,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-14",
+   "source_url": "https://fellow.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/fellow/",
+   "ampm_ref": "AMPM-a6346535db"
   },
   {
    "slug": "felo",
@@ -2352,6 +2388,24 @@
    "source_url": "https://markopolo.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/markopolo-ai/",
    "ampm_ref": "AMPM-73ecfc793c"
+  },
+  {
+   "slug": "meetedgar",
+   "name": "MeetEdgar",
+   "vendor": "SureSwift Capital",
+   "category": [
+    "marketing"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無免費方案，提供 30 天完整功能免費試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-14",
+   "source_url": "https://meetedgar.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/meetedgar/",
+   "ampm_ref": "AMPM-fddc184563"
   },
   {
    "slug": "meshy",
@@ -3709,6 +3763,25 @@
    "ampm_ref": "AMPM-89343f9100"
   },
   {
+   "slug": "smartlead",
+   "name": "Smartlead",
+   "vendor": "Smartlead Inc.",
+   "category": [
+    "marketing",
+    "agent"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "官網無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 39,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-14",
+   "source_url": "https://www.smartlead.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/smartlead/",
+   "ampm_ref": "AMPM-5621df0ce8"
+  },
+  {
    "slug": "smugmug",
    "name": "SmugMug",
    "vendor": "SmugMug, Inc.",
@@ -3726,6 +3799,24 @@
    "source_url": "https://www.smugmug.com/plans",
    "tool_page": "https://ampm-aiops.com/tools/smugmug/",
    "ampm_ref": "AMPM-95a8288e51"
+  },
+  {
+   "slug": "socialbee",
+   "name": "SocialBee",
+   "vendor": "SocialBee",
+   "category": [
+    "marketing"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案，提供 14 天全功能免費試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-14",
+   "source_url": "https://socialbee.com/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/socialbee/",
+   "ampm_ref": "AMPM-6be7ffd5bc"
   },
   {
    "slug": "socialecho",
