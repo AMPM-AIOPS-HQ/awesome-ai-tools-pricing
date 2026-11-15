@@ -1,6 +1,17 @@
 # 專欄（已上線）
 
+- 2026-11-16 [Synthesys 哪檔方案最划算？月付只要 US$20 起，點數高達 30,000 點！](https://ampm-aiops.com/guides/synthesys-price-2026/)
+- 2026-11-16 [Spikes Studio 免費版是試用，不是長期方案：30 分鐘、有浮水印，要無浮水印得上 PRO+](https://ampm-aiops.com/guides/spikes-studio-price-2026/)
+- 2026-11-16 [Landbot Pro 月繳 US$110 不含 WhatsApp，貓編整理哪一檔才接得到](https://ampm-aiops.com/guides/landbot-price-2026/)
+- 2026-11-16 [Hiver 的 US$35 要 2 席起買，Growth 月繳最低 US$70，只有 7 天免費試用](https://ampm-aiops.com/guides/hiver-price-2026/)
+- 2026-11-15 [問問貓編輯部提醒：Descript 免費版僅支援 720p 匯出且會出現水印，升級前先看這三大限制](https://ampm-aiops.com/guides/descript-review-2026/)
+- 2026-11-15 [Voice.ai 免費版只能試聽 TTS，克隆與音檔下載要 US$5 的 Starter 才有](https://ampm-aiops.com/guides/voice-ai-price-2026/)
+- 2026-11-15 [UPDF AI 值不值得買？Pro 年繳 US$54.99 只買到編輯工具，無限 AI 要另外付錢](https://ampm-aiops.com/guides/updf-ai-price-2026/)
+- 2026-11-15 [Sprout Social 價格多少？Essentials 每人每月 US$99 起，智慧收件匣要 Standard US$249](https://ampm-aiops.com/guides/sprout-social-price-2026/)
+- 2026-11-15 [Picsart Pro 月繳 US$15，「無限生圖」只寫 Flex.2 Klein，哪些功能扣 250 點官網沒寫明](https://ampm-aiops.com/guides/picsart-price-2026/)
+- 2026-11-15 [Infogram 免費版只能公開發布，內部數字做圖要付到 Pro 月繳 US$25](https://ampm-aiops.com/guides/infogram-price-2026/)
 - 2026-11-15 [Elephas 7 天免費試用、Personal US$19/月、Professional/Team US$29/月方案全比較](https://ampm-aiops.com/guides/elephas-price-2026/)
+- 2026-11-14 [Retool 免費版最多 5 人、每月 500 次 Workflow 與 250 點共用 AI 點數；超過就跳 US$12 按人頭，中間沒有單買額度](https://ampm-aiops.com/guides/retool-review-2026/)
 - 2026-11-14 [Narakeet 只有一包 US$6、30 分鐘不過期，但免費版 20 次轉換不含商業授權](https://ampm-aiops.com/guides/narakeet-price-2026/)
 - 2026-11-14 [Claude Enterprise 價格多少？US$20 起、僅年繳、用量另計，跟 Pro 月付 US$20 不一樣](https://ampm-aiops.com/guides/claude-scene-2026/)
 - 2026-11-13 [問問貓編輯部：Lovable 免費版每日 5 點、月上限 30 點，付費方案從 US$25 起，商用無限制但年繳不提供退款](https://ampm-aiops.com/guides/lovable-faq-2026/)

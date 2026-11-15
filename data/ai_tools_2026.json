@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-15T04:00:04+08:00",
+ "generated_at": "2026-11-16T04:00:03+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 259,
+ "row_count": 265,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-14",
- "tool_count": 259,
+ "last_verified_max": "2026-11-15",
+ "tool_count": 265,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -549,6 +549,25 @@
    "source_url": "https://www.caspio.com/pricing/",
    "tool_page": "https://ampm-aiops.com/tools/caspio/",
    "ampm_ref": "AMPM-98403cf365"
+  },
+  {
+   "slug": "castmagic",
+   "name": "Castmagic",
+   "vendor": "Castmagic",
+   "category": [
+    "voice",
+    "marketing"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無常態免費方案；需註冊訂閱方案開始使用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-15",
+   "source_url": "https://www.castmagic.io/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/castmagic/",
+   "ampm_ref": "AMPM-89588e5b3e"
   },
   {
    "slug": "chatgpt",
@@ -1852,6 +1871,25 @@
    "ampm_ref": "AMPM-5ad6d76cc3"
   },
   {
+   "slug": "humata",
+   "name": "Humata",
+   "vendor": "Humata AI",
+   "category": [
+    "productivity",
+    "search"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free：上傳累積上限 60 頁、最多 10 次提問回答",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 1.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-15",
+   "source_url": "https://www.humata.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/humata/",
+   "ampm_ref": "AMPM-53be997413"
+  },
+  {
    "slug": "ideogram",
    "name": "Ideogram",
    "vendor": "Ideogram",
@@ -2108,6 +2146,25 @@
    "source_url": "https://www.lalal.ai/pricing/",
    "tool_page": "https://ampm-aiops.com/tools/lalal-ai/",
    "ampm_ref": "AMPM-9e14c87b31"
+  },
+  {
+   "slug": "landbot",
+   "name": "Landbot",
+   "vendor": "Landbot (HEI COMMUNITY S.L.)",
+   "category": [
+    "agent",
+    "marketing"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Sandbox：每月 100 次常規對話、1 個席次、基礎流程區塊與 Web 管道，無內建 AI 額度",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 45,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-14",
+   "source_url": "https://landbot.io/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/landbot/",
+   "ampm_ref": "AMPM-dedc1c026b"
   },
   {
    "slug": "landr",
@@ -2408,6 +2465,25 @@
    "ampm_ref": "AMPM-fddc184563"
   },
   {
+   "slug": "meetgeek",
+   "name": "MeetGeek",
+   "vendor": "MeetGeek.ai",
+   "category": [
+    "productivity",
+    "voice"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Basic 方案永久免費：每月提供 3 小時轉錄額度，單場會議錄製上限 2 小時，逐字稿保留 3 個月、音訊保留 1 個月",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 15.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-15",
+   "source_url": "https://meetgeek.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/meetgeek/",
+   "ampm_ref": "AMPM-8452de2f15"
+  },
+  {
    "slug": "meshy",
    "name": "Meshy",
    "vendor": "Meshy",
@@ -2660,7 +2736,7 @@
    "cheapest_paid_usd_per_month": 20,
    "cheapest_paid_twd_per_month": null,
    "commercial_use": true,
-   "last_verified": "2026-10-11",
+   "last_verified": "2026-11-15",
    "source_url": "https://n8n.io/pricing/",
    "tool_page": "https://ampm-aiops.com/tools/n8n/",
    "ampm_ref": "AMPM-e39cec8a80"
@@ -4060,6 +4136,24 @@
    "ampm_ref": "AMPM-59016b69f7"
   },
   {
+   "slug": "sunsama",
+   "name": "Sunsama",
+   "vendor": "Sunsama, Inc.",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案，提供 14 天完整功能免費試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 22,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-15",
+   "source_url": "https://www.sunsama.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/sunsama/",
+   "ampm_ref": "AMPM-0aaf0524fa"
+  },
+  {
    "slug": "supabase",
    "name": "Supabase",
    "vendor": "Supabase Inc.",
@@ -4115,6 +4209,25 @@
    "source_url": "https://www.synthesia.io/pricing",
    "tool_page": "https://ampm-aiops.com/tools/synthesia/",
    "ampm_ref": "AMPM-79d5f98a04"
+  },
+  {
+   "slug": "synthesys",
+   "name": "Synthesys",
+   "vendor": "Synthesys Studio",
+   "category": [
+    "video",
+    "voice"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "官網未提供永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-15",
+   "source_url": "https://synthesys.io/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/synthesys/",
+   "ampm_ref": "AMPM-bb60d0a3b9"
   },
   {
    "slug": "tailwind",
