@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-16T04:00:03+08:00",
+ "generated_at": "2026-11-17T04:00:05+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 265,
+ "row_count": 269,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-15",
- "tool_count": 265,
+ "last_verified_max": "2026-11-16",
+ "tool_count": 269,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -1890,6 +1890,25 @@
    "ampm_ref": "AMPM-53be997413"
   },
   {
+   "slug": "hyperwrite",
+   "name": "HyperWrite",
+   "vendor": "OthersideAI",
+   "category": [
+    "writing",
+    "agent"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Starter 免費方案：提供基本功能與基礎 AI 點數，官網未公布具體數字",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 19.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-16",
+   "source_url": "https://www.hyperwriteai.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/hyperwrite/",
+   "ampm_ref": "AMPM-115de69c60"
+  },
+  {
    "slug": "ideogram",
    "name": "Ideogram",
    "vendor": "Ideogram",
@@ -1962,6 +1981,24 @@
    "source_url": "https://invideo.io/pricing",
    "tool_page": "https://ampm-aiops.com/tools/invideo/",
    "ampm_ref": "AMPM-67b130042e"
+  },
+  {
+   "slug": "meetjamie",
+   "name": "Jamie",
+   "vendor": "Jamie (meetjamie.ai)",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "每月 10 次 AI 會議筆記，單場會議上限 30 分鐘，含 Ask Jamie 提問與 1 組自訂範本、50 個自訂詞彙",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-16",
+   "source_url": "https://www.meetjamie.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/meetjamie/",
+   "ampm_ref": "AMPM-30a3ccbbdf"
   },
   {
    "slug": "jasper-ai",
@@ -2090,6 +2127,25 @@
    "source_url": "https://kling.ai/app/membership/membership-plan",
    "tool_page": "https://ampm-aiops.com/tools/kling/",
    "ampm_ref": "AMPM-36c44a10d9"
+  },
+  {
+   "slug": "koala-ai",
+   "name": "Koala AI",
+   "vendor": "Koala (koala.sh)",
+   "category": [
+    "writing",
+    "marketing"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "免綁卡免費試用額度 5,000 字生成與 25 點 KoalaChat 訊息",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 25,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-16",
+   "source_url": "https://koala.sh/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/koala-ai/",
+   "ampm_ref": "AMPM-8aefed0a82"
   },
   {
    "slug": "krisp",
@@ -2257,6 +2313,24 @@
    "source_url": "https://linear.app/pricing",
    "tool_page": "https://ampm-aiops.com/tools/linear/",
    "ampm_ref": "AMPM-82c72002bf"
+  },
+  {
+   "slug": "listnr",
+   "name": "Listnr",
+   "vendor": "Listnr Inc.",
+   "category": [
+    "voice"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free: 起始提供 1,000 點數，有限制匯出，無商業授權",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 19,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-16",
+   "source_url": "https://listnr.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/listnr/",
+   "ampm_ref": "AMPM-287b4b62fe"
   },
   {
    "slug": "livedocs",

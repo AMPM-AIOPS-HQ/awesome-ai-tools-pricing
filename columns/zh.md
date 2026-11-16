@@ -1,9 +1,15 @@
 # 專欄（已上線）
 
+- 2026-11-17 [問問貓編輯部：Pixelcut Pro 600 點月均 US$8、Business 3,600 點月均 US$24 隱藏限制全解析](https://ampm-aiops.com/guides/pixelcut-price-2026/)
+- 2026-11-17 [Kapwing 免費版限制有哪些？長度上限 7 分鐘、部分功能 1 分鐘、720p、有浮水印](https://ampm-aiops.com/guides/kapwing-price-2026/)
+- 2026-11-17 [HyperWrite Ultra 月均 US$29 是年繳攤算，一次要付 US$348，先月付 US$44.99 再決定比較穩](https://ampm-aiops.com/guides/hyperwrite-price-2026/)
+- 2026-11-16 [VoiceOS 是訂閱制、有免費入口，但免費上限與付費方案官網沒列](https://ampm-aiops.com/guides/voiceos-price-2026/)
 - 2026-11-16 [Synthesys 哪檔方案最划算？月付只要 US$20 起，點數高達 30,000 點！](https://ampm-aiops.com/guides/synthesys-price-2026/)
 - 2026-11-16 [Spikes Studio 免費版是試用，不是長期方案：30 分鐘、有浮水印，要無浮水印得上 PRO+](https://ampm-aiops.com/guides/spikes-studio-price-2026/)
+- 2026-11-16 [MeetEdgar 沒有永久免費版，但 30 天免綁卡全功能試用；Eddie 每週只給 10 個排程，要跑量得直上 Edgar](https://ampm-aiops.com/guides/meetedgar-price-2026/)
 - 2026-11-16 [Landbot Pro 月繳 US$110 不含 WhatsApp，貓編整理哪一檔才接得到](https://ampm-aiops.com/guides/landbot-price-2026/)
 - 2026-11-16 [Hiver 的 US$35 要 2 席起買，Growth 月繳最低 US$70，只有 7 天免費試用](https://ampm-aiops.com/guides/hiver-price-2026/)
+- 2026-11-16 [Firecrawl 免費 1,000 credits：搜尋約 500 次、爬頁約 1,000 頁，搜尋貴一倍](https://ampm-aiops.com/guides/firecrawl-price-2026/)
 - 2026-11-15 [問問貓編輯部提醒：Descript 免費版僅支援 720p 匯出且會出現水印，升級前先看這三大限制](https://ampm-aiops.com/guides/descript-review-2026/)
 - 2026-11-15 [Voice.ai 免費版只能試聽 TTS，克隆與音檔下載要 US$5 的 Starter 才有](https://ampm-aiops.com/guides/voice-ai-price-2026/)
 - 2026-11-15 [UPDF AI 值不值得買？Pro 年繳 US$54.99 只買到編輯工具，無限 AI 要另外付錢](https://ampm-aiops.com/guides/updf-ai-price-2026/)
