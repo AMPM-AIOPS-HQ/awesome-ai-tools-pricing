@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-17T04:00:05+08:00",
+ "generated_at": "2026-11-18T04:00:05+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 269,
+ "row_count": 272,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-16",
- "tool_count": 269,
+ "last_verified_max": "2026-11-17",
+ "tool_count": 272,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -1143,6 +1143,24 @@
    "source_url": "https://elevenreader.io/pricing",
    "tool_page": "https://ampm-aiops.com/tools/elevenreader/",
    "ampm_ref": "AMPM-26197a3086"
+  },
+  {
+   "slug": "fal-ai",
+   "name": "fal.ai",
+   "vendor": "Features and Labels, Inc.",
+   "category": [
+    "api"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "註冊新帳號即贈送有限初次測試額度，用完後採隨收隨付",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": null,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-17",
+   "source_url": "https://fal.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/fal-ai/",
+   "ampm_ref": "AMPM-5d0e131680"
   },
   {
    "slug": "fathom",
@@ -3689,6 +3707,25 @@
    "ampm_ref": "AMPM-4e1261eb92"
   },
   {
+   "slug": "rev",
+   "name": "Rev",
+   "vendor": "Rev.com, Inc.",
+   "category": [
+    "voice",
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案：每人每月 45 分鐘 AI 轉錄與字幕額度、單一工作區、多檔案交叉分析最多 5 檔，每月限 5 次 AI 摘要/提問",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-17",
+   "source_url": "https://www.rev.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/rev/",
+   "ampm_ref": "AMPM-554f937417"
+  },
+  {
    "slug": "rev-ai",
    "name": "Rev AI",
    "vendor": "Rev",
@@ -3818,6 +3855,25 @@
    "source_url": "https://www.sanity.io/pricing",
    "tool_page": "https://ampm-aiops.com/tools/sanity/",
    "ampm_ref": "AMPM-5a97848d00"
+  },
+  {
+   "slug": "sapling",
+   "name": "Sapling",
+   "vendor": "Sapling Intelligence",
+   "category": [
+    "writing",
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "基礎寫作輔助與 AI 偵測每輪上限 2,000 字元",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 15,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-16",
+   "source_url": "https://sapling.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/sapling/",
+   "ampm_ref": "AMPM-02b8ce289f"
   },
   {
    "slug": "scenario",
