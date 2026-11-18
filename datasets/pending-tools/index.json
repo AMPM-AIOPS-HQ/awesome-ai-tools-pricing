@@ -1,0 +1,46 @@
+{
+ "dataset": "pending-tools",
+ "title": "AI tools not yet in the published dataset",
+ "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
+ "published_dataset": "data/ai_tools_2026.json",
+ "published_rows": 272,
+ "latest_check_on_record": "2026-11-18",
+ "rule": "known / unknown / gap / source only — no prices, no free-tier figures, no commercial-use conclusions; sorted by name then tool_id",
+ "row_count": 1064,
+ "seed_list_size": 1212,
+ "already_published": 148,
+ "merged_same_id_or_name": 0,
+ "columns": [
+  "tool_id",
+  "name",
+  "official_homepage",
+  "status",
+  "gap_category",
+  "missing_fields",
+  "exclusion_reason",
+  "last_checked_at",
+  "recheck_at",
+  "source_urls",
+  "notes"
+ ],
+ "status_counts": {
+  "pending-search": 6,
+  "pending-verification": 572,
+  "incomplete-data": 486,
+  "duplicate": 0,
+  "inactive": 0,
+  "renamed-or-merged": 0
+ },
+ "gap_category_counts": {
+  "null": 531,
+  "官方定價頁未找到": 359,
+  "官方網站未找到": 174
+ },
+ "rows_with_confirmed_homepage": 1,
+ "files": {
+  "json": "datasets/pending-tools/pending-tools.json",
+  "csv": "datasets/pending-tools/pending-tools.csv",
+  "schema": "datasets/pending-tools/schema.json",
+  "doc": "docs/pending-tools.md"
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Pending tools — row",
+ "description": "Row schema for datasets/pending-tools/pending-tools.json (field `rows`) and its CSV twin. This list never contains prices, free-tier figures or commercial-use conclusions. License: CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
+ "type": "object",
+ "required": [
+  "tool_id",
+  "name",
+  "official_homepage",
+  "status",
+  "gap_category",
+  "missing_fields",
+  "exclusion_reason",
+  "last_checked_at",
+  "recheck_at",
+  "source_urls",
+  "notes"
+ ],
+ "additionalProperties": false,
+ "properties": {
+  "tool_id": {
+   "type": "string",
+   "pattern": "^[a-z0-9][a-z0-9-]*$",
+   "description": "Stable identifier, unique in this list."
+  },
+  "name": {
+   "type": "string",
+   "description": "Tool name as recorded. When no name is on record the identifier is shown and notes say so."
+  },
+  "official_homepage": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "pattern": "^https://",
+   "description": "Filled only when the official domain was confirmed; otherwise null. Never a guessed domain."
+  },
+  "status": {
+   "type": "string",
+   "enum": [
+    "pending-search",
+    "pending-verification",
+    "incomplete-data",
+    "duplicate",
+    "inactive",
+    "renamed-or-merged"
+   ],
+   "description": "Where the tool stands. See docs/pending-tools.md for the meaning of each value."
+  },
+  "gap_category": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "enum": [
+    "官方網站未找到",
+    "官方定價頁未找到",
+    "官方免費額度未找到",
+    "商用授權未找到",
+    "幣別、週期或稅別不明",
+    "地區／帳戶資格不明",
+    "僅有第三方來源",
+    "重複、停用、合併或更名",
+    null
+   ],
+   "description": "Main gap, one of eight fixed categories; null when our records do not say which one applies."
+  },
+  "missing_fields": {
+   "type": "array",
+   "items": {
+    "type": "string",
+    "enum": [
+     "official_homepage",
+     "official_pricing_page",
+     "free_tier",
+     "commercial_use"
+    ]
+   },
+   "description": "Which verifiable facts are still missing."
+  },
+  "exclusion_reason": {
+   "type": "string",
+   "description": "Neutral, reproducible reason the tool is not in the published dataset (zh-Hant)."
+  },
+  "last_checked_at": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+   "description": "Date of the last check on record (YYYY-MM-DD)."
+  },
+  "recheck_at": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "Planned re-check date; null when none is scheduled."
+  },
+  "source_urls": {
+   "type": "array",
+   "items": {
+    "type": "string",
+    "pattern": "^https://"
+   },
+   "description": "Public sources actually confirmed. Empty when there is none; never a guessed URL."
+  },
+  "notes": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "Known facts only (zh-Hant); null when there is nothing to add."
+  }
+ }
+}
