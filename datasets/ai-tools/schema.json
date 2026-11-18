@@ -1,0 +1,264 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/datasets/ai-tools/schema.json",
+ "title": "AI Tools Pricing — plan-level row",
+ "description": "Row schema for datasets/ai-tools/plans_2026.json (field `rows`), its CSV twin and datasets/ai-tools/snapshots/. Unknown values are null, never 0 or an empty string. License: CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
+ "type": "object",
+ "required": [
+  "plan_id",
+  "tool_slug",
+  "tool_name",
+  "plan_type",
+  "source_url",
+  "last_verified",
+  "verification",
+  "tool_page"
+ ],
+ "additionalProperties": false,
+ "properties": {
+  "plan_id": {
+   "type": "string",
+   "description": "Stable identifier: <tool_slug>/<plan-slug>. Does not change when the price changes."
+  },
+  "tool_slug": {
+   "type": "string",
+   "description": "Tool identifier; joins to `slug` in data/ai_tools_2026.json."
+  },
+  "tool_name": {
+   "type": "string",
+   "description": "Tool name."
+  },
+  "vendor": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "Company behind the tool."
+  },
+  "plan_name": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "Plan name as listed by the vendor. null for the free-tier row when the vendor's own name for it is not recorded."
+  },
+  "plan_type": {
+   "type": "string",
+   "description": "free | paid.",
+   "enum": [
+    "free",
+    "paid"
+   ]
+  },
+  "currency": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "ISO 4217 currency of every price figure in the row."
+  },
+  "tax_treatment": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "tax_included | tax_excluded. null = not recorded (most vendor pages do not say)."
+  },
+  "billing_period": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "monthly | annual | usage | one_time | custom_quote. null = not recorded."
+  },
+  "price_unit": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "per_user when the price is per seat. null = flat price or not recorded."
+  },
+  "monthly_list_price": {
+   "type": [
+    "number",
+    "null"
+   ],
+   "description": "List price per month when billed monthly, as read on the official page. Never derived from an annual price. null = no monthly price was read on the official page."
+  },
+  "annual_billing_price_as_listed": {
+   "type": [
+    "number",
+    "null"
+   ],
+   "description": "The figure the official page shows when annual billing is selected, in the page's own unit. Not converted. null = none read."
+  },
+  "annual_billing_price_unit": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "per_month_billed_annually | per_year. null = the unit of annual_billing_price_as_listed was not recorded."
+  },
+  "annual_list_price_total": {
+   "type": [
+    "number",
+    "null"
+   ],
+   "description": "Total charged per year when billed annually. Filled only when that total itself was recorded; never computed."
+  },
+  "free_quota_summary": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "Free-tier allowance in our own words (zh-Hant). Only on plan_type=free rows."
+  },
+  "free_quota_summary_en": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "English version of free_quota_summary when available."
+  },
+  "free_quota_reset_period": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "daily | weekly | monthly | none. null = not recorded."
+  },
+  "region": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "ISO 3166-1 alpha-2 when the price applies to one market only. null = the vendor's default (international) price page."
+  },
+  "eligibility": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "Who may buy the plan (students, non-profits, minimum seats ...). null = not recorded."
+  },
+  "promo_ends": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "End date (YYYY-MM-DD) of a time-limited promotional price. null = no promotion recorded."
+  },
+  "api_price_unit": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "Unit for usage-based API pricing. null = not an API unit price or not recorded."
+  },
+  "api_unit_price": {
+   "type": [
+    "number",
+    "null"
+   ],
+   "description": "Price per api_price_unit. null = not recorded."
+  },
+  "source_url": {
+   "type": "string",
+   "description": "Official page the figures were checked against (tracking parameters stripped).",
+   "pattern": "^https://"
+  },
+  "last_verified": {
+   "type": "string",
+   "description": "Date (YYYY-MM-DD) of the check against source_url.",
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+  },
+  "verification": {
+   "type": "string",
+   "description": "price_check_ok = plan name and price matched the official page on last_verified; price_check_annual_only = only the annual figure was shown and matched; tool_level = free-tier row carried from the tool-level record."
+  },
+  "tool_page": {
+   "type": "string",
+   "description": "Full record on ampm-aiops.com."
+  }
+ },
+ "$defs": {
+  "change": {
+   "description": "Entry of changes/latest.json (field `changes`).",
+   "type": "object",
+   "required": [
+    "plan_id",
+    "change_type",
+    "field",
+    "previous_value",
+    "new_value",
+    "detected_on",
+    "source_url",
+    "last_verified"
+   ],
+   "properties": {
+    "plan_id": {
+     "type": "string"
+    },
+    "tool_slug": {
+     "type": "string"
+    },
+    "plan_name": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "change_type": {
+     "type": "string",
+     "enum": [
+      "price_increase",
+      "price_decrease",
+      "correction"
+     ],
+     "description": "price_increase / price_decrease = the previous figure matched the official page and the new one does too; correction = the previous figure had stopped matching the official page, so our record was brought back in line (the vendor may have changed the price earlier)."
+    },
+    "field": {
+     "type": "string",
+     "enum": [
+      "price",
+      "annual_billing_price"
+     ],
+     "description": "price = the plan's main published figure; annual_billing_price = the figure shown under annual billing."
+    },
+    "currency": {
+     "type": "string"
+    },
+    "previous_value": {
+     "type": "number"
+    },
+    "new_value": {
+     "type": "number"
+    },
+    "detected_on": {
+     "type": "string",
+     "description": "Day our published figure changed (YYYY-MM-DD). Not necessarily the day the vendor changed it."
+    },
+    "previous_value_matched_official_page": {
+     "type": "boolean",
+     "description": "false = the previous figure no longer matched the official page at its last check, so this entry may be a late correction rather than a same-day vendor change."
+    },
+    "source_url": {
+     "type": "string"
+    },
+    "last_verified": {
+     "type": "string"
+    }
+   }
+  },
+  "legacy_tool_row": {
+   "description": "Row of data/ai_tools_2026.json (field `tools`) — unchanged tool-level file, kept for existing users.",
+   "type": "object",
+   "required": [
+    "slug",
+    "name",
+    "source_url",
+    "last_verified"
+   ]
+  }
+ }
+}
