@@ -194,11 +194,13 @@ Only counts are published here. Tool names, identifiers and URLs of pending tool
 
 ## Why this exists / 為什麼做這件事
 
+- We are not saying these tools are bad. We think facts such as public pricing, free-tier limits and commercial-use terms should be there for consumers to look at — that is fairer to consumers.
 - This is a check done on the consumer's side: before a tool's price or free tier appears in our data, we want it confirmed on the tool's own official pages.
 - It is not a blacklist and not pressure on anyone. "Pending" only means we have not yet found enough official information; it is not a verdict.
 - Any vendor or reader can send an official source through an Issue, and we will check again.
 - We do not charge tools for being reviewed or listed.
 
+- 我們不是說這些工具不好。我們認為公開定價、免費額度、商用條款這些資料，本來就應該讓消費者查得到、看得到，這樣對消費者比較公平。
 - 這是站在消費者這一邊多做的一層把關：工具的價格或免費額度要先在它自己的官方頁面查證過，才會出現在我們的資料裡。
 - 這不是黑名單，也不是對任何人施壓。「待補」只代表我們還沒找到足夠的官方資料，不是結論。
 - 任何工具方或讀者都可以開 Issue 提供官方來源，我們會重新查核。
