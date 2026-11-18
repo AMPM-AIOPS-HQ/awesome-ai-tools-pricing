@@ -1,0 +1,42 @@
+{
+ "dataset": "pending-tools-summary",
+ "title": "AI tools not yet in the published dataset — counts only",
+ "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
+ "rule": "counts only — no tool names, identifiers, URLs, prices, free-tier figures or commercial-use conclusions",
+ "published_dataset": "data/ai_tools_2026.json",
+ "published_rows": 272,
+ "seed_list_size": 1212,
+ "already_published": 148,
+ "merged_same_id_or_name": 0,
+ "pending_total": 1064,
+ "latest_check_on_record": "2026-11-18",
+ "status_counts": {
+  "pending-search": 6,
+  "pending-verification": 572,
+  "incomplete-data": 486,
+  "duplicate": 0,
+  "inactive": 0,
+  "renamed-or-merged": 0
+ },
+ "gap_category_counts": {
+  "null": 531,
+  "官方定價頁未找到": 359,
+  "官方網站未找到": 174
+ },
+ "reason_counts": {
+  "官方定價頁未找到。暫不發布價格、免費額度或商用授權。": 359,
+  "已排入查核，價格、免費額度與商用授權尚未對官方頁面核實。": 299,
+  "查核資料不齊（來源不足或欄位缺漏）。": 112,
+  "登記的網站在最後檢查時無法連線，官方網站未確認。": 112,
+  "找到的網站內容與工具名稱對不上，官方網站未確認。": 56,
+  "官方網站擋自動讀取，待人工重驗；不代表網站不存在。": 53,
+  "觀察中，尚未開始查核。": 52,
+  "現有紀錄不足以收錄，原因未細分。": 15,
+  "僅有名單代號，尚未開始搜尋官方網站。": 6
+ },
+ "with_confirmed_homepage": 1,
+ "files": {
+  "schema": "datasets/pending-tools/schema.json",
+  "doc": "docs/pending-tools.md"
+ }
+}
