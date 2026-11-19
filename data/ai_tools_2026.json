@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-18T04:00:05+08:00",
+ "generated_at": "2026-11-20T04:00:06+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 272,
+ "row_count": 273,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-17",
- "tool_count": 272,
+ "last_verified_max": "2026-11-19",
+ "tool_count": 273,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -767,7 +767,7 @@
    "cheapest_paid_usd_per_month": 8,
    "cheapest_paid_twd_per_month": null,
    "commercial_use": true,
-   "last_verified": "2026-10-20",
+   "last_verified": "2026-11-19",
    "source_url": "https://openai.com/codex/",
    "tool_page": "https://ampm-aiops.com/tools/codex/",
    "ampm_ref": "AMPM-c133354a55"
@@ -1047,7 +1047,7 @@
    "cheapest_paid_usd_per_month": 24,
    "cheapest_paid_twd_per_month": null,
    "commercial_use": true,
-   "last_verified": "2026-10-20",
+   "last_verified": "2026-11-19",
    "source_url": "https://www.descript.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/descript/",
    "ampm_ref": "AMPM-0d572cafc0"
@@ -2032,7 +2032,7 @@
    "cheapest_paid_usd_per_month": 69,
    "cheapest_paid_twd_per_month": null,
    "commercial_use": false,
-   "last_verified": "2026-10-20",
+   "last_verified": "2026-11-19",
    "source_url": "https://www.jasper.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/jasper-ai/",
    "ampm_ref": "AMPM-9c3f06c692"
@@ -2742,6 +2742,24 @@
    "ampm_ref": "AMPM-abbd62b52e"
   },
   {
+   "slug": "moosend",
+   "name": "Moosend",
+   "vendor": "Constant Contact (Moosend)",
+   "category": [
+    "marketing"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案；提供 30 天全功能免費試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 9,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-19",
+   "source_url": "https://moosend.com/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/moosend/",
+   "ampm_ref": "AMPM-6238e8ab0b"
+  },
+  {
    "slug": "mubert",
    "name": "Mubert",
    "vendor": "Mubert Inc.",
@@ -3072,7 +3090,7 @@
    "cheapest_paid_usd_per_month": 15,
    "cheapest_paid_twd_per_month": null,
    "commercial_use": true,
-   "last_verified": "2026-10-20",
+   "last_verified": "2026-11-19",
    "source_url": "https://www.opus.pro/pricing",
    "tool_page": "https://ampm-aiops.com/tools/opus-clip/",
    "ampm_ref": "AMPM-7c769af21b"
@@ -4947,7 +4965,7 @@
    "cheapest_paid_usd_per_month": 99,
    "cheapest_paid_twd_per_month": null,
    "commercial_use": false,
-   "last_verified": "2026-10-20",
+   "last_verified": "2026-11-19",
    "source_url": "https://writesonic.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/writesonic/",
    "ampm_ref": "AMPM-e28e66f853"
