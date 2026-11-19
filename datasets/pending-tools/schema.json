@@ -1,0 +1,113 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Pending tools — summary",
+ "description": "Schema of datasets/pending-tools/index.json. Counts only: this dataset never contains tool names, identifiers, URLs, prices, free-tier figures or commercial-use conclusions. License: CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
+ "type": "object",
+ "required": [
+  "dataset",
+  "published_rows",
+  "seed_list_size",
+  "already_published",
+  "pending_total",
+  "latest_check_on_record",
+  "status_counts",
+  "gap_category_counts",
+  "reason_counts",
+  "with_confirmed_homepage"
+ ],
+ "properties": {
+  "dataset": {
+   "type": "string"
+  },
+  "published_rows": {
+   "type": "integer",
+   "description": "Rows in data/ai_tools_2026.json when the summary was built."
+  },
+  "seed_list_size": {
+   "type": "integer",
+   "description": "Identifiers on the maintainers' seed list."
+  },
+  "already_published": {
+   "type": "integer",
+   "description": "Seed-list tools already in the published dataset."
+  },
+  "pending_total": {
+   "type": "integer",
+   "description": "seed_list_size minus already_published (after merging same identifier or name)."
+  },
+  "latest_check_on_record": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "Newest check date among the pending tools (YYYY-MM-DD)."
+  },
+  "status_counts": {
+   "type": "object",
+   "additionalProperties": {
+    "type": "integer",
+    "minimum": 0
+   },
+   "description": "Pending tools per status: pending-search, pending-verification, incomplete-data, duplicate, inactive, renamed-or-merged."
+  },
+  "gap_category_counts": {
+   "type": "object",
+   "additionalProperties": {
+    "type": "integer",
+    "minimum": 0
+   },
+   "description": "Pending tools per gap category; `null` = our records do not say which category applies."
+  },
+  "reason_counts": {
+   "type": "object",
+   "additionalProperties": {
+    "type": "integer",
+    "minimum": 0
+   },
+   "description": "Pending tools per neutral reason sentence (zh-Hant)."
+  },
+  "with_confirmed_homepage": {
+   "type": "integer",
+   "description": "Pending tools whose official domain is confirmed."
+  },
+  "open_source_review": {
+   "type": [
+    "object",
+    "null"
+   ],
+   "description": "Counts from a one-off check for open-source signals among the pending tools (null = not checked). Signals: repository-open-source-license, repository-license-conditional-or-unmarked, no-matching-repository-link, homepage-unreadable, no-homepage-on-record. Repository roles: product-itself, companion-only, hosted-service-of-open-core, undetermined.",
+   "properties": {
+    "checked_on": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "tools_checked": {
+     "type": "integer"
+    },
+    "signal_counts": {
+     "type": "object",
+     "additionalProperties": {
+      "type": "integer",
+      "minimum": 0
+     }
+    },
+    "repository_role_counts": {
+     "type": "object",
+     "additionalProperties": {
+      "type": "integer",
+      "minimum": 0
+     }
+    },
+    "product_itself_by_license": {
+     "type": "object",
+     "additionalProperties": {
+      "type": "integer",
+      "minimum": 0
+     }
+    }
+   }
+  }
+ }
+}
