@@ -17,9 +17,17 @@
    "last_verified_max": "2026-11-17",
    "json": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/data/ai_tools_2026.json",
    "csv": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/data/ai_tools_2026.csv",
-   "schema": null,
+   "schema": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/datasets/ai-tools/schema.json",
    "site": "https://ampm-aiops.com",
-   "browse": "https://ampm-aiops.com/free/"
+   "browse": "https://ampm-aiops.com/free/",
+   "plans": {
+    "rows": 625,
+    "json": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/datasets/ai-tools/plans_2026.json",
+    "csv": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/datasets/ai-tools/plans_2026.csv",
+    "last_verified_max": "2026-11-17"
+   },
+   "plan_snapshots": "https://github.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/tree/main/datasets/ai-tools/snapshots",
+   "changes": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/changes/latest.json"
   },
   {
    "dataset": "cards",
