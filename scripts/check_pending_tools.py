@@ -19,7 +19,10 @@ P = "datasets/pending-tools/"
 STATUSES = ["pending-search", "pending-verification", "incomplete-data", "duplicate", "inactive", "renamed-or-merged"]
 KEYS = ["dataset", "title", "license", "rule", "published_dataset", "published_rows", "seed_list_size", "already_published",
         "merged_same_id_or_name", "pending_total", "latest_check_on_record", "status_counts", "gap_category_counts", "reason_counts",
-        "with_confirmed_homepage", "files"]
+        "with_confirmed_homepage", "open_source_review", "files"]
+SIGNALS = ["repository-open-source-license", "repository-license-conditional-or-unmarked", "no-matching-repository-link",
+           "homepage-unreadable", "no-homepage-on-record"]
+ROLES = ["product-itself", "companion-only", "hosted-service-of-open-core", "undetermined"]
 # words that would turn a neutral count into a claim, a comparison or an advertisement
 CLAIMS = re.compile(r"推薦|熱門|最佳|最好|贊助|排名|業配|可能免費|應該免費|NT\$|US\$|\$\s?\d|€\s?\d|不適合|官方認證"
                     r"|recommend|popular|sponsor|\bbest\b|\brank|top[- ]rated|probably|cheap|\bstars?\b", re.I)
@@ -84,6 +87,38 @@ def main():
         if idx["with_confirmed_homepage"] > t:
             yield "with_confirmed_homepage exceeds pending_total"
     check("the counts add up", sums())
+
+    def oss():
+        o = idx["open_source_review"]
+        if o is None:
+            return
+        if not isinstance(o, dict) or list(o) != ["checked_on", "tools_checked", "signal_counts", "repository_role_counts", "product_itself_by_license"]:
+            yield "open_source_review has unexpected fields"
+            return
+        for k, keys in (("signal_counts", SIGNALS), ("repository_role_counts", ROLES),
+                        ("product_itself_by_license", ["open-source-license", "conditional-or-unmarked"])):
+            c = o[k]
+            if not isinstance(c, dict) or list(c) != keys or any(not isinstance(v, int) or isinstance(v, bool) or v < 0 for v in c.values()):
+                yield "open_source_review.%s must hold exactly the defined keys with non-negative integers" % k
+                return
+        if not re.match(r"^\d{4}-\d{2}-\d{2}$", str(o["checked_on"])):
+            yield "open_source_review.checked_on is not a date"
+        s, r = o["signal_counts"], o["repository_role_counts"]
+        if o["tools_checked"] != idx["pending_total"] or sum(s.values()) != o["tools_checked"]:
+            yield "open-source signals do not cover every pending tool exactly once"
+        if sum(r.values()) != s[SIGNALS[0]] + s[SIGNALS[1]]:
+            yield "repository roles do not add up to the tools with a linked repository"
+        if sum(o["product_itself_by_license"].values()) != r["product-itself"]:
+            yield "product_itself_by_license does not add up to product-itself"
+        if o["product_itself_by_license"]["open-source-license"] > s[SIGNALS[0]]:
+            yield "more product-itself tools under an open-source license than tools with that signal"
+        for k in SIGNALS:
+            if not re.search(r"`%s`.*\|\s*%d\s*\|" % (re.escape(k), s[k]), doc):
+                yield "doc count for %s differs from index.json" % k
+        for k in ROLES:
+            if not re.search(r"`%s`.*\|\s*%d\s*\|" % (re.escape(k), r[k]), doc):
+                yield "doc count for %s differs from index.json" % k
+    check("open-source signal counts add up and match the doc", oss())
 
     def no_items():
         allowed_files = {"schema": P + "schema.json", "doc": "docs/pending-tools.md"}

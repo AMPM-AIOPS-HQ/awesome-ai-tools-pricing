@@ -69,6 +69,45 @@
   "with_confirmed_homepage": {
    "type": "integer",
    "description": "Pending tools whose official domain is confirmed."
+  },
+  "open_source_review": {
+   "type": [
+    "object",
+    "null"
+   ],
+   "description": "Counts from a one-off check for open-source signals among the pending tools (null = not checked). Signals: repository-open-source-license, repository-license-conditional-or-unmarked, no-matching-repository-link, homepage-unreadable, no-homepage-on-record. Repository roles: product-itself, companion-only, hosted-service-of-open-core, undetermined.",
+   "properties": {
+    "checked_on": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "tools_checked": {
+     "type": "integer"
+    },
+    "signal_counts": {
+     "type": "object",
+     "additionalProperties": {
+      "type": "integer",
+      "minimum": 0
+     }
+    },
+    "repository_role_counts": {
+     "type": "object",
+     "additionalProperties": {
+      "type": "integer",
+      "minimum": 0
+     }
+    },
+    "product_itself_by_license": {
+     "type": "object",
+     "additionalProperties": {
+      "type": "integer",
+      "minimum": 0
+     }
+    }
+   }
   }
  }
 }

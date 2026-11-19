@@ -35,6 +35,27 @@
   "僅有名單代號，尚未開始搜尋官方網站。": 6
  },
  "with_confirmed_homepage": 1,
+ "open_source_review": {
+  "checked_on": "2026-11-19",
+  "tools_checked": 1064,
+  "signal_counts": {
+   "repository-open-source-license": 51,
+   "repository-license-conditional-or-unmarked": 45,
+   "no-matching-repository-link": 819,
+   "homepage-unreadable": 149,
+   "no-homepage-on-record": 0
+  },
+  "repository_role_counts": {
+   "product-itself": 43,
+   "companion-only": 38,
+   "hosted-service-of-open-core": 5,
+   "undetermined": 10
+  },
+  "product_itself_by_license": {
+   "open-source-license": 26,
+   "conditional-or-unmarked": 17
+  }
+ },
  "files": {
   "schema": "datasets/pending-tools/schema.json",
   "doc": "docs/pending-tools.md"
