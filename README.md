@@ -13,7 +13,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24153597.svg)](https://doi.org/10.5281/zenodo.24153597)
 
 **What this is:** the open dataset behind [問問貓 AMPM-AIOPS](https://ampm-aiops.com?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing), a Traditional-Chinese AI tool comparison site for Taiwan.
-The core dataset covers **273 AI tools** (ChatGPT, Claude, Cursor, Midjourney, ElevenLabs …): category, whether a free tier exists and what it includes,
+The core dataset covers **282 AI tools** (ChatGPT, Claude, Cursor, Midjourney, ElevenLabs …): category, whether a free tier exists and what it includes,
 the cheapest paid plan per month (USD), commercial use where the vendor states it, and the date each row was last verified. Exported every day at 04:00 (Asia/Taipei);
 every row shows its own `last_verified` date, so you can see how fresh each number is.
 
@@ -21,9 +21,9 @@ every row shows its own `last_verified` date, so you can see how fresh each numb
 a `last_verified` date **and** an official source URL (13 rows held back at the moment — the count is shown per dataset below).
 
 **Also included:** datasets from our sister comparison sites (Taiwan credit cards, travel eSIM, VPN, US brokers and more), same rules —
-**535 verified rows across 6 datasets** in total.
+**544 verified rows across 6 datasets** in total.
 
-> 問問貓公開資料集（每天 04:00 匯出）：主資料是 273 個 AI 工具的分類、有沒有免費版與免費額度、最便宜付費方案月費（美元）、官方有寫的商用條款，每一列都附最後查證日期。
+> 問問貓公開資料集（每天 04:00 匯出）：主資料是 282 個 AI 工具的分類、有沒有免費版與免費額度、最便宜付費方案月費（美元）、官方有寫的商用條款，每一列都附最後查證日期。
 
 > 🔍 **How rows are verified**: [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) · 🌐 **Open-data hub**: [ampm-aiops.com/open-data/](https://ampm-aiops.com/open-data/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing)
 > 📝 **What changed**: [`CHANGELOG.md`](./CHANGELOG.md) (added / changed / removed, per day) · 📦 **Machine index**: [`datasets/index.json`](./datasets/index.json)
@@ -35,19 +35,19 @@ Independent publications that list pages of this project as a source. Each link 
 
 | Publication | Date | Article | Cites our page | Link last confirmed |
 |---|---|---|---|---|
-| Hakky Handbook (Japan) | 2026-11-05 | [civitai商用利用の判断基準: 用途別に確認する5つの権限](https://book.st-hakky.com/data-science/civitai-commercial-use-2025-guide) | [Civitai pricing (JA)](https://ampm-aiops.com/ja/tools/civitai/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-20 |
-| Hakky Handbook (Japan) | 2026-11-04 | [Groq LPU技術解説: 25倍速の根拠とGroqCloud導入条件](https://book.st-hakky.com/data-science/groq-database-query-evolution) | [Groq FAQ 2026](https://ampm-aiops.com/en/guides/groq-faq-2026/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-20 |
-| AiToolMap (—) | 2026-10-16 | [Glaze by Raycast Review, Pricing & Features](https://aitoolmap.org/tools/glaze-by-raycast/) | [Aider vs Glaze](https://ampm-aiops.com/en/compare/aider-vs-glaze/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-20 |
-| Fanavarikade (Iran) | 2026-10-11 | [Suno Speech چیست؟ صدای گوینده و موسیقی متن در یک ترک](https://fanavarikade.com/fa/news/suno-speech-chist) | [Suno guide 2026](https://ampm-aiops.com/en/guides/suno-special-2026/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-20 |
-| Essentras AI Check (—) | 2026-10-04 | [Does AI recommend AetherCut?](https://essentras.com/ai-check/b/aethercut) | [CapCut AI plans: free vs Pro](https://ampm-aiops.com/en/guides/capcut-ai-plans-free-vs-pro-2026/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-20 |
-| Brief IA (France) | 2026-09-08 | [Mistral AI structure l'industrie européenne de l'IA en 2026](https://www.briefia.fr/blog/comment-mistral-ai-redefine-industrie-2026) | [Mistral AI pricing](https://ampm-aiops.com/tools/mistral/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-20 |
-| Brief IA (France) | 2026-09-02 | [5 outils de maquettes IA pour gagner du temps en 2026](https://www.briefia.fr/blog/outils-maquettes-ia-2026) | [Framer pricing](https://ampm-aiops.com/en/tools/framer/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-20 |
+| Hakky Handbook (Japan) | 2026-11-05 | [civitai商用利用の判断基準: 用途別に確認する5つの権限](https://book.st-hakky.com/data-science/civitai-commercial-use-2025-guide) | [Civitai pricing (JA)](https://ampm-aiops.com/ja/tools/civitai/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-21 |
+| Hakky Handbook (Japan) | 2026-11-04 | [Groq LPU技術解説: 25倍速の根拠とGroqCloud導入条件](https://book.st-hakky.com/data-science/groq-database-query-evolution) | [Groq FAQ 2026](https://ampm-aiops.com/en/guides/groq-faq-2026/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-21 |
+| AiToolMap (—) | 2026-10-16 | [Glaze by Raycast Review, Pricing & Features](https://aitoolmap.org/tools/glaze-by-raycast/) | [Aider vs Glaze](https://ampm-aiops.com/en/compare/aider-vs-glaze/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-21 |
+| Fanavarikade (Iran) | 2026-10-11 | [Suno Speech چیست؟ صدای گوینده و موسیقی متن در یک ترک](https://fanavarikade.com/fa/news/suno-speech-chist) | [Suno guide 2026](https://ampm-aiops.com/en/guides/suno-special-2026/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-21 |
+| Essentras AI Check (—) | 2026-10-04 | [Does AI recommend AetherCut?](https://essentras.com/ai-check/b/aethercut) | [CapCut AI plans: free vs Pro](https://ampm-aiops.com/en/guides/capcut-ai-plans-free-vs-pro-2026/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-21 |
+| Brief IA (France) | 2026-09-08 | [Mistral AI structure l'industrie européenne de l'IA en 2026](https://www.briefia.fr/blog/comment-mistral-ai-redefine-industrie-2026) | [Mistral AI pricing](https://ampm-aiops.com/tools/mistral/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-21 |
+| Brief IA (France) | 2026-09-02 | [5 outils de maquettes IA pour gagner du temps en 2026](https://www.briefia.fr/blog/outils-maquettes-ia-2026) | [Framer pricing](https://ampm-aiops.com/en/tools/framer/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | 2026-11-21 |
 
 > 外部引用：以上媒體把本專案頁面列為資料來源；每次匯出都回原文確認連結仍在，不在就自動撤下。
 
 ## Datasets
 
-- [AI Tools Pricing & Free Tiers](#ai-tools-pricing-free-tiers) — 273 rows
+- [AI Tools Pricing & Free Tiers](#ai-tools-pricing-free-tiers) — 282 rows
 - [Taiwan Credit Cards](#taiwan-credit-cards) — 179 rows
 - [Travel eSIM Plans (Taiwan market)](#travel-esim-plans-taiwan-market) — 35 rows
 - [VPN Pricing & Audits (Taiwan)](#vpn-pricing-audits-taiwan) — 7 rows
@@ -64,8 +64,8 @@ Not included, by design: partner / referral tracking links, internal verificatio
 
 | | |
 | :--- | :--- |
-| Rows published | **273** (below public threshold, not exported: 0) |
-| Last verified (newest row) | **2026-11-19** |
+| Rows published | **282** (below public threshold, not exported: 0) |
+| Last verified (newest row) | **2026-11-20** |
 | Files | [`data/ai_tools_2026.json`](./data/ai_tools_2026.json) · [`data/ai_tools_2026.csv`](./data/ai_tools_2026.csv) |
 | Browse online | [ampm-aiops.com](https://ampm-aiops.com/free/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
 | How rows are verified | [ampm-aiops.com/methodology/](https://ampm-aiops.com/methodology/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) |
@@ -83,7 +83,7 @@ Not included, by design: partner / referral tracking links, internal verificatio
 | [Anijam](https://ampm-aiops.com/tools/anijam/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | video | 有免費方案，但官網定價頁未列出免費方案的具體點數，只在 FAQ 說明限制：⚠️ 免費用戶下載與匯出一律帶浮水印，且產出僅限非商業用途，商用權利只給付費方案 | 25 | ❌ | [official](https://www.anijam.ai/pricing/) | 2026-11-05 |
 | [Anyword](https://ampm-aiops.com/tools/anyword/?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-tools-pricing) | marketing, writing | 無永久免費方案，提供 7 天免費試用 | 49 | unknown | [official](https://www.anyword.com/pricing) | 2026-11-05 |
 
-*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 273 rows.*
+*Each name links back to the full record on our site (evidence, warnings, history). Showing 10 of 282 rows.*
 
 ### Taiwan Credit Cards
 *台灣信用卡年費／回饋／循環利率實查*
