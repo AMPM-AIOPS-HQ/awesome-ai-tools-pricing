@@ -1,24 +1,24 @@
 {
  "dataset": "ai-tools-plans",
  "title": "AI Tools Pricing — plan level",
- "generated_at": "2026-11-21T04:00:04+08:00",
+ "generated_at": "2026-11-22T04:00:05+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
  "schema": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/datasets/ai-tools/schema.json",
  "threshold": "a paid plan is published only if its latest check against the official pricing page matched; a figure is filled only if it was read on that page; unknown values are null",
- "row_count": 704,
+ "row_count": 719,
  "tools_covered": 264,
- "paid_plan_rows": 472,
+ "paid_plan_rows": 487,
  "free_tier_rows": 232,
  "held_back": {
-  "tool_not_public": 2,
-  "not_matched_on_official_page": 317,
+  "tool_not_public": 0,
+  "not_matched_on_official_page": 291,
   "no_source_or_date": 3,
   "duplicate_plan_id": 0
  },
- "last_verified_max": "2026-11-20",
+ "last_verified_max": "2026-11-21",
  "rows": [
   {
    "plan_id": "adobe-firefly/free",
@@ -72,7 +72,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://ahrefs.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/ahrefs/"
   },
@@ -128,7 +128,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://ahrefs.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/ahrefs/"
   },
@@ -156,7 +156,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://ahrefs.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/ahrefs/"
   },
@@ -184,7 +184,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://ahrefs.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/ahrefs/"
   },
@@ -324,7 +324,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://akool.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/akool/"
   },
@@ -352,7 +352,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://akool.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/akool/"
   },
@@ -408,7 +408,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://aws.amazon.com/q/developer/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/amazon-q-developer/"
   },
@@ -436,7 +436,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.anijam.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/anijam/"
   },
@@ -464,7 +464,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.anijam.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/anijam/"
   },
@@ -520,7 +520,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.anijam.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/anijam/"
   },
@@ -548,7 +548,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.anijam.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/anijam/"
   },
@@ -576,7 +576,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.anyword.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/anyword/"
   },
@@ -604,7 +604,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.anyword.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/anyword/"
   },
@@ -660,7 +660,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://appwrite.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/appwrite/"
   },
@@ -744,7 +744,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.aweber.com/pricing.htm",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/aweber/"
   },
@@ -772,7 +772,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.aweber.com/pricing.htm",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/aweber/"
   },
@@ -800,7 +800,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://base44.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/base44/"
   },
@@ -828,7 +828,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://base44.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/base44/"
   },
@@ -856,7 +856,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://base44.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/base44/"
   },
@@ -912,7 +912,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://base44.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/base44/"
   },
@@ -940,7 +940,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://base44.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/base44/"
   },
@@ -1024,7 +1024,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.beehiiv.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/beehiiv-ai/"
   },
@@ -1052,9 +1052,37 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.beehiiv.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/beehiiv-ai/"
+  },
+  {
+   "plan_id": "bland-ai/build",
+   "tool_slug": "bland-ai",
+   "tool_name": "Bland AI",
+   "vendor": "Bland AI Inc.",
+   "plan_name": "Build",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "monthly",
+   "price_unit": null,
+   "monthly_list_price": 299,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://www.bland.ai/pricing",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
+   "tool_page": "https://ampm-aiops.com/tools/bland-ai/"
   },
   {
    "plan_id": "bland-ai/free",
@@ -1108,7 +1136,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://bolt.new/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/bolt/"
   },
@@ -1164,7 +1192,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://bolt.new/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/bolt/"
   },
@@ -1192,7 +1220,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://brand24.com/prices/?t=",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/brand24/"
   },
@@ -1220,7 +1248,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://brand24.com/prices/?t=",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/brand24/"
   },
@@ -1248,7 +1276,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://brand24.com/prices/?t=",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/brand24/"
   },
@@ -1276,7 +1304,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://brand24.com/prices/?t=",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/brand24/"
   },
@@ -1332,7 +1360,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://brave.com/premium/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/brave-leo/"
   },
@@ -1388,7 +1416,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.brevo.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/brevo/"
   },
@@ -1416,7 +1444,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.brevo.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/brevo/"
   },
@@ -1444,7 +1472,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.brevo.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/brevo/"
   },
@@ -1500,7 +1528,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.bugsnag.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/bugsnag/"
   },
@@ -1556,7 +1584,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.builder.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/builder-io/"
   },
@@ -1584,7 +1612,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.builder.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/builder-io/"
   },
@@ -1612,7 +1640,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://buzzabout.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/buzzabout/"
   },
@@ -1640,7 +1668,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://buzzabout.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/buzzabout/"
   },
@@ -1668,7 +1696,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://buzzabout.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/buzzabout/"
   },
@@ -1696,7 +1724,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://buzzabout.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/buzzabout/"
   },
@@ -1780,7 +1808,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://canarymail.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/canary-mail/"
   },
@@ -1892,7 +1920,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.cartesia.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/cartesia/"
   },
@@ -1920,7 +1948,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.cartesia.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/cartesia/"
   },
@@ -1948,7 +1976,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.cartesia.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/cartesia/"
   },
@@ -1976,7 +2004,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.caspio.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/caspio/"
   },
@@ -2004,7 +2032,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.caspio.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/caspio/"
   },
@@ -2032,7 +2060,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.castmagic.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/castmagic/"
   },
@@ -2060,7 +2088,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.castmagic.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/castmagic/"
   },
@@ -2088,7 +2116,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.castmagic.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/castmagic/"
   },
@@ -2116,7 +2144,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://chatgpt.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/chatgpt/"
   },
@@ -2172,7 +2200,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://chatgpt.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/chatgpt/"
   },
@@ -2200,7 +2228,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://chatgpt.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/chatgpt/"
   },
@@ -2228,7 +2256,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://chatgpt.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/chatgpt/"
   },
@@ -2312,7 +2340,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://circleci.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/circleci/"
   },
@@ -2340,7 +2368,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://civitai.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/civitai/"
   },
@@ -2396,7 +2424,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://civitai.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/civitai/"
   },
@@ -2424,7 +2452,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://civitai.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/civitai/"
   },
@@ -2452,7 +2480,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://claude.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/claude/"
   },
@@ -2508,7 +2536,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://claude.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/claude/"
   },
@@ -2536,7 +2564,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://claude.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/claude/"
   },
@@ -2564,7 +2592,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://claude.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/claude/"
   },
@@ -2592,7 +2620,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://claude.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/claude/"
   },
@@ -2760,7 +2788,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.coderabbit.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/coderabbit/"
   },
@@ -2788,7 +2816,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.coderabbit.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/coderabbit/"
   },
@@ -2816,7 +2844,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.coderabbit.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/coderabbit/"
   },
@@ -2872,7 +2900,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.coderabbit.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/coderabbit/"
   },
@@ -2956,7 +2984,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://colibri.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/colibri/"
   },
@@ -2984,7 +3012,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://colibri.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/colibri/"
   },
@@ -3012,7 +3040,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://colibri.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/colibri/"
   },
@@ -3040,7 +3068,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://colibri.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/colibri/"
   },
@@ -3124,7 +3152,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.contentstack.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/contentstack/"
   },
@@ -3180,7 +3208,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.contentstack.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/contentstack/"
   },
@@ -3208,7 +3236,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.context.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/context-dev/"
   },
@@ -3236,7 +3264,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.context.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/context-dev/"
   },
@@ -3292,7 +3320,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.context.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/context-dev/"
   },
@@ -3320,7 +3348,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.context.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/context-dev/"
   },
@@ -3348,7 +3376,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.context.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/context-dev/"
   },
@@ -3376,7 +3404,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.context.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/context-dev/"
   },
@@ -3432,7 +3460,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.microsoft.com/en-us/store/b/copilotpro",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/copilot-microsoft/"
   },
@@ -3460,7 +3488,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.copy.ai/prices",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/copy-ai/"
   },
@@ -3544,7 +3572,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://creatify.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/creatify/"
   },
@@ -3600,7 +3628,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://creatify.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/creatify/"
   },
@@ -3628,7 +3656,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://creatify.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/creatify/"
   },
@@ -3656,7 +3684,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://creatify.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/creatify/"
   },
@@ -3712,7 +3740,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://cursor.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/cursor/"
   },
@@ -3740,7 +3768,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://cursor.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/cursor/"
   },
@@ -3768,7 +3796,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://cursor.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/cursor/"
   },
@@ -3796,7 +3824,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://cursor.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/cursor/"
   },
@@ -3824,7 +3852,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://cursor.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/cursor/"
   },
@@ -3852,7 +3880,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.dashworks.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/dashworks/"
   },
@@ -3880,7 +3908,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.dashworks.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/dashworks/"
   },
@@ -3964,7 +3992,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.deepl.com/en/pro",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/deepl/"
   },
@@ -4020,7 +4048,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.deepl.com/en/pro",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/deepl/"
   },
@@ -4048,7 +4076,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.deepl.com/en/pro",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/deepl/"
   },
@@ -4104,7 +4132,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.descript.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/descript/"
   },
@@ -4132,7 +4160,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.descript.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/descript/"
   },
@@ -4160,7 +4188,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.descript.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/descript/"
   },
@@ -4216,7 +4244,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.descript.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/descript/"
   },
@@ -4244,7 +4272,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://devcycle.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/devcycle/"
   },
@@ -4300,7 +4328,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://elephas.app/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/elephas/"
   },
@@ -4328,7 +4356,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://elephas.app/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/elephas/"
   },
@@ -4356,7 +4384,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://elephas.app/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/elephas/"
   },
@@ -4384,7 +4412,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://elevenlabs.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/elevenlabs/"
   },
@@ -4412,7 +4440,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://elevenlabs.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/elevenlabs/"
   },
@@ -4440,7 +4468,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://elevenlabs.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/elevenlabs/"
   },
@@ -4496,7 +4524,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://elevenlabs.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/elevenlabs/"
   },
@@ -4524,7 +4552,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://elevenlabs.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/elevenlabs/"
   },
@@ -4552,7 +4580,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://elevenlabs.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/elevenlabs/"
   },
@@ -4608,7 +4636,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://elevenreader.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/elevenreader/"
   },
@@ -4692,7 +4720,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://fathom.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/fathom/"
   },
@@ -4748,7 +4776,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://fathom.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/fathom/"
   },
@@ -4776,7 +4804,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://fellow.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/fellow/"
   },
@@ -4832,7 +4860,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://fellow.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/fellow/"
   },
@@ -4888,7 +4916,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://filmora.wondershare.com/shop/buy/buy-video-editor.html",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/filmora/"
   },
@@ -4916,7 +4944,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://filmora.wondershare.com/shop/buy/buy-video-editor.html",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/filmora/"
   },
@@ -4972,7 +5000,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://filmora.wondershare.com/shop/buy/buy-video-editor.html",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/filmora/"
   },
@@ -5028,7 +5056,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://finevoice.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/finevoice/"
   },
@@ -5056,7 +5084,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.firecrawl.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/firecrawl/"
   },
@@ -5112,7 +5140,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.firecrawl.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/firecrawl/"
   },
@@ -5140,7 +5168,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.firecrawl.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/firecrawl/"
   },
@@ -5168,7 +5196,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.firecrawl.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/firecrawl/"
   },
@@ -5196,7 +5224,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.firecrawl.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/firecrawl/"
   },
@@ -5224,7 +5252,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://fireflies.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_annual_only",
    "tool_page": "https://ampm-aiops.com/tools/fireflies-ai/"
   },
@@ -5252,7 +5280,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://fireflies.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/fireflies-ai/"
   },
@@ -5308,7 +5336,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://fireflies.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/fireflies-ai/"
   },
@@ -5392,7 +5420,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.flagsmith.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/flagsmith/"
   },
@@ -5420,7 +5448,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.flagsmith.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/flagsmith/"
   },
@@ -5476,7 +5504,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://fliki.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/fliki/"
   },
@@ -5504,7 +5532,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://fliki.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/fliki/"
   },
@@ -5532,7 +5560,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://flixier.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/flixier/"
   },
@@ -5560,7 +5588,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://flixier.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/flixier/"
   },
@@ -5616,7 +5644,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://flixier.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/flixier/"
   },
@@ -5672,7 +5700,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://floot.com/en/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/floot/"
   },
@@ -5700,7 +5728,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://floot.com/en/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/floot/"
   },
@@ -5756,7 +5784,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://fly.io/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/fly-io/"
   },
@@ -5784,7 +5812,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://fly.io/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/fly-io/"
   },
@@ -5812,7 +5840,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.framer.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/framer/"
   },
@@ -5840,7 +5868,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.framer.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/framer/"
   },
@@ -5896,7 +5924,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.framer.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/framer/"
   },
@@ -5924,7 +5952,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.frase.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/frase/"
   },
@@ -5952,7 +5980,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.frase.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/frase/"
   },
@@ -5980,7 +6008,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.frase.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/frase/"
   },
@@ -6036,7 +6064,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://one.google.com/about/google-ai-plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/gemini/"
   },
@@ -6064,7 +6092,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://one.google.com/about/google-ai-plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/gemini/"
   },
@@ -6092,7 +6120,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://one.google.com/about/google-ai-plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/gemini/"
   },
@@ -6148,7 +6176,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.getresponse.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/getresponse/"
   },
@@ -6204,7 +6232,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.getresponse.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/getresponse/"
   },
@@ -6260,7 +6288,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://github.com/features/copilot/plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/github-copilot/"
   },
@@ -6288,7 +6316,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://github.com/features/copilot/plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/github-copilot/"
   },
@@ -6316,7 +6344,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://github.com/features/copilot/plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/github-copilot/"
   },
@@ -6405,6 +6433,34 @@
    "tool_page": "https://ampm-aiops.com/tools/gosearch/"
   },
   {
+   "plan_id": "gosearch/pro",
+   "tool_slug": "gosearch",
+   "tool_name": "GoSearch",
+   "vendor": "GoLinks, Inc.",
+   "plan_name": "Pro",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "monthly",
+   "price_unit": "per_user",
+   "monthly_list_price": 12,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://www.gosearch.ai/product/pricing",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
+   "tool_page": "https://ampm-aiops.com/tools/gosearch/"
+  },
+  {
    "plan_id": "gptzero/free",
    "tool_slug": "gptzero",
    "tool_name": "GPTZero",
@@ -6456,7 +6512,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://gptzero.me/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_annual_only",
    "tool_page": "https://ampm-aiops.com/tools/gptzero/"
   },
@@ -6484,7 +6540,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://gptzero.me/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/gptzero/"
   },
@@ -6512,7 +6568,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://grain.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/grain/"
   },
@@ -6568,7 +6624,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.grammarly.com/plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/grammarly/"
   },
@@ -6624,7 +6680,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.grammarly.com/plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/grammarly/"
   },
@@ -6652,7 +6708,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.granola.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/granola/"
   },
@@ -6680,7 +6736,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.granola.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/granola/"
   },
@@ -6764,7 +6820,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.getgrist.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/grist/"
   },
@@ -6820,7 +6876,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://x.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/grok/"
   },
@@ -6848,7 +6904,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://x.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/grok/"
   },
@@ -6876,7 +6932,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://x.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/grok/"
   },
@@ -6904,7 +6960,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://x.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/grok/"
   },
@@ -6932,7 +6988,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://x.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/grok/"
   },
@@ -7044,7 +7100,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.helpscout.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/help-scout-ai/"
   },
@@ -7072,7 +7128,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.helpscout.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/help-scout-ai/"
   },
@@ -7100,7 +7156,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.helpscout.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/help-scout-ai/"
   },
@@ -7156,7 +7212,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.hemory.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/hemory/"
   },
@@ -7184,7 +7240,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.hemory.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/hemory/"
   },
@@ -7212,7 +7268,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.hemory.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/hemory/"
   },
@@ -7240,7 +7296,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.heygen.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/heygen/"
   },
@@ -7268,7 +7324,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.heygen.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/heygen/"
   },
@@ -7296,7 +7352,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.heygen.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/heygen/"
   },
@@ -7352,7 +7408,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.heygen.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/heygen/"
   },
@@ -7408,7 +7464,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://higgsfield.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/higgsfield/"
   },
@@ -7464,7 +7520,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.holaboss.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/holaos/"
   },
@@ -7492,7 +7548,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.holaboss.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/holaos/"
   },
@@ -7520,7 +7576,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.holaboss.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/holaos/"
   },
@@ -7548,7 +7604,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.hostinger.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/hostinger/"
   },
@@ -7604,7 +7660,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.humata.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/humata/"
   },
@@ -7660,7 +7716,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.hyperwriteai.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/hyperwrite/"
   },
@@ -7688,7 +7744,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.hyperwriteai.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/hyperwrite/"
   },
@@ -7716,7 +7772,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://ideogram.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/ideogram/"
   },
@@ -7772,7 +7828,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://ideogram.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/ideogram/"
   },
@@ -7800,7 +7856,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://ideogram.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/ideogram/"
   },
@@ -7828,7 +7884,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://ideogram.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/ideogram/"
   },
@@ -7856,7 +7912,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://infogram.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/infogram/"
   },
@@ -7912,7 +7968,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://infogram.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/infogram/"
   },
@@ -7940,7 +7996,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://infogram.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/infogram/"
   },
@@ -7968,7 +8024,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://invideo.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/invideo/"
   },
@@ -7996,7 +8052,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://invideo.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/invideo/"
   },
@@ -8024,7 +8080,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://invideo.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/invideo/"
   },
@@ -8052,7 +8108,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.jasper.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/jasper-ai/"
   },
@@ -8080,7 +8136,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.jasper.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/jasper-ai/"
   },
@@ -8108,7 +8164,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://kagi.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/kagi/"
   },
@@ -8136,7 +8192,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://kagi.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/kagi/"
   },
@@ -8164,7 +8220,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://kagi.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/kagi/"
   },
@@ -8192,7 +8248,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.kapwing.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/kapwing/"
   },
@@ -8248,7 +8304,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.kapwing.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/kapwing/"
   },
@@ -8276,7 +8332,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.klaviyo.com/pricing",
-   "last_verified": "2026-10-21",
+   "last_verified": "2026-11-21",
    "verification": "tool_level",
    "tool_page": "https://ampm-aiops.com/tools/klaviyo/"
   },
@@ -8332,7 +8388,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://kling.ai/app/membership/membership-plan",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/kling/"
   },
@@ -8360,7 +8416,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://kling.ai/app/membership/membership-plan",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/kling/"
   },
@@ -8388,7 +8444,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://koala.sh/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/koala-ai/"
   },
@@ -8416,7 +8472,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://koala.sh/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/koala-ai/"
   },
@@ -8444,7 +8500,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://koala.sh/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/koala-ai/"
   },
@@ -8472,7 +8528,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://koala.sh/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/koala-ai/"
   },
@@ -8500,7 +8556,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://koala.sh/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/koala-ai/"
   },
@@ -8528,7 +8584,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://krisp.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/krisp/"
   },
@@ -8556,7 +8612,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://krisp.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/krisp/"
   },
@@ -8584,7 +8640,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://krisp.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/krisp/"
   },
@@ -8640,7 +8696,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://krispcall.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/krispcall/"
   },
@@ -8668,7 +8724,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://krispcall.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/krispcall/"
   },
@@ -8696,7 +8752,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://krispcall.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/krispcall/"
   },
@@ -8752,7 +8808,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.lalal.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/lalal-ai/"
   },
@@ -8780,9 +8836,37 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.lalal.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/lalal-ai/"
+  },
+  {
+   "plan_id": "landbot/business",
+   "tool_slug": "landbot",
+   "tool_name": "Landbot",
+   "vendor": "Landbot (HEI COMMUNITY S.L.)",
+   "plan_name": "Business",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "custom_quote",
+   "price_unit": null,
+   "monthly_list_price": null,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://landbot.io/pricing",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
+   "tool_page": "https://ampm-aiops.com/tools/landbot/"
   },
   {
    "plan_id": "landbot/free",
@@ -8897,6 +8981,34 @@
    "tool_page": "https://ampm-aiops.com/tools/languagetool/"
   },
   {
+   "plan_id": "leonardo/essential",
+   "tool_slug": "leonardo",
+   "tool_name": "Leonardo AI",
+   "vendor": "Leonardo",
+   "plan_name": "Essential",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "monthly",
+   "price_unit": null,
+   "monthly_list_price": 12,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://leonardo.ai/pricing",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
+   "tool_page": "https://ampm-aiops.com/tools/leonardo/"
+  },
+  {
    "plan_id": "leonardo/free",
    "tool_slug": "leonardo",
    "tool_name": "Leonardo AI",
@@ -8925,6 +9037,62 @@
    "tool_page": "https://ampm-aiops.com/tools/leonardo/"
   },
   {
+   "plan_id": "leonardo/premium",
+   "tool_slug": "leonardo",
+   "tool_name": "Leonardo AI",
+   "vendor": "Leonardo",
+   "plan_name": "Premium",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "monthly",
+   "price_unit": null,
+   "monthly_list_price": 30,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://leonardo.ai/pricing",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
+   "tool_page": "https://ampm-aiops.com/tools/leonardo/"
+  },
+  {
+   "plan_id": "leonardo/ultimate",
+   "tool_slug": "leonardo",
+   "tool_name": "Leonardo AI",
+   "vendor": "Leonardo",
+   "plan_name": "Ultimate",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "monthly",
+   "price_unit": null,
+   "monthly_list_price": 60,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://leonardo.ai/pricing",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
+   "tool_page": "https://ampm-aiops.com/tools/leonardo/"
+  },
+  {
    "plan_id": "linear/basic",
    "tool_slug": "linear",
    "tool_name": "Linear",
@@ -8948,7 +9116,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://linear.app/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/linear/"
   },
@@ -8976,7 +9144,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://linear.app/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/linear/"
   },
@@ -9032,7 +9200,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://listnr.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/listnr/"
   },
@@ -9088,7 +9256,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://listnr.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/listnr/"
   },
@@ -9116,7 +9284,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://listnr.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/listnr/"
   },
@@ -9144,7 +9312,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://livedocs.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/livedocs/"
   },
@@ -9200,7 +9368,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://livedocs.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/livedocs/"
   },
@@ -9228,7 +9396,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://lmstudio.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/lm-studio/"
   },
@@ -9284,7 +9452,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://lmstudio.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/lm-studio/"
   },
@@ -9312,7 +9480,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://loopmessage.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/loopmessage/"
   },
@@ -9368,7 +9536,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://loopmessage.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/loopmessage/"
   },
@@ -9396,7 +9564,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://lovable.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/lovable/"
   },
@@ -9424,7 +9592,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://lovable.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/lovable/"
   },
@@ -9480,7 +9648,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://lovable.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/lovable/"
   },
@@ -9508,7 +9676,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://lumalabs.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/luma/"
   },
@@ -9536,7 +9704,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://lumalabs.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/luma/"
   },
@@ -9564,7 +9732,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://lumalabs.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/luma/"
   },
@@ -9592,7 +9760,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://magichour.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/magic-hour/"
   },
@@ -9648,7 +9816,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://magichour.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/magic-hour/"
   },
@@ -9704,7 +9872,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://mailchimp.com/pricing/marketing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/mailchimp/"
   },
@@ -9732,7 +9900,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.mailerlite.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/mailerlite/"
   },
@@ -9788,7 +9956,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.mailerlite.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/mailerlite/"
   },
@@ -9816,7 +9984,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.make.com/en/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/make/"
   },
@@ -9900,7 +10068,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://manus.im/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/manus/"
   },
@@ -9933,6 +10101,62 @@
    "tool_page": "https://ampm-aiops.com/tools/markopolo-ai/"
   },
   {
+   "plan_id": "markopolo-ai/pro",
+   "tool_slug": "markopolo-ai",
+   "tool_name": "Markopolo AI",
+   "vendor": "Markopolo AI Inc.",
+   "plan_name": "Pro",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "monthly",
+   "price_unit": null,
+   "monthly_list_price": 39.99,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://markopolo.ai/pricing",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
+   "tool_page": "https://ampm-aiops.com/tools/markopolo-ai/"
+  },
+  {
+   "plan_id": "markopolo-ai/standard",
+   "tool_slug": "markopolo-ai",
+   "tool_name": "Markopolo AI",
+   "vendor": "Markopolo AI Inc.",
+   "plan_name": "Standard",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "monthly",
+   "price_unit": null,
+   "monthly_list_price": 10.99,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://markopolo.ai/pricing",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
+   "tool_page": "https://ampm-aiops.com/tools/markopolo-ai/"
+  },
+  {
    "plan_id": "meetedgar/eddie",
    "tool_slug": "meetedgar",
    "tool_name": "MeetEdgar",
@@ -9956,7 +10180,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://meetedgar.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/meetedgar/"
   },
@@ -9984,7 +10208,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://meetedgar.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/meetedgar/"
   },
@@ -10068,7 +10292,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.meetjamie.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/meetjamie/"
   },
@@ -10096,7 +10320,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.meetjamie.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/meetjamie/"
   },
@@ -10124,7 +10348,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.meetjamie.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/meetjamie/"
   },
@@ -10152,7 +10376,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.meshy.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/meshy/"
   },
@@ -10208,7 +10432,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.meshy.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/meshy/"
   },
@@ -10236,7 +10460,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.meshy.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/meshy/"
   },
@@ -10264,7 +10488,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.meshy.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/meshy/"
   },
@@ -10292,7 +10516,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.meshy.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/meshy/"
   },
@@ -10320,7 +10544,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/midjourney/"
   },
@@ -10348,7 +10572,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/midjourney/"
   },
@@ -10376,7 +10600,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/midjourney/"
   },
@@ -10404,7 +10628,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/midjourney/"
   },
@@ -10460,7 +10684,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://miro.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/miro/"
   },
@@ -10516,7 +10740,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://miro.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/miro/"
   },
@@ -10544,7 +10768,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://missiveapp.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_annual_only",
    "tool_page": "https://ampm-aiops.com/tools/missive/"
   },
@@ -10572,7 +10796,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://missiveapp.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_annual_only",
    "tool_page": "https://ampm-aiops.com/tools/missive/"
   },
@@ -10600,7 +10824,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://missiveapp.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_annual_only",
    "tool_page": "https://ampm-aiops.com/tools/missive/"
   },
@@ -10656,7 +10880,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://mistral.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/mistral/"
   },
@@ -10684,7 +10908,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://mistral.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/mistral/"
   },
@@ -10740,7 +10964,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://modal.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/modal/"
   },
@@ -10768,7 +10992,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://modal.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/modal/"
   },
@@ -10824,7 +11048,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://monica.im/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/monica/"
   },
@@ -10852,7 +11076,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://monica.im/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/monica/"
   },
@@ -10880,7 +11104,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://monica.im/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/monica/"
   },
@@ -10908,7 +11132,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://mubert.com/render/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/mubert/"
   },
@@ -10964,7 +11188,35 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://mubert.com/render/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
+   "tool_page": "https://ampm-aiops.com/tools/mubert/"
+  },
+  {
+   "plan_id": "mubert/ultra",
+   "tool_slug": "mubert",
+   "tool_name": "Mubert",
+   "vendor": "Mubert Inc.",
+   "plan_name": "Ultra",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "monthly",
+   "price_unit": null,
+   "monthly_list_price": 89,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://mubert.com/render/pricing",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/mubert/"
   },
@@ -10992,7 +11244,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.mural.co/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/mural/"
   },
@@ -11048,7 +11300,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.mural.co/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/mural/"
   },
@@ -11132,7 +11384,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://access.mymind.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/mymind/"
   },
@@ -11160,7 +11412,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://access.mymind.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/mymind/"
   },
@@ -11188,7 +11440,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://access.mymind.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/mymind/"
   },
@@ -11216,7 +11468,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://n8n.io/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/n8n/"
   },
@@ -11272,7 +11524,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://n8n.io/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/n8n/"
   },
@@ -11300,7 +11552,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://n8n.io/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/n8n/"
   },
@@ -11356,7 +11608,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://one.google.com/about/google-ai-plans/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/nano-banana/"
   },
@@ -11384,7 +11636,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://one.google.com/about/google-ai-plans/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/nano-banana/"
   },
@@ -11412,7 +11664,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://one.google.com/about/google-ai-plans/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/nano-banana/"
   },
@@ -11468,7 +11720,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.napkin.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/napkin-ai/"
   },
@@ -11496,7 +11748,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.napkin.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/napkin-ai/"
   },
@@ -11552,7 +11804,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://nocodb.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/nocodb/"
   },
@@ -11608,7 +11860,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://nocodb.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/nocodb/"
   },
@@ -11636,7 +11888,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://nocodb.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/nocodb/"
   },
@@ -11692,7 +11944,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://one.google.com/about/google-ai-plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/notebooklm/"
   },
@@ -11720,7 +11972,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://one.google.com/about/google-ai-plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/notebooklm/"
   },
@@ -11748,7 +12000,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://one.google.com/about/google-ai-plans",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/notebooklm/"
   },
@@ -11776,7 +12028,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.notion.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/notion-ai/"
   },
@@ -11804,7 +12056,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.notion.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/notion-ai/"
   },
@@ -11860,7 +12112,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.notion.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/notion-ai/"
   },
@@ -11972,7 +12224,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://ollama.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/ollama/"
   },
@@ -12000,7 +12252,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://ollama.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/ollama/"
   },
@@ -12056,7 +12308,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://openrouter.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/openrouter/"
   },
@@ -12112,7 +12364,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://openrouter.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/openrouter/"
   },
@@ -12168,7 +12420,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://openseo.so/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/openseo/"
   },
@@ -12196,7 +12448,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.opus.pro/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/opus-clip/"
   },
@@ -12252,7 +12504,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.opus.pro/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/opus-clip/"
   },
@@ -12280,7 +12532,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.opus.pro/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/opus-clip/"
   },
@@ -12308,7 +12560,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://otter.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/otter-ai/"
   },
@@ -12336,7 +12588,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://otter.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/otter-ai/"
   },
@@ -12392,7 +12644,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://otter.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/otter-ai/"
   },
@@ -12420,7 +12672,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.pagewiz.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/pagewiz/"
   },
@@ -12448,7 +12700,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.pagewiz.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/pagewiz/"
   },
@@ -12476,7 +12728,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.pagewiz.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/pagewiz/"
   },
@@ -12504,7 +12756,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.pagewiz.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/pagewiz/"
   },
@@ -12560,7 +12812,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.petal.org/resources/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/petal/"
   },
@@ -12616,7 +12868,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.petal.org/resources/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/petal/"
   },
@@ -12644,7 +12896,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.petal.org/resources/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/petal/"
   },
@@ -12672,7 +12924,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.photoroom.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/photoroom/"
   },
@@ -12728,7 +12980,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.photoroom.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/photoroom/"
   },
@@ -12756,7 +13008,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.photoroom.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/photoroom/"
   },
@@ -12784,7 +13036,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.photoroom.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/photoroom/"
   },
@@ -12840,7 +13092,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://picsart.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/picsart/"
   },
@@ -12868,7 +13120,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://picsart.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/picsart/"
   },
@@ -12896,7 +13148,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://pictory.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/pictory/"
   },
@@ -12924,7 +13176,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://pika.art/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/pika/"
   },
@@ -12952,7 +13204,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://pika.art/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/pika/"
   },
@@ -12980,7 +13232,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://pika.art/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/pika/"
   },
@@ -13036,7 +13288,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://pika.art/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/pika/"
   },
@@ -13064,7 +13316,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.pixelcut.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/pixelcut/"
   },
@@ -13120,7 +13372,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.pixelcut.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/pixelcut/"
   },
@@ -13176,7 +13428,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://pixlr.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/pixlr/"
   },
@@ -13204,7 +13456,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://pixlr.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/pixlr/"
   },
@@ -13232,7 +13484,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://pixlr.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/pixlr/"
   },
@@ -13316,7 +13568,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.plaud.ai/pages/plaud-ai-plan-pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/plaud/"
   },
@@ -13344,7 +13596,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.plaud.ai/pages/plaud-ai-plan-pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/plaud/"
   },
@@ -13372,7 +13624,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.plaud.ai/pages/plaud-ai-plan-pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/plaud/"
   },
@@ -13400,7 +13652,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://plusai.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/plus-ai/"
   },
@@ -13428,7 +13680,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://plusai.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/plus-ai/"
   },
@@ -13456,7 +13708,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://plusai.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/plus-ai/"
   },
@@ -13484,7 +13736,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://plusai.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/plus-ai/"
   },
@@ -13568,7 +13820,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://posthog.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/posthog/"
   },
@@ -13624,7 +13876,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.postman.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/postman/"
   },
@@ -13652,7 +13904,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.postman.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/postman/"
   },
@@ -13708,7 +13960,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://postsyncer.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/postsyncer/"
   },
@@ -13736,7 +13988,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://postsyncer.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/postsyncer/"
   },
@@ -13764,7 +14016,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://predis.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/predis-ai/"
   },
@@ -13792,7 +14044,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://predis.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/predis-ai/"
   },
@@ -13820,7 +14072,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://predis.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/predis-ai/"
   },
@@ -13876,7 +14128,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://prowritingaid.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/prowritingaid/"
   },
@@ -13904,7 +14156,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://prowritingaid.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/prowritingaid/"
   },
@@ -13960,7 +14212,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://quillbot.com/premium",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/quillbot/"
   },
@@ -14016,7 +14268,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://railway.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/railway/"
   },
@@ -14044,7 +14296,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://railway.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/railway/"
   },
@@ -14128,7 +14380,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.recall.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/recall/"
   },
@@ -14156,7 +14408,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://reclaim.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/reclaim-ai/"
   },
@@ -14184,7 +14436,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://reclaim.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/reclaim-ai/"
   },
@@ -14240,7 +14492,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://reclaim.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/reclaim-ai/"
   },
@@ -14268,7 +14520,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.recraft.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/recraft/"
   },
@@ -14324,7 +14576,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.recraft.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/recraft/"
   },
@@ -14408,7 +14660,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://replit.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/replit/"
   },
@@ -14436,7 +14688,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://replit.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/replit/"
   },
@@ -14492,7 +14744,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://replit.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/replit/"
   },
@@ -14548,7 +14800,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://repowise.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/repowise/"
   },
@@ -14576,7 +14828,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://repowise.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/repowise/"
   },
@@ -14632,7 +14884,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.rescuetime.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/rescuetime/"
   },
@@ -14660,7 +14912,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.rescuetime.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/rescuetime/"
   },
@@ -14688,7 +14940,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.resemble.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/resemble-ai/"
   },
@@ -14744,7 +14996,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.resemble.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/resemble-ai/"
   },
@@ -14772,7 +15024,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://retool.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/retool/"
   },
@@ -14828,7 +15080,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://retool.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/retool/"
   },
@@ -14884,7 +15136,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.rev.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/rev/"
   },
@@ -14940,7 +15192,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.rev.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/rev/"
   },
@@ -14996,7 +15248,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://riverside.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/riverside-fm/"
   },
@@ -15024,7 +15276,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://riverside.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/riverside-fm/"
   },
@@ -15052,7 +15304,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://riverside.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/riverside-fm/"
   },
@@ -15080,7 +15332,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://runway.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/runway/"
   },
@@ -15136,7 +15388,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://runway.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/runway/"
   },
@@ -15164,7 +15416,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://runway.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/runway/"
   },
@@ -15192,7 +15444,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://runway.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/runway/"
   },
@@ -15248,7 +15500,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://rytr.me/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/rytr/"
   },
@@ -15304,7 +15556,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://sandbase.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/sandbase-cli/"
   },
@@ -15360,7 +15612,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.saner.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/saner-ai/"
   },
@@ -15388,7 +15640,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.saner.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/saner-ai/"
   },
@@ -15444,7 +15696,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.sanity.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/sanity/"
   },
@@ -15472,7 +15724,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://sapling.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/sapling/"
   },
@@ -15528,7 +15780,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://sapling.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/sapling/"
   },
@@ -15584,7 +15836,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.scenario.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/scenario/"
   },
@@ -15612,7 +15864,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.scenario.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/scenario/"
   },
@@ -15640,7 +15892,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.scenario.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/scenario/"
   },
@@ -15724,7 +15976,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://sentry.io/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/sentry/"
   },
@@ -15780,7 +16032,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.sim.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/sim/"
   },
@@ -15836,7 +16088,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.sim.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/sim/"
   },
@@ -15864,7 +16116,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.sim.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/sim/"
   },
@@ -15920,7 +16172,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.smartlead.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/smartlead/"
   },
@@ -15948,7 +16200,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.smartlead.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/smartlead/"
   },
@@ -15976,7 +16228,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.smartlead.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/smartlead/"
   },
@@ -16004,7 +16256,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.smartlead.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/smartlead/"
   },
@@ -16060,7 +16312,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://snyk.io/plans/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/snyk-code/"
   },
@@ -16088,7 +16340,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://socialbee.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/socialbee/"
   },
@@ -16116,7 +16368,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://socialbee.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/socialbee/"
   },
@@ -16144,7 +16396,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://socialbee.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/socialbee/"
   },
@@ -16172,7 +16424,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.socialecho.net/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/socialecho/"
   },
@@ -16228,7 +16480,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.socialecho.net/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/socialecho/"
   },
@@ -16256,7 +16508,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://soundraw.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/soundraw/"
   },
@@ -16284,7 +16536,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://soundraw.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/soundraw/"
   },
@@ -16312,7 +16564,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://soundraw.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/soundraw/"
   },
@@ -16340,7 +16592,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://soundraw.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/soundraw/"
   },
@@ -16424,7 +16676,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://speechify.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/speechify/"
   },
@@ -16480,7 +16732,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://sproutsocial.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/sprout-social/"
   },
@@ -16536,7 +16788,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.squibler.io/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/squibler/"
   },
@@ -16620,7 +16872,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://stockimg.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/stockimg-ai/"
   },
@@ -16648,7 +16900,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://stockimg.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/stockimg-ai/"
   },
@@ -16676,7 +16928,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://stockimg.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/stockimg-ai/"
   },
@@ -16704,7 +16956,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://strapi.io/pricing-cloud",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/strapi/"
   },
@@ -16732,7 +16984,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://strapi.io/pricing-cloud",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/strapi/"
   },
@@ -16760,7 +17012,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://strapi.io/pricing-cloud",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/strapi/"
   },
@@ -16816,7 +17068,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.strix.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/strix/"
   },
@@ -16844,7 +17096,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.strix.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/strix/"
   },
@@ -16872,7 +17124,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.strix.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/strix/"
   },
@@ -16928,7 +17180,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.sunsama.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/sunsama/"
   },
@@ -16984,7 +17236,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://supabase.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/supabase/"
   },
@@ -17012,7 +17264,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://supabase.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/supabase/"
   },
@@ -17040,7 +17292,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.synthesia.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/synthesia/"
   },
@@ -17124,7 +17376,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.tailwindapp.com/pricing-overview?ver=150",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/tailwind/"
   },
@@ -17152,7 +17404,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.tailwindapp.com/pricing-overview?ver=150",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/tailwind/"
   },
@@ -17180,7 +17432,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.tailwindapp.com/pricing-overview?ver=150",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/tailwind/"
   },
@@ -17208,7 +17460,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.taskade.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/taskade/"
   },
@@ -17264,7 +17516,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.taskade.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/taskade/"
   },
@@ -17292,7 +17544,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.taskade.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/taskade/"
   },
@@ -17348,7 +17600,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://termiprotocol.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/termi-protocol/"
   },
@@ -17376,7 +17628,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://textexpander.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/textexpander/"
   },
@@ -17432,7 +17684,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://textexpander.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/textexpander/"
   },
@@ -17516,7 +17768,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://tilda.cc/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/tilda-publishing/"
   },
@@ -17549,6 +17801,34 @@
    "tool_page": "https://ampm-aiops.com/tools/together-ai/"
   },
   {
+   "plan_id": "topmediai/1-month-plan",
+   "tool_slug": "topmediai",
+   "tool_name": "TopMediai",
+   "vendor": "TopMediAi / Shenzhen Topmediai Technology Co., Ltd.",
+   "plan_name": "1-Month Plan",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "monthly",
+   "price_unit": null,
+   "monthly_list_price": 23.99,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://www.topmediai.com/app/pricing/",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
+   "tool_page": "https://ampm-aiops.com/tools/topmediai/"
+  },
+  {
    "plan_id": "topmediai/1-week-plan",
    "tool_slug": "topmediai",
    "tool_name": "TopMediai",
@@ -17572,7 +17852,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.topmediai.com/app/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/topmediai/"
   },
@@ -17605,6 +17885,34 @@
    "tool_page": "https://ampm-aiops.com/tools/topmediai/"
   },
   {
+   "plan_id": "topmediai/lifetime-plan",
+   "tool_slug": "topmediai",
+   "tool_name": "TopMediai",
+   "vendor": "TopMediAi / Shenzhen Topmediai Technology Co., Ltd.",
+   "plan_name": "Lifetime Plan",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "one_time",
+   "price_unit": null,
+   "monthly_list_price": null,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://www.topmediai.com/app/pricing/",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
+   "tool_page": "https://ampm-aiops.com/tools/topmediai/"
+  },
+  {
    "plan_id": "topview/business",
    "tool_slug": "topview",
    "tool_name": "Topview",
@@ -17628,7 +17936,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.topview.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/topview/"
   },
@@ -17656,7 +17964,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.topview.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/topview/"
   },
@@ -17684,7 +17992,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.topview.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/topview/"
   },
@@ -17712,7 +18020,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.topview.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/topview/"
   },
@@ -17768,7 +18076,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.trae.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/trae/"
   },
@@ -17796,7 +18104,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.trae.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/trae/"
   },
@@ -17824,7 +18132,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.trae.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/trae/"
   },
@@ -17854,6 +18162,90 @@
    "source_url": "https://www.travis-ci.com/pricing/",
    "last_verified": "2026-10-25",
    "verification": "tool_level",
+   "tool_page": "https://ampm-aiops.com/tools/travis-ci/"
+  },
+  {
+   "plan_id": "travis-ci/server",
+   "tool_slug": "travis-ci",
+   "tool_name": "Travis CI",
+   "vendor": "Idera, Inc.",
+   "plan_name": "Server",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "monthly",
+   "price_unit": null,
+   "monthly_list_price": 34,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://www.travis-ci.com/pricing/",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
+   "tool_page": "https://ampm-aiops.com/tools/travis-ci/"
+  },
+  {
+   "plan_id": "travis-ci/unlimited",
+   "tool_slug": "travis-ci",
+   "tool_name": "Travis CI",
+   "vendor": "Idera, Inc.",
+   "plan_name": "Unlimited",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "monthly",
+   "price_unit": null,
+   "monthly_list_price": 78,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://www.travis-ci.com/pricing/",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
+   "tool_page": "https://ampm-aiops.com/tools/travis-ci/"
+  },
+  {
+   "plan_id": "travis-ci/usage-based",
+   "tool_slug": "travis-ci",
+   "tool_name": "Travis CI",
+   "vendor": "Idera, Inc.",
+   "plan_name": "Usage Based",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "monthly",
+   "price_unit": null,
+   "monthly_list_price": 15,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://www.travis-ci.com/pricing/",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/travis-ci/"
   },
   {
@@ -17908,7 +18300,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.udio.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/udio/"
   },
@@ -17936,7 +18328,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.udio.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/udio/"
   },
@@ -17964,7 +18356,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://unbounce.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/unbounce/"
   },
@@ -17992,7 +18384,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://unbounce.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/unbounce/"
   },
@@ -18020,7 +18412,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://unbounce.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/unbounce/"
   },
@@ -18048,7 +18440,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://unbounce.com/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/unbounce/"
   },
@@ -18076,7 +18468,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://updf.com/pricing-individuals/?source=website_updf&channel=SEO-EN-AI&currency=USD&language=en-US",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/updf-ai/"
   },
@@ -18132,7 +18524,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://updf.com/pricing-individuals/?source=website_updf&channel=SEO-EN-AI&currency=USD&language=en-US",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/updf-ai/"
   },
@@ -18160,7 +18552,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://updf.com/pricing-individuals/?source=website_updf&channel=SEO-EN-AI&currency=USD&language=en-US",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/updf-ai/"
   },
@@ -18188,7 +18580,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://updf.com/pricing-individuals/?source=website_updf&channel=SEO-EN-AI&currency=USD&language=en-US",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/updf-ai/"
   },
@@ -18216,7 +18608,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://v0.app/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/v0/"
   },
@@ -18244,7 +18636,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://v0.app/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/v0/"
   },
@@ -18300,7 +18692,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://v0.app/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/v0/"
   },
@@ -18328,7 +18720,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://vapi.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/vapi/"
   },
@@ -18384,7 +18776,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://vapi.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/vapi/"
   },
@@ -18412,7 +18804,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://vapi.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/vapi/"
   },
@@ -18440,7 +18832,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.veed.io/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/veed/"
   },
@@ -18496,7 +18888,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://usevelo.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/velo/"
   },
@@ -18552,7 +18944,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://usevelo.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/velo/"
   },
@@ -18580,7 +18972,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://usevelo.ai/pricing/",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/velo/"
   },
@@ -18636,7 +19028,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://ai.google.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/veo/"
   },
@@ -18664,7 +19056,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://ai.google.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/veo/"
   },
@@ -18692,7 +19084,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://ai.google.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/veo/"
   },
@@ -18748,7 +19140,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.vidnoz.com/pricing.html",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/vidnoz/"
   },
@@ -18804,7 +19196,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.vidnoz.com/pricing.html",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/vidnoz/"
   },
@@ -18860,7 +19252,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://viggle.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/viggle/"
   },
@@ -18888,7 +19280,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://viggle.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/viggle/"
   },
@@ -18916,7 +19308,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://viggle.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/viggle/"
   },
@@ -18972,7 +19364,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://vmake.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/vmake/"
   },
@@ -19000,7 +19392,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://vmake.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/vmake/"
   },
@@ -19028,7 +19420,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://voice.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/voice-ai/"
   },
@@ -19084,7 +19476,35 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://voice.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
+   "verification": "price_check_ok",
+   "tool_page": "https://ampm-aiops.com/tools/voice-ai/"
+  },
+  {
+   "plan_id": "voice-ai/starter",
+   "tool_slug": "voice-ai",
+   "tool_name": "Voice.ai",
+   "vendor": "Voice.ai Inc.",
+   "plan_name": "Starter",
+   "plan_type": "paid",
+   "currency": "USD",
+   "tax_treatment": null,
+   "billing_period": "monthly",
+   "price_unit": null,
+   "monthly_list_price": 5,
+   "annual_billing_price_as_listed": null,
+   "annual_billing_price_unit": null,
+   "annual_list_price_total": null,
+   "free_quota_summary": null,
+   "free_quota_summary_en": null,
+   "free_quota_reset_period": null,
+   "region": null,
+   "eligibility": null,
+   "promo_ends": null,
+   "api_price_unit": null,
+   "api_unit_price": null,
+   "source_url": "https://voice.ai/pricing",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/voice-ai/"
   },
@@ -19140,7 +19560,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.warp.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/warp/"
   },
@@ -19168,7 +19588,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.warp.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/warp/"
   },
@@ -19224,7 +19644,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://www.warp.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/warp/"
   },
@@ -19336,7 +19756,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://devin.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/windsurf/"
   },
@@ -19364,7 +19784,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://devin.ai/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/windsurf/"
   },
@@ -19420,7 +19840,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://writesonic.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/writesonic/"
   },
@@ -19532,7 +19952,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://zapier.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/zapier/"
   },
@@ -19588,7 +20008,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://zapier.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/zapier/"
   },
@@ -19616,7 +20036,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://zapier.com/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/zapier/"
   },
@@ -19644,7 +20064,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://zed.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/zed/"
   },
@@ -19700,7 +20120,7 @@
    "api_price_unit": null,
    "api_unit_price": null,
    "source_url": "https://zed.dev/pricing",
-   "last_verified": "2026-11-20",
+   "last_verified": "2026-11-21",
    "verification": "price_check_ok",
    "tool_page": "https://ampm-aiops.com/tools/zed/"
   },

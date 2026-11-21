@@ -1,7 +1,7 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-21T04:00:04+08:00",
+ "generated_at": "2026-11-22T04:00:05+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
@@ -9,7 +9,7 @@
  "row_count": 282,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-20",
+ "last_verified_max": "2026-11-21",
  "tool_count": 282,
  "tools": [
   {
@@ -2236,7 +2236,7 @@
    "cheapest_paid_usd_per_month": 20,
    "cheapest_paid_twd_per_month": null,
    "commercial_use": "unknown",
-   "last_verified": "2026-10-21",
+   "last_verified": "2026-11-21",
    "source_url": "https://www.klaviyo.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/klaviyo/",
    "ampm_ref": "AMPM-e2b71876d9"

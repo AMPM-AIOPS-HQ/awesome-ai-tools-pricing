@@ -1,16 +1,58 @@
 {
  "dataset": "ai-tools-plans-changes",
- "generated_at": "2026-11-21T04:00:04+08:00",
+ "generated_at": "2026-11-22T04:00:05+08:00",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "schema": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/datasets/ai-tools/schema.json#/$defs/change",
  "window": {
-  "from": "2026-10-22",
-  "to": "2026-11-21",
+  "from": "2026-10-23",
+  "to": "2026-11-22",
   "days": 30
  },
  "scope": "price changes of currently published plans whose new figure matched the official page; an empty list means none in the window",
- "change_count": 9,
+ "change_count": 12,
  "changes": [
+  {
+   "plan_id": "markopolo-ai/standard",
+   "tool_slug": "markopolo-ai",
+   "plan_name": "Standard",
+   "change_type": "correction",
+   "field": "price",
+   "currency": "USD",
+   "previous_value": 8.79,
+   "new_value": 10.99,
+   "detected_on": "2026-11-21",
+   "previous_value_matched_official_page": false,
+   "source_url": "https://markopolo.ai/pricing",
+   "last_verified": "2026-11-21"
+  },
+  {
+   "plan_id": "markopolo-ai/pro",
+   "tool_slug": "markopolo-ai",
+   "plan_name": "Pro",
+   "change_type": "correction",
+   "field": "price",
+   "currency": "USD",
+   "previous_value": 31.99,
+   "new_value": 39.99,
+   "detected_on": "2026-11-21",
+   "previous_value_matched_official_page": false,
+   "source_url": "https://markopolo.ai/pricing",
+   "last_verified": "2026-11-21"
+  },
+  {
+   "plan_id": "gosearch/pro",
+   "tool_slug": "gosearch",
+   "plan_name": "Pro",
+   "change_type": "correction",
+   "field": "price",
+   "currency": "USD",
+   "previous_value": 20,
+   "new_value": 12,
+   "detected_on": "2026-11-21",
+   "previous_value_matched_official_page": false,
+   "source_url": "https://www.gosearch.ai/product/pricing",
+   "last_verified": "2026-11-21"
+  },
   {
    "plan_id": "postsyncer/starter-plan",
    "tool_slug": "postsyncer",
