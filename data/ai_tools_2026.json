@@ -1,16 +1,16 @@
 {
  "dataset": "ai-tools",
  "title": "AI Tools Pricing & Free Tiers",
- "generated_at": "2026-11-22T04:00:05+08:00",
+ "generated_at": "2026-11-23T04:00:06+08:00",
  "source": "https://ampm-aiops.com",
  "methodology": "https://ampm-aiops.com/methodology/",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "disclaimer": "Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.",
- "row_count": 282,
+ "row_count": 338,
  "excluded_below_threshold": 0,
  "threshold": "rows must have last_verified and an official source URL",
- "last_verified_max": "2026-11-21",
- "tool_count": 282,
+ "last_verified_max": "2026-11-23",
+ "tool_count": 338,
  "tools": [
   {
    "slug": "adobe-firefly",
@@ -105,6 +105,25 @@
    "ampm_ref": "AMPM-03699aa946"
   },
   {
+   "slug": "aisdr",
+   "name": "AiSDR",
+   "vendor": "AiSDR",
+   "category": [
+    "agent",
+    "marketing"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 1.5,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://aisdr.com/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/aisdr/",
+   "ampm_ref": "AMPM-053850d1f8"
+  },
+  {
    "slug": "aiva",
    "name": "AIVA",
    "vendor": "AIVA Technologies",
@@ -197,6 +216,43 @@
    "ampm_ref": "AMPM-f33de97654"
   },
   {
+   "slug": "apollo-io",
+   "name": "Apollo.io",
+   "vendor": "Apollo.io (ZenProspect, Inc.)",
+   "category": [
+    "marketing",
+    "agent"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free:每席每年 900 點 Credit、基礎搜尋過濾、2 條信件自動化序列、每日 250 封郵件上限、AI 助手上限 5 次對話",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 65,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.apollo.io/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/apollo-io/",
+   "ampm_ref": "AMPM-1752df1609"
+  },
+  {
+   "slug": "appflowy",
+   "name": "AppFlowy",
+   "vendor": "AppFlowy",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "1 個工作區上限 2 名成員，頁面與區塊數量無上限，包含 5 GB 雲端儲存空間、每月 10 次雲端 AI 回應",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 7.5,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-10-21",
+   "source_url": "https://appflowy.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/appflowy/",
+   "ampm_ref": "AMPM-4c525317d8"
+  },
+  {
    "slug": "appwrite",
    "name": "Appwrite",
    "vendor": "Appwrite",
@@ -235,6 +291,24 @@
    "ampm_ref": "AMPM-a690b78ada"
   },
   {
+   "slug": "augment-code",
+   "name": "Augment Code",
+   "vendor": "Augment Computing",
+   "category": [
+    "coding"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 20,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.augmentcode.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/augment-code/",
+   "ampm_ref": "AMPM-9ccbf68d8b"
+  },
+  {
    "slug": "aweber",
    "name": "AWeber",
    "vendor": "AWeber Systems, Inc.",
@@ -251,6 +325,25 @@
    "source_url": "https://www.aweber.com/pricing.htm",
    "tool_page": "https://ampm-aiops.com/tools/aweber/",
    "ampm_ref": "AMPM-94d21f7a61"
+  },
+  {
+   "slug": "bardeen",
+   "name": "Bardeen",
+   "vendor": "Bardeen, Inc.",
+   "category": [
+    "agent",
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "每月免費提供 100 點點數，可用於基礎網頁爬取與輕量自動化",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 10,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.bardeen.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/bardeen/",
+   "ampm_ref": "AMPM-c7e6877ca5"
   },
   {
    "slug": "base44",
@@ -308,6 +401,62 @@
    "source_url": "https://www.beehiiv.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/beehiiv-ai/",
    "ampm_ref": "AMPM-8cfaeb3d58"
+  },
+  {
+   "slug": "befunky",
+   "name": "BeFunky",
+   "vendor": "BeFunky Inc.",
+   "category": [
+    "image",
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "基礎照片裁剪、調整曝光、基本濾鏡與有限拼貼版型免費使用，但 AI 功能及批次處理需付費解鎖",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 14.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.befunky.com/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/befunky/",
+   "ampm_ref": "AMPM-b0d67dc83f"
+  },
+  {
+   "slug": "bidx",
+   "name": "BidX",
+   "vendor": "BidX GmbH",
+   "category": [
+    "marketing",
+    "agent"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 495,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.bidx.io/en/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/bidx/",
+   "ampm_ref": "AMPM-294bbfa216"
+  },
+  {
+   "slug": "blackbox-ai",
+   "name": "Blackbox AI",
+   "vendor": "BLACKBOX AI Inc.",
+   "category": [
+    "coding"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free: 包含基本程式碼搜尋、VS Code 擴充外掛功能與免費模型無限對話",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 10,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-15",
+   "source_url": "https://www.blackbox.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/blackbox-ai/",
+   "ampm_ref": "AMPM-143a307e91"
   },
   {
    "slug": "bland-ai",
@@ -680,6 +829,25 @@
    "ampm_ref": "AMPM-fa859bb638"
   },
   {
+   "slug": "claap",
+   "name": "Claap",
+   "vendor": "Claap",
+   "category": [
+    "productivity",
+    "voice"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "每位使用者限 10 部影片錄製、總計 300 分鐘轉錄額度、提供基礎 AI 摘要與 API/MCP 支援",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 40,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.claap.io/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/claap/",
+   "ampm_ref": "AMPM-09a6aa8e98"
+  },
+  {
    "slug": "claude",
    "name": "Claude",
    "vendor": "Anthropic",
@@ -829,6 +997,24 @@
    "ampm_ref": "AMPM-c133354a55"
   },
   {
+   "slug": "cohere",
+   "name": "Cohere",
+   "vendor": "Cohere Inc.",
+   "category": [
+    "api"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Trial Key 免費提供：限開發與原型測試，速率限制為每分鐘 100 次請求或每月 1,000 次 API 調用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 0.0375,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://cohere.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/cohere/",
+   "ampm_ref": "AMPM-b63e9dc235"
+  },
+  {
    "slug": "colibri",
    "name": "Colibri",
    "vendor": "Colibri.ai",
@@ -902,6 +1088,25 @@
    "source_url": "https://www.contentstack.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/contentstack/",
    "ampm_ref": "AMPM-9d51910829"
+  },
+  {
+   "slug": "contentstudio",
+   "name": "ContentStudio",
+   "vendor": "ContentStudio Inc.",
+   "category": [
+    "marketing",
+    "writing"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案；提供 14 天免費試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://contentstudio.io/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/contentstudio/",
+   "ampm_ref": "AMPM-87f149da3b"
   },
   {
    "slug": "context-dev",
@@ -1036,6 +1241,25 @@
    "ampm_ref": "AMPM-a0d33c5eb2"
   },
   {
+   "slug": "deepai",
+   "name": "DeepAI",
+   "vendor": "Deep AI, Inc.",
+   "category": [
+    "image",
+    "general"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "免費使用標準畫質生圖與基礎聊天，免註冊即可體驗，但生成內容全公開且含廣告，影片功能鎖住",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 9.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://deepai.org/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/deepai/",
+   "ampm_ref": "AMPM-71b030c5c4"
+  },
+  {
    "slug": "deepgram",
    "name": "Deepgram",
    "vendor": "Deepgram, Inc.",
@@ -1164,6 +1388,61 @@
    "ampm_ref": "AMPM-1d889ea480"
   },
   {
+   "slug": "distance",
+   "name": "Distance",
+   "vendor": "Distance One™",
+   "category": [
+    "agent",
+    "productivity"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 149,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://distance.so/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/distance/",
+   "ampm_ref": "AMPM-1404d749f2"
+  },
+  {
+   "slug": "doodle",
+   "name": "Doodle",
+   "vendor": "Doodle AG (TX Group)",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案：1 個進行中的群體投票、1 個個人預約頁面、1 種 1:1 會議類型，頁面含廣告，且僅限發起人需註冊",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 15,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://doodle.com/en/premium",
+   "tool_page": "https://ampm-aiops.com/tools/doodle/",
+   "ampm_ref": "AMPM-59ec03ea3b"
+  },
+  {
+   "slug": "dorik",
+   "name": "Dorik",
+   "vendor": "Dorik, Inc.",
+   "category": [
+    "appbuilder"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "免費方案提供視覺化編輯器與基本 AI 生成測試，僅能發布於 Dorik 子網域且含 Dorik 品牌標誌",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://dorik.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/dorik/",
+   "ampm_ref": "AMPM-838b4feb9b"
+  },
+  {
    "slug": "elephas",
    "name": "Elephas",
    "vendor": "Liberation Softwares LLP",
@@ -1220,6 +1499,25 @@
    "ampm_ref": "AMPM-26197a3086"
   },
   {
+   "slug": "emergent",
+   "name": "Emergent",
+   "vendor": "Emergent",
+   "category": [
+    "appbuilder",
+    "coding"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "每月 10 點 credits",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 20,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://emergent.sh/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/emergent/",
+   "ampm_ref": "AMPM-b1ef762052"
+  },
+  {
    "slug": "exa",
    "name": "Exa",
    "vendor": "Exa (formerly Metaphor)",
@@ -1237,6 +1535,24 @@
    "source_url": "https://exa.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/exa/",
    "ampm_ref": "AMPM-afef2f64cf"
+  },
+  {
+   "slug": "fabric",
+   "name": "Fabric",
+   "vendor": "Fabric",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "未查證",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": null,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://fabric.so",
+   "tool_page": "https://ampm-aiops.com/tools/fabric/",
+   "ampm_ref": "AMPM-5274437c5e"
   },
   {
    "slug": "fal-ai",
@@ -1498,6 +1814,25 @@
    "ampm_ref": "AMPM-c8fc9bdf14"
   },
   {
+   "slug": "format",
+   "name": "Format",
+   "vendor": "Ideaform Inc.",
+   "category": [
+    "appbuilder",
+    "image"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案，提供 14 天免費試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 14,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.format.com/pricing-portfolio",
+   "tool_page": "https://ampm-aiops.com/tools/format/",
+   "ampm_ref": "AMPM-6b2cc042cd"
+  },
+  {
    "slug": "foxit-pdf-editor",
    "name": "Foxit PDF Editor",
    "vendor": "Foxit Software",
@@ -1553,6 +1888,25 @@
    "source_url": "https://www.frase.io/pricing",
    "tool_page": "https://ampm-aiops.com/tools/frase/",
    "ampm_ref": "AMPM-2292d6fbdf"
+  },
+  {
+   "slug": "front",
+   "name": "Front",
+   "vendor": "FrontApp, Inc.",
+   "category": [
+    "agent",
+    "productivity"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案；提供 14 天全功能免費試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 35,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://front.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/front/",
+   "ampm_ref": "AMPM-29b5c5f4e1"
   },
   {
    "slug": "gamma",
@@ -1682,6 +2036,24 @@
    "source_url": "https://glaze.app/pricing",
    "tool_page": "https://ampm-aiops.com/tools/glaze/",
    "ampm_ref": "AMPM-34678717e3"
+  },
+  {
+   "slug": "gling",
+   "name": "Gling",
+   "vendor": "Gling",
+   "category": [
+    "video"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案每月提供 1 小時影片 AI 剪輯額度",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 20,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.gling.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/gling/",
+   "ampm_ref": "AMPM-06b0a1d8f7"
   },
   {
    "slug": "google-ai-studio",
@@ -1853,6 +2225,25 @@
    "ampm_ref": "AMPM-bd19010d6a"
   },
   {
+   "slug": "gushwork",
+   "name": "Gushwork",
+   "vendor": "Regents Inc",
+   "category": [
+    "marketing",
+    "agent"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無免費方案，亦無自助免費試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 900,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.gushwork.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/gushwork/",
+   "ampm_ref": "AMPM-55b6e46425"
+  },
+  {
    "slug": "hailuo-ai",
    "name": "Hailuo AI",
    "vendor": "MiniMax",
@@ -1869,6 +2260,25 @@
    "source_url": "https://hailuoai.video/pricing",
    "tool_page": "https://ampm-aiops.com/tools/hailuo-ai/",
    "ampm_ref": "AMPM-e071358c98"
+  },
+  {
+   "slug": "headliner",
+   "name": "Headliner",
+   "vendor": "Headliner (Audiogram Inc.)",
+   "category": [
+    "video",
+    "voice"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Forever Free 免費：每月 1 支無浮水印音頻短片、影片長度上限 10 分鐘、支援 10GB 影片上傳與 2 小時音訊檔、單一 Podcast 自動製作音頻圖、每月 2 …",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 14.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-03",
+   "source_url": "https://www.headliner.app/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/headliner/",
+   "ampm_ref": "AMPM-2b1aea4bc5"
   },
   {
    "slug": "help-scout-ai",
@@ -1925,6 +2335,25 @@
    "source_url": "https://www.heygen.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/heygen/",
    "ampm_ref": "AMPM-ce9413e054"
+  },
+  {
+   "slug": "heyy",
+   "name": "Heyy",
+   "vendor": "Heyy AI Inc.",
+   "category": [
+    "agent",
+    "marketing"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "永久免費方案：含 1 位使用者席次、1 位 AI 數位員工、每月 100 點 Credits、無限制串接支援通路",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 49,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-23",
+   "source_url": "https://www.heyy.io/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/heyy/",
+   "ampm_ref": "AMPM-5314025f90"
   },
   {
    "slug": "higgsfield",
@@ -2151,6 +2580,25 @@
    "ampm_ref": "AMPM-9c3f06c692"
   },
   {
+   "slug": "jenni-ai",
+   "name": "Jenni AI",
+   "vendor": "Jenni AI, Inc.",
+   "category": [
+    "writing",
+    "search"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "每日 10 次 AI 自動補全、最多上傳 10 份文獻 PDF、3 次 AI 潤飾修改、5 則 AI Chat 提問，無限制使用 10,000+ 種引用格式",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 30,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://jenni.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/jenni-ai/",
+   "ampm_ref": "AMPM-e27da4d7c7"
+  },
+  {
    "slug": "kagi",
    "name": "Kagi",
    "vendor": "Kagi Inc.",
@@ -2185,6 +2633,25 @@
    "source_url": "https://www.kapwing.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/kapwing/",
    "ampm_ref": "AMPM-ddccb2767d"
+  },
+  {
+   "slug": "kartra",
+   "name": "Kartra",
+   "vendor": "Genesis Digital",
+   "category": [
+    "marketing",
+    "appbuilder"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無常態免費方案，官方提供 14 天完整功能試用期與 30 天退款保證",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 59,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://kartra.com/plans-and-pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/kartra/",
+   "ampm_ref": "AMPM-d82688b5a7"
   },
   {
    "slug": "kinsta",
@@ -2425,6 +2892,25 @@
    "source_url": "https://leonardo.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/leonardo/",
    "ampm_ref": "AMPM-31adcc1971"
+  },
+  {
+   "slug": "lindy",
+   "name": "Lindy",
+   "vendor": "Lindy AI",
+   "category": [
+    "agent",
+    "productivity"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.lindy.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/lindy/",
+   "ampm_ref": "AMPM-e736e80de6"
   },
   {
    "slug": "linear",
@@ -2779,6 +3265,44 @@
    "ampm_ref": "AMPM-db7b894c00"
   },
   {
+   "slug": "minimax",
+   "name": "MiniMax",
+   "vendor": "MiniMax",
+   "category": [
+    "api",
+    "video"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "官網提供新註冊開發者贈送額度與部分預覽模型有限調用，具體金額與到期條件以註冊時官方控制台顯示為準",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 22,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://platform.minimax.io/docs/pricing/overview",
+   "tool_page": "https://ampm-aiops.com/tools/minimax/",
+   "ampm_ref": "AMPM-5995e614b7"
+  },
+  {
+   "slug": "mintlify",
+   "name": "Mintlify",
+   "vendor": "Mintlify, Inc.",
+   "category": [
+    "coding",
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free/Starter 方案完全免費：支援最多 5 位文件編輯者，包含自訂網域、Git 同步、Web 編輯器、API Playground 與 MCP Server",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 540,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.mintlify.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/mintlify/",
+   "ampm_ref": "AMPM-e87d8223d3"
+  },
+  {
    "slug": "miro",
    "name": "Miro",
    "vendor": "Miro (RealtimeBoard Inc.)",
@@ -2889,6 +3413,24 @@
    "source_url": "https://moosend.com/pricing/",
    "tool_page": "https://ampm-aiops.com/tools/moosend/",
    "ampm_ref": "AMPM-6238e8ab0b"
+  },
+  {
+   "slug": "morgen",
+   "name": "Morgen",
+   "vendor": "Morgen AG",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 25,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.morgen.so/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/morgen/",
+   "ampm_ref": "AMPM-d3132590d7"
   },
   {
    "slug": "mubert",
@@ -3113,6 +3655,25 @@
    "ampm_ref": "AMPM-e9bc09cdf3"
   },
   {
+   "slug": "ocoya",
+   "name": "Ocoya",
+   "vendor": "Ocoya",
+   "category": [
+    "marketing",
+    "productivity"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.ocoya.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/ocoya/",
+   "ampm_ref": "AMPM-7c478bb52c"
+  },
+  {
    "slug": "octoparse",
    "name": "Octoparse",
    "vendor": "Octopus Data Inc.",
@@ -3130,6 +3691,25 @@
    "source_url": "https://www.octoparse.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/octoparse/",
    "ampm_ref": "AMPM-2c64e0e226"
+  },
+  {
+   "slug": "octopus-deploy",
+   "name": "Octopus Deploy",
+   "vendor": "Octopus Deploy",
+   "category": [
+    "coding",
+    "agent"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案上限 10 個專案 、10 個 Tenants、10 台主機 、1 個 Space、10 名使用者、5 個並行任務、1TB 檔案與 100GB 資料庫儲存",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 361,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-02",
+   "source_url": "https://octopus.com/pricing/overview",
+   "tool_page": "https://ampm-aiops.com/tools/octopus-deploy/",
+   "ampm_ref": "AMPM-3b70ae10d6"
   },
   {
    "slug": "ollama",
@@ -3167,6 +3747,25 @@
    "source_url": "https://www.omnisend.com/pricing/",
    "tool_page": "https://ampm-aiops.com/tools/omnisend/",
    "ampm_ref": "AMPM-ae2435c705"
+  },
+  {
+   "slug": "oncehub",
+   "name": "OnceHub",
+   "vendor": "OnceHub Inc.",
+   "category": [
+    "productivity",
+    "agent"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Basic 方案永久免費：提供 1 位使用者、1 個日曆連結、1 個預約頁面與 6 週分析紀錄",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 12,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.oncehub.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/oncehub/",
+   "ampm_ref": "AMPM-93a52e2c90"
   },
   {
    "slug": "openrouter",
@@ -3282,6 +3881,25 @@
    "ampm_ref": "AMPM-20d7c00389"
   },
   {
+   "slug": "pencil",
+   "name": "Pencil",
+   "vendor": "The Brandtech Group",
+   "category": [
+    "marketing",
+    "video"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "註冊引導體驗可免費生成最多 6 組廣告素材，無持續性免費用量",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 14,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://trypencil.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/pencil/",
+   "ampm_ref": "AMPM-2156ac747a"
+  },
+  {
    "slug": "perplexity",
    "name": "Perplexity",
    "vendor": "Perplexity",
@@ -3318,6 +3936,24 @@
    "source_url": "https://www.petal.org/resources/pricing",
    "tool_page": "https://ampm-aiops.com/tools/petal/",
    "ampm_ref": "AMPM-4a345bafaa"
+  },
+  {
+   "slug": "photodirector",
+   "name": "PhotoDirector 365",
+   "vendor": "CyberLink",
+   "category": [
+    "image"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "PhotoDirector Essential 免費版：提供基礎影像編輯功能，進階 AI 工具與雲端點數需付費解鎖",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 19.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.cyberlink.com:443/products/photodirector-photo-editing-software-365/pricing_en_US.html",
+   "tool_page": "https://ampm-aiops.com/tools/photodirector/",
+   "ampm_ref": "AMPM-1d32f118ef"
   },
   {
    "slug": "photoroom",
@@ -3373,6 +4009,25 @@
    "source_url": "https://pictory.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/pictory/",
    "ampm_ref": "AMPM-a474935d5b"
+  },
+  {
+   "slug": "pieces-for-developers",
+   "name": "Pieces for Developers",
+   "vendor": "Pieces for Developers (Mesh Intelligent Technologies, Inc.)",
+   "category": [
+    "coding",
+    "productivity"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 18.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://pieces.app/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/pieces-for-developers/",
+   "ampm_ref": "AMPM-bc9af32ac4"
   },
   {
    "slug": "pika",
@@ -3576,6 +4231,25 @@
    "ampm_ref": "AMPM-e2ba62340b"
   },
   {
+   "slug": "prismic",
+   "name": "Prismic",
+   "vendor": "Prismic",
+   "category": [
+    "appbuilder",
+    "coding"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "1 位使用者、2 種語系、每月 400 萬次 API 請求、每月 100 GB CDN 流量，支援視覺化頁面編輯器與 Slice Machine",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 15,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://prismic.io/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/prismic/",
+   "ampm_ref": "AMPM-da6f61a79e"
+  },
+  {
    "slug": "prowritingaid",
    "name": "ProWritingAid",
    "vendor": "Orpheus Technology Ltd",
@@ -3761,6 +4435,25 @@
    "ampm_ref": "AMPM-d2261b6f37"
   },
   {
+   "slug": "renderforest",
+   "name": "Renderforest",
+   "vendor": "Renderforest LLC",
+   "category": [
+    "image",
+    "video"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "免費方案可使用標誌與各類模板設計，影片匯出限制為 720p 且帶有 Renderforest 浮水印",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 15,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.renderforest.com/subscription",
+   "tool_page": "https://ampm-aiops.com/tools/renderforest/",
+   "ampm_ref": "AMPM-569d172aa0"
+  },
+  {
    "slug": "replicate",
    "name": "Replicate",
    "vendor": "Replicate",
@@ -3932,6 +4625,62 @@
    "ampm_ref": "AMPM-ee13bdc43e"
   },
   {
+   "slug": "rize",
+   "name": "Rize",
+   "vendor": "Rize Inc.",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 12.99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://rize.io/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/rize/",
+   "ampm_ref": "AMPM-1cbb34f8db"
+  },
+  {
+   "slug": "rollbar",
+   "name": "Rollbar",
+   "vendor": "Rollbar, Inc.",
+   "category": [
+    "coding",
+    "agent"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free: 永久免費；每月 5,000 個事件、1,000 次 Session Replays，資料保留 30 天，不限專案與團隊成員人數",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://rollbar.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/rollbar/",
+   "ampm_ref": "AMPM-e14df070c9"
+  },
+  {
+   "slug": "runable",
+   "name": "Runable",
+   "vendor": "Runable",
+   "category": [
+    "agent",
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "官網眼見提供 Get Started／試用入口；正式付費牌價未寫入",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": null,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-05",
+   "source_url": "https://runable.com",
+   "tool_page": "https://ampm-aiops.com/tools/runable/",
+   "ampm_ref": "AMPM-d1090a58bf"
+  },
+  {
    "slug": "runway",
    "name": "Runway",
    "vendor": "Runway",
@@ -4080,6 +4829,25 @@
    "source_url": "https://semaphore.io/pricing",
    "tool_page": "https://ampm-aiops.com/tools/semaphore/",
    "ampm_ref": "AMPM-bab61e902e"
+  },
+  {
+   "slug": "semrush",
+   "name": "Semrush",
+   "vendor": "Semrush Inc.",
+   "category": [
+    "marketing",
+    "search"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "免費帳號每日限制 10 次搜尋/報表查詢，附帶 1 個專案測試額度",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 139.95,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-17",
+   "source_url": "https://www.semrush.com/pricing/seo-ai-search/",
+   "tool_page": "https://ampm-aiops.com/tools/semrush/",
+   "ampm_ref": "AMPM-293b73d225"
   },
   {
    "slug": "sender",
@@ -4304,6 +5072,24 @@
    "ampm_ref": "AMPM-3294be8556"
   },
   {
+   "slug": "spike",
+   "name": "Spike",
+   "vendor": "Spike (spikenow.com)",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Email App 免費版支援 1 個信箱帳號、1 GB 空間、1:1 視訊與 10 次 Spike AI 額度；Teamspace Starter 免費版支援最多 3 位成員、1…",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 6,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.spikenow.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/spike/",
+   "ampm_ref": "AMPM-5a97e64aed"
+  },
+  {
    "slug": "sprout-social",
    "name": "Sprout Social",
    "vendor": "Sprout Social, Inc.",
@@ -4321,6 +5107,24 @@
    "source_url": "https://sproutsocial.com/pricing/",
    "tool_page": "https://ampm-aiops.com/tools/sprout-social/",
    "ampm_ref": "AMPM-1fc872e115"
+  },
+  {
+   "slug": "squarespace",
+   "name": "Squarespace",
+   "vendor": "Squarespace, Inc.",
+   "category": [
+    "appbuilder"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案，僅提供 14 天免費試用",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 25,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.squarespace.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/squarespace/",
+   "ampm_ref": "AMPM-d547f1aa4e"
   },
   {
    "slug": "squibler",
@@ -4415,6 +5219,26 @@
    "ampm_ref": "AMPM-0991291a78"
   },
   {
+   "slug": "subscribr",
+   "name": "Subscribr",
+   "vendor": "Subscribr",
+   "category": [
+    "writing",
+    "video",
+    "productivity"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Official site entry seen; published free quota / paid plans not filled here . Confirm on s…",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": null,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-23",
+   "source_url": "https://subscribr.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/subscribr/",
+   "ampm_ref": "AMPM-68cb5f324c"
+  },
+  {
    "slug": "sudowrite",
    "name": "Sudowrite",
    "vendor": "Sudowrite, Inc.",
@@ -4440,12 +5264,12 @@
     "voice"
    ],
    "free_tier": true,
-   "free_tier_summary": "免費方案官網頁面上叫 Free Plan，US$0/月",
-   "free_tier_summary_en": "Free Plan, US$0/month",
+   "free_tier_summary": "Free US$0：每日 50 credits，約可生 10 首 v6-mini 歌曲；v6 模型需付費方案",
+   "free_tier_summary_en": null,
    "cheapest_paid_usd_per_month": 10,
    "cheapest_paid_twd_per_month": null,
    "commercial_use": false,
-   "last_verified": "2026-11-05",
+   "last_verified": "2026-11-22",
    "source_url": "https://suno.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/suno/",
    "ampm_ref": "AMPM-59016b69f7"
@@ -4786,6 +5610,25 @@
    "ampm_ref": "AMPM-2588daa941"
   },
   {
+   "slug": "typecast",
+   "name": "Typecast",
+   "vendor": "Neosapience, Inc.",
+   "category": [
+    "voice",
+    "video"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "終身 3,000 下載點數、僅可下載試用聲音、720p 影片匯出、1GB 雲端空間、需標註出處",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 5,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://typecast.ai/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/typecast/",
+   "ampm_ref": "AMPM-dbbd8d7ecc"
+  },
+  {
    "slug": "udio",
    "name": "Udio",
    "vendor": "Udio",
@@ -4905,12 +5748,12 @@
     "video"
    ],
    "free_tier": true,
-   "free_tier_summary": "免費版每月 15 個「Velo 分鐘」，含 1 個席次、1 組聲音克隆、每月 1 支虛擬人影片",
-   "free_tier_summary_en": "15 Velo minutes/month, 1 seat, 1 voice clone, 1 avatar video per month",
+   "free_tier_summary": "Free US$0：每月 500 credits",
+   "free_tier_summary_en": null,
    "cheapest_paid_usd_per_month": 49,
    "cheapest_paid_twd_per_month": null,
    "commercial_use": false,
-   "last_verified": "2026-11-05",
+   "last_verified": "2026-11-22",
    "source_url": "https://usevelo.ai/pricing/",
    "tool_page": "https://ampm-aiops.com/tools/velo/",
    "ampm_ref": "AMPM-6b58318001"
@@ -4953,6 +5796,25 @@
    "ampm_ref": "AMPM-6568d6556e"
   },
   {
+   "slug": "vida",
+   "name": "Vida",
+   "vendor": "Vida Global, Inc.",
+   "category": [
+    "agent",
+    "voice"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 250,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://vida.io/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/vida/",
+   "ampm_ref": "AMPM-a707617fbd"
+  },
+  {
    "slug": "vidnoz",
    "name": "Vidnoz",
    "vendor": "Vidnoz",
@@ -4988,6 +5850,62 @@
    "source_url": "https://viggle.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/viggle/",
    "ampm_ref": "AMPM-e1585d45f8"
+  },
+  {
+   "slug": "viktor",
+   "name": "Viktor",
+   "vendor": "Viktor",
+   "category": [
+    "productivity",
+    "agent"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "官網眼見提供試用／註冊入口；正式付費牌價未寫入",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": null,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-05",
+   "source_url": "https://viktor.com",
+   "tool_page": "https://ampm-aiops.com/tools/viktor/",
+   "ampm_ref": "AMPM-c1e3ad9720"
+  },
+  {
+   "slug": "visme",
+   "name": "Visme",
+   "vendor": "Easy WebContent, Inc.",
+   "category": [
+    "productivity",
+    "image"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Basic 免費方案：提供 500MB 儲存空間、10 點 AI Credits、無上限專案數，但僅限有限模板與素材，無法下載高畫質檔案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 29,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.visme.co/pricing/",
+   "tool_page": "https://ampm-aiops.com/tools/visme/",
+   "ampm_ref": "AMPM-04c02d1bdc"
+  },
+  {
+   "slug": "vista-social",
+   "name": "Vista Social",
+   "vendor": "Vista Social Inc.",
+   "category": [
+    "marketing"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "無永久免費方案",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 99,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://vistasocial.com/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/vista-social/",
+   "ampm_ref": "AMPM-c68bf83581"
   },
   {
    "slug": "vmake",
@@ -5027,6 +5945,24 @@
    "ampm_ref": "AMPM-3fb4f6e308"
   },
   {
+   "slug": "voicemaker",
+   "name": "Voicemaker",
+   "vendor": "Yedap Technologies LLC",
+   "category": [
+    "voice"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "每月 25,000 credits，單次轉換上限 250 字元，僅限精選語音與個人非商業使用，支援 SSML",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 5,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://voicemaker.in/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/voicemaker/",
+   "ampm_ref": "AMPM-a48edf48d7"
+  },
+  {
    "slug": "voiceos",
    "name": "VoiceOS",
    "vendor": "VoiceOS",
@@ -5064,6 +6000,24 @@
    "ampm_ref": "AMPM-db14cf5236"
   },
   {
+   "slug": "weav",
+   "name": "Weav",
+   "vendor": "Weav",
+   "category": [
+    "productivity"
+   ],
+   "free_tier": false,
+   "free_tier_summary": "未查證",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": null,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-23",
+   "source_url": "https://weav.com",
+   "tool_page": "https://ampm-aiops.com/tools/weav/",
+   "ampm_ref": "AMPM-0a176b2193"
+  },
+  {
    "slug": "webflow",
    "name": "Webflow",
    "vendor": "Webflow, Inc.",
@@ -5080,6 +6034,24 @@
    "source_url": "https://webflow.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/webflow/",
    "ampm_ref": "AMPM-5a6370dc5e"
+  },
+  {
+   "slug": "webnode",
+   "name": "Webnode",
+   "vendor": "Webnode AG (team.blue)",
+   "category": [
+    "appbuilder"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "Free 方案：提供 100MB 儲存空間、1GB 頻寬、webnode.page 子網域，可建立基本網頁但頁尾含 Webnode 品牌識別",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 4.5,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.webnode.com/pricing-w2/",
+   "tool_page": "https://ampm-aiops.com/tools/webnode/",
+   "ampm_ref": "AMPM-dbfae8c9d1"
   },
   {
    "slug": "wellsaid-labs",
@@ -5100,6 +6072,24 @@
    "ampm_ref": "AMPM-c311a4416e"
   },
   {
+   "slug": "whacka",
+   "name": "whacka",
+   "vendor": "Whacka",
+   "category": [
+    "appbuilder"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "官網為 no-code app builder；正式付費牌價未寫入",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": null,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-21",
+   "source_url": "https://whacka.app",
+   "tool_page": "https://ampm-aiops.com/tools/whacka/",
+   "ampm_ref": "AMPM-78a5b83925"
+  },
+  {
    "slug": "wispr-flow",
    "name": "Wispr Flow",
    "vendor": "Wispr AI",
@@ -5117,6 +6107,43 @@
    "source_url": "https://wisprflow.ai/pricing",
    "tool_page": "https://ampm-aiops.com/tools/wispr-flow/",
    "ampm_ref": "AMPM-f09f6b9e2e"
+  },
+  {
+   "slug": "wix-studio",
+   "name": "Wix Studio",
+   "vendor": "Wix.com Ltd.",
+   "category": [
+    "appbuilder"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "免費建立與測試專案，使用 wixstudio.io 子網域，具 Wix Studio 品牌標誌與基礎容量限制",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 27,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-21",
+   "source_url": "https://www.wix.com/studio/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/wix-studio/",
+   "ampm_ref": "AMPM-19b9858a68"
+  },
+  {
+   "slug": "wondercraft",
+   "name": "Wondercraft",
+   "vendor": "Wondercraft AI",
+   "category": [
+    "voice",
+    "video"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "免費提供 150 點生成點數體驗",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 25,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.wondercraft.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/wondercraft/",
+   "ampm_ref": "AMPM-6fb2e89580"
   },
   {
    "slug": "writesonic",
@@ -5210,6 +6237,25 @@
    "source_url": "https://zapier.com/pricing",
    "tool_page": "https://ampm-aiops.com/tools/zapier/",
    "ampm_ref": "AMPM-b1c98b0e01"
+  },
+  {
+   "slug": "zebracat",
+   "name": "Zebracat",
+   "vendor": "Zebracat AI",
+   "category": [
+    "video",
+    "marketing"
+   ],
+   "free_tier": true,
+   "free_tier_summary": "免費方案可生成最多 5 支影片，但無法下載無浮水印檔案或直接對外發布，主要供預覽體驗",
+   "free_tier_summary_en": null,
+   "cheapest_paid_usd_per_month": 39,
+   "cheapest_paid_twd_per_month": null,
+   "commercial_use": "unknown",
+   "last_verified": "2026-11-22",
+   "source_url": "https://www.zebracat.ai/pricing",
+   "tool_page": "https://ampm-aiops.com/tools/zebracat/",
+   "ampm_ref": "AMPM-38127d9c4c"
   },
   {
    "slug": "zed",

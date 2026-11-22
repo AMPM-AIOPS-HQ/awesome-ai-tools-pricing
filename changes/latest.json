@@ -1,11 +1,11 @@
 {
  "dataset": "ai-tools-plans-changes",
- "generated_at": "2026-11-22T04:00:05+08:00",
+ "generated_at": "2026-11-23T04:00:06+08:00",
  "license": "CC BY-SA 4.0 — attribution required: AMPM-AIOPS 問問貓 (ampm-aiops.com)",
  "schema": "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/datasets/ai-tools/schema.json#/$defs/change",
  "window": {
-  "from": "2026-10-23",
-  "to": "2026-11-22",
+  "from": "2026-10-24",
+  "to": "2026-11-23",
   "days": 30
  },
  "scope": "price changes of currently published plans whose new figure matched the official page; an empty list means none in the window",
