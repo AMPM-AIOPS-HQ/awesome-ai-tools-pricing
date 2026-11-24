@@ -29,6 +29,26 @@ a `last_verified` date **and** an official source URL (13 rows held back at the 
 > 📝 **What changed**: [`CHANGELOG.md`](./CHANGELOG.md) (added / changed / removed, per day) · 📦 **Machine index**: [`datasets/index.json`](./datasets/index.json)
 > ⚠️ **Disclaimer**: Prices, fees and free-tier limits change without notice. Figures are snapshots as of each row's last_verified date — always confirm against the official page before relying on a figure.
 
+## Quick use
+
+The public datasets can be consumed without scraping the live site:
+
+```python
+import json
+import urllib.request
+
+index_url = "https://raw.githubusercontent.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing/main/datasets/index.json"
+index = json.load(urllib.request.urlopen(index_url))
+
+for dataset in index["datasets"]:
+    print(dataset["dataset"], dataset["rows"], dataset["json"])
+```
+
+- Download ready-to-use **JSON** or **CSV** files from [`datasets/index.json`](./datasets/index.json).
+- Use `source_url` for the official evidence behind each published row.
+- Use `last_verified` to decide whether a price or limit is recent enough for your use case.
+- No affiliate or referral parameters are included in exported dataset records.
+
 ## 📰 Cited by
 
 Independent publications that list pages of this project as a source. Each link is re-checked against the original article on every export.
